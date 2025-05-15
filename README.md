@@ -86,7 +86,7 @@ Bo_Ya_Xuan=["restaurant","Chinese","high-level","XMUM IAEC","11am-2pm"]
 		It's located at XMUM IAEC (***location***). I strongly recommend Twice-cooked Pork Slices with Rice (***recommendation***) for you to try. However, please notice that the price would be high (***price information***).
 
 		Supporting Data:
-		- ![[Pasted image 20250515133547.png]]
+		- ![](Pasted image 20250515133547.png)
 - Concerns about this proposal
 	- Can we include both retrieval and template?
-	- ![[Pasted image 20250515134825.png]]
+	- ![](Pasted image 20250515134825.png)
