@@ -5,7 +5,7 @@
 Create a chatbot that can get user's need and retrieve from its backup dataset to recommend place to go in/around the campus. It can also analyze user's sentiment and adjust its output accordingly.
 
 - **Customized** Backup Dataset
-	- Use **structured data formats** like AIML or JSON
+	- Use **structured data formats** like JSON
 	- Include features, labels, and information about places to study/relax in the campus
 	- Example:
 ```json
@@ -74,9 +74,10 @@ Bo_Ya_Xuan=["restaurant","Chinese","high-level","XMUM IAEC","11am-2pm"]
 		2. Find the place that best matches user's need.
 	3. Construct Output
 		1. Base on VADER scores of input text to decide sentiment of output (positive/negative/netural, corresponding to output templates of certain sentiment)
-		2. Construct an output based on template
+		2. Construct an output based on AIML template 
 			1. Respond to user's sentiment
 			2. Include information of the place to go to
+		3. Use Python's `aiml`module as the interpreter
 - Expected Outcome
 	- Sample:
 
@@ -86,7 +87,12 @@ Bo_Ya_Xuan=["restaurant","Chinese","high-level","XMUM IAEC","11am-2pm"]
 		It's located at XMUM IAEC (***location***). I strongly recommend Twice-cooked Pork Slices with Rice (***recommendation***) for you to try. However, please notice that the price would be high (***price information***).
 
 		Supporting Data:
-		- ![](Pasted image 20250515133547.png)
+		- ![[Pasted image 20250515133547.png]]
 - Concerns about this proposal
 	- Can we include both retrieval and template?
-	- ![](Pasted image 20250515134825.png)
+	- ![[Pasted image 20250515134825.png]]
+
+
+# 数据收集
+
+-

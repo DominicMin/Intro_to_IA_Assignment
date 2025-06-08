@@ -1,0 +1,133 @@
+{
+  "D6 Canteen": {
+    "Location": "School D6 Area",
+    "Floors": ["LG Floor", "1st Floor", "2nd Floor"],
+    "Facilities": {
+      "LG Floor": {
+        "夏1城": {
+          "Features": "Waffles, shaved ice milkshakes, juices, handmade burgers and instant noodles"
+        },
+        "Tuk Tuk Thai&Taro": {
+          "Features": "Thai food and taro balls"
+        },
+        "大树下": {
+          "Features": "Chinese cafeteria-style dishes"
+        },
+        "Let's kopitiam": {
+          "Features": "Nanyang-style specialty foods and drinks"
+        },
+        "mynews便利店": {
+          "Features": "Daily necessities and snacks"
+        }
+      },
+      "1st Floor": {
+        "Takw Mee Tarik": {
+          "Features": "Lanzhou beef noodles and other Northwestern snacks"
+        },
+        "大家旺": {
+          "Features": "Roast meat rice and other local Chinese cuisine"
+        },
+        "蜀之味": {
+          "Features": "Mala xiangguo and spicy dishes"
+        },
+        "大城小厨": {
+          "Features": "Mixed rice with local Chinese flavors"
+        },
+        "华联好凉茶": {
+          "Features": "Herbal tea and Chinese medicinal snacks"
+        }
+      },
+      "2nd Floor": {
+        "小云冰室": {
+          "Features": "Hong Kong-style tea restaurant"
+        },
+        "大拇指": {
+          "Features": "Fried chicken and Japanese udon"
+        },
+        "喵喵轻食": {
+          "Features": "Healthy light meals"
+        },
+        "大碗面": {
+          "Features": "Clay pot dishes and Chongqing noodles"
+        },
+        "U&I": {
+          "Features": "American breakfast"
+        },
+        "小台枫": {
+          "Features": "Taiwanese snacks"
+        },
+        "Restaurant Kabaabish": {
+          "Features": "Middle Eastern restaurant"
+        }
+      }
+    }
+  },
+  "B1 Canteen": {
+    "Location": "B1 Activity Building LG Floor",
+    "Facilities": {
+      "Sapid": {
+        "Features": "Middle Eastern fusion Western food"
+      },
+      "Saffron Club": {
+        "Features": "Local Malay cuisine"
+      },
+      "Regiustea皇茶": {
+        "Features": "Chain milk tea shop"
+      },
+      "Poke Bowl Rice": {
+        "Features": "Healthy poke bowls"
+      },
+      "Zone U Bakery": {
+        "Features": "Freshly baked bread and cakes"
+      }
+    }
+  },
+  "LY3 Canteen": {
+    "Location": "LY3 Area 1st Floor",
+    "Facilities": {
+      "中闽美食": {
+        "Features": "Chinese cafeteria-style dishes"
+      },
+      "Bean's Express": {
+        "Features": "Western fast food"
+      },
+      "Mad Plate Express": {
+        "Features": "Japanese teppanyaki"
+      },
+      "小九州": {
+        "Features": "Set meal restaurant"
+      },
+      "膳一城": {
+        "Features": "Grocery store"
+      },
+      "槟城风味": {
+        "Features": "Penang specialty foods"
+      },
+      "佳味食轩": {
+        "Features": "Penang specialty foods"
+      },
+      "中国穆斯林小炒": {
+        "Features": "Halal restaurant"
+      },
+      "有你香锅": {
+        "Features": "Mala xiangguo and spicy hot pot"
+      }
+    }
+  },
+  "Cafes": {
+    "ZUS咖啡店": {
+      "Location": "A3 Library LG Floor",
+      "Features": "Chain coffee shop"
+    },
+    "Lakefront Cafe": {
+      "Location": "Waterfront Music Hall near LY3 Canteen",
+      "Features": "Leisure cafe"
+    },
+    "Cotti Coffee":{
+      "Location":"XMUM IAEC G Floor"
+    }
+  },
+  "Bo Ya Xuan Reataurant":{
+    "Location":"XMUM IAEC LG Floor"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "Food_Items": {
+    "Beryl's_Chocolate": {
+      "recommended_purchase_locations": "Beryl's specialty stores, major supermarkets, convenience stores",
+      "characteristics": "Malaysian specialty chocolate",
+      "special_notes": "Specialty stores have more complete varieties",
+      "recommended_flavors": [
+        "Tiramisu raw chocolate",
+        "Tiramisu almond white chocolate", 
+        "White chocolate sandwich cookies",
+        "Coconut egg rolls",
+        "Tiramisu crispy cookies"
+      ]
+    },
+    "Milo": {
+      "recommended_purchase_locations": "Major supermarkets, convenience stores",
+      "characteristics": "Malaysia's national chocolate drink",
+      "special_notes": "Classic original flavor is most popular"
+    },
+    "White_Coffee": {
+      "recommended_purchase_locations": "Major supermarkets, convenience stores",
+      "characteristics": "Malaysian specialty coffee",
+      "recommended_brands": [
+        "OldTown White Coffee",
+        "Ah Huat",
+        "Oriental Kopi (Wah Yeong)",
+        "SUPER",
+        "AIK CHEONG"
+      ]
+    },
+    "Instant_Noodles": {
+      "recommended_purchase_locations": "Major supermarkets, convenience stores",
+      "characteristics": "Malaysian specialty instant noodles",
+      "recommended_brands": [
+        "Maggi Kari flavor instant noodles",
+        "Indomie original dry noodles",
+        "MyKuali Penang white curry noodles",
+        "Mamee Chef series Lontong flavor instant noodles"
+      ]
+    },
+    "Bak_Kut_Teh_Soup_Mix": {
+      "recommended_purchase_locations": "Major supermarkets, traditional Bak Kut Teh restaurants",
+      "characteristics": "Malaysian specialty soup seasoning",
+      "recommended_brands": "A1 Bak Kut Teh soup mix"
+    },
+    "Village_Park_Sambal_Sauce": {
+      "recommended_purchase_locations": "Jaya Grocer supermarket",
+      "characteristics": "Soul sauce for Nasi Lemak",
+      "flavors": [
+        "Original sambal sauce",
+        "Spicy version sambal sauce"
+      ]
+    },
+    "Ghee_Hiang_Sesame_Oil": {
+      "recommended_purchase_locations": "Jaya Grocer and Mercato supermarkets",
+      "characteristics": "Penang specialty sesame oil",
+      "special_notes": "Red label is pure sesame oil, blue label is blended sesame oil"
+    },
+    "Cookies": {
+      "recommended_purchase_locations": "Major supermarkets, convenience stores",
+      "characteristics": "Malaysian specialty cookies",
+      "recommended_brands": [
+        "Lexus peanut sandwich cookies",
+        "Julie's cheese sandwich cookies",
+        "Julie's peanut butter sandwich cookies"
+      ]
+    },
+    "Toast": {
+      "recommended_purchase_locations": "Major supermarkets, convenience stores",
+      "characteristics": "Malaysian specialty toast",
+      "recommended_products": [
+        "Gardenia Toast'em butter toast",
+        "Gardenia Toast'em pandan coconut flavor toast",
+        "Sunshine Hokkaido milk toast"
+      ],
+      "special_notes": "Short shelf life (about 7 days)"
+    },
+    "Bird's_Nest": {
+      "recommended_purchase_locations": "Bird's nest specialty stores, health product stores",
+      "characteristics": "High nutritional value",
+      "special_notes": "Limited to 500g per person and must be checked in luggage only"
+    },
+    "Tongkat_Ali": {
+      "recommended_purchase_locations": "Health product stores",
+      "characteristics": "One of Malaysia's three national treasures",
+      "benefits": "Energizing, kidney nourishment, lowering blood pressure/sugar/cholesterol, joint pain relief, immune system enhancement",
+      "varieties": ["Red", "Black", "Yellow"]
+    }
+  },
+  "Daily_Use_Items": {
+    "Legendary_Orchid_Perfume": {
+      "recommended_purchase_locations": "Mall perfume sections, airport beauty stores",
+      "characteristics": "Malaysian local brand perfume",
+      "recommended_products": [
+        "Classic orchid perfume",
+        "Three-color perfume"
+      ]
+    },
+    "Luxury_Beauty_Skincare": {
+      "recommended_purchase_locations": "Mall brand counters",
+      "characteristics": "Cheaper prices than domestic",
+      "brands": [
+        "Chanel",
+        "Lancome", 
+        "Mac",
+        "Dior",
+        "Kiehl's"
+      ]
+    },
+    "Fipper_Slippers": {
+      "recommended_purchase_locations": "Mall specialty stores, airport",
+      "characteristics": "Made from natural rubber"
+    },
+    "De'Xandra_Car_Aromatherapy": {
+      "recommended_purchase_locations": "Mall counters, online shopping platforms",
+      "characteristics": "Malaysian local brand",
+      "recommended_scents": [
+        "Green Tea Forest",
+        "Coffee Warm",
+        "Forest Dream (Bergamot)"
+      ]
+    }
+  },
+  "Essential_Medicines": {
+    "Tiger_Balm_Complete_Series": {
+      "recommended_purchase_locations": "Watsons, Guardian, major pharmacies",
+      "characteristics": "Essential household topical medicine",
+      "products": [
+        "Tiger Balm (white/red with different effects)",
+        "Neck & Shoulder Rub",
+        "Medicated plasters",
+        "Pain relief ointment",
+        "Mosquito repellent spray"
+      ]
+    },
+    "Muhi_Ointment": {
+      "recommended_purchase_locations": "Watsons, Guardian, major pharmacies",
+      "characteristics": "Anti-itch for mosquito bites"
+    },
+    "Other_Southeast_Asian_Medicinal_Oils": {
+      "recommended_purchase_locations": "Watsons, Guardian, major pharmacies",
+      "recommended_products": [
+        "Kwan Loong medicated oil",
+        "Po Chai Pills",
+        "Axe Brand Universal Oil",
+        "Three Legs Brand antiseptic liquid",
+        "Vicks Inhaler nasal stick",
+        "Five Centipedes Brand cough pills",
+        "Taisho pain relief patches"
+      ]
+    }
+  }
+} 

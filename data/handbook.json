@@ -1,0 +1,608 @@
+{
+  "Birthday Cake Recommendations": {
+    "Secret Recipe": "Located in Bell, opposite the school. It's a local cake chain with delicious but slightly sweet cakes.",
+    "Baskin Robbins": "Also in Bell. Known for ice cream cakes with attractive designs, but relatively pricey.",
+    "Baker's Cottage": "Located in Kota Warisan, about a 5-minute drive from campus. Offers a wide variety of cakes.",
+    "Lachér Patisserie": "Specializes in French-style desserts. Cakes can be ordered online and delivered to campus via Lalamove. Website: lacherpatisserie.com."
+  },
+  "On-Campus Clinics": {
+    "Clinic A (Behind the TCM Center)": {
+      "Location": "Behind the Traditional Chinese Medicine Center",
+      "Services": "General medical check-ups, pre-employment/university health screenings, blood and urine tests. It's best to inquire in person for details.",
+      "Opening Hours": "Monday to Sunday, 9:00am-1:00pm and 2:00pm-5:00pm"
+    },
+    "Clinic B (Top Floor of B1)": {
+      "Location": "Between the two swimming pool changing rooms",
+      "Payment Method": "Cash only",
+      "Clinic Hours": "Monday to Sunday, 9:00am-10:00pm (Closed during holidays)",
+      "Doctor Availability": "Monday to Sunday, 9:00am-5:00pm"
+    }
+  },
+  "AskA User Guide": {
+    "Introduction": {
+      "Description": "AskA is a feedback platform for XMUM that integrates various departmental issues. It helps students and staff resolve IT, library, academic, logistics, and student affairs problems efficiently.",
+      "Purpose": "To make daily life smoother by providing a direct feedback channel to departments."
+    },
+    "How to Log In": {
+      "General Login": "https://app.xmu.edu.my/AskA/Account/Login (for all departments except Maintenance)",
+      "Maintenance Login": "https://app.xmu.edu.my/Maintenance (for Maintenance issues only)",
+      "Password Reset": "https://id.xmu.edu.my/"
+    },
+    "How to Submit a Question": {
+      "General Departments": [
+        "1. Select the responsible department",
+        "2. Choose the specific issue category",
+        "3. Fill in the location and room number",
+        "4. Describe the issue",
+        "5. Upload relevant files (photos, screenshots, etc.)",
+        "6. Enter your contact number",
+        "7. Click 'Submit Question'"
+      ],
+      "Maintenance Department": [
+        "1. Select room type (e.g., dorm, lab, classroom)",
+        "2. Choose the specific issue category",
+        "3. Fill in the exact location and room number",
+        "4. Indicate if the issue is recurring",
+        "5. Describe the issue",
+        "6. Upload relevant files",
+        "7. Enter your contact number",
+        "8. Tick the box to authorize room entry for repairs",
+        "9. Click 'Submit'"
+      ]
+    },
+    "How to Track Your Question": {
+      "Steps": [
+        "Click on 'My Question' on the left panel",
+        "You will see your questions and the department's response",
+        "Staff may also contact you by email, phone, or in-person"
+      ]
+    },
+    "FAQ": {
+      "Can I still use email, phone, or visit in person for issues?": "Yes, AskA is an additional method, not a replacement.",
+      "Important tip when creating a question": "Make sure to select the correct department, or your issue may not be addressed.",
+      "Do I need to fill out all fields?": "No, just the relevant ones. For example, no need to enter your dorm number for a library issue.",
+      "Where to find departments' working hours?": "Check the AskA homepage. For emergencies, call the emergency hotline or contact the Student Affairs officer on duty."
+    },
+    "Source": "AskA User Guide, published via SimpRead"
+  },
+    "Cashless Payment Guide (XMUM)": {
+    "Introduction": {
+      "Summary": "This guide introduces the various cashless payment methods available on campus for handling tuition, accommodation, visa, electricity, printing, meals, and daily purchases.",
+      "Purpose": "To help students adapt to a fully cashless lifestyle on campus."
+    },
+    "1. Tuition, Accommodation, Visa, and Major Payments": {
+      "Payment Methods": [
+        "China UnionPay bank cards",
+        "VISA/Master credit cards",
+        "Local Malaysian bank cards"
+      ],
+      "Platform": "ePayment portal: http://www.xmu.edu.my/14681/list.htm",
+      "Covers": [
+        "Tuition",
+        "Accommodation",
+        "Visa fees",
+        "Deposits"
+      ],
+      "Login Instructions": "Use your student ID or passport number (initial password). Change it after login for security.",
+      "Terms Explained": {
+        "Account status": "Tracks where your money goes",
+        "Description": "Explains charges (e.g. 1st semester accommodation)",
+        "Debit": "Amount the school charges",
+        "Credit": "Your top-up amount",
+        "Balance": "Debit - Credit (may be negative due to installment deductions)"
+      },
+      "Outstanding Fees": "Go to 'Payment' section and check the rightmost column for pending payments.",
+      "Alternative Help": "If unsure about ePayment, visit Finance Office (B1#216) Mon-Fri 9am-5pm for assistance."
+    },
+    "2. Electricity & Printing Fees": {
+      "Payment Methods": [
+        "China UnionPay bank cards",
+        "VISA/Master credit cards",
+        "Local Malaysian bank cards"
+      ],
+      "Platform": "ePayment portal: http://www.xmu.edu.my/14681/list.htm",
+      "Covers": [
+        "Library printing fees",
+        "Electricity charges"
+      ],
+      "Note": "Campus Ecard password is user-set and does not share balance or login with Academic ePayment.",
+      "Electricity Tips": "Can only pay after monthly email notice. RM10 fine for late payment.",
+      "Printing Steps": [
+        "Recharge Campus Ecard balance",
+        "Transfer balance to 'printing account'",
+        "Print in library room, fee auto-deducted"
+      ]
+    },
+    "3. Meals & Daily Necessities": {
+      "Payment Tool": "Campus Ecard",
+      "Steps": "Recharge online, then swipe at counters",
+      "Supported Locations": {
+        "LY3 G Floor": [],
+        "D6 G Floor": ["Xia Yi Cheng", "Lao Di Fang", "Da Shu Xia", "Gang Ri Han"],
+        "D6 1st Floor": ["Hualian Hao Zi Wei", "Da Cheng Xiao Chu", "Shu Zhi Wei", "Little Kitchen"],
+        "D6 2nd Floor": ["207 Pudding & Milkshake", "Xiao Jiu Zhou", "Da Wan Mian", "American Breakfast", "Xiao Tai Feng", "Pakistani Restaurant (currently not working)"],
+        "B1 G Floor": ["G08 Bakery (only one supports card now)"],
+        "B1 LG Floor": []
+      },
+      "Note": "Some stalls support WeChat Pay. Always ask before paying."
+    },
+    "4. Local Bank Card Application": {
+      "ICBC Bank": {
+        "Application Notice": "Sent via school email monthly",
+        "Typical Time": "Fridays, 10am-4pm",
+        "Location": "Finance Office B1#216",
+        "Card Pickup": "Around two weeks after applying"
+      },
+      "Other Local Banks": {
+        "Examples": ["Public Bank", "Maybank"],
+        "Student Certificate": "Can be issued at B1#107"
+      }
+    },
+    "Contributors": {
+      "Content": "Zhou Luxiao",
+      "Images": "Zhou Luxiao",
+      "Editor": "Cai Hongyu"
+    }
+  },
+  "Health & Wellness Services at XMUM": {
+    "Introduction": {
+      "Purpose": "To guide students in finding physical and mental health support when feeling unwell.",
+      "Services Covered": ["Counselling Center", "Campus Clinic", "TCM Centre", "Nearby Off-Campus Medical Facilities"]
+    },
+    "Counselling Center": {
+      "Name": "Counselling Center",
+      "Location": "B1#111",
+      "Working Hours": "Weekdays, 10am-5pm",
+      "Services": ["Individual counselling", "Group counselling"],
+      "Modes": ["Online", "In-person"],
+      "Booking Methods": [
+        "Walk-in: B1#111",
+        "Email: counselling@xmu.edu.my",
+        "Online: https://sourl.cn/UieDVe"
+      ],
+      "Note": "You don't need to have a mental illness to talk to a counsellor—stress, conflict, or needing advice are valid reasons too."
+    },
+    "Campus Clinic": {
+      "Name": "Campus Clinic",
+      "Location": "B1#307 (next to the swimming pool)",
+      "Operator": "Qualitas Medical Group",
+      "Doctor Hours": "9am-6pm (weekdays)",
+      "Nurse Hours": "9am-10pm (weekdays)",
+      "Closed On": "Public holidays",
+      "Services": ["Medical consultations", "COVID testing", "Vaccinations"],
+      "Payment": "Cash required",
+      "Insurance Info": "International students are covered under medical insurance. For claims, consult the International Student Affairs Office (B1#107)."
+    },
+    "TCM Centre": {
+      "Name": "Traditional Chinese Medicine Centre",
+      "Location": "B1-G01A",
+      "Operator": "XMUM Chinese Medicine School",
+      "Services": ["Consultation", "Acupuncture", "Tui Na (Massage)"],
+      "Availability": "Until Week 14 of the semester (e.g., Dec 23, 2022)",
+      "Doctors": "Professionals from China and Malaysia",
+      "Cost": "Free",
+      "Note": "Excellent opportunity to receive care from TCM experts. Be respectful during your visit."
+    },
+    "Nearby Off-Campus Medical Facilities": {
+      "Category": "Off-Campus Medical Services",
+      "Description": "For emergencies or specialized care, refer to nearby clinics and hospitals.",
+      "Types": {
+        "Public Hospitals": "Wide coverage and full departments.",
+        "Private Hospitals": "Advanced facilities and excellent service."
+      },
+      "Tip": "Call the hospital before visiting to confirm service availability."
+    },
+    "Credits": {
+      "Compiled From": "Relevant departments and student handbook",
+      "Editor": "Wang Yiran"
+    }
+  },
+  "Library Study Room Booking Guide": {
+    "Step 1": "Go to the university library website (you must use the campus network; you can search 'library' in your email to find the link).",
+    "Step 2": "Navigate to the study room booking section of the library website.",
+    "Step 3": "Click on 'Space Booking' to view available rooms.",
+    "Step 4": "Select a room marked as 'Available' (rooms highlighted in blue are bookable).",
+    "Step 5": "Click 'Yes' to confirm your booking."
+  },
+  "KTV Near XMUM": {
+    "Real Peak": {
+      "Location": "2nd floor of Bell Suites",
+      "Description": "A DJ classroom that also has one KTV room. You can sign up for DJ lessons here. KTV usage requires advance booking.",
+      "Special Note": "Closest option to campus"
+    },
+    "Maharaja Karaoke": {
+      "Location": "Top floor of IOI City Mall",
+      "Description": "Luxuriously decorated KTV with an extensive song collection. Offers great value with student discounts.",
+      "Student Offer": "RM10 for 2 hours (Monday to Thursday)"
+    },
+    "Sevenseas Karaoke": {
+      "Location": "Also in IOI City Mall",
+      "Description": "Stylish interior with over 20 themed KTV rooms, each offering a unique atmosphere.",
+      "Special Note": "Great variety in room designs"
+    },
+    "Big Mouth KTV (Puchong)": {
+      "Location": "Puchong",
+      "Description": "A popular Malaysian KTV chain with affordable prices and comfortable environment. Membership system available.",
+      "Discounts": "Special deals during membership periods and birthdays"
+    }
+  },
+  "Bicycle Parking Guide": {
+    "D Block": {
+      "Location": "Underneath each dormitory building",
+      "Description": "Each dorm in D Zone has a dedicated bicycle parking area right below the building."
+    },
+    "LY Block": {
+      "Location": "In front of the dormitory entrance",
+      "Description": "Bicycle racks are usually placed near the main entrance of each dorm in LY Zone."
+    }
+  },
+  "Milk Tea Shops Near XMUM": {
+    "WeDrink": {
+      "Location": "Near the campus night market",
+      "Description": "A milk tea shop close to the student night market. Affordable and convenient for students.",
+      "Recommendation": "Worth trying for a quick refreshment after classes or dinner."
+    },
+    "Bingxue": {
+      "Location": "Opposite the campus, inside Bell Suites",
+      "Description": "One of the newer milk tea shops located in Bell. Offers a similar menu to Mixue.",
+      "Recommendation": "Recommended for those who enjoy sweet, classic-style milk tea."
+    },
+    "Mixue": {
+      "Location": "Opposite the campus, inside Bell Suites",
+      "Description": "A well-known milk tea and dessert brand. Popular among students for its consistency and low prices.",
+      "Recommendation": "A familiar favorite, great for quick takeout or a casual chat."
+    }
+  },
+  "Classroom Types at XMUM": {
+    "Lecture": {
+      "Difficulty": "★★★",
+      "Description": "Standard classroom teaching, fully in English. Focuses on student comprehension and interaction rather than memorization. Lecturers encourage participation.",
+      "Tips": "Practice English through media before semester begins. Most students adapt in about two weeks."
+    },
+    "Tutorial": {
+      "Difficulty": "★★★",
+      "Description": "Discussion-based or practical sessions. Theory-based tutorials involve case studies; skill-based ones may take place in labs or computer rooms.",
+      "Tips": "Actively participate to strengthen your understanding and prepare for exams."
+    },
+    "Laboratory": {
+      "Difficulty": "★★★☆",
+      "Description": "Mainly for science and engineering students. Focuses on experimental skills and report writing. Preparation using lab manuals is essential.",
+      "Tips": "Always follow safety rules and treat reports seriously as practice for your thesis."
+    },
+    "Practice-Based Courses": {
+      "Difficulty": "Varies by major",
+      "Description": "Hands-on courses linked to real-world skills. For example, journalism students go out for field shooting, and TCM students practice acupuncture or herbal processing.",
+      "Tips": "Refer to your Programme Handbook to discover such interesting courses."
+    },
+    "Study Materials": {
+      "Difficulty": "Varies by subject",
+      "Description": "Most materials are available on Moodle: PPTs, readings, and resources. Also explore the digital library and physical library.",
+      "Tips": "Ask senior students about textbooks. Use digital resources before purchasing anything."
+    },
+    "Attendance": {
+      "Difficulty": "★",
+      "Description": "Attendance is mandatory. For offline classes, sign in by hand (no proxies). For online classes, watch Moodle lecture videos on time.",
+      "Tips": "Missing over 20% may result in exam disqualification. Set alarms and check your schedule regularly."
+    }
+  },
+   "How to Search for Books in the Library": {
+        "Steps": [
+            "Go to https://koha.xmu.edu.my/",
+            "Enter the book title, author, or subject keyword in the search bar and click the magnifying-glass icon to search.",
+            "Review the results to find the book you need; note its collection location and call number."
+        ],
+        "Notes": [
+            "The call number acts like the book's address on the shelf."
+        ]
+    },
+    "How to Locate Books in the Library": {
+        "Steps": [
+            "Find the library section labeled with the subject (e.g., “Mathematics”).",
+            "Follow the numerical or alphabetical order of call numbers on the book spines (left to right or top to bottom).",
+            "Pick the book that exactly matches your call number."
+        ]
+    },
+    "How to Print in the Library (via Computer)": {
+        "Steps": [
+            "At the first-floor printing area, choose a computer and log in with your student ID and password.",
+            "Insert your USB drive and open the file you want to print.",
+            "Select “Virtual Printer on 10.68.12.61” from the printer list.",
+            "Click “Printer Properties” to set options (single- or double-sided, color or black & white, etc.).",
+            "Enter your student ID and password in the pop-up; change the default password on first login.",
+            "Check your PaperCut balance in the green notification window.",
+            "Right-click that notification and choose “Log out.”",
+            "Go to the indicated printer, swipe your student card or log in again at the printer.",
+            "Select your document in the queue and press “Print.” Press the ❌ button to cancel if needed."
+        ],
+        "Notes": [
+            "You must top up your PaperCut account via the ePayment system before printing."
+        ]
+    },
+    "How to Print in the Library (via USB)": {
+        "Steps": [
+            "Insert your USB drive into the port on the printer's LCD console.",
+            "Tap the “Box” button on the touchscreen.",
+            "Browse and select the file you want to print (PDF, JPG, or TIFF only).",
+            "Tap the three-dot “Photo Option” icon and choose print settings (color, binding, etc.).",
+            "Tap the print icon in the top right to start printing.",
+            "After printing, drag down the human icon in the top right and tap the profile icon to log out (or swipe your card again)."
+        ]
+    },
+    "How to Scan in the Library": {
+        "Steps": [
+            "On the printer touchscreen, tap “Scan and Send.”",
+            "Tap the three-dot icon to open scan settings.",
+            "Select the destination computer name (e.g., LIB-15).",
+            "Choose black & white or color, single- or double-sided, and enter a file name if desired.",
+            "Tap the blue “Start” button. The file will appear in the “SAMSUNG SCAN” folder on your desktop."
+        ]
+    },
+    "How to Request a Refund for Self-Service Printing": {
+        "Steps": [
+            "Log in to the PaperCut web interface with your student ID and password; screenshot the “Summary” page.",
+            "Screenshot the “Transaction History” and “Recent Print Jobs” pages showing no print records.",
+            "Go to the printer, log in, and photograph the “Held Print Jobs” screen.",
+            "Swipe down from the top right to view “Errors”; tap and photograph the error details.",
+            "Email refundxmu@thecopier.com.my with all screenshots attached. Refunds are processed within about 14 working days."
+        ]
+    },
+    "How to Use Laundry and Drying Machines": {
+        "Steps": [
+            "Place clothes inside the washer or dryer and close the door.",
+            "Scan the QR code on the machine, choose a payment method (TNG, Alipay, etc.), and pay.",
+            "Press the “START” button to begin.",
+            "When the cycle finishes, remove your clothes.",
+            "After drying, clean the lint filter for the next user."
+        ]
+    },
+    "How to Use the Shoe Washing Machine": {
+        "Steps": [
+            "Put shoes into the shoe washer and add detergent.",
+            "Pay by card or scan the QR code.",
+            "Press “Start” and wait. Remove shoes and air-dry when done."
+        ]
+    },
+    "How to Use Dry Cleaning Service": {
+        "Steps": [
+            "Register or log in at www.laundrybox24.com.",
+            "Select “Dropoff” and scan the QR code.",
+            "Enter the number of items and select cleaning options.",
+            "Tap “Open a Locker,” place items inside, and close the door.",
+            "Receive a pickup code via SMS or email; pay online to complete your order.",
+            "For pickup, select “Pickup,” enter the code, and collect your items."
+        ]
+    },
+    "How to Withdraw Money from an ATM on Campus": {
+        "Steps": [
+            "Locate the ATM: ICBC at D6 Level G (UnionPay only), Maybank and Public Bank at B1 Level G.",
+            "Insert your card and follow the on-screen instructions; always remove your card before taking cash.",
+            "At Maybank/Public Bank, you can also use other supported cards and access services like cardless withdrawal."
+        ],
+        "Notes": [
+            "Campus ATMs only dispense Malaysian Ringgit and do not accept deposits.",
+            "Transaction fees depend on your bank; local cards usually incur no fee."
+        ]
+    },
+    "Campus Coffee Shops, Coffee Machines, and Vending Machine Locations": {
+        "Notes": [
+            "Coffee Shops:",
+            "- ZUS: A3 Level G, 8:00 AM - 9:40 PM",
+            "- COTTI: Academic Exchange Center Level G, 8:00 AM - 9:30 PM",
+            "- Aquatic Coffee House: Mini Arena, 9:00 AM - 12:00 AM",
+            "Self-Service Coffee Machines (24/7): B1.1, A3.1, A2 Level G, D3, D4, D5 Level G (supports bank card & e-wallet).",
+            "Vending Machines: A5 GF, B1 GF, D1, D2, D3, D4, D5, LY2, LY5 GF (snacks & drinks; supports TnG, WeChat, Alipay)."
+        ]
+    },
+    "School Email and Campus ID": {
+        "Steps": [
+            "Log in to your campus email at www.office.com using the IT Office-provided address and initial password.",
+            "Follow the on-screen prompts to change your email password.",
+            "Reset your Campus ID password: go to http://id.xmu.edu.my, click “Reset Password,” and use the link sent to your campus email.",
+            "Log in to the Academic System at http://ac.xmu.edu.my/ as a “student” using your student number and the new Campus ID password."
+        ]
+    },
+    "View Timetable": {
+        "Steps": [
+            "After logging in, click “Basic Info” → “Timetable” to view your schedule."
+        ],
+        "Notes": [
+            "Undergraduate courses are categorized as MPU (public compulsory), General Electives, Common Core & Major Core, Major Electives, and Industrial Training; you can identify each by its course code.",
+            "If your timetable isn't yet uploaded, wait for the Academic Office notification email and check again later.",
+            "For the full curriculum plan, refer to your Programme Handbook."
+        ]
+    },
+    "Course Registration": {
+        "Mandatory Courses (MPU & Core)": {
+            "Steps": [
+                "MPU and Major Core courses are pre-assigned; no action is needed unless you require add/drop or retake.",
+                "To add, drop, or retake, submit the Add/Drop Form or Course Retake Form between September 19 and September 30 via https://forms.office.com/r/PyNt1Sc9zx or https://forms.office.com/r/2HDWBpR5Yb.",
+                "The Academic Office will process your request within 5 working days."
+            ]
+        },
+        "Elective Courses (General & Major)": {
+            "Steps": [
+                "During the registration period, log in to the Academic System and click “Online Registration.”",
+                "Under “Classification,” select General Elective or Major Elective to view available courses.",
+                "Click “entry” in the rightmost column for each course you wish to register.",
+                "If you need to add an elective after online registration ends, contact your department's academic officer."
+            ],
+            "Notes": [
+                "New students (enrolled or transferred in 2022/09) have a separate registration schedule—refer to official notices for exact dates."
+            ]
+        },
+        "Notes": [
+            "Course descriptions are available in the Course Library (see your registration email or scan the QR code).",
+            "Credit load limits: long semester max 21 credits; short semester max 7 credits.",
+            "Prerequisites apply (e.g., you must pass Calculus I before enrolling in Calculus II).",
+            "Course capacity is limited; submitting an add/drop form does not guarantee enrollment—obtain written consent from the instructor for full courses.",
+            "You cannot register for courses with schedule conflicts."
+        ]
+    },
+    "Course Retake (Resit)": {
+        "Notes": [
+            "Failing a compulsory course requires retaking that course.",
+            "Failing an elective allows you to retake the same course or take a similar elective.",
+            "Retaking a passed course to improve your grade will replace the CGPA calculation with the highest attempt."
+        ],
+        "Requirements": [
+            "Attend classes, submit assignments, and complete exams/reports as for a new course."
+        ],
+        "Steps": [
+            "Submit the Course Retake Form between September 19 and September 30 at https://forms.office.com/r/2HDWBpR5Yb.",
+            "The Academic Office will process your application within 5 working days."
+        ],
+        "NotesAdditional": [
+            "First retake after failing is free.",
+            "Subsequent retakes, misconduct-related retakes, or grade-improvement retakes are charged as follows: Public courses RM 500/credit; Arts & Business RM 500/credit; Science & Engineering RM 550/credit."
+        ]
+    },
+    "Attendance and Leave": {
+        "Notes": [
+            "Students must attend every class; instructors record attendance."
+        ],
+        "Steps": [
+            "If absent for illness or emergency, notify your instructor and submit the leave form and proof to the Academic Office within 3 working days of return."
+        ],
+        "Consequences": [
+            "Attendance below 80% disqualifies you from the final exam for that course.",
+            "International students with <80% attendance or CGPA <2.0 may face visa renewal issues."
+        ],
+        "StepsAdditional": [
+            "Students with <80% attendance receive a warning email and are banned from the exam, resulting in course failure.",
+            "To cancel an exam ban, submit the cancellation form with instructor approval and the warning letter to the Academic Office, and check your status one week before exams."
+        ]
+    },
+    "Public Holiday Rescheduling": {
+        "Notes": [
+            "If a public holiday falls on a weekday (Mon-Fri), that day's classes are rescheduled.",
+            "If a holiday falls on Sunday, Monday becomes a holiday and Monday's classes are rescheduled."
+        ]
+    },
+    "Exam Guide": {
+        "Steps": [
+            "After notification, confirm exam time, location, and format in the Academic System.",
+            "To apply for a deferred exam due to illness/emergency, submit the deferred-exam form and proof before the exam."
+        ],
+        "Notes": [
+            "Academic misconduct (cheating, fabrication, plagiarism, etc.) is strictly prohibited.",
+            "Midterm cheating results in zero for that exam; final-exam cheating results in zero for the final and course failure; serious cases may lead to expulsion."
+        ]
+    },
+    "Contact with Instructors": {
+        "Steps": [
+            "To find an instructor's email/Teams ID, type their name in the recipient field of your campus email and select the auto-complete address.",
+            "Full-time instructors hold weekly office hours for Q&A; contact TAs for scheduling.",
+            "Reply promptly to instructor emails to avoid being unreachable."
+        ]
+    },
+    "Course Evaluation (Student Feedback)": {
+        "Steps": [
+            "Complete online teaching evaluations at midterm and end-of-term via the Academic System.",
+            "Participation is required to release your course grades."
+        ]
+    },
+    "Major Transfer Procedures": {
+        "Steps": [
+            "After one semester, if you meet the English requirement and GPA criteria, apply for an intra-faculty transfer as per Academic Office guidelines.",
+            "After one academic year and meeting requirements, you may apply for an inter-faculty transfer.",
+            "Transfers are not allowed before starting your degree program."
+        ]
+    },
+    "Contact Information": {
+        "Notes": [
+            "Academic Office hours: Weekdays 8:30 AM-12:30 PM & 1:30 PM-5:30 PM, Office B1#217.",
+            "Email: xmumac@xmu.edu.my.",
+            "For specific course or instructor queries, contact your department's academic officer (see registration email for details)."
+        ]
+    },
+    "Clubs and Societies at XMUM": {
+    "Performing Arts (PA)": {
+      "Contact": "Ms. Ming Luan",
+      "Clubs": [
+        "Philharmonic Orchestra Society",
+        "Music Club",
+        "Ukulele Society",
+        "Yanan Chinese Orchestra Society",
+        "Dance Club",
+        "Drama Society",
+        "24 Festive Drums Club",
+        "Diabolo Club"
+      ]
+    },
+    "Culture & Art (CA)": {
+      "Contact": "Ms. Ming Luan",
+      "Clubs": [
+        "Visual Art Club",
+        "Nanqiang Calligraphy Society",
+        "Chinese Society",
+        "Christian Fellowship Club",
+        "Traditional Chinese Medicine Society",
+        "Buddhist Society",
+        "Indonesian Cultures & Arts Society",
+        "Korean Cultures & Arts Society",
+        "ACG Research Society",
+        "Tea Club",
+        "Coffee Club - The Brewix"
+      ]
+    },
+    "General (GE)": {
+      "Contact": "Ms. Laila",
+      "Clubs": [
+        "Board Games Society",
+        "Xiamen Business Association",
+        "Chinese Debate Society",
+        "English Language Society and Debate (ELSAD)",
+        "Law Society",
+        "Magic Society",
+        "Math Society",
+        "Photography Society",
+        "Youth Leader Association",
+        "Wordsmith Society",
+        "Current Issues Society",
+        "Environmental Club",
+        "Astronomy Club",
+        "Tech Club",
+        "Robotic Club",
+        "Rubik's Club"
+      ]
+    },
+    "Service & Volunteerism (SV)": {
+      "Contact": "Mr. Potter",
+      "Clubs": [
+        "First Aid Society",
+        "AIESEC",
+        "Omega Leo Club",
+        "Rotaract Club"
+      ]
+    },
+    "Sports (SP)": {
+      "Contact": "Mr. Ku",
+      "Clubs": [
+        "Badminton Club",
+        "Swimming Club",
+        "Cheerleading Club",
+        "Football Club",
+        "Martial Art Club",
+        "Basketball Club",
+        "Table Tennis Club",
+        "Tennis Club",
+        "Volleyball Club",
+        "Outdoor Adventure Club",
+        "Ultimate Frisbee Club",
+        "E-Sport Club",
+        "Scuba Diving Club",
+        "Dodgeball Club",
+        "Kendo Club"
+      ]
+    }
+  }
+}
+
+
+  
+
+
+
+
+  
+
