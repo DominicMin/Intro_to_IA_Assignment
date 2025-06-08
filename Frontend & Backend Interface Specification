@@ -1,0 +1,104 @@
+School Chatbot API - Frontend & Backend Interface Specification
+
+Purpose
+
+This document defines the API interface specification for the school chatbot system, used to answer student questions such as "Where is the library?". This ensures frontend and backend integration is seamless during development and deployment.
+API Overview
+Endpoint
+
+POST /chatbot/ask
+
+Local development: http://localhost:5000/chatbot/ask
+
+Request Method
+
+POST
+
+Request Headers
+
+Content-Type: application/json
+
+
+Request Body
+
+| Field    | Type   | Description                         |
+| -------- | ------ | ----------------------------------- |
+| question | string | The user's question in natural text |
+
+
+
+Response Body
+
+| Field  | Type   | Description                       |
+| ------ | ------ | --------------------------------- |
+| answer | string | The chatbot's answer to the query |
+
+
+
+Optional Error Handling
+
+If the question is unrecognized:
+{
+  "answer": "很抱歉，我暂时还不知道这个问题的答案~"
+}
+
+Or return HTTP status 400/500 with a message.
+
+Frontend Notes
+
+Frontend will send request using:
+
+fetch("http://localhost:5000/chatbot/ask", {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({ question: userInput })
+})
+
+
+Example Interaction
+
+User: 图书馆在哪里？  
+Bot: 图书馆位于综合楼一楼东侧，开放时间为8:00-22:00
+
+User: 食堂凌晨出锅吗？  
+Bot: 各层食堂营业时间略有不同，一般至晚九点
+
+Project Deployment Instructions
+
+Local Development
+
+1. Frontend (React):
+
+```bash
+npm install
+npm run dev
+```
+
+Default runs on http://localhost:5173
+
+2. Backend (Flask):
+
+```bash
+pip install flask flask-cors
+python app.py
+```
+
+Should run on http://localhost:5000
+
+Make sure the frontend requests are pointed to the backend endpoint (check CORS).
+
+Online Deployment
+
+Frontend: Vercel / Netlify
+Backend: Render / Railway / Fly.io
+
+Environment Config:
+Set API base URL for frontend (e.g., using `.env` files)
+
+env
+VITE_API_URL=https://your-backend-domain.com
+
+in frontend like:
+
+js
+fetch(`${import.meta.env.VITE_API_URL}/chatbot/ask`, ...)
