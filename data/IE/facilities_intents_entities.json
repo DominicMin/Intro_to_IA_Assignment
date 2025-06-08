@@ -1,0 +1,94 @@
+{
+  "intents": {
+    "facility_search": [
+      "Find facility by name",
+      "Find facilities by building",
+      "Find facilities by type",
+      "Find facilities by feature",
+      "Find facilities by location",
+      "Find facilities by floor"
+    ],
+    "information_requests": [
+      "Get facility opening hours",
+      "Get facility features",
+      "Get facility location details",
+      "Get facility usage rules"
+    ]
+  },
+  "entities": {
+    "buildings": [
+      "B1 Activity Building",
+      "A Zone Teaching Buildings"
+    ],
+    "facility_types": [
+      "Supermarket",
+      "Dining Area",
+      "ATM",
+      "IELTS Office",
+      "Yoga Room",
+      "Traditional Chinese Medicine Clinic",
+      "Clinic",
+      "Maintenance Office",
+      "Admissions Office",
+      "Sports Fields",
+      "Stadium",
+      "Swimming Pool",
+      "Gym",
+      "Infirmary",
+      "Badminton Court",
+      "Teaching Building",
+      "Library",
+      "Cafe"
+    ],
+    "locations": [
+      "East side of campus",
+      "South side of campus",
+      "LG floor",
+      "G floor",
+      "1st floor",
+      "2nd floor",
+      "3rd floor",
+      "G floor atrium",
+      "Outside G floor",
+      "A Zone"
+    ],
+    "features": [
+      "Largest supermarket on campus",
+      "Multiple dining tables",
+      "Open space",
+      "UnionPay/Visa/MasterCard withdrawals",
+      "IELTS language information",
+      "Yoga club use",
+      "TCM diagnosis and treatment",
+      "Free consultation",
+      "Medical services",
+      "Dormitory maintenance requests",
+      "Local student inquiries",
+      "Volleyball court",
+      "Tennis court",
+      "Small football field",
+      "Basketball court",
+      "Hosts school events",
+      "Water depth 1.3m-2m",
+      "Swim cap required",
+      "Anaerobic and aerobic areas",
+      "Cash only",
+      "Need to bring your own racket",
+      "Classrooms",
+      "Faculty offices",
+      "Parking lot",
+      "Study rooms can be reserved",
+      "Movie theater",
+      "ZUS coffee"
+    ],
+    "opening_hours": [
+      "Monday to Friday 8:30am-9:30pm",
+      "Weekends 9:00am-9:00pm",
+      "Monday to Sunday 9:00am-1:00pm, 2:00pm-5:00pm",
+      "Tuesday to Sunday 16:00-22:00",
+      "9:00am-10:00pm",
+      "Monday to Friday 9:00am-10:00pm",
+      "Weekends and holidays 9:00am-5:00pm"
+    ]
+  }
+}
