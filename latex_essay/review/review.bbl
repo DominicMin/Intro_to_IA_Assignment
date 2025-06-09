@@ -1,0 +1,174 @@
+\begin{thebibliography}{24}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Dibitonto et~al.(2018)Dibitonto, Leszczynska, Tazzi, and Medaglia]{dibitonto2018chatbot}
+Massimiliano Dibitonto, Katarzyna Leszczynska, Federica Tazzi, and Carlo~M. Medaglia.
+\newblock Chatbot in a campus environment: Design of lisa, a virtual assistant to help students in their university life.
+\newblock In Masaaki Kurosu, editor, \emph{Human-Computer Interaction. Interaction Technologies}, pages 103--116, Cham, 2018. Springer International Publishing.
+\newblock ISBN 978-3-319-91250-9.
+
+\bibitem[Liu and Li(2018)]{villegas2020proposal}
+Miao Liu and Lin Li.
+\newblock The construction of smart campus in universities and the practical innovation of student work.
+\newblock pages 154--157, 2018.
+\newblock \doi{10.1145/3277139.3278307}.
+\newblock URL \url{https://doi.org/10.1145/3277139.3278307}.
+
+\bibitem[Sophia and Jacob(2021)]{sophia2021edubot}
+J.Jinu Sophia and T.Prem Jacob.
+\newblock {EDUBOT-A Chatbot for Education in COVID-19 Pandemic and VQABot comparison}.
+\newblock 8 2021.
+\newblock \doi{10.1109/icesc51422.2021.9532611}.
+\newblock URL \url{https://doi.org/10.1109/icesc51422.2021.9532611}.
+
+\bibitem[Yasuda et~al.(2021)Yasuda, Shiramatsu, Kawamura, Matsunaga, Murakami, and Aoshima]{yasuda2021designing}
+Kento Yasuda, Shun Shiramatsu, Ikue Kawamura, Yumi Matsunaga, Takuya Murakami, and Hidekazu Aoshima.
+\newblock Designing a chatbot system for recommending college students to counseling and collecting dialogue data.
+\newblock In \emph{Proceedings of the 9th International Conference on Human-Agent Interaction}, HAI '21, pages 358--363, New York, NY, USA, 2021. Association for Computing Machinery.
+\newblock ISBN 9781450386203.
+\newblock \doi{10.1145/3472307.3484655}.
+\newblock URL \url{https://doi.org/10.1145/3472307.3484655}.
+
+\bibitem[Yin et~al.(2019)Yin, Chen, Zhou, and Yu]{yin2019deep}
+Junjie Yin, Zixun Chen, Kelai Zhou, and Chongyuan Yu.
+\newblock A deep learning based chatbot for campus psychological therapy.
+\newblock \emph{CoRR}, abs/1910.06707, 2019.
+\newblock URL \url{http://arxiv.org/abs/1910.06707}.
+
+\bibitem[Neupane et~al.(2024)Neupane, Hossain, Keith, Tripathi, Ghiasi, Golilarz, Amirlatifi, Mittal, and Rahimi]{neupane2024questions}
+Subash Neupane, Elias Hossain, Jason Keith, Himanshu Tripathi, Farbod Ghiasi, Noorbakhsh~Amiri Golilarz, Amin Amirlatifi, Sudip Mittal, and Shahram Rahimi.
+\newblock {From questions to insightful answers: Building an informed chatbot for university resources}.
+\newblock \emph{arXiv (Cornell University)}, 5 2024.
+\newblock \doi{10.48550/arxiv.2405.08120}.
+\newblock URL \url{https://arxiv.org/abs/2405.08120}.
+
+\bibitem[Ranoliya et~al.(2017)Ranoliya, Raghuwanshi, and Singh]{ranoliya2017chatbot}
+Bhavika~R. Ranoliya, Nidhi Raghuwanshi, and Sanjay Singh.
+\newblock Chatbot for university related faqs.
+\newblock In \emph{2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI)}, pages 1525--1530, 2017.
+\newblock \doi{10.1109/ICACCI.2017.8126057}.
+\newblock URL \url{https://doi.org/10.1109/ICACCI.2017.8126057}.
+
+\bibitem[Hutto and Gilbert(2014)]{hutto2014vader}
+C.~Hutto and Eric Gilbert.
+\newblock {VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text}.
+\newblock volume~8, pages 216--225, 5 2014.
+\newblock \doi{10.1609/icwsm.v8i1.14550}.
+\newblock URL \url{https://doi.org/10.1609/icwsm.v8i1.14550}.
+
+\bibitem[Ravi and Ravi(2015)]{tripathi2016survey}
+Kumar Ravi and Vadlamani Ravi.
+\newblock A survey on opinion mining and sentiment analysis: Tasks, approaches and applications.
+\newblock \emph{Knowledge-Based Systems}, 89:\penalty0 14--46, 2015.
+\newblock ISSN 0950-7051.
+\newblock \doi{https://doi.org/10.1016/j.knosys.2015.06.015}.
+\newblock URL \url{https://www.sciencedirect.com/science/article/pii/S0950705115002336}.
+
+\bibitem[Yadollahi et~al.(2017)Yadollahi, Shahraki, and Zaiane]{yadollahi2018current}
+Ali Yadollahi, Ameneh~Gholipour Shahraki, and Osmar~R. Zaiane.
+\newblock Current state of text sentiment analysis from opinion to emotion mining.
+\newblock \emph{ACM Comput. Surv.}, 50\penalty0 (2), May 2017.
+\newblock ISSN 0360-0300.
+\newblock \doi{10.1145/3057270}.
+\newblock URL \url{https://doi.org/10.1145/3057270}.
+
+\bibitem[Mohammad(2018)]{mohammad2018obtaining}
+Saif Mohammad.
+\newblock {Obtaining reliable human ratings of valence, arousal, and dominance for 20,000 English words}.
+\newblock 1 2018.
+\newblock \doi{10.18653/v1/p18-1017}.
+\newblock URL \url{https://doi.org/10.18653/v1/p18-1017}.
+
+\bibitem[Young et~al.(2018)Young, Hazarika, Poria, and Cambria]{young2018recent}
+Tom Young, Devamanyu Hazarika, Soujanya Poria, and Erik Cambria.
+\newblock Recent trends in deep learning based natural language processing [review article].
+\newblock \emph{IEEE Computational Intelligence Magazine}, 13\penalty0 (3):\penalty0 55--75, 2018.
+\newblock \doi{10.1109/MCI.2018.2840738}.
+\newblock URL \url{https://doi.org/10.1109/MCI.2018.2840738}.
+
+\bibitem[Ribeiro et~al.(2016)Ribeiro, Singh, and Guestrin]{ribeiro2016why}
+Marco~Tulio Ribeiro, Sameer Singh, and Carlos Guestrin.
+\newblock "why should i trust you?": Explaining the predictions of any classifier.
+\newblock pages 1135--1144, New York, NY, USA, 2016. Association for Computing Machinery.
+\newblock ISBN 9781450342322.
+\newblock \doi{10.1145/2939672.2939778}.
+\newblock URL \url{https://doi.org/10.1145/2939672.2939778}.
+
+\bibitem[LeCun et~al.(2015)LeCun, Bengio, and Hinton]{lecun2015deep}
+Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+\newblock {Deep learning}.
+\newblock \emph{Nature}, 521\penalty0 (7553):\penalty0 436--444, 5 2015.
+\newblock \doi{10.1038/nature14539}.
+\newblock URL \url{https://doi.org/10.1038/nature14539}.
+
+\bibitem[Heaton(2017)]{heaton-2017}
+Jeff Heaton.
+\newblock {Ian Goodfellow, Yoshua Bengio, and Aaron Courville: Deep learning}.
+\newblock \emph{Genetic Programming and Evolvable Machines}, 19\penalty0 (1-2):\penalty0 305--307, 10 2017.
+\newblock \doi{10.1007/s10710-017-9314-z}.
+\newblock URL \url{https://doi.org/10.1007/s10710-017-9314-z}.
+
+\bibitem[Yang et~al.(2016)Yang, Yang, Dyer, He, Smola, and Hovy]{yang2016hierarchical}
+Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, and Eduard Hovy.
+\newblock Hierarchical attention networks for document classification.
+\newblock In Kevin Knight, Ani Nenkova, and Owen Rambow, editors, \emph{Proceedings of the 2016 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies}, pages 1480--1489, San Diego, California, June 2016. Association for Computational Linguistics.
+\newblock \doi{10.18653/v1/N16-1174}.
+\newblock URL \url{https://aclanthology.org/N16-1174/}.
+
+\bibitem[Heilala et~al.(2024)Heilala, Araya, and Hämäläinen]{heilala2024overview}
+Ville Heilala, Roberto Araya, and Raija Hämäläinen.
+\newblock {Beyond Text-to-Text: An overview of multimodal and generative artificial intelligence for education using topic modeling}.
+\newblock \emph{arXiv (Cornell University)}, 9 2024.
+\newblock \doi{10.48550/arxiv.2409.16376}.
+\newblock URL \url{http://arxiv.org/abs/2409.16376}.
+
+\bibitem[Kovacevic et~al.(2024)Kovacevic, Holz, Gross, and Wampfler]{kovacs2024multimodal}
+Nikola Kovacevic, Christian Holz, Markus Gross, and Rafael Wampfler.
+\newblock On multimodal emotion recognition for human-chatbot interaction in the wild.
+\newblock pages 12--21, 11 2024.
+\newblock \doi{10.1145/3678957.3685759}.
+\newblock URL \url{https://doi.org/10.1145/3678957.3685759}.
+
+\bibitem[Ma et~al.(2021)Ma, Dou, Zhu, Zhong, and Wen]{ma2021one}
+Zhengyi Ma, Zhicheng Dou, Yutao Zhu, Hanxun Zhong, and Ji{-}Rong Wen.
+\newblock One chatbot per person: Creating personalized chatbots based on implicit user profiles.
+\newblock \emph{CoRR}, abs/2108.09355, 2021.
+\newblock URL \url{https://arxiv.org/abs/2108.09355}.
+
+\bibitem[Baradari et~al.(2025)Baradari, Kosmyna, Petrov, Kaplun, and Maes]{baradari2025neurochatneuroadaptiveaichatbot}
+Dünya Baradari, Nataliya Kosmyna, Oscar Petrov, Rebecah Kaplun, and Pattie Maes.
+\newblock Neurochat: A neuroadaptive ai chatbot for customizing learning experiences, 2025.
+\newblock URL \url{https://arxiv.org/abs/2503.07599}.
+
+\bibitem[Vistorte et~al.(2024)Vistorte, Deroncele-Acosta, Ayala, Barrasa, López-Granero, and Martí-González]{arsad2024integrating}
+Angel Olider~Rojas Vistorte, Angel Deroncele-Acosta, Juan Luis~Martín Ayala, Angel Barrasa, Caridad López-Granero, and Mariacarla Martí-González.
+\newblock {Integrating artificial intelligence to assess emotions in learning environments: a systematic literature review}.
+\newblock \emph{Frontiers in Psychology}, 15, 6 2024.
+\newblock \doi{10.3389/fpsyg.2024.1387089}.
+\newblock URL \url{https://doi.org/10.3389/fpsyg.2024.1387089}.
+
+\bibitem[Davar et~al.(2025)Davar, Dewan, and Zhang]{siregar2024ai}
+Narius~Farhad Davar, M.~Ali~Akber Dewan, and Xiaokun Zhang.
+\newblock {AI chatbots in education: challenges and opportunities}.
+\newblock \emph{Information}, 16\penalty0 (3):\penalty0 235, 3 2025.
+\newblock \doi{10.3390/info16030235}.
+\newblock URL \url{https://doi.org/10.3390/info16030235}.
+
+\bibitem[Yin et~al.(2024)Yin, Zhang, Xie, Yu, Zhao, and Zhang]{yin2024effects}
+Y.~Yin, Z.~Zhang, H.~Xie, L.~Yu, R.~Zhao, and Y.~Zhang.
+\newblock Effects of affective chatbot feedback on learners' emotions and motivation in an online learning environment.
+\newblock \emph{International Journal of Educational Technology in Higher Education}, 21\penalty0 (1):\penalty0 24, 2024.
+\newblock \doi{10.1186/s41239-024-00480-3}.
+
+\bibitem[Han et~al.(2022)Han, Park, and Lee]{han2022development}
+Jeong-Won Han, Junhee Park, and Hanna Lee.
+\newblock {Analysis of the effect of an artificial intelligence chatbot educational program on non-face-to-face classes: a quasi-experimental study}.
+\newblock \emph{BMC Medical Education}, 22\penalty0 (1), 12 2022.
+\newblock \doi{10.1186/s12909-022-03898-3}.
+\newblock URL \url{https://doi.org/10.1186/s12909-022-03898-3}.
+
+\end{thebibliography}
