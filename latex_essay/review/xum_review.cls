@@ -13,24 +13,10 @@
 \RequirePackage{parskip}
 \RequirePackage{url}
 \RequirePackage{tocloft}
-\RequirePackage[authoryear,round,sort&compress]{natbib}
+\RequirePackage[natbibapa]{apacite}
 \RequirePackage{etoolbox}
 \RequirePackage{lastpage}
-\RequirePackage[colorlinks=true,linkcolor=black,citecolor=black,urlcolor=cyan,backref=page]{hyperref}
-
-% Citation style: superscript with square brackets
-\bibpunct{[}{]}{,}{s}{,}{,}
-
-% 自定义反向引用文本
-\renewcommand*{\backrefalt}[4]{%
-    \ifcase #1%
-        (Not cited.)%
-    \or
-        (Cited on page~#2.)%
-    \else
-        (Cited on pages~#2.)%
-    \fi
-}
+\RequirePackage[colorlinks=true,linkcolor=black,citecolor=black,urlcolor=cyan]{hyperref}
 
 % 超链接设置
 \hypersetup{
@@ -93,7 +79,7 @@
 \renewcommand{\cftsubsubsecleader}{\cftdotfill{\cftdotsep}}
 
 % 引用格式设置
-\bibliographystyle{plainnat}
+\bibliographystyle{apacite}
 \renewcommand{\refname}{References}
 
 % 将References添加到目录
@@ -123,10 +109,5 @@
     textfont=it,
     margin=10pt
 }
-
-% Patch natbib to have a numbered bibliography with author-year citations in text
-\makeatletter
-\patchcmd{\NAT@thebibliography}{\@biblabel{\@empty}}{\@biblabel{[\@arabic\c@NAT@ctr]}}{}{}
-\makeatother
 
 \endinput 

@@ -1,174 +1,731 @@
-\begin{thebibliography}{24}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{}
 
-\bibitem[Baradari et~al.(2025)Baradari, Kosmyna, Petrov, Kaplun, and Maes]{baradari2025neurochatneuroadaptiveaichatbot}
-Dünya Baradari, Nataliya Kosmyna, Oscar Petrov, Rebecah Kaplun, and Pattie Maes.
-\newblock Neurochat: A neuroadaptive ai chatbot for customizing learning experiences, 2025.
-\newblock URL \url{https://arxiv.org/abs/2503.07599}.
+\bibitem [\protect \citeauthoryear {%
+Baradari%
+, Kosmyna%
+, Petrov%
+, Kaplun%
+\BCBL {}\ \BBA {} Maes%
+}{%
+Baradari%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+baradari2025neurochatneuroadaptiveaichatbot}
+\APACinsertmetastar {%
+baradari2025neurochatneuroadaptiveaichatbot}%
+\begin{APACrefauthors}%
+Baradari, D.%
+, Kosmyna, N.%
+, Petrov, O.%
+, Kaplun, R.%
+\BCBL {}\ \BBA {} Maes, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+\APACrefbtitle {NeuroChat: A Neuroadaptive AI Chatbot for Customizing Learning Experiences.} {Neurochat: A neuroadaptive ai chatbot for customizing learning experiences.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2503.07599} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Davar et~al.(2025)Davar, Dewan, and Zhang]{siregar2024ai}
-Narius~Farhad Davar, M.~Ali~Akber Dewan, and Xiaokun Zhang.
-\newblock {AI chatbots in education: challenges and opportunities}.
-\newblock \emph{Information}, 16\penalty0 (3):\penalty0 235, 3 2025.
-\newblock \doi{10.3390/info16030235}.
-\newblock URL \url{https://doi.org/10.3390/info16030235}.
+\bibitem [\protect \citeauthoryear {%
+Davar%
+, Dewan%
+\BCBL {}\ \BBA {} Zhang%
+}{%
+Davar%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+siregar2024ai}
+\APACinsertmetastar {%
+siregar2024ai}%
+\begin{APACrefauthors}%
+Davar, N\BPBI F.%
+, Dewan, M\BPBI A\BPBI A.%
+\BCBL {}\ \BBA {} Zhang, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{3}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{AI chatbots in education: challenges and opportunities}} {{AI chatbots in education: challenges and opportunities}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Information}{16}{3}{235}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.3390/info16030235} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3390/info16030235} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Dibitonto et~al.(2018)Dibitonto, Leszczynska, Tazzi, and Medaglia]{dibitonto2018chatbot}
-Massimiliano Dibitonto, Katarzyna Leszczynska, Federica Tazzi, and Carlo~M. Medaglia.
-\newblock Chatbot in a campus environment: Design of lisa, a virtual assistant to help students in their university life.
-\newblock In Masaaki Kurosu, editor, \emph{Human-Computer Interaction. Interaction Technologies}, pages 103--116, Cham, 2018. Springer International Publishing.
-\newblock ISBN 978-3-319-91250-9.
+\bibitem [\protect \citeauthoryear {%
+Dibitonto%
+, Leszczynska%
+, Tazzi%
+\BCBL {}\ \BBA {} Medaglia%
+}{%
+Dibitonto%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+dibitonto2018chatbot}
+\APACinsertmetastar {%
+dibitonto2018chatbot}%
+\begin{APACrefauthors}%
+Dibitonto, M.%
+, Leszczynska, K.%
+, Tazzi, F.%
+\BCBL {}\ \BBA {} Medaglia, C\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Chatbot in a Campus Environment: Design of LiSA, a Virtual Assistant to Help Students in Their University Life} {Chatbot in a campus environment: Design of lisa, a virtual assistant to help students in their university life}.{\BBCQ}
+\newblock
+\BIn{} M.~Kurosu\ (\BED), \APACrefbtitle {Human-Computer Interaction. Interaction Technologies} {Human-computer interaction. interaction technologies}\ (\BPGS\ 103--116).
+\newblock
+\APACaddressPublisher{Cham}{Springer International Publishing}.
+\newblock
+\begin{APACrefURL} \url{https://link.springer.com/chapter/10.1007/978-3-319-91250-9_9} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Han et~al.(2022)Han, Park, and Lee]{han2022development}
-Jeong-Won Han, Junhee Park, and Hanna Lee.
-\newblock {Analysis of the effect of an artificial intelligence chatbot educational program on non-face-to-face classes: a quasi-experimental study}.
-\newblock \emph{BMC Medical Education}, 22\penalty0 (1), 12 2022.
-\newblock \doi{10.1186/s12909-022-03898-3}.
-\newblock URL \url{https://doi.org/10.1186/s12909-022-03898-3}.
+\bibitem [\protect \citeauthoryear {%
+Han%
+, Park%
+\BCBL {}\ \BBA {} Lee%
+}{%
+Han%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+han2022development}
+\APACinsertmetastar {%
+han2022development}%
+\begin{APACrefauthors}%
+Han, J\BHBI W.%
+, Park, J.%
+\BCBL {}\ \BBA {} Lee, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{12}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Analysis of the effect of an artificial intelligence chatbot educational program on non-face-to-face classes: a quasi-experimental study}} {{Analysis of the effect of an artificial intelligence chatbot educational program on non-face-to-face classes: a quasi-experimental study}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{BMC Medical Education}{22}{1}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1186/s12909-022-03898-3} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1186/s12909-022-03898-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Heaton(2017)]{heaton-2017}
-Jeff Heaton.
-\newblock {Ian Goodfellow, Yoshua Bengio, and Aaron Courville: Deep learning}.
-\newblock \emph{Genetic Programming and Evolvable Machines}, 19\penalty0 (1-2):\penalty0 305--307, 10 2017.
-\newblock \doi{10.1007/s10710-017-9314-z}.
-\newblock URL \url{https://doi.org/10.1007/s10710-017-9314-z}.
+\bibitem [\protect \citeauthoryear {%
+Heaton%
+}{%
+Heaton%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+heaton-2017}
+\APACinsertmetastar {%
+heaton-2017}%
+\begin{APACrefauthors}%
+Heaton, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{10}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Ian Goodfellow, Yoshua Bengio, and Aaron Courville: Deep learning}} {{Ian Goodfellow, Yoshua Bengio, and Aaron Courville: Deep learning}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Genetic Programming and Evolvable Machines}{19}{1-2}{305--307}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1007/s10710-017-9314-z} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10710-017-9314-z} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Heilala et~al.(2024)Heilala, Araya, and Hämäläinen]{heilala2024overview}
-Ville Heilala, Roberto Araya, and Raija Hämäläinen.
-\newblock {Beyond Text-to-Text: An overview of multimodal and generative artificial intelligence for education using topic modeling}.
-\newblock \emph{arXiv (Cornell University)}, 9 2024.
-\newblock \doi{10.48550/arxiv.2409.16376}.
-\newblock URL \url{http://arxiv.org/abs/2409.16376}.
+\bibitem [\protect \citeauthoryear {%
+Heilala%
+, Araya%
+\BCBL {}\ \BBA {} Hämäläinen%
+}{%
+Heilala%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+heilala2024overview}
+\APACinsertmetastar {%
+heilala2024overview}%
+\begin{APACrefauthors}%
+Heilala, V.%
+, Araya, R.%
+\BCBL {}\ \BBA {} Hämäläinen, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{9}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Beyond Text-to-Text: An overview of multimodal and generative artificial intelligence for education using topic modeling}} {{Beyond Text-to-Text: An overview of multimodal and generative artificial intelligence for education using topic modeling}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv (Cornell University)}{}{}{}.
+\newblock
+\begin{APACrefURL} \url{http://arxiv.org/abs/2409.16376} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.48550/arxiv.2409.16376} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Hutto and Gilbert(2014)]{hutto2014vader}
-C.~Hutto and Eric Gilbert.
-\newblock {VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text}.
-\newblock volume~8, pages 216--225, 5 2014.
-\newblock \doi{10.1609/icwsm.v8i1.14550}.
-\newblock URL \url{https://doi.org/10.1609/icwsm.v8i1.14550}.
+\bibitem [\protect \citeauthoryear {%
+Hutto%
+\ \BBA {} Gilbert%
+}{%
+Hutto%
+\ \BBA {} Gilbert%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+hutto2014vader}
+\APACinsertmetastar {%
+hutto2014vader}%
+\begin{APACrefauthors}%
+Hutto, C.%
+\BCBT {}\ \BBA {} Gilbert, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{5}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text}} {{VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the International AAAI Conference on Web and Social Media}{8}{1}{216--225}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1609/icwsm.v8i1.14550} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1609/icwsm.v8i1.14550} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Kovacevic et~al.(2024)Kovacevic, Holz, Gross, and Wampfler]{kovacs2024multimodal}
-Nikola Kovacevic, Christian Holz, Markus Gross, and Rafael Wampfler.
-\newblock On multimodal emotion recognition for human-chatbot interaction in the wild.
-\newblock pages 12--21, 11 2024.
-\newblock \doi{10.1145/3678957.3685759}.
-\newblock URL \url{https://doi.org/10.1145/3678957.3685759}.
+\bibitem [\protect \citeauthoryear {%
+Kovacevic%
+, Holz%
+, Gross%
+\BCBL {}\ \BBA {} Wampfler%
+}{%
+Kovacevic%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+kovacs2024multimodal}
+\APACinsertmetastar {%
+kovacs2024multimodal}%
+\begin{APACrefauthors}%
+Kovacevic, N.%
+, Holz, C.%
+, Gross, M.%
+\BCBL {}\ \BBA {} Wampfler, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{11}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On Multimodal Emotion Recognition for Human-Chatbot Interaction in the Wild} {On multimodal emotion recognition for human-chatbot interaction in the wild}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 26th International Conference on Multimodal Interaction} {Proceedings of the 26th international conference on multimodal interaction}\ (\BPG~12-21).
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/3678957.3685759} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3678957.3685759} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[LeCun et~al.(2015)LeCun, Bengio, and Hinton]{lecun2015deep}
-Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
-\newblock {Deep learning}.
-\newblock \emph{Nature}, 521\penalty0 (7553):\penalty0 436--444, 5 2015.
-\newblock \doi{10.1038/nature14539}.
-\newblock URL \url{https://doi.org/10.1038/nature14539}.
+\bibitem [\protect \citeauthoryear {%
+LeCun%
+, Bengio%
+\BCBL {}\ \BBA {} Hinton%
+}{%
+LeCun%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+lecun2015deep}
+\APACinsertmetastar {%
+lecun2015deep}%
+\begin{APACrefauthors}%
+LeCun, Y.%
+, Bengio, Y.%
+\BCBL {}\ \BBA {} Hinton, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{5}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Deep learning}} {{Deep learning}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature}{521}{7553}{436--444}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1038/nature14539} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1038/nature14539} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Liu and Li(2018)]{villegas2020proposal}
-Miao Liu and Lin Li.
-\newblock The construction of smart campus in universities and the practical innovation of student work.
-\newblock pages 154--157, 2018.
-\newblock \doi{10.1145/3277139.3278307}.
-\newblock URL \url{https://doi.org/10.1145/3277139.3278307}.
+\bibitem [\protect \citeauthoryear {%
+Ma%
+, Dou%
+, Zhu%
+, Zhong%
+\BCBL {}\ \BBA {} Wen%
+}{%
+Ma%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+ma2021one}
+\APACinsertmetastar {%
+ma2021one}%
+\begin{APACrefauthors}%
+Ma, Z.%
+, Dou, Z.%
+, Zhu, Y.%
+, Zhong, H.%
+\BCBL {}\ \BBA {} Wen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {One Chatbot Per Person: Creating Personalized Chatbots based on Implicit User Profiles} {One chatbot per person: Creating personalized chatbots based on implicit user profiles}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{CoRR}{abs/2108.09355}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2108.09355} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Ma et~al.(2021)Ma, Dou, Zhu, Zhong, and Wen]{ma2021one}
-Zhengyi Ma, Zhicheng Dou, Yutao Zhu, Hanxun Zhong, and Ji{-}Rong Wen.
-\newblock One chatbot per person: Creating personalized chatbots based on implicit user profiles.
-\newblock \emph{CoRR}, abs/2108.09355, 2021.
-\newblock URL \url{https://arxiv.org/abs/2108.09355}.
+\bibitem [\protect \citeauthoryear {%
+Mohammad%
+}{%
+Mohammad%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+mohammad2018obtaining}
+\APACinsertmetastar {%
+mohammad2018obtaining}%
+\begin{APACrefauthors}%
+Mohammad, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{{\APACmonth{07}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 {E}nglish Words} {Obtaining reliable human ratings of valence, arousal, and dominance for 20,000 {E}nglish words}.{\BBCQ}
+\newblock
+\BIn{} I.~Gurevych\ \BBA {} Y.~Miyao\ (\BEDS), \APACrefbtitle {Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)} {Proceedings of the 56th annual meeting of the association for computational linguistics (volume 1: Long papers)}\ (\BPGS\ 174--184).
+\newblock
+\APACaddressPublisher{Melbourne, Australia}{Association for Computational Linguistics}.
+\newblock
+\begin{APACrefURL} \url{https://aclanthology.org/P18-1017/} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.18653/v1/P18-1017} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Mohammad(2018)]{mohammad2018obtaining}
-Saif Mohammad.
-\newblock {Obtaining reliable human ratings of valence, arousal, and dominance for 20,000 English words}.
-\newblock 1 2018.
-\newblock \doi{10.18653/v1/p18-1017}.
-\newblock URL \url{https://doi.org/10.18653/v1/p18-1017}.
+\bibitem [\protect \citeauthoryear {%
+Neupane%
+\ \protect \BOthers {.}}{%
+Neupane%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+neupane2024questions}
+\APACinsertmetastar {%
+neupane2024questions}%
+\begin{APACrefauthors}%
+Neupane, S.%
+, Hossain, E.%
+, Keith, J.%
+, Tripathi, H.%
+, Ghiasi, F.%
+, Golilarz, N\BPBI A.%
+\BDBL {}Rahimi, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {From Questions to Insightful Answers: Building an Informed Chatbot for University Resources.} {From questions to insightful answers: Building an informed chatbot for university resources.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2405.08120} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Neupane et~al.(2024)Neupane, Hossain, Keith, Tripathi, Ghiasi, Golilarz, Amirlatifi, Mittal, and Rahimi]{neupane2024questions}
-Subash Neupane, Elias Hossain, Jason Keith, Himanshu Tripathi, Farbod Ghiasi, Noorbakhsh~Amiri Golilarz, Amin Amirlatifi, Sudip Mittal, and Shahram Rahimi.
-\newblock {From questions to insightful answers: Building an informed chatbot for university resources}.
-\newblock \emph{arXiv (Cornell University)}, 5 2024.
-\newblock \doi{10.48550/arxiv.2405.08120}.
-\newblock URL \url{https://arxiv.org/abs/2405.08120}.
+\bibitem [\protect \citeauthoryear {%
+Ranoliya%
+, Raghuwanshi%
+\BCBL {}\ \BBA {} Singh%
+}{%
+Ranoliya%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+ranoliya2017chatbot}
+\APACinsertmetastar {%
+ranoliya2017chatbot}%
+\begin{APACrefauthors}%
+Ranoliya, B\BPBI R.%
+, Raghuwanshi, N.%
+\BCBL {}\ \BBA {} Singh, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Chatbot for university related FAQs} {Chatbot for university related faqs}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI)} {2017 international conference on advances in computing, communications and informatics (icacci)}\ (\BPG~1525-1530).
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1109/ICACCI.2017.8126057} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1109/ICACCI.2017.8126057} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Ranoliya et~al.(2017)Ranoliya, Raghuwanshi, and Singh]{ranoliya2017chatbot}
-Bhavika~R. Ranoliya, Nidhi Raghuwanshi, and Sanjay Singh.
-\newblock Chatbot for university related faqs.
-\newblock In \emph{2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI)}, pages 1525--1530, 2017.
-\newblock \doi{10.1109/ICACCI.2017.8126057}.
-\newblock URL \url{https://doi.org/10.1109/ICACCI.2017.8126057}.
+\bibitem [\protect \citeauthoryear {%
+Ravi%
+\ \BBA {} Ravi%
+}{%
+Ravi%
+\ \BBA {} Ravi%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+tripathi2016survey}
+\APACinsertmetastar {%
+tripathi2016survey}%
+\begin{APACrefauthors}%
+Ravi, K.%
+\BCBT {}\ \BBA {} Ravi, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A survey on opinion mining and sentiment analysis: Tasks, approaches and applications} {A survey on opinion mining and sentiment analysis: Tasks, approaches and applications}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Knowledge-Based Systems}{89}{}{14-46}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1016/j.knosys.2015.06.015} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.knosys.2015.06.015} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Ravi and Ravi(2015)]{tripathi2016survey}
-Kumar Ravi and Vadlamani Ravi.
-\newblock A survey on opinion mining and sentiment analysis: Tasks, approaches and applications.
-\newblock \emph{Knowledge-Based Systems}, 89:\penalty0 14--46, 2015.
-\newblock ISSN 0950-7051.
-\newblock \doi{https://doi.org/10.1016/j.knosys.2015.06.015}.
-\newblock URL \url{https://www.sciencedirect.com/science/article/pii/S0950705115002336}.
+\bibitem [\protect \citeauthoryear {%
+Ribeiro%
+, Singh%
+\BCBL {}\ \BBA {} Guestrin%
+}{%
+Ribeiro%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+ribeiro2016why}
+\APACinsertmetastar {%
+ribeiro2016why}%
+\begin{APACrefauthors}%
+Ribeiro, M\BPBI T.%
+, Singh, S.%
+\BCBL {}\ \BBA {} Guestrin, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {"Why Should I Trust You?": Explaining the Predictions of Any Classifier} {"why should i trust you?": Explaining the predictions of any classifier}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining} {Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining}\ (\BPG~1135-1144).
+\newblock
+\APACaddressPublisher{New York, NY, USA}{Association for Computing Machinery}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/2939672.2939778} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2939672.2939778} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Ribeiro et~al.(2016)Ribeiro, Singh, and Guestrin]{ribeiro2016why}
-Marco~Tulio Ribeiro, Sameer Singh, and Carlos Guestrin.
-\newblock "why should i trust you?": Explaining the predictions of any classifier.
-\newblock pages 1135--1144, New York, NY, USA, 2016. Association for Computing Machinery.
-\newblock ISBN 9781450342322.
-\newblock \doi{10.1145/2939672.2939778}.
-\newblock URL \url{https://doi.org/10.1145/2939672.2939778}.
+\bibitem [\protect \citeauthoryear {%
+Sophia%
+\ \BBA {} Jacob%
+}{%
+Sophia%
+\ \BBA {} Jacob%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+sophia2021edubot}
+\APACinsertmetastar {%
+sophia2021edubot}%
+\begin{APACrefauthors}%
+Sophia, J.%
+\BCBT {}\ \BBA {} Jacob, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {EDUBOT-A Chatbot For Education in Covid-19 Pandemic and VQAbot Comparison} {Edubot-a chatbot for education in covid-19 pandemic and vqabot comparison}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2021 Second International Conference on Electronics and Sustainable Communication Systems (ICESC)} {2021 second international conference on electronics and sustainable communication systems (icesc)}\ (\BPG~1707-1714).
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1109/ICESC51422.2021.9532611} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1109/ICESC51422.2021.9532611} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Sophia and Jacob(2021)]{sophia2021edubot}
-J.Jinu Sophia and T.Prem Jacob.
-\newblock {EDUBOT-A Chatbot for Education in COVID-19 Pandemic and VQABot comparison}.
-\newblock 8 2021.
-\newblock \doi{10.1109/icesc51422.2021.9532611}.
-\newblock URL \url{https://doi.org/10.1109/icesc51422.2021.9532611}.
+\bibitem [\protect \citeauthoryear {%
+Villegas-Ch%
+, Arias-Navarrete%
+\BCBL {}\ \BBA {} Palacios-Pacheco%
+}{%
+Villegas-Ch%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+villegas2020proposal}
+\APACinsertmetastar {%
+villegas2020proposal}%
+\begin{APACrefauthors}%
+Villegas-Ch, W.%
+, Arias-Navarrete, A.%
+\BCBL {}\ \BBA {} Palacios-Pacheco, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Proposal of an Architecture for the Integration of a Chatbot with Artificial Intelligence in a Smart Campus for the Improvement of Learning} {Proposal of an architecture for the integration of a chatbot with artificial intelligence in a smart campus for the improvement of learning}.{\BBCQ}
+\newblock
+\BIn{} (\BVOL~12).
+\newblock
+\begin{APACrefURL} \url{https://www.mdpi.com/2071-1050/12/4/1500} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3390/su12041500} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Vistorte et~al.(2024)Vistorte, Deroncele-Acosta, Ayala, Barrasa, López-Granero, and Martí-González]{arsad2024integrating}
-Angel Olider~Rojas Vistorte, Angel Deroncele-Acosta, Juan Luis~Martín Ayala, Angel Barrasa, Caridad López-Granero, and Mariacarla Martí-González.
-\newblock {Integrating artificial intelligence to assess emotions in learning environments: a systematic literature review}.
-\newblock \emph{Frontiers in Psychology}, 15, 6 2024.
-\newblock \doi{10.3389/fpsyg.2024.1387089}.
-\newblock URL \url{https://doi.org/10.3389/fpsyg.2024.1387089}.
+\bibitem [\protect \citeauthoryear {%
+Vistorte%
+\ \protect \BOthers {.}}{%
+Vistorte%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+arsad2024integrating}
+\APACinsertmetastar {%
+arsad2024integrating}%
+\begin{APACrefauthors}%
+Vistorte, A\BPBI O\BPBI R.%
+, Deroncele-Acosta, A.%
+, Ayala, J\BPBI L\BPBI M.%
+, Barrasa, A.%
+, López-Granero, C.%
+\BCBL {}\ \BBA {} Martí-González, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{6}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Integrating artificial intelligence to assess emotions in learning environments: a systematic literature review}} {{Integrating artificial intelligence to assess emotions in learning environments: a systematic literature review}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Psychology}{15}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.3389/fpsyg.2024.1387089} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fpsyg.2024.1387089} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Yadollahi et~al.(2017)Yadollahi, Shahraki, and Zaiane]{yadollahi2018current}
-Ali Yadollahi, Ameneh~Gholipour Shahraki, and Osmar~R. Zaiane.
-\newblock Current state of text sentiment analysis from opinion to emotion mining.
-\newblock \emph{ACM Comput. Surv.}, 50\penalty0 (2), May 2017.
-\newblock ISSN 0360-0300.
-\newblock \doi{10.1145/3057270}.
-\newblock URL \url{https://doi.org/10.1145/3057270}.
+\bibitem [\protect \citeauthoryear {%
+Yadollahi%
+, Shahraki%
+\BCBL {}\ \BBA {} Zaiane%
+}{%
+Yadollahi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+yadollahi2018current}
+\APACinsertmetastar {%
+yadollahi2018current}%
+\begin{APACrefauthors}%
+Yadollahi, A.%
+, Shahraki, A\BPBI G.%
+\BCBL {}\ \BBA {} Zaiane, O\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{{\APACmonth{05}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Current State of Text Sentiment Analysis from Opinion to Emotion Mining} {Current state of text sentiment analysis from opinion to emotion mining}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM Comput. Surv.}{50}{2}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/3057270} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3057270} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Yang et~al.(2016)Yang, Yang, Dyer, He, Smola, and Hovy]{yang2016hierarchical}
-Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, and Eduard Hovy.
-\newblock Hierarchical attention networks for document classification.
-\newblock In Kevin Knight, Ani Nenkova, and Owen Rambow, editors, \emph{Proceedings of the 2016 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies}, pages 1480--1489, San Diego, California, June 2016. Association for Computational Linguistics.
-\newblock \doi{10.18653/v1/N16-1174}.
-\newblock URL \url{https://aclanthology.org/N16-1174/}.
+\bibitem [\protect \citeauthoryear {%
+Yang%
+\ \protect \BOthers {.}}{%
+Yang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+yang2016hierarchical}
+\APACinsertmetastar {%
+yang2016hierarchical}%
+\begin{APACrefauthors}%
+Yang, Z.%
+, Yang, D.%
+, Dyer, C.%
+, He, X.%
+, Smola, A.%
+\BCBL {}\ \BBA {} Hovy, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Hierarchical Attention Networks for Document Classification} {Hierarchical attention networks for document classification}.{\BBCQ}
+\newblock
+\BIn{} K.~Knight, A.~Nenkova\BCBL {}\ \BBA {} O.~Rambow\ (\BEDS), \APACrefbtitle {Proceedings of the 2016 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies} {Proceedings of the 2016 conference of the north {A}merican chapter of the association for computational linguistics: Human language technologies}\ (\BPGS\ 1480--1489).
+\newblock
+\APACaddressPublisher{San Diego, California}{Association for Computational Linguistics}.
+\newblock
+\begin{APACrefURL} \url{https://aclanthology.org/N16-1174/} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.18653/v1/N16-1174} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Yasuda et~al.(2021)Yasuda, Shiramatsu, Kawamura, Matsunaga, Murakami, and Aoshima]{yasuda2021designing}
-Kento Yasuda, Shun Shiramatsu, Ikue Kawamura, Yumi Matsunaga, Takuya Murakami, and Hidekazu Aoshima.
-\newblock Designing a chatbot system for recommending college students to counseling and collecting dialogue data.
-\newblock In \emph{Proceedings of the 9th International Conference on Human-Agent Interaction}, HAI '21, pages 358--363, New York, NY, USA, 2021. Association for Computing Machinery.
-\newblock ISBN 9781450386203.
-\newblock \doi{10.1145/3472307.3484655}.
-\newblock URL \url{https://doi.org/10.1145/3472307.3484655}.
+\bibitem [\protect \citeauthoryear {%
+Yasuda%
+\ \protect \BOthers {.}}{%
+Yasuda%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+yasuda2021designing}
+\APACinsertmetastar {%
+yasuda2021designing}%
+\begin{APACrefauthors}%
+Yasuda, K.%
+, Shiramatsu, S.%
+, Kawamura, I.%
+, Matsunaga, Y.%
+, Murakami, T.%
+\BCBL {}\ \BBA {} Aoshima, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Designing a Chatbot System for Recommending College Students to Counseling and Collecting Dialogue Data} {Designing a chatbot system for recommending college students to counseling and collecting dialogue data}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 9th International Conference on Human-Agent Interaction} {Proceedings of the 9th international conference on human-agent interaction}\ (\BPG~358-363).
+\newblock
+\APACaddressPublisher{New York, NY, USA}{Association for Computing Machinery}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/3472307.3484655} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3472307.3484655} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Yin et~al.(2019)Yin, Chen, Zhou, and Yu]{yin2019deep}
-Junjie Yin, Zixun Chen, Kelai Zhou, and Chongyuan Yu.
-\newblock A deep learning based chatbot for campus psychological therapy.
-\newblock \emph{CoRR}, abs/1910.06707, 2019.
-\newblock URL \url{http://arxiv.org/abs/1910.06707}.
+\bibitem [\protect \citeauthoryear {%
+Yin%
+, Chen%
+, Zhou%
+\BCBL {}\ \BBA {} Yu%
+}{%
+Yin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+yin2019deep}
+\APACinsertmetastar {%
+yin2019deep}%
+\begin{APACrefauthors}%
+Yin, J.%
+, Chen, Z.%
+, Zhou, K.%
+\BCBL {}\ \BBA {} Yu, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Deep Learning Based Chatbot for Campus Psychological Therapy} {A deep learning based chatbot for campus psychological therapy}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{CoRR}{abs/1910.06707}{}{}.
+\newblock
+\begin{APACrefURL} \url{http://arxiv.org/abs/1910.06707} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Yin et~al.(2024)Yin, Zhang, Xie, Yu, Zhao, and Zhang]{yin2024effects}
-Y.~Yin, Z.~Zhang, H.~Xie, L.~Yu, R.~Zhao, and Y.~Zhang.
-\newblock Effects of affective chatbot feedback on learners' emotions and motivation in an online learning environment.
-\newblock \emph{International Journal of Educational Technology in Higher Education}, 21\penalty0 (1):\penalty0 24, 2024.
-\newblock \doi{10.1186/s41239-024-00480-3}.
+\bibitem [\protect \citeauthoryear {%
+Yin%
+, Xu%
+, Pan%
+\BCBL {}\ \BBA {} Hu%
+}{%
+Yin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+yin2024effects}
+\APACinsertmetastar {%
+yin2024effects}%
+\begin{APACrefauthors}%
+Yin, J.%
+, Xu, H.%
+, Pan, Y.%
+\BCBL {}\ \BBA {} Hu, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{{\APACmonth{04}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Effects of different {AI}-driven {Chatbot} feedback on learning outcomes and brain activity} {Effects of different {AI}-driven {Chatbot} feedback on learning outcomes and brain activity}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{npj Science of Learning}{10}{1}{17}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1038/s41539-025-00311-8} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1038/s41539-025-00311-8} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem[Young et~al.(2018)Young, Hazarika, Poria, and Cambria]{young2018recent}
-Tom Young, Devamanyu Hazarika, Soujanya Poria, and Erik Cambria.
-\newblock Recent trends in deep learning based natural language processing [review article].
-\newblock \emph{IEEE Computational Intelligence Magazine}, 13\penalty0 (3):\penalty0 55--75, 2018.
-\newblock \doi{10.1109/MCI.2018.2840738}.
-\newblock URL \url{https://doi.org/10.1109/MCI.2018.2840738}.
+\bibitem [\protect \citeauthoryear {%
+Young%
+, Hazarika%
+, Poria%
+\BCBL {}\ \BBA {} Cambria%
+}{%
+Young%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+young2018recent}
+\APACinsertmetastar {%
+young2018recent}%
+\begin{APACrefauthors}%
+Young, T.%
+, Hazarika, D.%
+, Poria, S.%
+\BCBL {}\ \BBA {} Cambria, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Recent Trends in Deep Learning Based Natural Language Processing [Review Article]} {Recent trends in deep learning based natural language processing [review article]}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Computational Intelligence Magazine}{13}{3}{55-75}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1109/MCI.2018.2840738} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1109/MCI.2018.2840738} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

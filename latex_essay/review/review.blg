@@ -1,56 +1,56 @@
 This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: review.aux
-The style file: plainnat.bst
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
-Warning--I'm ignoring yin2019deep's extra "url" field
---line 529 of file references.bib
-Warning--empty booktitle in hutto2014vader
-Warning--can't use both volume and number fields in hutto2014vader
-Warning--empty booktitle in kovacs2024multimodal
-Warning--empty journal in villegas2020proposal
-Warning--empty booktitle in mohammad2018obtaining
-Warning--empty booktitle in ribeiro2016why
-Warning--empty booktitle in sophia2021edubot
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
 You've used 24 entries,
-            2773 wiz_defined-function locations,
-            785 strings with 11763 characters,
-and the built_in function-call counts, 13742 in all, are:
-= -- 1266
-> -- 893
-< -- 15
-+ -- 298
-- -- 274
-* -- 1197
-:= -- 2123
-add.period$ -- 122
+            6951 wiz_defined-function locations,
+            1457 strings with 17644 characters,
+and the built_in function-call counts, 57586 in all, are:
+= -- 7006
+> -- 554
+< -- 2877
++ -- 2969
+- -- 48
+* -- 3861
+:= -- 10501
+add.period$ -- 113
 call.type$ -- 24
-change.case$ -- 162
-chr.to.int$ -- 24
-cite$ -- 55
-duplicate$ -- 584
-empty$ -- 975
-format.name$ -- 306
-if$ -- 2914
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 23
-newline$ -- 174
-num.names$ -- 100
-pop$ -- 289
+change.case$ -- 440
+chr.to.int$ -- 0
+cite$ -- 48
+duplicate$ -- 1600
+empty$ -- 2163
+format.name$ -- 899
+if$ -- 10699
+int.to.chr$ -- 0
+int.to.str$ -- 72
+missing$ -- 0
+newline$ -- 731
+num.names$ -- 198
+pop$ -- 1084
 preamble$ -- 1
-purify$ -- 138
+purify$ -- 120
 quote$ -- 0
-skip$ -- 483
+skip$ -- 3414
 stack$ -- 0
-substring$ -- 395
-swap$ -- 114
-text.length$ -- 9
+substring$ -- 3295
+swap$ -- 949
+text.length$ -- 133
 text.prefix$ -- 0
-top$ -- 0
-type$ -- 264
-warning$ -- 7
-while$ -- 101
+top$ -- 1
+type$ -- 2496
+warning$ -- 0
+while$ -- 345
 width$ -- 0
-write$ -- 410
-(There were 8 warnings)
+write$ -- 945
