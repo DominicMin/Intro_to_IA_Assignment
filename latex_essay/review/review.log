@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.25)  9 JUN 2025 15:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.25)  9 JUN 2025 16:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -126,7 +126,15 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip91
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count268
-) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (c:/texlive/2024/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+ (c:/texlive/2024/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (HMM)
+ (c:/texlive/2024/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count269
+) 
+)) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
  (c:/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
@@ -151,11 +159,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count269
+\c@section@level=\count270
 )
 \@linkdim=\dimen149
-\Hy@linkcounter=\count270
-\Hy@pagecounter=\count271
+\Hy@linkcounter=\count271
+\Hy@pagecounter=\count272
  (c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -163,7 +171,7 @@ Now handling font encoding PD1 ...
 ) (c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count272
+\Hy@SavedSpaceFactor=\count273
  (c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -191,13 +199,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 ))
-\c@Hy@tempcnt=\count273
+\c@Hy@tempcnt=\count274
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen150
  (c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 )
-\Fld@menulength=\count274
+\Fld@menulength=\count275
 \Field@Width=\dimen151
 \Fld@charsize=\dimen152
 Package hyperref Info: Hyper figures OFF on input line 6063.
@@ -211,20 +219,20 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count275
-\c@Item=\count276
-\c@Hfootnote=\count277
+\Hy@abspage=\count276
+\c@Item=\count277
+\c@Hfootnote=\count278
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
-\Fld@listcount=\count278
-\c@bookmark@seq@number=\count279
+\Fld@listcount=\count279
+\c@bookmark@seq@number=\count280
 \Hy@SectionHShift=\skip92
 )
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 38.
+(hyperref)                setting the option has no effect on input line 40.
 
 (c:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
@@ -240,12 +248,12 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen160
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count280
-\c@continuedfloat=\count281
+\c@caption@flags=\count281
+\c@continuedfloat=\count282
 Package caption Info: hyperref package is loaded.
 )) (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count282
+\l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box51
 ) (./review.aux)
 \openout1 = `review.aux'.
@@ -314,16 +322,16 @@ Package color Info: Driver file: pdftex.def on input line 149.
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
  (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count283
+\scratchcounter=\count284
 \scratchdimen=\dimen161
 \scratchbox=\box52
-\nofMPsegments=\count284
-\nofMParguments=\count285
+\nofMPsegments=\count285
+\nofMParguments=\count286
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count286
+\MPscratchCnt=\count287
 \MPscratchDim=\dimen162
-\MPnumerator=\count287
-\makeMPintoPDFobject=\count288
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
 \everyMPtoPDFconversion=\toks22
 )) (c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 4.
@@ -346,19 +354,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 
-] [2{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3] [4] [5] [6] [7] [8] [9]
-Overfull \hbox (8.85773pt too wide) in paragraph at lines 408--414
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.65 
+      [1{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2] [3] [4] [5] [6] [7] [8]
+Overfull \hbox (8.85773pt too wide) in paragraph at lines 409--415
 \T1/cmr/m/n/12 There are some core tech-niques in-clud-ing Tech-niques span lexicon-based (e.g., VADER
  []
 
-[10] (./review.bbl (./review.brf)
+[9] (./review.bbl (./review.brf)
 \tf@brf=\write5
 \openout5 = `review.brf'.
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 20.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 12.
  (c:/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [11] [12] [13]) [14] (./review.aux)
+) [10] [11] [12]) [13] 
+enddocument/afterlastpage: lastpage setting LastPage.
+(./review.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -366,21 +381,21 @@ L3 programming layer <2024-02-20>
 Package rerunfilecheck Info: File `review.out' has not changed.
 (rerunfilecheck)             Checksum: 4A088424C75003C2380108DF10315F9E;4423.
 Package rerunfilecheck Info: File `review.brf' has not changed.
-(rerunfilecheck)             Checksum: 7C0A16F43C9A1362D9CF00FD2DD30C96;1616.
+(rerunfilecheck)             Checksum: 5D972446F45EEC2BE5F66A6E77DCF21F;1614.
  ) 
 Here is how much of TeX's memory you used:
- 11461 strings out of 474116
- 182318 string characters out of 5747716
+ 11543 strings out of 474116
+ 184525 string characters out of 5747716
  1940190 words of memory out of 5000000
- 33640 multiletter control sequences out of 15000+600000
+ 33713 multiletter control sequences out of 15000+600000
  567531 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,12n,107p,525b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 105i,12n,107p,525b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on review.pdf (14 pages, 220492 bytes).
+Output written on review.pdf (14 pages, 221375 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
- 302 compressed objects within 4 object streams
- 62 named destinations out of 1000 (max. 500000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
+ 61 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 

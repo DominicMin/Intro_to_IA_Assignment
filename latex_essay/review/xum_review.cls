@@ -13,7 +13,9 @@
 \RequirePackage{parskip}
 \RequirePackage{url}
 \RequirePackage{tocloft}
-\RequirePackage[sort&compress]{natbib}
+\RequirePackage[authoryear,round,sort&compress]{natbib}
+\RequirePackage{etoolbox}
+\RequirePackage{lastpage}
 \RequirePackage[colorlinks=true,linkcolor=black,citecolor=black,urlcolor=cyan,backref=page]{hyperref}
 
 % Citation style: superscript with square brackets
@@ -50,7 +52,7 @@
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[C]{XIAMEN UNIVERSITY MALAYSIA}
-\fancyfoot[C]{\thepage}
+\fancyfoot[C]{Page \thepage\ of \pageref{LastPage}}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
@@ -58,7 +60,7 @@
 \fancypagestyle{plain}{
     \fancyhf{}
     \fancyhead[C]{XIAMEN UNIVERSITY MALAYSIA}
-    \fancyfoot[C]{\thepage}
+    \fancyfoot[C]{}
     \renewcommand{\headrulewidth}{0pt}
     \renewcommand{\footrulewidth}{0pt}
 }
@@ -91,7 +93,7 @@
 \renewcommand{\cftsubsubsecleader}{\cftdotfill{\cftdotsep}}
 
 % 引用格式设置
-\bibliographystyle{unsrtnat}
+\bibliographystyle{plainnat}
 \renewcommand{\refname}{References}
 
 % 将References添加到目录
@@ -121,5 +123,10 @@
     textfont=it,
     margin=10pt
 }
+
+% Patch natbib to have a numbered bibliography with author-year citations in text
+\makeatletter
+\patchcmd{\NAT@thebibliography}{\@biblabel{\@empty}}{\@biblabel{[\@arabic\c@NAT@ctr]}}{}{}
+\makeatother
 
 \endinput 
