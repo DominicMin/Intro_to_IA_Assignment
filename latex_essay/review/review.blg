@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: review.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--I'm ignoring yin2019deep's extra "url" field
+--line 529 of file references.bib
+Warning--empty booktitle in hutto2014vader
+Warning--can't use both volume and number fields in hutto2014vader
+Warning--empty booktitle in kovacs2024multimodal
+Warning--empty journal in villegas2020proposal
+Warning--empty booktitle in mohammad2018obtaining
+Warning--empty booktitle in ribeiro2016why
+Warning--empty booktitle in sophia2021edubot
+You've used 24 entries,
+            2773 wiz_defined-function locations,
+            785 strings with 11763 characters,
+and the built_in function-call counts, 13742 in all, are:
+= -- 1266
+> -- 893
+< -- 15
++ -- 298
+- -- 274
+* -- 1197
+:= -- 2123
+add.period$ -- 122
+call.type$ -- 24
+change.case$ -- 162
+chr.to.int$ -- 24
+cite$ -- 55
+duplicate$ -- 584
+empty$ -- 975
+format.name$ -- 306
+if$ -- 2914
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 23
+newline$ -- 174
+num.names$ -- 100
+pop$ -- 289
+preamble$ -- 1
+purify$ -- 138
+quote$ -- 0
+skip$ -- 483
+stack$ -- 0
+substring$ -- 395
+swap$ -- 114
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 264
+warning$ -- 7
+while$ -- 101
+width$ -- 0
+write$ -- 410
+(There were 8 warnings)
