@@ -1,0 +1,446 @@
+\documentclass{xum_review}
+
+
+\begin{document}
+
+
+
+\tableofcontents
+\newpage
+\setcounter{page}{1}
+
+\section{Introduction}
+As Charles Darwin once said, "It is not the strongest of the species that
+survive, nor the most intelligent, but the one most responsive to change." We
+are all living in an ever-changing world. No matter how much we wish to hold on
+to the familiar and comfortable environment around us, life always pushes us
+onto new and exciting journeys. Sometimes, we may find it hard to get used to a
+new environment and want to find helpful tools to help us adapt. 
+
+One such tool is the sentiment-aware chatbot. When embedded in a campus context,
+such a chatbot could not only provide timely information about the campus with
+high accuracy, but also provide suitable emotional support for users. This
+combination of sentimental analysis and campus context chatbot deserves deeper
+exploration. Therefore, this review investigates the landscape of campus
+chatbots and the sentiment analysis technology. To guide our systematic review,
+we constructed the following research questions:
+\begin{itemize}
+    \item RQ1: What is the current state of chatbots in campus contexts?
+    \item RQ2: What are the current technical approaches to sentiment
+    analysis?
+    \item RQ3: What are the impacts of sentiment-aware chatbots on user
+    experience?
+\end{itemize}
+
+To attain a focused and manageable scope for this literature review, we set the
+inclusion criteria for studies. Studies were considered for inclusion if they
+were peer-reviewed journal articles or full conference papers published between
+2014 and 2024, written in any language (with priority given to English), and
+directly focused on chatbot or conversational-agent technologies and/or
+sentiment-analysis techniques. We excluded abstracts, posters, dissertations,
+theses, commentaries, editorials, letters to the editor, and review articles, as
+well as studies that only presented theoretical frameworks. Papers focusing on
+applications outside the scope of conversational agents or sentiment
+analysis, such as purely predictive analytics in finance, healthcare, or other
+non-conversational domains--were also excluded.
+
+\section{Landscape of Campus Chatbots}
+In order to gain an in-depth understanding of the current state of chatbots in
+universities, we have been conducting a comprehensive analysis of academic
+literature. Particular emphasis has been placed on research findings that are
+dedicated to chatbots in the university context. Research indicates that
+chatbots have the potential to revolutionize campus technology, which frequently
+lags behind the times. Additionally, they can confer multiple advantages to the
+overall academic ecosystem, benefiting both students and faculty members alike
+\citep{dibitonto2018chatbot}.
+
+With the rapid development of artificial intelligence and natural language
+processing technologies, educational chatbots have evolved into a diverse range
+of specialized tools in academic settings. Modern educational chatbots can be
+roughly classified based on their core functions and technical foundations.
+These categories include teaching chatbots for academic assistance, emotional
+support chatbots for promoting student well-being, and campus service chatbots for
+facilitating campus interactions.
+
+\subsection{Academic Assistance Chatbots}
+
+The traditional teaching approach based on master classes or techniques, which
+places students in a passive position, has been proven to be an inefficient
+method in the learning process. The application of technology in universities
+helps to foster student interest, and enhance their engagement in their
+own educational development. For this reason, the application of chatbots has
+been brought into consideration. These techniques simulate the human thought
+process by leveraging structures that encapsulate the knowledge and experience
+of human experts \citep{villegas2020proposal}. One
+example of academic assistance chatbot is EDUBOT. EDUBOT is an educational
+chatbot developed by Sathyabama Institute of Science and Technology in India,
+aiming to address the issue of the lack of teacher guidance during the online
+learning of primary and secondary school students during the COVID-19 pandemic.
+The system is built on the Google Dialogflow platform for semantic
+understanding, combined with RNN models for language processing, and deployed on
+the web via the Flask framework, supporting integration with mainstream social
+platforms such as Telegram and Messenger. EDUBOT offers question-and-answer
+services, a math calculator, demonstration videos, and the ability to save
+history records. It is designed to be simple and user-friendly, targeting
+students from grades 1 to 5, and provides 24-hour self-service answers \citep{sophia2021edubot}.
+
+\subsection{Emotional Support Chatbots}
+
+In Japan, due to COVID-19, the number of college students encountering
+challenges has been on the rise. However, despite the availability of on-campus
+counseling services, many students hesitate to use them. This reluctance is
+primarily attributed to psychological barriers associated with seeking help
+\citep{yasuda2021designing}. This highlights the essential role that emotional support
+chatbots can play on campus, providing a low-barrier means for students to cope
+with mental health challenges. \citet{yin2019deep} proposed Evebot,
+an innovative sequence-to-sequence (Seq2Seq) based generative conversational
+system designed for detecting negative emotions and preventing depression
+through positively framed responses. The system integrates several deep learning
+components, including a Bi-LSTM model for identifying negative user emotions, a
+psychological counseling corpus, an anti-language Seq2Seq network, and a maximum
+mutual information (MMI) model to enhance dialogue relevance.
+
+Given that adolescents often avoid expressing negative emotions in face-to-face
+settings, traditional methods of emotional support may be ineffective.
+Therefore, Evebot leverages virtual platforms to identify early signs of
+depression or anxiety, manage emotional states, and prevent the escalation of
+mental health issues. In a one-month field study conducted on a campus platform,
+the system demonstrated superior effectiveness in improving users' emotional
+well-being compared to public chatbot baselines.
+
+\subsection{Campus Service Chatbots}
+Colleges invest a great deal of time and resources in optimizing their websites
+to more effectively convey the key information about the institution and campus
+resources. The institution's website functions as its "virtual image,"
+projecting the specific face it wishes to present to the online community,
+including prospective and current students, faculty and staff, parents, and
+general users. Although these websites provide comprehensive information, they
+lack the capability to offer personalized responses to users' inquiries. For
+example, when a prospective student needs to learn the specifics of submitting
+ACT scores, wishes to ascertain tuition and fee amounts, or is uncertain about
+which parent's information to include in the FAFSA application, they must
+navigate through multiple web pages to locate the answers. This process often
+takes a considerable amount of time. However, sometimes due to unclear
+information or the lack of personal interaction, users' questions remain
+unanswered \citep{neupane2024questions}. Therefore, a chatbot can be a useful and
+effective solution for students, providing them with immediate and up-to-date
+information. "Lisa" is one example of a campus service chatbot. "Lisa"
+is a chatbot designed to help students solve problems in their campus life by
+providing information and services, answering questions 24 hours a day. 
+
+Information provided by campus service chatbots is often generic, such as details
+about university facilities, admissions processes, and course offerings.
+However, chatbot assistants can be utilized in various contexts throughout the
+academic year to address specific student needs. For instance, during the
+application process, a chatbot can assist prospective students by guiding them
+through enrollment procedures. The primary goal is to enable students to access
+information quickly and efficiently, eliminating the need to search through
+multiple web pages for answers to frequently asked questions. A chatbot serves
+as a shortcut for obtaining information in a more accessible and natural manner.
+It functions not only as an excellent guide for newcomers navigating the initial
+steps into the university environment but also as a valuable resource throughout
+students' entire campus experience \citep{dibitonto2018chatbot}. 
+
+Many students do not attend classes every day. For them, it is very important to
+be able to access updated information remotely. This information can be either
+response-based (replies to specific requests) or push-based, such as relevant
+updates and notifications to remind students of upcoming deadlines.
+Response-based information typically provided by chatbots includes university
+facilities, upcoming events, and academic information \citep{ranoliya2017chatbot}.
+In essence, Campus Service Chatbots function as intuitive, always-available
+digital assistants that enhance students' access to institutional support
+throughout their academic journey.
+
+\section{Technical Approaches to Sentiment Analysis}
+Sentiment analysis, or opinion mining, is an active area of study in the field
+of natural language processing that analyzes people's opinions, sentiments,
+evaluations, attitudes, and emotions via the computational treatment of
+subjectivity in text. In this section, we will discuss the technical approaches
+to sentiment analysis by looking into three common methods.
+
+\subsection{Lexicon Methods}
+
+Lexicon methods use a precompiled "sentiment lexicon" plus linguistic rules to
+assign an overall sentiment score to a sentence or document. A sentiment lexicon
+is a list of lexical features (e.g., words) which are generally labeled
+according to their semantic orientation as either positive or negative. Although
+one of the most reliable ways to create a sentiment lexicon is to create it
+manually, it is also one of the most time-consuming. Therefore, most of the
+research on sentiment analysis relies heavily on pre-existing lexicons. Two main
+kinds of lexicons exist currently: Polarity-based lexicons  and Valence-based
+lexicons \citep{hutto2014vader}.
+
+Polarity-based lexicons are lexicons in which words are categorized into binary
+classes according to their context-free semantic orientation. They are
+straightforward to implement and enables low computational complexity. At the
+same time, they cannot distinguish between degrees of positivity--for example,
+they would score `excellent' and `good' equally--and they require great effort to
+maintain \citep{tripathi2016survey}. Some representative Polarity-based
+lexicons are LIWC (Linguistic Inquiry and Word Count), GI (General Inquirer) and
+Hu-Liu04. Valence-based lexicons are lexicons in which words are associated with
+valence scores for sentiment intensity. By capturing fine-grained differences in
+sentiment intensity by assigning each entry a continuous numerical score, they
+allow models to distinguish between `excellent' and `good'. Moreover, for
+multi-meaning words, lexicons like SentiWordNet score each separately, ensuring
+that a word's positive or negative intensity reflects its specific sense in
+context. However, Valence-based lexicons also have the disadvantage of being
+difficult to maintain \citep{yadollahi2018current} and ambiguous scoring in
+continuous context. Some representative Valence-based lexicons are
+ANEW (Affective Norms for English Words), SentiWordNet, SenticNet and NRC
+VAD \citep{mohammad2018obtaining}. 
+
+VADER (Valence Aware Dictionary for sEntiment Reasoning) is a sentiment analysis
+tool that is able to capture both the polarity and intensity of sentiment.
+Research has shown that the VADER lexicon performs exceptionally well in the
+social media domain. Comparison of VADER with LIWC, GI, ANEW, SWN, SCN, WSD and
+more tools shows that VADER performs better than those eleven highly-regarded
+sentiment analysis tools \citep{hutto2014vader}.
+
+\subsection{Machine-Learning Methods}
+
+To address the time-consuming and hard-to-maintain issue of Lexicon methods, we
+turn to Machine-Learning methods. Rather than relying on a manually created list
+of sentiment-bearing words and complex linguistic rules, Machine-Learning
+approaches build predictive models directly from labeled data. These methods
+train classifiers--such as SVM or Naive Bayes--on labeled data using features like
+n-grams and word embeddings, learning patterns that correspond to positive,
+negative, and neutral sentiments. Once trained, the model assigns sentiment
+scores to new texts without requiring manual lexicon updates. 
+
+The benefits of applying machine learning are obvious. It is capable of learning
+semantic features automatically and is better at capturing emotions in a long
+context. However, its training demands high computational resources (e.g.,
+GPU/TPU) \citep{young2018recent} and it struggles to capture long-distance
+dependencies and contextual meanings, and cannot automatically extract deep
+semantic information \citep{ribeiro2016why}. 
+
+\subsection{Deep-Learning Methods}
+
+Different from Machine-Learning Methods which rely on manually crafted features
+and shallow architectures, Deep-Learning Methods utilize multilayer neural
+networks to automatically learn hierarchical representations from raw text data.
+These neural networks are inspired by the structure of the biological brain.
+Similar to the learning process of a biological brain, neural networks can learn
+by adjusting the connection weights between neurons, which are information
+processing units organized in layers \citep{lecun2015deep}.
+
+Based on network topologies, neural networks can generally be categorized into
+feedforward neural networks, recurrent or recursive neural networks and the
+combination of the two. In feedforward neural networks, data flows from the
+input layer through one or more hidden layers to the output layer, with no
+recurrent or feedback connections in between \citep{heaton-2017}. Typical types of
+feedforward neural networks are CNN (Convolutional Neural Network), MLP
+(Multilayer Perceptron) and Autoencoder. Recurrent neural networks (RNN) and
+recursive neural networks introduce a recurrent connection in the hidden layer
+between time step t and t-1, so that the network can retain the previous time
+step's state, enabling it to model sequential data. 
+
+Emerging as a powerful machine-learning technique and producing extraordinary
+results in many application domains, deep learning has also shown great results
+when applied to sentiment analysis, which includes learning automatically
+without manual feature engineering and handling more complex sentence structures
+such as negation and contrast better \citep{yang2016hierarchical}. On the other hand, due
+to the black-box nature of deep learning models, interpretability is reduced,
+making it difficult to identify which words or sentence segments the model
+focuses on internally.
+
+\section{Sentiment Analysis and Personalization Strategies in Educational Chatbots}
+
+\subsection{Overview}
+In recent years, the application of sentiment analysis technology in educational
+chatbots has gradually become a research hotspot, especially with the
+development of multimodal sentiment recognition systems, which have
+significantly improved AI's ability to understand learners' emotional states.
+Traditional sentiment recognition primarily relies on textual information, which
+has limitations in accurately identifying complex emotions, making it difficult
+to achieve precise emotional adaptation in educational settings. 
+
+According to \citet{heilala2024overview}, current educational
+chatbots still primarily rely on text-generation models for sentiment analysis,
+such as ChatGPT or similar large language models for interaction, while research
+on integrating multimodal information such as speech, images, and physiological
+signals remains limited. However, multimodal information (such as voice tone,
+facial expressions, and behavioral responses) can enhance AI's ability to
+understand, but its application in the educational field is still in its early
+stages. The study emphasizes that multimodal emotion recognition will be an
+important direction for the future development of educational AI, but its
+implementation still faces challenges such as model complexity and the
+difficulty of data collection and integration. 
+
+\citet{kovacs2024multimodal} further implemented a multimodal
+emotion recognition framework based on text, audio, and visual data in an actual
+system to enhance emotion recognition capabilities in human-computer
+interaction. The results showed that the system significantly improved the
+accuracy of chatbots in recognizing user emotions and dynamically adjusted
+response strategies based on emotional signals from different modalities. Such
+systems are highly adaptable to educational scenarios, such as building virtual
+teachers with emotional perception capabilities or question-answering robots,
+thereby enhancing the personalization and humanization of learning interactions. 
+
+In summary, research on emotion analysis in educational chatbots is evolving
+from single-text modalities toward multimodal fusion. Multimodal emotion
+recognition not only helps improve the understanding of deeper emotional states
+but also provides technical support for the implementation of personalized
+teaching strategies, signalling the development of educational AI toward smarter
+and more human-centric directions.  
+
+\subsection{Emotion Recognition Usages in Chatbots}
+
+With the development of artificial intelligence technology, chatbots in the
+education field have gradually gained the ability to dynamically adjust teaching
+strategies based on learners' emotional states.
+
+\citet{ma2021one} proposed a method for automatically constructing
+implicit user profiles based on historical dialog data. This method uses a
+Transformer model to learn users' language styles and preferences from their
+historical responses and construct dynamic user profiles. By introducing a
+key-value memory network, the system can process current input. 
+
+In addition to processing users' real-time emotions and providing flexible
+responses, higher-level strategies include combining users' historical learning
+records to generate more customized responses. After analyzing the learning
+capabilities of users' multi-round dialog data, the system can generate an AI
+profile of the user, storing changes in the user's learning state as "long-term
+memory" to predict their potential behavior, preferences, and psychological
+state, thereby providing more customized responses.
+
+According to \citet{baradari2025neurochatneuroadaptiveaichatbot}, the NeuroChat system is a
+neuro-adaptive AI tutor, which combines real-time electroencephalogram (EEG)
+monitoring with generative AI technology. The system uses wearable EEG devices
+to monitor learners' cognitive levels in real time and dynamically adjust the
+complexity and pace of instructional content based on cognitive levels, thereby
+achieving a personalized learning experience. Experimental results show that the
+NeuroChat system has a significant effect on improving learners' cognitive and
+subjective engagement levels. 
+
+\subsection{The Role and Challenges of Emotion Recognition Chatbots in Educational Settings}
+
+As artificial intelligence technology continues to mature, emotion recognition
+chatbots are increasingly being applied in educational settings, demonstrating
+significant value as teaching aids. According to \citet{arsad2024integrating},
+artificial intelligence emotion recognition technology
+holds promising application prospects in learning environments, enabling
+real-time monitoring and assessment of learners' learning states, thereby
+providing more personalized support and intervention for the learning process.
+The integration of this technology helps enhance learners' motivation, emotional
+regulation abilities, and ultimately their learning outcomes.
+
+\subsubsection{Advantages of Chatbots in the Educational Field}
+
+Specifically, emotion recognition chatbots have three significant advantages.
+First, \citet{siregar2024ai} point out that such systems can
+serve as virtual tutoring assistants, providing learners with immediate feedback
+and cognitive support through real-time dialog to enhance learning initiative. 
+
+Secondly, by continuously recording and analyzing learners' emotional states
+during interactions through AI systems, teachers can adjust teaching methods and
+pacing to achieve personalized instruction. 
+
+Thirdly, AI chatbots can maintain learners' learning pace without teacher
+intervention, thereby enhancing their self-directed learning abilities and
+persistence. 
+
+\subsubsection{Disadvantages of Chatbots in the Educational Field}
+
+However, this technology still faces significant challenges in educational
+practice. According to \citet{arsad2024integrating}, the accuracy of emotion recognition
+is one of the core technical challenges in current applications. Complex
+emotional states are often difficult to accurately identify using single-modal
+data. While multimodal fusion has improved accuracy, it remains constrained by
+the generalization capabilities of algorithms. Additionally, the literature
+highlights that the collection of personal data such as facial, voice, and
+physiological information inevitably raises privacy protection and ethical
+concerns, particularly in educational applications involving adolescents, where
+caution is essential. 
+
+\citet{siregar2024ai} further point out that AI chatbots lack the ability to
+handle high-complexity teaching tasks and cannot fully replace human teachers'
+instructional judgment and emotional care. Meanwhile, over-reliance on AI
+technology may weaken social interaction between teachers and students,
+affecting students' learning emotions and thereby having a negative impact on
+their learning motivation. 
+
+In summary, emotional recognition chatbots, as an important branch of
+educational AI, have demonstrated positive effects in areas such as personalized
+teaching, dynamic feedback, and learning state recognition. However, to achieve
+widespread adoption in educational settings, continuous optimization is needed
+in dimensions such as recognition accuracy, data security, and ethical
+regulation. 
+
+\subsection{Feedback Adjustment Post-Emotion Recognition in Education}
+With the development of artificial intelligence technology, chatbots in the
+field of education have gradually acquired the ability to recognize learners'
+emotional states and adjust feedback forms accordingly, thereby enhancing user
+satisfaction and learning effectiveness. 
+
+According to \citet{yin2024effects}, educational chatbots
+can effectively reduce learners' negative emotions during interactions and
+enhance their learning motivation by providing metacognitive feedback. The study
+employed an experimental design to compare differences in emotional responses
+and learning initiative between students receiving metacognitive feedback and
+those receiving neutral feedback. The results showed that students in the
+metacognitive feedback group exhibited higher levels of learning interest and
+motivation. 
+
+Additionally, \citet{han2022development} found in a study targeting nursing
+students that educational programs incorporating chatbots with personalized
+feedback capabilities significantly improved students' learning interest and
+self-directed learning abilities. Although no significant differences were
+observed in knowledge mastery levels or clinical skills, students expressed high
+satisfaction with the feedback provided by the chatbot, believing it enhanced
+their learning experience. In summary, the application of emotion recognition
+technology in educational chatbots not only enhances user satisfaction but also
+boosts learning motivation and self-directed learning abilities, thereby
+improving overall learning outcomes.
+
+\section{Conclusion}
+
+\subsection{Answers about Research Questions}
+
+\begin{itemize}
+    \item \textbf{RQ1: Current State of Campus Chatbots}\\Campus chatbots are evolving
+    into three key categories: academic assistance (e.g., EDUBOT for Q\&A and
+    learning support), emotional support (e.g., Evebot for mental health
+    monitoring), and campus services (e.g., Lisa for administrative queries).
+    However, most remain rule-based or FAQ-driven, lacking adaptive emotional
+    intelligence.
+
+    \item \textbf{RQ2: Sentiment Analysis Techniques}\\Core techniques span lexicon-based (e.g., VADER for social
+    media), machine learning (e.g., SVM for labeled data), and deep learning
+    (e.g., Bi-LSTM/Transformer for context-aware modeling). Multimodal fusion
+    (text + audio + visual) now enhances accuracy but still faces algorithmic
+    generalization limits.
+
+    \item \textbf{RQ3: Impact on User Experience \& Learning}\\Emotion-aware
+    chatbots significantly improve satisfaction and outcomes. Examples include:
+    \begin{itemize}
+        \item Metacognitive feedback reducing negative emotions.
+        \item EEG-driven tutors (e.g., NeuroChat) adapting content to cognitive
+        states.
+    \end{itemize}
+\end{itemize}
+
+\subsection{Recommendations}
+
+\begin{enumerate}
+    \item \textbf{For researchers}:\\Prioritize the construction of culturally diverse
+    datasets to reduce bias in emotion recognition.
+    \item \textbf{For educators}:\\Adopt hybrid deployment: chatbots for routine
+    queries like admissions and human instructors for complex mentoring.
+    \item \textbf{For developers}:\\Design modular architectures like
+    Rasa/Dialogflow, enabling seamless integration of sentiment analysis modules
+    with campus systems.
+\end{enumerate}
+
+Emotion-aware campus chatbots are becoming a key tool in promoting personalized
+education. Not only can they answer academic questions and provide guidance on
+campus life details like an 'all-weather learning partner,' but they can also
+act as guardians, sensing students' level of knowledge acquisition and emotional
+fluctuations caused by academic pressure, and providing timely comfort,
+encouragement, or resource guidance. This ability to deeply understand and
+proactively care for students allows technology to truly serve their growth,
+rather than merely conveying information.
+
+\bibliography{references}
+
+\end{document}
