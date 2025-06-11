@@ -1,4 +1,6 @@
 import json
+
+'''
 AI_intent_lib=[
   {
     "intent_name": "query_facility_location",
@@ -311,7 +313,9 @@ AI_intent_lib=[
   }
 ]
 
-intent_lib={
+'''
+
+intents={
     "business_search": [
       "Find business by name",
       "Find businesses by type",
@@ -373,7 +377,7 @@ intent_lib={
     "Complete course evaluation",
     "Learn major transfer process",
     "Check contact information",
-    "Learn about XMUM club information"
+    "Learn about club information"
     ],
     "restaurant_search":[
     "Query restaurant location",
@@ -404,3 +408,58 @@ intent_lib={
       "Get special note"
     ]
 }
+'''
+examples = [
+    "Find souvenirs by type",
+    "Search souvenirs by brand",
+    "Look for souvenirs near me",
+    "Get recommended souvenirs",
+    "Which souvenir do you suggest?"
+]
+'''
+intents=[]
+types=[]
+
+for intent, exps in intent_lib['intents'].items():
+    for exp in exps: 
+        intents.append(intent)
+        types.append(exp)
+
+print(intents)
+print(types)
+
+'''
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+vectorizer = TfidfVectorizer()
+
+X = vectorizer.fit_transform(types)
+
+print(vectorizer.get_feature_names_out())
+
+from sklearn.linear_model import LogisticRegression
+
+#classifier = clf 分类器
+clf = LogisticRegression()
+clf.fit(X, intents)
+
+nsentence = ["Find souvenirs by type"]
+nX = vectorizer.transform(nsentence)
+predict_intent = clf.predict(nX)
+print(predict_intent)
+
+knowledge_base={
+  "business_search": "You can find businesses by **name**, **type**, **cuisine**, **features**, **status**, or **location**.",
+  "business_information_request": "You can get details about a business's **features**, **recommendations**, **operating hours**, and **contact info**.",
+  "facility_search": "You can find facilities by **name**, **building**, **type**, **feature**, **location**, or **floor**.",
+  "facility_information_request": "You can get information on facility **opening hours**, **features**, **location details**, and **usage rules**.",
+  "handbook_search": "We have information on a wide range of campus topics including **birthday cake recommendations**, **campus clinic info**, the **AskA user guide**, **cashless payment guide**, **health and wellness services**, **library study room reservations**, **KTV near campus**, **bicycle parking guide**, **bubble tea shops near campus**, **XMUM classroom types**, **library book search/locating/printing/scanning methods**, **self-service printing refunds**, **washing machine/dryer/shoe washing machine/dry cleaning services**, **campus ATM withdrawal methods**, **campus coffee shop/vending machine locations**, **school email/campus ID usage**, **class timetables**, **course registration/retake methods**, **attendance/leave policies**, **public holiday course adjustments**, **exam guidelines**, **teacher contact info**, **course evaluations**, **major transfer process**, **contact information**, and **XMUM club info**.",
+  "restaurant_search": "You can find restaurants by **location**, **floor**, **cuisine** (e.g., Chinese, Western, Japanese, Middle Eastern), **features**, or specifically for **healthy food options**, **cafes**, **grocery stores**, and **halal restaurants**.",
+  "souvenir_search": "You can find souvenirs by **category**, **brand**, **flavor**, **purchase location**, or **characteristic**.",
+  "souvenir_recommendation_request": "You can get **recommended souvenirs**, **brands**, **flavors**, **purchase locations**, and any **special notes**."
+}
+
+intent = predicted_intent[0]
+response = knowledge_base.get(intent, "Sorry, I don't understand your question.")
+print(response)
+'''

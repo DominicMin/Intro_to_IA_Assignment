@@ -1,0 +1,648 @@
+{
+  "query": [
+    "Where is Klinik Sunsuria Medical located?",
+    "Can you tell me the location of Klinik Sunsuria Medical?",
+    "How do I get to Klinik Sunsuria Medical?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Klinik Sunsuria Medical": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is KLINIK COSMOMEDIC located?",
+    "Can you tell me the location of KLINIK COSMOMEDIC?",
+    "How do I get to KLINIK COSMOMEDIC?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"KLINIK COSMOMEDIC": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Supermarket located on campus?",
+    "Can you tell me how to get to the Supermarket?",
+    "What's the nearest way to reach the Supermarket from the library?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Supermarket": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Dining Area located on campus?",
+    "Can you tell me how to get to the Dining Area?",
+    "What's the nearest building to the Dining Area?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Dining Area":"facility"}
+  ]
+}
+{
+  "query": ["Where is the nearest ATM on campus?", "Can you tell me the location of the ATM?", "How do I get to the ATM from the library?"],
+  "intent": "facility_location",
+  "entities": [
+    {"ATM":"facility"} 
+  ]
+}
+{
+  "query": [
+    "Where is the IELTS Office located on campus?",
+    "Can you tell me how to get to the IELTS Office?",
+    "What's the nearest landmark to the IELTS Office?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"IELTS Office": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Yoga Room located on campus?",
+    "Can you tell me how to get to the Yoga Room?",
+    "What's the nearest building to the Yoga Room?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Yoga Room": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Traditional Chinese Medicine Clinic located on campus?",
+    "Can you tell me how to get to the Traditional Chinese Medicine Clinic?",
+    "What's the nearest landmark to the Traditional Chinese Medicine Clinic?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Traditional Chinese Medicine Clinic": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the clinic located on campus?",
+    "Can you tell me how to get to the clinic?",
+    "What's the nearest landmark to the clinic?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Clinic": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Maintenance Office located on campus?",
+    "Can you tell me how to get to the Maintenance Office?",
+    "What's the nearest landmark to the Maintenance Office?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Maintenance Office": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Admissions Office located on campus?",
+    "Can you tell me how to get to the Admissions Office?",
+    "What's the nearest landmark to the Admissions Office?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Admissions Office": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where are the Sports Fields located on campus?",
+    "Can you tell me how to get to the Sports Fields?",
+    "What is the nearest landmark to the Sports Fields?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Sports Fields": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Stadium located on campus?",
+    "Can you tell me how to get to the Stadium?",
+    "What's the nearest landmark to the Stadium?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Stadium": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Swimming Pool located on campus?",
+    "Can you tell me how to get to the Swimming Pool?",
+    "What's the nearest landmark to the Swimming Pool?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Swimming Pool": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Gym located on campus?",
+    "Can you tell me how to get to the Gym from the main entrance?",
+    "What's the nearest landmark to the Gym facility?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Gym":"facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Infirmary located on campus?",
+    "Can you tell me how to get to the Infirmary?",
+    "What's the exact location of the Infirmary?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Infirmary": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Badminton Court located on campus?",
+    "Can you tell me how to get to the Badminton Court?",
+    "What's the nearest landmark to the Badminton Court?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Badminton Court": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Teaching Building located on campus?",
+    "Can you tell me how to get to the Teaching Building?",
+    "What's the exact location of the Teaching Building?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Teaching Building": "facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Library located on campus?",
+    "Can you tell me how to get to the Library?",
+    "What's the nearest building to the Library?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Library":"facility"}
+  ]
+}
+{
+  "query": [
+    "Where is the Cafe located on campus?",
+    "Can you tell me how to get to the Cafe?",
+    "What's the nearest landmark to the Cafe?"
+  ],
+  "intent": "facility_location",
+  "entities": [
+    {"Cafe": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of Klinik Sunsuria Medical?",
+    "When does Klinik Sunsuria Medical open and close?",
+    "Can you tell me the business hours for Klinik Sunsuria Medical?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Klinik Sunsuria Medical": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of KLINIK COSMOMEDIC?",
+    "When does KLINIK COSMOMEDIC open and close on weekdays?",
+    "Can you tell me the closing time of KLINIK COSMOMEDIC on weekends?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"KLINIK COSMOMEDIC": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Supermarket?",
+    "When does the Supermarket open and close?",
+    "Can you tell me the business hours for the Supermarket?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Supermarket": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Dining Area?",
+    "When does the Dining Area close on weekdays?",
+    "Is the Dining Area open during holidays?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Dining Area": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the ATM?",
+    "When is the ATM open until?",
+    "Can you tell me the opening and closing times for the ATM?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"ATM": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the IELTS Office?",
+    "When does the IELTS Office open and close?",
+    "Can you tell me the working hours for the IELTS Office?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"IELTS Office": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the opening hours for the Yoga Room?",
+    "When does the Yoga Room close on weekdays?",
+    "Is the Yoga Room open during weekends?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Yoga Room": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Traditional Chinese Medicine Clinic?",
+    "When does the Traditional Chinese Medicine Clinic open and close?",
+    "Can you tell me the schedule for the Traditional Chinese Medicine Clinic?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Traditional Chinese Medicine Clinic": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Clinic?",
+    "When does the Clinic open and close on weekdays?",
+    "Can you tell me the Clinic's schedule for today?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Clinic": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Maintenance Office?",
+    "When does the Maintenance Office open and close?",
+    "Can you tell me the working hours for the Maintenance Office?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Maintenance Office": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Admissions Office?",
+    "When does the Admissions Office close on weekdays?",
+    "Is the Admissions Office open during weekends?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Admissions Office": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours for the Sports Fields?",
+    "When do the Sports Fields open and close on weekdays?",
+    "Can you tell me the schedule for the Sports Fields?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Sports Fields": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Stadium?",
+    "When does the Stadium open and close on weekdays?",
+    "Can you tell me the opening time of the Stadium on weekends?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Stadium": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the opening hours for the Swimming Pool?",
+    "When does the Swimming Pool close on weekdays?",
+    "Is the Swimming Pool open on public holidays?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Swimming Pool": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the opening hours of the Gym?",
+    "When does the Gym close on weekdays?",
+    "Is the Gym open during holidays?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Gym":"facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Infirmary?",
+    "When does the Infirmary open and close on weekdays?",
+    "Is the Infirmary open during weekends?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Infirmary": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the opening hours of the Badminton Court?",
+    "When does the Badminton Court close on weekdays?",
+    "Can you tell me the operating time for the Badminton Court?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Badminton Court":"facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Teaching Building?",
+    "When does the Teaching Building open and close?",
+    "Can you tell me the schedule for the Teaching Building?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Teaching Building": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the opening hours of the Library?",
+    "When does the Library close on weekdays?",
+    "Is the Library open during weekends?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Library": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the opening hours of the Cafe?",
+    "When does the Cafe close on weekdays?",
+    "Is the Cafe open during weekends?"
+  ],
+  "intent": "facility_time",
+  "entities": [
+    {"Cafe": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of Klinik Sunsuria Medical?",
+    "Does Klinik Sunsuria Medical provide emergency services?",
+    "How can I contact Klinik Sunsuria Medical for an appointment?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Klinik Sunsuria Medical": "facility"}
+  ]
+}
+{
+  "query": [
+    "What services does KLINIK COSMOMEDIC offer?",
+    "What are the operating hours of KLINIK COSMOMEDIC?",
+    "Where is KLINIK COSMOMEDIC located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"KLINIK COSMOMEDIC": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Supermarket?",
+    "Does the Supermarket offer delivery services?",
+    "Where is the Supermarket located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Supermarket": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Dining Area?",
+    "Can you tell me the capacity of the Dining Area?",
+    "Where is the Dining Area located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Dining Area": "facility"}
+  ]
+}
+{
+  "query": ["Where is the ATM located on campus?", "What are the operating hours of the ATM?", "Is there an ATM near the library?"],
+  "intent": "facility_info",
+  "entities": [
+    {"ATM":"facility"} 
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the IELTS Office?",
+    "Can you provide me with the contact details for the IELTS Office?",
+    "Where is the IELTS Office located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"IELTS Office": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours for the Yoga Room?",
+    "Can you tell me about the facilities available in the Yoga Room?",
+    "Is there a fee to use the Yoga Room?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Yoga Room": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Traditional Chinese Medicine Clinic?",
+    "Can you tell me about the services offered at the Traditional Chinese Medicine Clinic?",
+    "Where is the Traditional Chinese Medicine Clinic located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Traditional Chinese Medicine Clinic": "facility"}
+  ]
+}
+{
+  "query": ["What are the operating hours of the Clinic?", "Does the Clinic offer emergency services?", "Where is the Clinic located on campus?"],
+  "intent": "facility_info",
+  "entities": [
+    {"Clinic":"facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Maintenance Office?",
+    "Where is the Maintenance Office located on campus?",
+    "Can you provide contact details for the Maintenance Office?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Maintenance Office": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Admissions Office?",
+    "Can you provide me with the contact details for the Admissions Office?",
+    "Where is the Admissions Office located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Admissions Office": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours for the Sports Fields?",
+    "Can I reserve the Sports Fields for a private event?",
+    "Are there any equipment rentals available at the Sports Fields?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Sports Fields": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the opening hours of the Stadium?",
+    "Can you tell me about the facilities available at the Stadium?",
+    "Is there a parking area near the Stadium?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Stadium":"facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Swimming Pool?",
+    "Is the Swimming Pool open to all students?",
+    "Are there any fees for using the Swimming Pool?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Swimming Pool":"facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Gym?",
+    "Can you tell me about the facilities available at the Gym?",
+    "Is the Gym open during public holidays?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Gym": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Infirmary?",
+    "Can you provide details about the services offered at the Infirmary?",
+    "Where is the Infirmary located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Infirmary": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours for the Badminton Court?",
+    "Can I book the Badminton Court in advance?",
+    "Is there any fee to use the Badminton Court?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Badminton Court": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Teaching Building?",
+    "Can you provide information about the facilities available in the Teaching Building?",
+    "Where is the Teaching Building located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Teaching Building": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Library?",
+    "Can you tell me the facilities available at the Library?",
+    "Where is the Library located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Library": "facility"}
+  ]
+}
+{
+  "query": [
+    "What are the operating hours of the Cafe?",
+    "Does the Cafe offer any student discounts?",
+    "Where is the Cafe located on campus?"
+  ],
+  "intent": "facility_info",
+  "entities": [
+    {"Cafe": "facility"}
+  ]
+}

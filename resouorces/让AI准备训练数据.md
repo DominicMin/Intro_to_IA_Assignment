@@ -63,10 +63,10 @@
 
 ```json
 {
-  "query": "where is Nasi Kandar restaurant?",
+  "query": ["where is Nasi Kandar restaurant?", "how can i go to Nasi Kandar restaurant?"],
   "intent": "find_location",
   "entities": [
-    {"text": "Nasi Kandar restaurant", "type": "facility_name"}
+    {"text": "Nasi Kandar restaurant", "type": "facility_name"} 
   ]
 }
 ```
