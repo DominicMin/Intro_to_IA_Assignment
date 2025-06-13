@@ -1,0 +1,1586 @@
+intent,query
+ask_business_location,Where is KK便利店 located?
+ask_business_location,Can you show me how to get to KK便利店?
+ask_business_location,What's the address of KK便利店?
+ask_business_location,How do I find KK便利店 on a map?
+ask_business_location,Where is KIMS SALON located?
+ask_business_location,Can you give me directions to KIMS SALON?
+ask_business_location,How far is KIMS SALON from my current location?
+ask_business_location,What is the address of KIMS SALON?
+ask_business_location,Where is the nearest 7-11 store?
+ask_business_location,How can I get to a 7-11 convenient store nearby?
+ask_business_location,Where is Stella Vet Clinic located?
+ask_business_location,How do I get to Stella Vet Clinic?
+ask_business_location,What are the directions to Stella Vet Clinic?
+ask_business_location,Can you give me the address of Stella Vet Clinic?
+ask_business_location,What is the business location of 迈利斯MILLIES VISION?
+ask_business_location,Where can I find 迈利斯MILLIES VISION:business?
+ask_business_location,How to get to 迈利斯MILLIES VISION:business?
+ask_business_location,What are the directions to reach 迈利斯MILLIES VISION:business?
+ask_business_location,Where is Hey Stationery located?
+ask_business_location,What is the address of Hey Stationery?
+ask_business_location,Can you tell me how to get to Hey Stationery?
+ask_business_location,How do I find the location of Hey Stationery?
+ask_business_location,where is THE GRIND located?
+ask_business_location,can i find THE GRIND at any other place?
+ask_business_location,Where is Ming GUI located?
+ask_business_location,Can I find Ming GUI on the campus map?
+ask_business_location,Where is DOBI SANTAI located?
+ask_business_location,Can you direct me to DOBI SANTAI business?
+ask_business_location,How do I find DOBI SANTAI business place?
+ask_business_location,What are the directions to get to DOBI SANTAI?
+ask_business_location,Where is 人民书局 located?
+ask_business_location,How to find 人民书局 in this area?
+ask_business_location,Where is the Real Peak Music business located?
+ask_business_location,Can you give me directions to the Real Peak Music office?
+ask_business_location,How do I get to the Real Peak Music headquarters?
+ask_business_location,What's the address of the Real Peak Music business?
+ask_business_location,Where is Ahimsa Yoga located?
+ask_business_location,Can you give me directions to Ahimsa Yoga studio?
+ask_business_location,What's the address of Ahimsa Yoga?
+ask_business_location,How do I get to Ahimsa Yoga business?
+ask_business_location,where is SENZE CAFF located?
+ask_business_location,how can i find SENZE CAFF in this area?
+ask_business_time,What are the business hours of KK便利店?
+ask_business_time,KK便利店 is open on which days?
+ask_business_time,How late is KK便利店 open?
+ask_business_time,When does KK便利店 close today?
+ask_business_time,What are the business hours of KIMS SALON?
+ask_business_time,When is KIMS SALON open on weekends?
+ask_business_time,What time does KIMS SALON close today?
+ask_business_time,Is KIMS SALON open during lunch break?
+ask_business_time,What are the business hours of 7-11 convenience store?
+ask_business_time,How late is 7-11 store open today?
+ask_business_time,When does 7-11 store closed tomorrow night?
+ask_business_time,Is 7-11 store open on Sunday?
+ask_business_time,What are the business hours of Stella Vet Clinic?
+ask_business_time,When is Stella Vet Clinic open on weekends?
+ask_business_time,What time does Stella Vet Clinic close today?
+ask_business_time,Is Stella Vet Clinic open during lunch break?
+ask_business_time,What is the business time of 迈利斯MILLIES VISION?
+ask_business_time,When does 迈利斯MILLIES VISION open for business?
+ask_business_time,What time does 迈利斯MILLIES VISION start and end its business hours?
+ask_business_time,Is 迈利斯MILLIES VISION open at 10 am on Saturday?
+ask_business_time,What are the business hours of Hey Stationery?
+ask_business_time,What time does Hey Stationery open?
+ask_business_time,How late is Hey Stationery open today?
+ask_business_time,When is Hey Stationery's closing time?
+ask_business_time,What is the business time of THE GRIND?
+ask_business_time,When does THE GRIND open?
+ask_business_time,Is THE GRIND open during weekends?
+ask_business_time,At what time does THE GRIND close?
+ask_business_time,What are the business hours of闽桂中国超市MING GUI?
+ask_business_time,When does闽桂中国超市MING GUI open?
+ask_business_time,How late is闽桂中国超市MING GUI open?
+ask_business_time,On which days is闽桂中国超市MING GUI closed?
+ask_business_time,What are the business hours of DOBI SANTAI?
+ask_business_time,When is DOBI SANTAI open today?
+ask_business_time,"DOBI SANTAI's working hours, please?"
+ask_business_time,Can I visit DOBI SANTAI during their operating hours?
+ask_business_time,What are the business hours of 人民书局?
+ask_business_time,When is 人民书局 open today?
+ask_business_time,How late does 人民书局 stay open on Friday?
+ask_business_time,Does 人民书局 have evening hours?
+ask_business_time,What are the business hours of Real Peak Music?
+ask_business_time,When does Real Peak Music open?
+ask_business_time,How late is Real Peak Music open on weekends?
+ask_business_time,What time does Real Peak Music close tonight?
+ask_business_time,What are the business hours of AHIMSA YOGA?
+ask_business_time,Is AHIMSA YOGA open on weekends?
+ask_business_time,Does AHIMSA YOGA have any evening classes?
+ask_business_time,When does AHIMSA YOGA usually close?
+ask_business_time,What are the business hours of SENZE CAFF?
+ask_business_time,When is SENZE CAFF open today?
+ask_business_time,SENZE CAFF opening time is what?
+ask_business_time,How late does SENZE CAFF stay open?
+ask_business_info,What are the business hours of KK便利店?
+ask_business_info,Can I do grocery shopping at KK便利店?
+ask_business_info,How can I contact KK便利店 customer service?
+ask_business_info,Is KK便利店 open on Sundays?
+ask_business_info,What is the business phone number of KIMS SALON?
+ask_business_info,How do I contact KIMS SALON?
+ask_business_info,What are the working hours of KIMS SALON?
+ask_business_info,Is KIMS SALON open on weekends?
+ask_business_info,What are the operating hours of 7-11?
+ask_business_info,How late is 7-11 open tonight?
+ask_business_info,Is 7-11 open on Sundays?
+ask_business_info,Can I find business cards at 7-11?
+ask_business_info,What are the opening hours of Stella Vet Clinic?
+ask_business_info,How to get to Stella Vet Clinic during working hours?
+ask_business_info,Is Stella Vet Clinic open on weekends?
+ask_business_info,Can I book an appointment at Stella Vet Clinic?
+ask_business_info,What are the working hours of 迈利斯MILLIES VISION?
+ask_business_info,How to contact 迈利斯MILLIES VISION for business inquiries?
+ask_business_info,Is 迈利斯MILLIES VISION open on weekends?
+ask_business_info,What services does 迈利斯MILLIES VISION provide for businesses?
+ask_business_info,What are the business hours of Hey Stationery?
+ask_business_info,Can I contact Hey Stationery by phone?
+ask_business_info,Where is Hey Stationery located in the city?
+ask_business_info,How can I get to Hey Stationery from my place?
+ask_business_info,What is THE GRIND business about?
+ask_business_info,Can you provide more information on THE GRIND business?
+ask_business_info,What kind of products or services does THE GRIND business offer?
+ask_business_info,How can I get in touch with THE GRIND business?
+ask_business_info,What is the address of MING GUI:business?
+ask_business_info,How do I contact MING GUI:business customer service?
+ask_business_info,Is MING GUI:business open on Sunday?
+ask_business_info,What are the working hours of MING GUI:business?
+ask_business_info,What services does DOBI SANTAI offer?
+ask_business_info,Is DOBI SANTAI open on weekends?
+ask_business_info,How do I contact DOBI SANTAI?
+ask_business_info,Does DOBI SANTAI have any promotions this month?
+ask_business_info,What business hours are for 人民书局?
+ask_business_info,What services does 人民书局 offer?
+ask_business_info,Is 人民书局 open on Sunday?
+ask_business_info,How do I contact 人民书局?
+ask_business_info,What is the contact number of Real Peak Music business?
+ask_business_info,How do I get in touch with Real Peak Music?
+ask_business_info,Is Real Peak Music open on weekends?
+ask_business_info,Can you provide more details about Real Peak Music business services?
+ask_business_info,What are the contact details of Ahimsa Yoga?
+ask_business_info,How to reach Ahimsa Yoga by public transport?
+ask_business_info,What is the business address of Ahimsa Yoga?
+ask_business_info,Can I schedule a meeting at the office of Ahimsa Yoga?
+ask_business_info,What is the contact number of SENZE CAFF?
+ask_business_info,How to find SENZE CAFF business address?
+ask_business_info,What are the services offered by SENZE CAFF?
+ask_business_info,Is SENZE CAFF open on weekends?
+ask_restaurant_location,where is 夏1城 located?
+ask_restaurant_location,how do i get to 夏1城?
+ask_restaurant_location,what's the address of 夏1城?
+ask_restaurant_location,can you tell me the location of 夏1城?
+ask_restaurant_location,How far is Tuk Tuk Thai&Taro from my location?
+ask_restaurant_location,Can you give me directions to Tuk Tuk Thai&Taro?
+ask_restaurant_location,where is 大树下 located?
+ask_restaurant_location,how do i get to 大树下 restaurant?
+ask_restaurant_location,what are the directions to 大树下?
+ask_restaurant_location,can you give me the address of 大树下?
+ask_restaurant_location,What is the nearest location of Let's Kopitiam?
+ask_restaurant_location,How do I get to Let's Kopitiam from here?
+ask_restaurant_location,Can you show me the address of Let's Kopitiam on a map?
+ask_restaurant_location,Where is Let's Kopitiam located in relation to our hostel?
+ask_restaurant_location,Where is mynews便利店 located?
+ask_restaurant_location,Can you tell me how to get to mynews便利店?
+ask_restaurant_location,What are the directions to mynews便利店?
+ask_restaurant_location,How far is my location from mynews便利店?
+ask_restaurant_location,Where is the nearest location of Takw Mee Tarik?
+ask_restaurant_location,How do I get to Takw Mee Tarik in one hour?
+ask_restaurant_location,What's the address for Takw Mee Tarik restaurant?
+ask_restaurant_location,Can you provide directions to Takw Mee Tarik?
+ask_restaurant_location,Where is 大家旺 located?
+ask_restaurant_location,How do I get to 大家旺?
+ask_restaurant_location,Can you give me directions to 大家旺?
+ask_restaurant_location,What's the address of 大家旺?
+ask_restaurant_location,How do I get to 蜀之味?
+ask_restaurant_location,Where is 蜀之味 located?
+ask_restaurant_location,Can you give me directions to 蜀之味?
+ask_restaurant_location,How far is 蜀之味 from my location?
+ask_restaurant_location,where is 大城小厨 located?
+ask_restaurant_location,how do i get to 大城小厨?
+ask_restaurant_location,what are the directions to 大城小厨?
+ask_restaurant_location,can you tell me the address of 大城小厨?
+ask_restaurant_location,Where is 华联好凉茶 located?
+ask_restaurant_location,How can I get to 华联好凉茶?
+ask_restaurant_location,What's the address of 华联好凉茶?
+ask_restaurant_location,Can you tell me the location of 华联好凉茶?
+ask_restaurant_location,where is 小云冰室 located?
+ask_restaurant_location,how do i get to 小云冰室?
+ask_restaurant_location,can you tell me the address of 小云冰室?
+ask_restaurant_location,where is 小云冰室 situated?
+ask_restaurant_location,Where is 大拇指 located?
+ask_restaurant_location,How can I get to 大拇指?
+ask_restaurant_location,What's the address of 大拇指?
+ask_restaurant_location,Can you give me directions to 大拇指?
+ask_restaurant_location,Where is the location of 喵喵轻食?
+ask_restaurant_location,How do I get to 喵喵轻食 restaurant?
+ask_restaurant_location,What's the address of 喵喵轻食?
+ask_restaurant_location,Can you tell me how to find 喵喵轻食?
+ask_restaurant_location,Where is Big Bowl located?
+ask_restaurant_location,Can you tell me how to get to Da Wan Mian?
+ask_restaurant_location,What is the address of Dabiao Mian?
+ask_restaurant_location,How do I find Da Wan Mian restaurant?
+ask_restaurant_location,Where is U&I:restaurant located?
+ask_restaurant_location,Can you give me directions to U&I:restaurant?
+ask_restaurant_location,How do I get to U&I:restaurant from here?
+ask_restaurant_location,What are the nearest locations to U&I:restaurant?
+ask_restaurant_location,Where is 小台枫 located?
+ask_restaurant_location,How do I get to 小台枫 restaurant?
+ask_restaurant_location,What's the address of 小台枫?
+ask_restaurant_location,Can you give me directions to 小台枫?
+ask_restaurant_location,Where is the nearest location of Restaurant Kabaabish?
+ask_restaurant_location,Can you give me directions to Restaurant Kabaabish?
+ask_restaurant_location,How far is Restaurant Kabaabish from my current location?
+ask_restaurant_location,What are the map coordinates for Restaurant Kabaabish?
+ask_restaurant_location,Where is B1 Canteen located?
+ask_restaurant_location,How do I get to B1 Canteen?
+ask_restaurant_location,Can you give me directions to B1 Canteen?
+ask_restaurant_location,What are the nearest MRT stations to B1 Canteen?
+ask_restaurant_location,Can you tell me where Sapid:restaurant is located?
+ask_restaurant_location,How do I get to Sapid:restaurant?
+ask_restaurant_location,What's the address of Sapid:restaurant?
+ask_restaurant_location,Where can I find Sapid:restaurant on campus?
+ask_restaurant_location,What is the nearest location of Saffron Club?
+ask_restaurant_location,Where can I find Saffron Club restaurant nearby?
+ask_restaurant_location,How do I get to Saffron Club's address quickly?
+ask_restaurant_location,Can you tell me the exact location of Saffron Club?
+ask_restaurant_location,Where is Regiustea皇茶 near me?
+ask_restaurant_location,How do I get to Regiustea皇茶 from my current location?
+ask_restaurant_location,Can you tell me the address of Regiustea皇茶?
+ask_restaurant_location,What are the directions to Regiustea皇茶?
+ask_restaurant_location,where is Poke Bowl located?
+ask_restaurant_location,how to get to Poke Bowl restaurant?
+ask_restaurant_location,Poke Bowl address please!
+ask_restaurant_location,where can i find Poke Bowl near me?
+ask_restaurant_location,Where is Zone U Bakery located?
+ask_restaurant_location,Can you tell me how to get to Zone U Bakery?
+ask_restaurant_location,"I'm looking for directions to Zone U Bakery, where can I find it?"
+ask_restaurant_location,How do I get to the location of Zone U Bakery?
+ask_restaurant_location,Where is LY3 Canteen located?
+ask_restaurant_location,How do I get to LY3 Canteen from my hostel?
+ask_restaurant_location,Can you tell me the address of LY3 Canteen?
+ask_restaurant_location,What are the directions to LY3 Canteen?
+ask_restaurant_location,Where is 中闽美食 located?
+ask_restaurant_location,How to get to 中闽美食?
+ask_restaurant_location,Can you tell me the address of 中闽美食?
+ask_restaurant_location,Which direction should I head towards to reach 中闽美食?
+ask_restaurant_location,Where is Bean's Express located?
+ask_restaurant_location,How do I get to Bean's Express restaurant?
+ask_restaurant_location,Can you give me directions to Bean's Express?
+ask_restaurant_location,What are the nearest landmarks to Bean's Express?
+ask_restaurant_location,Where is Mad Plate Express located?
+ask_restaurant_location,Can you give me directions to Mad Plate Express?
+ask_restaurant_location,How far is Mad Plate Express from my current location?
+ask_restaurant_location,What is the address of Mad Plate Express?
+ask_restaurant_location,Where is 小九州 located?
+ask_restaurant_location,Can you tell me how to get to 小九州?
+ask_restaurant_location,What's the address of 小九州 restaurant?
+ask_restaurant_location,How far is 小九州 from my current location?
+ask_restaurant_location,What is the address of 膳一城?
+ask_restaurant_location,Where can I find 膳一城 near me?
+ask_restaurant_location,How do I get to 膳一城 from my current location?
+ask_restaurant_location,Can you provide directions to 膳一城?
+ask_restaurant_location,What is the address of 槟城风味?
+ask_restaurant_location,How do I get to 槟城风味 restaurant?
+ask_restaurant_location,Where is 槟城风味 located at?
+ask_restaurant_location,Can you give me directions to 槟城风味?
+ask_restaurant_location,where is 佳味食轩 located?
+ask_restaurant_location,how to get to 佳味食轩 restaurant?
+ask_restaurant_location,What is the address of 佳味食轩?
+ask_restaurant_location,I'm looking for directions to 佳味食轩.
+ask_restaurant_location,How far is it from my location to China Muslim restaurant?
+ask_restaurant_location,Can you give me directions to get to Chinese Muslim cooking restaurant?
+ask_restaurant_location,Where can I find the nearest Muslim restaurant in China?
+ask_restaurant_location,What's the address of the popular Chinese Muslim food restaurant?
+ask_restaurant_location,Where is Uni Hotpot located?
+ask_restaurant_location,How do I get to Uni Hotpot?
+ask_restaurant_location,Can you tell me the address of Uni Hotpot?
+ask_restaurant_location,What are the directions to Uni Hotpot?
+ask_restaurant_location,where is a cafe near me?
+ask_restaurant_location,how do i get to Cafes:restaurant?
+ask_restaurant_location,can you tell me the address of Cafes:restaurant?
+ask_restaurant_location,what are the directions to Cafes:restaurant?
+ask_restaurant_location,Where is ZUS Coffee located?
+ask_restaurant_location,How to get to ZUS Coffee?
+ask_restaurant_location,I'm looking for directions to ZUS Coffee.
+ask_restaurant_location,What's the address of ZUS Coffee?
+ask_restaurant_location,How far is Lakefront Cafe from my current location?
+ask_restaurant_location,What's the nearest route to Lakefront Cafe?
+ask_restaurant_location,Can you provide directions to Lakefront Cafe?
+ask_restaurant_location,Where exactly is Lakefront Cafe located?
+ask_restaurant_location,How far is Cotti Coffee from here?
+ask_restaurant_location,Can you give me directions to Cotti Coffee?
+ask_restaurant_location,Where can I find Cotti Coffee on campus?
+ask_restaurant_location,What's the nearest location of Cotti Coffee?
+ask_restaurant_location,Where is Bo Ya Xuan Restaurant located?
+ask_restaurant_location,Can you direct me to Bo Ya Xuan Restaurant?
+ask_restaurant_location,How do I get to Bo Ya Xuan Restaurant?
+ask_restaurant_location,What are the directions to Bo Ya Xuan Restaurant?
+ask_restaurant_location,How do I get to Soi 55 Thai Kitchen?
+ask_restaurant_location,Where is Soi 55 Thai Kitchen located in campus?
+ask_restaurant_location,Can you give me directions to Soi 55 Thai Kitchen?
+ask_restaurant_location,Where can I find Soi 55 Thai Kitchen on the map?
+ask_restaurant_location,Where is 麻辣诱惑 located?
+ask_restaurant_location,How do I get to 麒麟麻辣诱惑?
+ask_restaurant_location,What is the address of 麻辣诱惑 restaurant?
+ask_restaurant_location,Can you tell me how to find 麦当劳麻辣诱惑?
+ask_restaurant_location,Where is Secret Recipe located?
+ask_restaurant_location,How to get to Secret Recipe restaurant?
+ask_restaurant_location,What is the address of Secret Recipe?
+ask_restaurant_location,Can you direct me to Secret Recipe?
+ask_restaurant_location,What is the address of 啵啵鱼泡泡鸡?
+ask_restaurant_location,Where can I find 啵啵鱼泡泡鸡 restaurant?
+ask_restaurant_location,How do I get to 啵啵鱼泡泡鸡?
+ask_restaurant_location,Can you give me directions to 啵啵鱼泡泡鸡?
+ask_restaurant_location,Where is the 沙县小吃 located in the campus?
+ask_restaurant_location,Can you tell me how to get to 沙县小吃 restaurant?
+ask_restaurant_location,What is the address of 沙县小吃 in our university?
+ask_restaurant_location,How do I go to 沙县小吃?
+ask_restaurant_location,Where is the closest location to Monster Boba?
+ask_restaurant_location,Can you tell me how to get to Monster Boba?
+ask_restaurant_location,What are the directions to Monster Boba restaurant?
+ask_restaurant_location,How do I find the address of Monster Boba?
+ask_restaurant_location,Where is 颔颔GAN'S LOK LOK located?
+ask_restaurant_location,How do I get to 颔颔GAN'S LOK LOK?
+ask_restaurant_location,What's the address of 颔颔GAN'S LOK LOK?
+ask_restaurant_location,Can you direct me to 颔颔GAN'S LOK LOK?
+ask_restaurant_location,How do I get to 秀海福麻辣烫?
+ask_restaurant_location,Where is 秀海福麻辣烫 located on the map?
+ask_restaurant_location,Can you tell me the address of 秀海福麻辣烫?
+ask_restaurant_location,What's the nearest public transport to 秀海福麻辣烫?
+ask_restaurant_location,How far is 蜜雪冰城 from my location?
+ask_restaurant_location,Where can I find 蜜雪冰城 near me?
+ask_restaurant_location,What is the address of 蜜雪冰城?
+ask_restaurant_location,Can you give me directions to 蜜雪冰城?
+ask_restaurant_location,Where is Starbucks located in this area?
+ask_restaurant_location,How do I get to the nearest Starbucks cafe?
+ask_restaurant_location,Can you tell me the address of Starbucks near my location?
+ask_restaurant_location,What are the directions to reach Starbucks from here?
+ask_restaurant_location,Where is 食坊EatHami located?
+ask_restaurant_location,Can you give me directions to 食坊EatHami restaurant?
+ask_restaurant_location,How far is my hostel from 食坊EatHami?
+ask_restaurant_location,What are the nearby places to visit after eating at 食坊EatHami?
+ask_restaurant_location,Where is 薯嘟嘟DU-DU POTATO located?
+ask_restaurant_location,Can you tell me how to get to 薯嘟嘟DU-DU POTATO?
+ask_restaurant_location,I am looking for the address of 薯嘟嘟DU-DU POTATO.
+ask_restaurant_location,What are the directions to find薯嘟嘟DU-DU POTATO?
+ask_restaurant_location,where is 蜀都风味 located?
+ask_restaurant_location,how to get to 蜀都风味 restaurant?
+ask_restaurant_location,what's the address of 蜀都风味?
+ask_restaurant_location,can you give me directions to 蜀都风味?
+ask_restaurant_location,Where is 三千尺The Flows located?
+ask_restaurant_location,Can you give me directions to 三千尺The Flows restaurant?
+ask_restaurant_location,How do I get to three thousand feet the flows
+ask_restaurant_location,What is the address of 三千尺The Flows gourmet?
+ask_restaurant_location,How to get to SITRUS restaurant?
+ask_restaurant_location,Where is SITRUS located?
+ask_restaurant_location,Can you give me directions to SITRUS restaurant?
+ask_restaurant_location,What is the nearest landmark to SITRUS restaurant?
+ask_restaurant_location,How do I get to 陕西面馆?
+ask_restaurant_location,Where is 陕西面馆 located?
+ask_restaurant_location,Can you give me directions to 陕西面馆?
+ask_restaurant_location,What's the address of 陕西面馆?
+ask_restaurant_location,How far is Nasi Kandar Al-Hajeera from my location?
+ask_restaurant_location,Can you give me directions to Nasi Kandar Al-Hajeera?
+ask_restaurant_location,Where can I find Nasi Kandar Al-Hajeera on campus?
+ask_restaurant_location,What are the nearest landmarks to Nasi Kandar Al-Hajeera?
+ask_restaurant_location,Where is 鸡公煲 located?
+ask_restaurant_location,How do I get to 鸡公煲 restaurant?
+ask_restaurant_location,Can you give me directions to 鸡公煲?
+ask_restaurant_location,What's the address of 鸰公煲?
+ask_restaurant_location,How do I get to 54 Thai Mookata?
+ask_restaurant_location,Where is 54 Thai Mookata located?
+ask_restaurant_location,Can you give me directions to 54 Thai Mookata?
+ask_restaurant_location,What's the address of 54 Thai Mookata?
+ask_restaurant_location,where is 茶餐室 located?
+ask_restaurant_location,how do I get to 茶餐室?
+ask_restaurant_location,what's the address of 茶餐室?
+ask_restaurant_location,can you give me directions to 茶餐室?
+ask_restaurant_location,Where is Baskin-Robbins located?
+ask_restaurant_location,How do I get to Baskin-Robbins?
+ask_restaurant_location,What is the address of Baskin-Robbins nearby?
+ask_restaurant_location,Can you give me directions to Baskin-Robbins?
+ask_restaurant_location,Where is 串串店 located?
+ask_restaurant_location,How do I get to 串串店?
+ask_restaurant_location,Can you tell me the address of 串串店?
+ask_restaurant_location,What's the nearest location of 串串店?
+ask_restaurant_location,Where is Q Event Space located?
+ask_restaurant_location,How do I get to Q Event Space?
+ask_restaurant_location,Can you provide me with directions to Q Event Space?
+ask_restaurant_location,What are the exact coordinates of Q Event Space?
+ask_restaurant_location,How do I get to 大熊熊螺蛳粉?
+ask_restaurant_location,Where is 大熊熊螺蛳粉 located?
+ask_restaurant_location,Can you give me directions to 大熊熊螺蛳粉?
+ask_restaurant_location,What's the address of 大熊熊螺蛳粉?
+ask_restaurant_location,Where is Bing Dessert Cafe located?
+ask_restaurant_location,How can I find Bing Dessert Cafe?
+ask_restaurant_location,"I'm looking for Bing Dessert Cafe, where is it?"
+ask_restaurant_location,Can you give me directions to Bing Dessert Cafe?
+ask_restaurant_location,Where is CHATTO located?
+ask_restaurant_location,Can you direct me to CHATTO restaurant?
+ask_restaurant_location,How do I get to CHATTO?
+ask_restaurant_location,What is the address of CHATTO?
+ask_restaurant_location,Where is KOPI SAIGON located?
+ask_restaurant_location,Can you tell me how to get to KOPI SAIGON?
+ask_restaurant_location,What are the directions to KOPI SAIGON?
+ask_restaurant_location,How far is KOPI SAIGON from my current location?
+ask_restaurant_location,Where is GEPREK'ING Fried Chicken located?
+ask_restaurant_location,How can I get to GEPREK'ING Fried Chicken restaurant from here?
+ask_restaurant_location,What's the nearest location of GEPREK'ING Fried Chicken?
+ask_restaurant_location,Can you show me the route to GEPREK'ING Fried Chicken?
+ask_restaurant_location,What's the location of Kafe Lazatnya?
+ask_restaurant_location,How do I get to Kafe Lazatnya?
+ask_restaurant_location,Where is Kafe Lazatnya situated?
+ask_restaurant_location,Can you tell me the address of Kafe Lazatnya?
+ask_restaurant_location,where is 拾浮百世 located?
+ask_restaurant_location,how do i get to 拾浮百世 restaurant?
+ask_restaurant_location,what are the directions to reach 拾浮百世?
+ask_restaurant_location,can you tell me where 拾浮百世 is?
+ask_restaurant_time,What is the operating time of Summer Palace restaurant?
+ask_restaurant_time,When does Summer Palace restaurant open?
+ask_restaurant_time,Can I know the closing time of Summer Palace restaurant?
+ask_restaurant_time,At what time does Summer Palace restaurant serve lunch?
+ask_restaurant_time,What are the business hours of Tuk Tuk Thai&Taro?
+ask_restaurant_time,When does Tuk Tuk Thai&Taro open?
+ask_restaurant_time,Is Tuk Tuk Thai&Taro open on weekends?
+ask_restaurant_time,What time does Tuk Tuk Thai&Taro stop serving food?
+ask_restaurant_time,What is the operating hours of 大树下?
+ask_restaurant_time,At what time does 大树下 open?
+ask_restaurant_time,How late is 大树下 open on weekends?
+ask_restaurant_time,Does 大树下 have extended working hours during peak season?
+ask_restaurant_time,What are the operating hours of Let's Kopitiam?
+ask_restaurant_time,When does Let's Kopitiam open for business?
+ask_restaurant_time,Is Let's Kopitiam currently open for dining?
+ask_restaurant_time,At what time do they stop serving at Let's Kopitiam?
+ask_restaurant_time,What is the operating hour of mynews便利店?
+ask_restaurant_time,When does mynews便利店 open?
+ask_restaurant_time,At what time can I visit mynews便利店?
+ask_restaurant_time,What are the business hours of mynews便利店?
+ask_restaurant_time,What are the operating hours of Takw Mee Tarik?
+ask_restaurant_time,When does Takw Mee Tarik usually open?
+ask_restaurant_time,How late is Takw Mee Tarik open on weekends?
+ask_restaurant_time,What time does Takw Mee Tarik close tonight?
+ask_restaurant_time,What are the operating hours of 大家旺?
+ask_restaurant_time,When does 大家旺 open its doors to customers?
+ask_restaurant_time,Is 大家旺 still open during lunchtime today?
+ask_restaurant_time,Can I dine at 大家旺 in the evening?
+ask_restaurant_time,What is the opening hour of 蜀之味?
+ask_restaurant_time,When does 蜀之味 open?
+ask_restaurant_time,How late is 蜀之味 open?
+ask_restaurant_time,Is 蜀之味 still open?
+ask_restaurant_time,What time does 大城小厨 open?
+ask_restaurant_time,At what hour is big small kitchen closed?
+ask_restaurant_time,When can i visit the big small kitchen restaurant?
+ask_restaurant_time,What are the business hours of 大城小厨?
+ask_restaurant_time,What are the operating hours of 华联好凉茶?
+ask_restaurant_time,How late is 华联好凉茶 open on weekends?
+ask_restaurant_time,Can I go to 华联好凉茶 for dinner?
+ask_restaurant_time,Is 华联好凉茶 open on holidays?
+ask_restaurant_time,What are the business hours of 小云冰室?
+ask_restaurant_time,When does 小云冰室 open?
+ask_restaurant_time,Is 小云冰室 open on Sundays?
+ask_restaurant_time,What time does 小云冰室 close?
+ask_restaurant_time,What are the business hours of 大拇指?
+ask_restaurant_time,When is big thumb restaurant open today?
+ask_restaurant_time,Are there any operating hours available for 大拇指
+ask_restaurant_time,What time does big thumb restaurant close at night?
+ask_restaurant_time,What time does 喵喵轻食 open today?
+ask_restaurant_time,At what time can I have dinner at 喵喵轻食?
+ask_restaurant_time,When is the closing time of 喵喵轻食?
+ask_restaurant_time,Does 喵喵轻食 serve lunch after 2 pm?
+ask_restaurant_time,What is the opening time of 大碗面?
+ask_restaurant_time,When does 大碗面 open?
+ask_restaurant_time,Is 大碗面 open now?
+ask_restaurant_time,What are the operating hours of 大碗面?
+ask_restaurant_time,What is the operating hour of U&I: restaurant?
+ask_restaurant_time,At what time does U&I: restaurant open?
+ask_restaurant_time,How late is U&I: restaurant open tonight?
+ask_restaurant_time,Does U&I: restaurant serve dinner after 10pm?
+ask_restaurant_time,What time does 小台枫 open?
+ask_restaurant_time,When can I dine at 小台枫 today?
+ask_restaurant_time,Does 小台枫 have any dinner hours available tonight?
+ask_restaurant_time,Can I make a reservation for breakfast at 小台枫?
+ask_restaurant_time,What are the opening hours of Restaurant Kabaabish?
+ask_restaurant_time,When does Restaurant Kabaabish usually serve dinner?
+ask_restaurant_time,Is Restaurant Kabaabish open on Sundays for lunch?
+ask_restaurant_time,At what time do they close at Restaurant Kabaabish?
+ask_restaurant_time,What time is breakfast served at B1 Canteen?
+ask_restaurant_time,When does B1 Canteen usually open for meals?
+ask_restaurant_time,At what hour can I expect lunch to be ready at B1 Canteen?
+ask_restaurant_time,"Does B1 Canteen serve dinner, and if so, what time?"
+ask_restaurant_time,What are the operating hours of Sapid:restaurant?
+ask_restaurant_time,When is Sapid:restaurant open for dinner?
+ask_restaurant_time,Is Sapid:restaurant open on Sundays?
+ask_restaurant_time,Can I book a table at Sapid:restaurant during peak hours?
+ask_restaurant_time,What are the operating hours of Saffron Club?
+ask_restaurant_time,When is the dinner time at Saffron Club?
+ask_restaurant_time,Can I have lunch at Saffron Club on Saturday?
+ask_restaurant_time,At what time does Saffron Club open for breakfast?
+ask_restaurant_time,What are Regiustea皇茶's operating hours?
+ask_restaurant_time,When does Regiustea皇茶 open?
+ask_restaurant_time,What are the operating hours of Poke Bowl?
+ask_restaurant_time,When does Poke Bowl open?
+ask_restaurant_time,What time is Poke Bowl open on weekends?
+ask_restaurant_time,Does Poke Bowl have extended hours during peak season?
+ask_restaurant_time,What are the operating hours of Zone U Bakery?
+ask_restaurant_time,When does Zone U Bakery open on a Sunday?
+ask_restaurant_time,Can I visit Zone U Bakery during lunchtime?
+ask_restaurant_time,Does Zone U Bakery have late night hours?
+ask_restaurant_time,What are the operating hours of LY3 Canteen?
+ask_restaurant_time,When does LY3 Canteen usually open?
+ask_restaurant_time,Can I visit LY3 Canteen during lunchtime?
+ask_restaurant_time,Is LY3 Canteen open for dinner?
+ask_restaurant_time,What are the operating hours of 中闽美食?
+ask_restaurant_time,When is 中闽美食 open on weekends?
+ask_restaurant_time,How late does 中闽美食 stay open on Friday?
+ask_restaurant_time,At what time does 中闽美食 start serving dinner?
+ask_restaurant_time,What is the operating hours of Bean's Express?
+ask_restaurant_time,At what time does Bean's Express open?
+ask_restaurant_time,How late is Bean's Express open on weekends?
+ask_restaurant_time,When does Bean's Express close?
+ask_restaurant_time,What are the operating hours of Mad Plate Express?
+ask_restaurant_time,When does Mad Plate Express open on weekends?
+ask_restaurant_time,How late is Mad Plate Express open tonight?
+ask_restaurant_time,What time does Mad Plate Express serve lunch?
+ask_restaurant_time,What are the operating hours of 小九州?
+ask_restaurant_time,When is 小九州 open today?
+ask_restaurant_time,How late does 小九州 stay open?
+ask_restaurant_time,At what time does 小九州 usually close?
+ask_restaurant_time,What are the operating hours of 膳一城?
+ask_restaurant_time,When does 膳一城 open?
+ask_restaurant_time,Is 膳一城 still open at 10pm?
+ask_restaurant_time,At what time is the last order for 膳一城?
+ask_restaurant_time,What are the business hours of 槟城风味?
+ask_restaurant_time,When is 槟城风味 open today?
+ask_restaurant_time,How late does 槟城风味 stay open on weekends?
+ask_restaurant_time,Is 槟城风味 open on Sundays?
+ask_restaurant_time,What are the operating hours of 佳味食轩?
+ask_restaurant_time,When is 佳味食轩 open?
+ask_restaurant_time,What time does 佳味食轩 close at night?
+ask_restaurant_time,Does 佳味食轩 have dinner service?
+ask_restaurant_time,What are the operating hours of China Muslim Restaurant?
+ask_restaurant_time,When does China Muslim Small Fried Chopsticks start serving lunch?
+ask_restaurant_time,Is China Muslim Restaurant open for dinner today?
+ask_restaurant_time,At what time does China Muslim's Small Fried Chopsticks usually serve?
+ask_restaurant_time,What is the operating hours of Uni Hotpot?
+ask_restaurant_time,When does Uni Hotpot open for dinner?
+ask_restaurant_time,At what time can I visit Uni Hotpot for lunch?
+ask_restaurant_time,Is Uni Hotpot still open at 10pm tonight?
+ask_restaurant_time,What time does Cafe open?
+ask_restaurant_time,When is the cafe open today?
+ask_restaurant_time,Can I visit cafe at night?
+ask_restaurant_time,At what time do cafes usually close?
+ask_restaurant_time,What are the business hours of ZUS Coffee?
+ask_restaurant_time,When does ZUS Coffee open on weekends?
+ask_restaurant_time,Is ZUS Coffee open now?
+ask_restaurant_time,At what time does ZUS Coffee serve breakfast?
+ask_restaurant_time,What are the business hours of Lakefront Cafe?
+ask_restaurant_time,When does Lakefront Cafe open?
+ask_restaurant_time,How late is Lakefront Cafe open?
+ask_restaurant_time,Is Lakefront Cafe still open on Sundays?
+ask_restaurant_time,What are the business hours of Cotti Coffee?
+ask_restaurant_time,When does Cotti Coffee open?
+ask_restaurant_time,How late is Cotti Coffee open?
+ask_restaurant_time,What time does Cotti Coffee close?
+ask_restaurant_time,What are the operating hours of Bo Ya Xuan Restaurant?
+ask_restaurant_time,At what time does Bo Ya Xuan Restaurant open?
+ask_restaurant_time,Is Bo Ya Xuan Restaurant open now?
+ask_restaurant_time,When does Bo Ya Xuan Restaurant close?
+ask_restaurant_time,What are the operating hours of SOI 55 THAI KITCHEN?
+ask_restaurant_time,When does SOI 55 THAI KITCHEN serve dinner?
+ask_restaurant_time,What is the closing time of SOI 55 THAI KITCHEN?
+ask_restaurant_time,At what time can I find SOI 55 THAI KITCHEN open?
+ask_restaurant_time,What are the operating hours of 麻辣诱惑:restaurant?
+ask_restaurant_time,When is 麻辣诱惑:restaurant open today?
+ask_restaurant_time,How late does 麻辣诱惑:restaurant stay open?
+ask_restaurant_time,At what time does 麻辣诱惑:restaurant close?
+ask_restaurant_time,What are the business hours of Secret Recipe?
+ask_restaurant_time,When is Secret Recipe open on weekends?
+ask_restaurant_time,Does Secret Recipe have a lunch break on weekdays?
+ask_restaurant_time,Is Secret Recipe open during public holidays?
+ask_restaurant_time,What are the business hours of 啵啵鱼泡泡鸡 PaoPao Pot?
+ask_restaurant_time,At what time does 啵啵鱼泡泡鸡 PaoPao Pot open?
+ask_restaurant_time,When is 啵啵鱼泡泡鸡 PaoPao Pot closed?
+ask_restaurant_time,What are 啵啵鱼泡泡鸡 PaoPao Pot's operating hours?
+ask_restaurant_time,What are the operating hours of 沙县小吃?
+ask_restaurant_time,Is 沙县小吃 open on Sundays?
+ask_restaurant_time,When does 沙县小吃 usually serve lunch?
+ask_restaurant_time,Are there any evening hours at 沙县小吃?
+ask_restaurant_time,What are the operating hours of 柳州传统螺蛳粉?
+ask_restaurant_time,When is Monster Boba open on Sundays?
+ask_restaurant_time,What are the operating hours of 颔渌渌GAN'S LOK LOK?
+ask_restaurant_time,At what time does 颔渌渌GAN'S LOK LOK open for dinner?
+ask_restaurant_time,Is 颔渌渌GAN'S LOK LOK open on weekends?
+ask_restaurant_time,When is the best time to visit 颔渌渌GAN'S LOK LOK?
+ask_restaurant_time,What are the operating hours of 秀海福麻辣烫?
+ask_restaurant_time,At what time does 秀海福麻辣烫 open for business?
+ask_restaurant_time,Is 秀海福麻辣烫 still open at night?
+ask_restaurant_time,When is the best time to visit 秀海福麻辣烫?
+ask_restaurant_time,What are the operating hours of 蜜雪冰城MIXUE?
+ask_restaurant_time,Does 蜜雪冰城MIXUE open on Sundays?
+ask_restaurant_time,When does 蜜雪冰城MIXUE restaurant close tonight?
+ask_restaurant_time,Is 蜜雪冰城MIXUE open for dinner?
+ask_restaurant_time,What are the operating hours of Starbucks?
+ask_restaurant_time,When does Starbucks open today?
+ask_restaurant_time,Is Starbucks open during lunch break?
+ask_restaurant_time,At what time does Starbucks stop serving food?
+ask_restaurant_time,What is the opening time of 食坊EatHami?
+ask_restaurant_time,When does 食坊EatHami restaurant open for business?
+ask_restaurant_time,Is food still available at 食坊EatHami after 10pm?
+ask_restaurant_time,Does 食坊EatHami close early on weekdays?
+ask_restaurant_time,What are the opening hours of 薯嘟嘟DU-DU POTATO?
+ask_restaurant_time,When does 薮嘟嘟DU-DU POTATO open for dinner?
+ask_restaurant_time,Is薮嘟嘟DU-DU POTATO open on weekends?
+ask_restaurant_time,At what time is 薮嘟嘟DU-DU POTATO usually crowded?
+ask_restaurant_time,What is the opening time of 蜀都风味?
+ask_restaurant_time,At what time does 蜀都风味 open for business?
+ask_restaurant_time,When can I visit 蜀都风味 restaurant?
+ask_restaurant_time,What are the operating hours of 蜀都风味?
+ask_restaurant_time,What are the business hours of 三千尺The Flows gourmet?
+ask_restaurant_time,When does 三千尺The Flows gourmet open?
+ask_restaurant_time,Is 三千尺The Flows gourmet open on weekends?
+ask_restaurant_time,At what time does 三千尺The Flows gourmet close?
+ask_restaurant_time,What are SITRUS opening hours?
+ask_restaurant_time,When is SITRUS restaurant open?
+ask_restaurant_time,Can I dine at SITRUS during lunchtime?
+ask_restaurant_time,At what time does SITRUS usually stop serving?
+ask_restaurant_time,What is the operating hour of 陕西面馆?
+ask_restaurant_time,When does 陕西面馆 open on weekends?
+ask_restaurant_time,Is 陕西面馆 available for dine-in during lunch time?
+ask_restaurant_time,At what time does 陕西面馆 stop serving dinner?
+ask_restaurant_time,What time does Nasi Kandar Al-Hajeera open?
+ask_restaurant_time,When is Nasi Kandar Al-Hajeera's closing time?
+ask_restaurant_time,At what hour does Nasi Kandar Al-Hajeera stop serving?
+ask_restaurant_time,On which day and time does Nasi Kandar Al-Hajeera operate?
+ask_restaurant_time,What are the business hours of 鸡公煲?
+ask_restaurant_time,When does 鸡公煲 open for dinner?
+ask_restaurant_time,Is 鸡公煲 open on weekends?
+ask_restaurant_time,At what time does 鸡公煲 stop serving food?
+ask_restaurant_time,What are the operating hours of 54 Thai Mookata?
+ask_restaurant_time,Is 54 Thai Mookata open on weekends?
+ask_restaurant_time,When does 54 Thai Mookata close for lunch?
+ask_restaurant_time,Are they open late nights at 54 Thai Mookata?
+ask_restaurant_time,What are the operating hours of 茶餐室?
+ask_restaurant_time,When does 茶餐室 open on weekends?
+ask_restaurant_time,Is 茶餐室 open during lunch hour?
+ask_restaurant_time,At what time does 茶餐室 serve dinner?
+ask_restaurant_time,What are the opening hours of Baskin-Robbins?
+ask_restaurant_time,When does Baskin-Robbins open today?
+ask_restaurant_time,At what time does Baskin-Robbins close?
+ask_restaurant_time,Is Baskin-Robbins open now?
+ask_restaurant_time,What are the operating hours of 串串店?
+ask_restaurant_time,When is 串串店 open tomorrow?
+ask_restaurant_time,Does 串串店 have lunch service on weekdays?
+ask_restaurant_time,Are there any late night dining options available at 串串店?
+ask_restaurant_time,What are the operating hours of Q EVENT SPACE?
+ask_restaurant_time,At what time does Q EVENT SPACE close?
+ask_restaurant_time,When is Q EVENT SPACE open?
+ask_restaurant_time,How late is Q EVENT SPACE open?
+ask_restaurant_time,What are the operating hours of 大熊熊螺蛳粉?
+ask_restaurant_time,Is 大熊熊螺蛳粉 open on weekends?
+ask_restaurant_time,When is the best time to visit 大熊熊螺蛳粉?
+ask_restaurant_time,Does 大熊熊螺蛳粉 have evening service?
+ask_restaurant_time,What are the operating hours of Bing Dessert Cafe?
+ask_restaurant_time,Is Bing Dessert Cafe open on weekends?
+ask_restaurant_time,When does Bing Dessert Cafe usually serve dessert?
+ask_restaurant_time,Are they open for dinner at Bing Dessert Cafe?
+ask_restaurant_time,What is the opening time of CHATTO?
+ask_restaurant_time,When does CHATTO open?
+ask_restaurant_time,What are CHATTO's business hours?
+ask_restaurant_time,At what time does CHATTO close?
+ask_restaurant_time,What are the business hours of KOPI SAIGON?
+ask_restaurant_time,When is KOPI SAIGON open?
+ask_restaurant_time,At what time does KOPI SAIGON start serving coffee?
+ask_restaurant_time,Is KOPI SAIGON still operational during weekends?
+ask_restaurant_time,What are the operating hours of GEPREK'ING Fried Chicken?
+ask_restaurant_time,When does GEPREK'ING Fried Chicken open and close?
+ask_restaurant_time,Is GEPREK'ING Fried Chicken still open for business at night?
+ask_restaurant_time,Can I visit GEPREK'ING Fried Chicken during lunchtime?
+ask_restaurant_time,What are the operating hours of Kafe Lazatnya?
+ask_restaurant_time,When is Kafe Lazatnya open?
+ask_restaurant_time,At what time does Kafe Lazatnya usually serve lunch?
+ask_restaurant_time,Is Kafe Lazatnya still open at night?
+ask_restaurant_time,What are the operating hours of 拾浮百世?
+ask_restaurant_time,When is 拾浮百世 open on weekdays?
+ask_restaurant_time,Does 拾浮百世 have dinner service?
+ask_restaurant_time,Is 拾浮百世 open for lunch today?
+ask_restaurant_recommendation,Can you recommend any good restaurants in Summer Palace?
+ask_restaurant_recommendation,What are some popular restaurants near Summer Palace?
+ask_restaurant_recommendation,"I'm looking for a nice restaurant to eat in Summer Palace, what do you suggest?"
+ask_restaurant_recommendation,Are there any highly-rated restaurants inside Summer Palace?
+ask_restaurant_recommendation,What kind of food does Tuk Tuk Thai&Taro serve?
+ask_restaurant_recommendation,Is Tuk Tuk Thai&Taro open for lunch?
+ask_restaurant_recommendation,Where is Tuk Tuk Thai&Taro located?
+ask_restaurant_recommendation,What are the reviews like for Tuk Tuk Thai&Taro?
+ask_restaurant_recommendation,What's the best food at 大树下?
+ask_restaurant_recommendation,Which restaurant near me is 大树下
+ask_restaurant_recommendation,Is 大树下 a good place to eat?
+ask_restaurant_recommendation,Can you recommend some dishes from 大树下?
+ask_restaurant_recommendation,What type of food does Let's Kopitiam serve?
+ask_restaurant_recommendation,Can you recommend any dishes at Let's Kopitiam?
+ask_restaurant_recommendation,How is the service quality at Let's Kopitiam?
+ask_restaurant_recommendation,Is Let's Kopitiam a good restaurant for a family dinner?
+ask_restaurant_recommendation,What's good at mynews便利店?
+ask_restaurant_recommendation,Can you recommend something to eat at mynews便利店?
+ask_restaurant_recommendation,"I'm looking for a quick bite, do you have any suggestions at mynews便利店?"
+ask_restaurant_recommendation,What should I order from mynews便利店?
+ask_restaurant_recommendation,What is good about Takw Mee Tarik restaurant?
+ask_restaurant_recommendation,Which dish from Takw Mee Tarik restaurant should I order?
+ask_restaurant_recommendation,Do you recommend trying the food at Takw Mee Tarik restaurant?
+ask_restaurant_recommendation,Is it worth eating at Takw Mee Tarik restaurant?
+ask_restaurant_recommendation,What's a good restaurant like 大家旺 to eat at?
+ask_restaurant_recommendation,Where can I find a place similar to 大家旺 in terms of food quality?
+ask_restaurant_recommendation,Can you recommend any restaurants like 大家旺 nearby?
+ask_restaurant_recommendation,Is there a local favorite that serves similar dishes to 大家旺?
+ask_restaurant_recommendation,What kind of cuisine does 蜀之味 serve?
+ask_restaurant_recommendation,Is 蜀之味 a good place to eat?
+ask_restaurant_recommendation,Can you recommend 蜀之味 for dinner?
+ask_restaurant_recommendation,What's the ambiance like at 蜀之味?
+ask_restaurant_recommendation,What kind of food does 大城小厨 serve?
+ask_restaurant_recommendation,Is 大城小厨 a good place to try Szechuan cuisine?
+ask_restaurant_recommendation,Which type of restaurant is 大城小厨?
+ask_restaurant_recommendation,Does 大城小厨 have any promotions or discounts?
+ask_restaurant_recommendation,What kind of tea does Hualiande good tea have?
+ask_restaurant_recommendation,Where is a popular place to get good tea near my location?
+ask_restaurant_recommendation,Is Hualiande good tea any good?
+ask_restaurant_recommendation,Can you recommend a good tea shop like Hualiande good tea?
+ask_restaurant_recommendation,What kind of desserts does 小云冰室 offer?
+ask_restaurant_recommendation,Is 小云冰室 a good place to try traditional Taiwanese desserts?
+ask_restaurant_recommendation,"Which is better, small dessert or big dessert at 小云冰室?"
+ask_restaurant_recommendation,Can you recommend some popular menu items from 小云冰室?
+ask_restaurant_recommendation,What is good at 大拇指?
+ask_restaurant_recommendation,Can you recommend dishes from 大拇指?
+ask_restaurant_recommendation,"Which restaurant do you prefer, 大拇指 or [other restaurant]?"
+ask_restaurant_recommendation,Is 大拇指 a popular restaurant?
+ask_restaurant_recommendation,What kind of dishes does 喵喵轻食 serve?
+ask_restaurant_recommendation,Is 喵喵轻食 a good place to eat?
+ask_restaurant_recommendation,Can you recommend some restaurants like 喵喵轻食?
+ask_restaurant_recommendation,What's the most popular dish at 喵喵轻食?
+ask_restaurant_recommendation,What are some popular dishes to order at 大碗面?
+ask_restaurant_recommendation,"I want to try big bowls of noodles, can you recommend 大碗面?"
+ask_restaurant_recommendation,Where is the best place to eat 大碗面 in town?
+ask_restaurant_recommendation,Can you give me a few recommendations for restaurants like 大碗面?
+ask_restaurant_recommendation,What is a good place to eat in KL?
+ask_restaurant_recommendation,Can you recommend some popular restaurants around me?
+ask_restaurant_recommendation,Where can I find a nice restaurant serving Italian food?
+ask_restaurant_recommendation,Which restaurants near my location have high ratings?
+ask_restaurant_recommendation,What kind of food does 小台枫 serve?
+ask_restaurant_recommendation,Is 小台枫 a good place to eat with family?
+ask_restaurant_recommendation,Can you recommend any restaurants like 小台枫?
+ask_restaurant_recommendation,What is the atmosphere like at 小台枫?
+ask_restaurant_recommendation,What type of cuisine does Restaurant Kabaabish serve?
+ask_restaurant_recommendation,Is Restaurant Kabaabish a good place to eat?
+ask_restaurant_recommendation,Can you recommend any restaurants like Restaurant Kabaabish?
+ask_restaurant_recommendation,Where is the nearest restaurant similar to Restaurant Kabaabish?
+ask_restaurant_recommendation,What are some popular restaurants near campus?
+ask_restaurant_recommendation,Can you recommend any good food places on this university's premises?
+ask_restaurant_recommendation,Where can I find delicious and affordable meals around here?
+ask_restaurant_recommendation,Which canteens have the best menu options?
+ask_restaurant_recommendation,What is good about Saffron Club?
+ask_restaurant_recommendation,Can anyone recommend me a place like Saffron Club?
+ask_restaurant_recommendation,What kind of food does Saffron Club serve?
+ask_restaurant_recommendation,Are there any other restaurants similar to Saffron Club?
+ask_restaurant_recommendation,What are the best tea shops in town?
+ask_restaurant_recommendation,Can you recommend a good place to try 皇茶?
+ask_restaurant_recommendation,Where can I find high quality tea near me?
+ask_restaurant_recommendation,Is Regiustea 皇茶 any good?
+ask_restaurant_recommendation,What's a good Poke Bowl restaurant near me?
+ask_restaurant_recommendation,Can you recommend any nearby Poke Bowls with delivery options?
+ask_restaurant_recommendation,"I'm craving Poke Bowl, what are some popular restaurants in the area?"
+ask_restaurant_recommendation,Where can I get the best Poke Bowl Rice in town?
+ask_restaurant_recommendation,What kind of food does Zone U Bakery serve?
+ask_restaurant_recommendation,Is Zone U Bakery a good restaurant to try in this area?
+ask_restaurant_recommendation,"I'm looking for a cafe near my place, can you recommend something like Zone U Bakery?"
+ask_restaurant_recommendation,Do you have any recommendations for restaurants similar to Zone U Bakery?
+ask_restaurant_recommendation,What are some good restaurants around LY3 Canteen?
+ask_restaurant_recommendation,Can you recommend a nearby restaurant to LY3 Canteen?
+ask_restaurant_recommendation,Which restaurant near LY3 Canteen has the best food?
+ask_restaurant_recommendation,Do you have any recommendations for restaurants similar to LY3 Canteen?
+ask_restaurant_recommendation,What are some good restaurants in the 中闽 area?
+ask_restaurant_recommendation,Where can I find delicious food near 中闽美食?
+ask_restaurant_recommendation,Can you recommend a restaurant similar to 中闽美食?
+ask_restaurant_recommendation,"I'm looking for a new place to eat, what's your recommendation near 中闽?"
+ask_restaurant_recommendation,What kind of food does Bean's Express serve?
+ask_restaurant_recommendation,Is Bean's Express a good place to eat?
+ask_restaurant_recommendation,Can you recommend any restaurants similar to Bean's Express?
+ask_restaurant_recommendation,Where is the nearest location to Bean's Express?
+ask_restaurant_recommendation,What's a good restaurant like near my location?
+ask_restaurant_recommendation,Is Mad Plate Express any good?
+ask_restaurant_recommendation,Can you recommend some restaurants similar to Mad Plate Express?
+ask_restaurant_recommendation,"I'm looking for a new place to eat, have you heard of Mad Plate Express?"
+ask_restaurant_recommendation,What's a good restaurant like 小九州 to go in the evening?
+ask_restaurant_recommendation,"I'm craving for Chinese food, do you have any recommendations similar to 小九州?"
+ask_restaurant_recommendation,Where can I find a restaurant serving similar cuisine to 小九州?
+ask_restaurant_recommendation,Can you suggest some popular restaurants around me that are similar to 小九州?
+ask_restaurant_recommendation,What kind of food does 膳一城 serve?
+ask_restaurant_recommendation,Is 膳一城 a good place to eat?
+ask_restaurant_recommendation,Can you recommend any restaurants like 膳一城?
+ask_restaurant_recommendation,How is the atmosphere at 膳一城?
+ask_restaurant_recommendation,What are the must-try dishes at 槟城风味?
+ask_restaurant_recommendation,Can you recommend any good restaurants like 槟城风味 around here?
+ask_restaurant_recommendation,What kind of food does 槟城风味 serve that I should try?
+ask_restaurant_recommendation,Are there any other recommended restaurants similar to 槟城风味 in this area?
+ask_restaurant_recommendation,What's a good restaurant like 佳味食轩 around here?
+ask_restaurant_recommendation,"I'm looking for some recommendations, have you been to 佳味食轩 before?"
+ask_restaurant_recommendation,What are the most popular dishes at 佳味食轩?
+ask_restaurant_recommendation,Can you recommend a place similar to 佳味食轩?
+ask_restaurant_recommendation,What is a popular Muslim restaurant in Kuala Lumpur?
+ask_restaurant_recommendation,Where can I find good Chinese food in Kuala Lumpur?
+ask_restaurant_recommendation,What's good at Uni Hotpot?
+ask_restaurant_recommendation,Do you have any recommendations for Uni Hotpot?
+ask_restaurant_recommendation,Can someone recommend me something to order from Uni Hotpot?
+ask_restaurant_recommendation,What dishes does Uni Hotpot serve?
+ask_restaurant_recommendation,What are some good cafes in the area?
+ask_restaurant_recommendation,Can you recommend a nice cafe nearby?
+ask_restaurant_recommendation,What is the best coffee shop near me?
+ask_restaurant_recommendation,Can you recommend a cafe similar to ZUS Coffee?
+ask_restaurant_recommendation,What are some good restaurants around Lakefront Cafe?
+ask_restaurant_recommendation,Can you recommend a place to eat near Lakefront Cafe?
+ask_restaurant_recommendation,Is there anywhere better than Lakefront Cafe in the area?
+ask_restaurant_recommendation,Where can I get food that's similar to Lakefront Cafe?
+ask_restaurant_recommendation,What type of coffee does Cotti Coffee serve?
+ask_restaurant_recommendation,Is Cotti Coffee a good place to grab lunch with friends?
+ask_restaurant_recommendation,Do you have any recommendations for coffee shops like Cotti Coffee in the area?
+ask_restaurant_recommendation,Can I order takeout from Cotti Coffee or do they only serve dine-in?
+ask_restaurant_recommendation,What kind of food does Bo Ya Xuan Restaurant serve?
+ask_restaurant_recommendation,Is Bo Ya Xuan Restaurant good for a date night?
+ask_restaurant_recommendation,Can you recommend any Chinese restaurants like Bo Ya Xuan Restaurant nearby?
+ask_restaurant_recommendation,How is the service at Bo Ya Xuan Restaurant?
+ask_restaurant_recommendation,What is the best dish to try at SOI 55 THAI KITCHEN?
+ask_restaurant_recommendation,Does SOI 55 THAI KITCHEN have any vegetarian options?
+ask_restaurant_recommendation,Can you recommend a restaurant like SOI 55 THAI KITCHEN near me?
+ask_restaurant_recommendation,Is SOI 55 THAI KITCHEN worth the price for its food quality?
+ask_restaurant_recommendation,What is good about 麻辣诱惑 restaurant?
+ask_restaurant_recommendation,Which cuisine does 麻辣诱惑 restaurant serve?
+ask_restaurant_recommendation,Is the service at 麻辣诱惑 restaurant friendly?
+ask_restaurant_recommendation,Can you recommend something spicy from 麻辣诱惑 restaurant's menu?
+ask_restaurant_recommendation,What kind of food does Secret Recipe serve?
+ask_restaurant_recommendation,Is Secret Recipe a good place to eat?
+ask_restaurant_recommendation,Can you recommend any restaurants like Secret Recipe?
+ask_restaurant_recommendation,How would you rate the food at Secret Recipe?
+ask_restaurant_recommendation,What's good to eat at 啵啵鱼泡泡鸡?
+ask_restaurant_recommendation,Can you recommend some dishes from 啵啵鱼泡泡鸡 menu?
+ask_restaurant_recommendation,What are the popular items in 啵啵鱼泡泡鸡 restaurant?
+ask_restaurant_recommendation,Are there any must-try dishes when dining at 啵啵鱼泡泡鸡?
+ask_restaurant_recommendation,What's a good restaurant like 沙县小吃 around here?
+ask_restaurant_recommendation,Can you recommend some restaurants similar to 沙县小吃?
+ask_restaurant_recommendation,Where can I find food like 沙县小吃 in the area?
+ask_restaurant_recommendation,Are there any other restaurants that serve similar dishes like 沙县小吃?
+ask_restaurant_recommendation,What kind of food does 颔颔GAN'S LOK LOK serve?
+ask_restaurant_recommendation,Is the service at 颔颔GAN'S LOK LOK good?
+ask_restaurant_recommendation,Can you recommend any other restaurants like 颔颔GAN'S LOK LOK?
+ask_restaurant_recommendation,How is the atmosphere at 颔颔GAN'S LOK LOK?
+ask_restaurant_recommendation,What are the popular dishes at 秀海福麻辣烫?
+ask_restaurant_recommendation,Where can I get delicious mala hot pot like 秀海福麻辣烫?
+ask_restaurant_recommendation,Is 秀海福麻辣烫 a highly-recommended restaurant for spicy food?
+ask_restaurant_recommendation,Can you recommend some similar restaurants to 秀海福麻辣烫?
+ask_restaurant_recommendation,What are some popular restaurants near 蜜雪冰城MIXUE
+ask_restaurant_recommendation,Can you recommend a good restaurant like 蜜雪冰城MIXUE around here?
+ask_restaurant_recommendation,What's the best place to eat in place of 蜜雪冰城MIXUE?
+ask_restaurant_recommendation,Are there any other recommended places similar to 蜜雪冰城MIXUE?
+ask_restaurant_recommendation,What kind of food does EatHami serve?
+ask_restaurant_recommendation,Is EatHami a good place to eat?
+ask_restaurant_recommendation,Can you recommend a restaurant like EatHami nearby?
+ask_restaurant_recommendation,Do people usually go to EatHami for dinner?
+ask_restaurant_recommendation,What kind of food does 薮嘟嘟DU-DU POTATO serve?
+ask_restaurant_recommendation,Is薮嘟嘟DU-DU POTATO a good place to eat?
+ask_restaurant_recommendation,Can you recommend any popular restaurants like 薮嘟嘟DU-DU POTATO?
+ask_restaurant_recommendation,Where is the nearest restaurant to 薮嘟嘟DU-DU POTATO?
+ask_restaurant_recommendation,What's a good restaurant to eat Shu Du flavor food?
+ask_restaurant_recommendation,Can you recommend some restaurants that serve authentic Sichuan cuisine like 蜀都风味?
+ask_restaurant_recommendation,Where can I try the best Shu Du flavors in town?
+ask_restaurant_recommendation,Do you have any recommendations for good restaurants serving 蜀都风味 dishes?
+ask_restaurant_recommendation,What's the best restaurant in Taipei?
+ask_restaurant_recommendation,"I'm looking for a high-end restaurant serving Chinese cuisine, can you recommend one?"
+ask_restaurant_recommendation,Where can I book a table at a fancy restaurant serving French-Asian fusion dishes?
+ask_restaurant_recommendation,Can you suggest a gourmet restaurant with a romantic atmosphere?
+ask_restaurant_recommendation,What are some popular dishes at SITRUS?
+ask_restaurant_recommendation,Can you recommend a restaurant like SITRUS?
+ask_restaurant_recommendation,"I'm looking for a restaurant with similar atmosphere to SITRUS, what do you suggest?"
+ask_restaurant_recommendation,Where can I find the best food in town like SITRUS?
+ask_restaurant_recommendation,What are the best restaurants like 陕西面馆 in this area?
+ask_restaurant_recommendation,Can you recommend a Chinese restaurant similar to 陕西面馆?
+ask_restaurant_recommendation,Where can I find good noodles like 陕西面馆 near my location?
+ask_restaurant_recommendation,Are there any restaurants nearby that serve food similar to 陕西面馆?
+ask_restaurant_recommendation,What type of food is served at Nasi Kandar Al-Hajeera?
+ask_restaurant_recommendation,Which restaurant is similar to Nasi Kandar Al-Hajeera near me?
+ask_restaurant_recommendation,Can you recommend a restaurant like Nasi Kandar Al-Hajeera for dinner tonight?
+ask_restaurant_recommendation,What are some popular dishes at Nasi Kandar Al-Hajeera restaurant?
+ask_restaurant_recommendation,What's good at 鸡公煲?
+ask_restaurant_recommendation,Can you recommend some dishes from 鸡公煲?
+ask_restaurant_recommendation,What's popular at 鸡公煲 restaurant?
+ask_restaurant_recommendation,Recommend me something to try at 鸡公煲
+ask_restaurant_recommendation,What is good about Thai Mookata?
+ask_restaurant_recommendation,Can you recommend some popular dishes at Thai Mookata?
+ask_restaurant_recommendation,"I'm looking for a new restaurant to try, have you heard of Thai Mookata?"
+ask_restaurant_recommendation,What kind of food does Thai Mookata serve?
+ask_restaurant_recommendation,What's the popular dish at 茶餐室?
+ask_restaurant_recommendation,Can you recommend me a restaurant like 茶餐室?
+ask_restaurant_recommendation,Where can I get a good taste of Cantonese cuisine near 茶餐室?
+ask_restaurant_recommendation,Are there any other restaurants serving similar food to 茶餐室 nearby?
+ask_restaurant_recommendation,What are some popular dessert restaurants near me?
+ask_restaurant_recommendation,Can you recommend a good ice cream place in town?
+ask_restaurant_recommendation,Where can I get unique flavors of ice cream in my area?
+ask_restaurant_recommendation,What's the best ice cream shop in this city?
+ask_restaurant_recommendation,What kind of food does 串串店 serve?
+ask_restaurant_recommendation,Is 串串店 a good restaurant to eat in?
+ask_restaurant_recommendation,Which type of cuisine is 串串店 best for?
+ask_restaurant_recommendation,Do you have any recommendations for restaurants like 串串店?
+ask_restaurant_recommendation,What type of food does Q Event Space serve?
+ask_restaurant_recommendation,Is Q Event Space a good restaurant to try?
+ask_restaurant_recommendation,Can you recommend restaurants like Q Event Space in the area?
+ask_restaurant_recommendation,What is special about Q Event Space's menu?
+ask_restaurant_recommendation,What's good about 大熊熊螺蛳粉?
+ask_restaurant_recommendation,Is 大熊熊螺蛳粉 a must-try?
+ask_restaurant_recommendation,What's a good dessert cafe near me?
+ask_restaurant_recommendation,Can you recommend any dessert cafes like Bing Dessert Cafe?
+ask_restaurant_recommendation,"Where can I find the best desserts in town, something like Bing Dessert Cafe?"
+ask_restaurant_recommendation,What kind of food does Chatto serve?
+ask_restaurant_recommendation,Can you recommend any restaurants like Chatto near me?
+ask_restaurant_recommendation,Is Chatto a good place to try their signature dishes?
+ask_restaurant_recommendation,Are there any other popular restaurants similar to Chatto?
+ask_restaurant_recommendation,Can you recommend a good restaurant like KOPI SAIGON?
+ask_restaurant_recommendation,Where can I find the best food near KOPI SAIGON?
+ask_restaurant_recommendation,What kind of restaurants are there around KOPI SAIGON?
+ask_restaurant_recommendation,Is KOPI SAIGON a recommended place to eat?
+ask_restaurant_recommendation,What are the top-rated fried chicken restaurants in the area?
+ask_restaurant_recommendation,Is GEPREK'ING Fried Chicken a good place to eat?
+ask_restaurant_recommendation,What is good food to order from Kafe Lazatnya?
+ask_restaurant_recommendation,Can you recommend some popular dishes in Kafe Lazatnya?
+ask_restaurant_recommendation,"I'm looking for restaurants like Kafe Lazatnya, do you have any suggestions?"
+ask_restaurant_recommendation,What's the top recommendation at Kafe Lazatnya?
+ask_restaurant_recommendation,What are some popular restaurants like 拾浮百世 in the area?
+ask_restaurant_recommendation,Can you recommend a restaurant similar to 拾浮百世 nearby?
+ask_restaurant_recommendation,Which restaurant has a similar menu and atmosphere to 拾浮百世?
+ask_restaurant_recommendation,Do you have any recommendations for a place to eat that is similar to 拾浮百世?
+ask_restaurant_price,How much does a meal cost at Xia1 city restaurant?
+ask_restaurant_price,What is the price range of Xia1 city restaurant's menu?
+ask_restaurant_price,Is Xia1 city restaurant expensive?
+ask_restaurant_price,Does Xia1 city restaurant have affordable food options?
+ask_restaurant_price,How much does it cost to eat at Tuk Tuk Thai&Taro?
+ask_restaurant_price,What is the price range of a meal at Tuk Tuk Thai&Taro restaurant?
+ask_restaurant_price,Is Tuk Tuk Thai&Taro affordable for students?
+ask_restaurant_price,Can you tell me the approximate price of dishes at Tuk Tuk Thai&Taro?
+ask_restaurant_price,What is the price range of big tree below restaurant?
+ask_restaurant_price,How much does big tree below restaurant cost?
+ask_restaurant_price,Is big tree below restaurant affordable?
+ask_restaurant_price,What can I expect to pay at big tree below restaurant?
+ask_restaurant_price,How much does a meal cost at Let's Kopitiam?
+ask_restaurant_price,What is the price range of food at Let's Kopitiam?
+ask_restaurant_price,Can I get a rough estimate of prices at Let's Kopitiam?
+ask_restaurant_price,Are the dishes at Let's Kopitiam reasonably priced?
+ask_restaurant_price,What is the price of meals at mynews便利店?
+ask_restaurant_price,How much does it cost to eat at mynews便利店?
+ask_restaurant_price,Can I get a menu with prices for mynews便利店?
+ask_restaurant_price,Is it expensive to dine at mynews便利店?
+ask_restaurant_price,What is the price range of Takw Mee Tarik?
+ask_restaurant_price,How much does it cost to eat at Takw Mee Tarik?
+ask_restaurant_price,Is Takw Mee Tarik affordable for a student's budget?
+ask_restaurant_price,Can you tell me about the pricing of Takw Mee Tarik?
+ask_restaurant_price,What is the price of a meal at 大家旺?
+ask_restaurant_price,How much does it cost to eat at 大家旺?
+ask_restaurant_price,Is the menu at 大家旺 affordable?
+ask_restaurant_price,Can I get a quote for food at 大家旺?
+ask_restaurant_price,What is the price of 蜀之味's lunch set?
+ask_restaurant_price,How much does it cost to eat at 蜀之味?
+ask_restaurant_price,Is 蜀之味 a affordable restaurant for students?
+ask_restaurant_price,Can I get a discount on my meal at 蜀之味?
+ask_restaurant_price,What is the price range of dishes at 大城小厨?
+ask_restaurant_price,How much does it cost to eat at 大城小厨?
+ask_restaurant_price,Is 大城小厨 affordable for a mid-range budget?
+ask_restaurant_price,What's the average price per meal at 大城小厨?
+ask_restaurant_price,What is the price of a drink at华联好凉茶?
+ask_restaurant_price,How much does it cost to order from华联好凉茶?
+ask_restaurant_price,Is 华联好凉茶 affordable for students?
+ask_restaurant_price,Can you tell me the average price of a meal at华联好凉茶?
+ask_restaurant_price,How much does a bowl of dessert cost at 小云冰室?
+ask_restaurant_price,What is the price range for desserts at 小云冰室?
+ask_restaurant_price,Is 小云冰室 expensive for ice cream?
+ask_restaurant_price,Do they offer any affordable options at 小云冰室?
+ask_restaurant_price,What is the price range of 大拇指?
+ask_restaurant_price,How much does it cost to dine at 大拇指?
+ask_restaurant_price,What's the average price per meal at 大拇指 restaurant?
+ask_restaurant_price,Is 大拇指 affordable for a student budget?
+ask_restaurant_price,What is the price range of dishes at 喵喵轻食?
+ask_restaurant_price,How much does it cost to eat at 喵喵轻食?
+ask_restaurant_price,Is the price at 喵喵轻食 affordable?
+ask_restaurant_price,Can I get a menu with prices for 喵喵轻食?
+ask_restaurant_price,How much is a plate of 大碗面 at this restaurant?
+ask_restaurant_price,What's the price of 大碗面 here?
+ask_restaurant_price,Is 大碗面 affordable to eat?
+ask_restaurant_price,Can I get a bowl of 大碗面 for under $10?
+ask_restaurant_price,What is the price range of meals at U&I restaurant?
+ask_restaurant_price,How much does a meal cost at U&I:restaurant?
+ask_restaurant_price,Is U&I:restaurant expensive or affordable in terms of pricing?
+ask_restaurant_price,Can you tell me about the average cost of food at U&I:restaurant?
+ask_restaurant_price,What's the price range of dishes at 小台枫?
+ask_restaurant_price,How much does a meal cost at 小台枫?
+ask_restaurant_price,Is 小台枫 affordable for students?
+ask_restaurant_price,What are the prices like at 小台枫 restaurant?
+ask_restaurant_price,How much does it cost to dine at Restaurant Kabaabish?
+ask_restaurant_price,What is the price range of meals at Restaurant Kabaabish?
+ask_restaurant_price,Can you tell me the average price per dish at Restaurant Kabaabish?
+ask_restaurant_price,Do they offer any affordable options at Restaurant Kabaabish?
+ask_restaurant_price,What is the price of a meal at B1 Canteen?
+ask_restaurant_price,How much does it cost to eat at B1 Canteen?
+ask_restaurant_price,Is B1 Canteen expensive?
+ask_restaurant_price,Can I afford eating at B1 Canteen?
+ask_restaurant_price,What is the price range of dishes at Sapid restaurant?
+ask_restaurant_price,How much does it cost to eat at Sapid restaurant?
+ask_restaurant_price,Can you tell me the approximate prices at Sapid restaurant?
+ask_restaurant_price,Are the meals at Sapid restaurant reasonably priced?
+ask_restaurant_price,What is the price range of food at Saffron Club?
+ask_restaurant_price,How much does it cost to dine in at Saffron Club?
+ask_restaurant_price,Is Saffron Club expensive or affordable?
+ask_restaurant_price,Can you tell me about the pricing menu at Saffron Club?
+ask_restaurant_price,What is the price range of Regiustea皇茶 at night?
+ask_restaurant_price,How much does it cost to dine at Regiustea皇茶 during peak hours?
+ask_restaurant_price,Is the menu at Regiustea皇茶 expensive compared to others?
+ask_restaurant_price,Are there any budget-friendly options available at Regiustea皇茶?
+ask_restaurant_price,What is the price of a Poke Bowl at this restaurant?
+ask_restaurant_price,How much does a Poke Bowl cost here?
+ask_restaurant_price,Can you tell me the price of Poke Bowl Rice on your menu?
+ask_restaurant_price,What's the average price of Poke Bowl at this place?
+ask_restaurant_price,What is the price range of food at Zone U Bakery?
+ask_restaurant_price,How much does a meal cost at Zone U Bakery?
+ask_restaurant_price,Can you tell me the prices of dishes at Zone U Bakery?
+ask_restaurant_price,Are the menu items at Zone U Bakery reasonably priced?
+ask_restaurant_price,How much does it cost to eat at LY3 Canteen?
+ask_restaurant_price,What is the price range of LY3 Canteen's food?
+ask_restaurant_price,Is LY3 Canteen expensive or affordable?
+ask_restaurant_price,Can I get a menu with prices for LY3 Canteen?
+ask_restaurant_price,How much does it cost to dine at 中闽美食?
+ask_restaurant_price,What's the price range of dishes in 中闽美食?
+ask_restaurant_price,Can you give me an estimate of the expenses for a meal at 中闽美食?
+ask_restaurant_price,Are the prices at 中闽美食 considered affordable?
+ask_restaurant_price,What is the price range of meals at Bean's Express?
+ask_restaurant_price,How much does it cost to eat at Bean's Express?
+ask_restaurant_price,Is Bean's Express expensive compared to other restaurants?
+ask_restaurant_price,Can I find affordable food options at Bean's Express?
+ask_restaurant_price,What is the price range of dishes at Mad Plate Express?
+ask_restaurant_price,How much does it cost to eat at Mad Plate Express?
+ask_restaurant_price,Can I afford a meal at Mad Plate Express on a budget of $15?
+ask_restaurant_price,Is Mad Plate Express expensive or affordable?
+ask_restaurant_price,How much does a meal cost at 小九州?
+ask_restaurant_price,What's the price range of 小九州?
+ask_restaurant_price,Is 小九州 expensive?
+ask_restaurant_price,Can I get a affordable meal at 小九州?
+ask_restaurant_price,How much does it cost to dine at 膳一城?
+ask_restaurant_price,What is the price range of dishes in 膳一城?
+ask_restaurant_price,Is 膳一城 an affordable restaurant for students?
+ask_restaurant_price,Can I find value-for-money meals at 膳一城?
+ask_restaurant_price,How much does a meal cost at 槟城风味?
+ask_restaurant_price,What is the price range of dishes at 槟城风味?
+ask_restaurant_price,Is 槟城风味 expensive or affordable for a student?
+ask_restaurant_price,Can I get a budget-friendly option at 槟城风味?
+ask_restaurant_price,What is the price range of dishes at 佳味食轩?
+ask_restaurant_price,How much does it cost to dine in at 佳味食轩?
+ask_restaurant_price,Are the prices at 佳味食轩 affordable for a student budget?
+ask_restaurant_price,Does 佳味食轩 offer any discounts or promotions?
+ask_restaurant_price,What's the price range of 中国穆斯林小炒?
+ask_restaurant_price,How much does it cost to eat at 中国穆斯林小炒?
+ask_restaurant_price,Can you tell me the average price of dishes at 中国穆斯林小炒?
+ask_restaurant_price,How expensive is the food at 中国穆斯林小炒?
+ask_restaurant_price,What is the price range of a meal at Uni Hotpot?
+ask_restaurant_price,How much does it cost to dine in at Uni Hotpot?
+ask_restaurant_price,What's the average price per person at Uni Hotpot restaurant?
+ask_restaurant_price,Is Uni Hotpot affordable for students?
+ask_restaurant_price,What is the price range of food at Cafes?
+ask_restaurant_price,How much does it cost to dine at Cafes?
+ask_restaurant_price,Can you tell me the menu prices at Cafes?
+ask_restaurant_price,Is Cafes expensive or affordable?
+ask_restaurant_price,What is the price range of a cup at ZUS Coffee?
+ask_restaurant_price,How much does it cost to order a drink at ZUS Coffee?
+ask_restaurant_price,Is ZUS Coffee expensive compared to other cafes?
+ask_restaurant_price,Can I get a budget-friendly meal at ZUS Coffee?
+ask_restaurant_price,What is the price range of menu items at Lakefront Cafe?
+ask_restaurant_price,How much does it cost to eat at Lakefront Cafe?
+ask_restaurant_price,Is Lakefront Cafe's food affordable?
+ask_restaurant_price,Can I get a budget-friendly meal at Lakefront Cafe?
+ask_restaurant_price,How much does a cup of coffee cost at Cotti Coffee?
+ask_restaurant_price,What is the price range for meals at Cotti Coffee?
+ask_restaurant_price,Is Cotti Coffee affordable compared to other restaurants?
+ask_restaurant_price,Do you know how much a breakfast set costs at Cotti Coffee?
+ask_restaurant_price,What's the average price range of dishes at Bo Ya Xuan Restaurant?
+ask_restaurant_price,How much does it cost to eat at Bo Ya Xuan Restaurant on a daily basis?
+ask_restaurant_price,Is Bo Ya Xuan Restaurant expensive or is the price reasonable for its quality?
+ask_restaurant_price,Can you give me an idea about the prices of their signature dishes at Bo Ya Xuan Restaurant?
+ask_restaurant_price,How much does it cost to eat at SOI 55 THAI KITCHEN?
+ask_restaurant_price,What is the average price range of a meal at SOI 55 THAI KITCHEN?
+ask_restaurant_price,Is SOI 55 THAI KITCHEN affordable for students on a budget?
+ask_restaurant_price,Can you tell me about the pricing menu for SOI 55 THAI KITCHEN?
+ask_restaurant_price,How much does it cost to dine at 麻辣诱惑?
+ask_restaurant_price,What's the price range of meals at 麻辣诱惑 restaurant?
+ask_restaurant_price,What is the price range of dishes at Secret Recipe?
+ask_restaurant_price,How much does a meal cost at Secret Recipe restaurant?
+ask_restaurant_price,Is Secret Recipe affordable for a budget diner?
+ask_restaurant_price,Can I get a quote for Secret Recipe's menu items?
+ask_restaurant_price,What is the price of a plate of 啵啵鱼泡泡鸡 at PaoPao Pot?
+ask_restaurant_price,How much does a meal cost at 啵啵鱼泡泡鸡 restaurant?
+ask_restaurant_price,Is 啵啵鱼泡泡鸡 affordable?
+ask_restaurant_price,Can I get a budget-friendly meal at 啵啵鱼泡泡鸡?
+ask_restaurant_price,What is the price range of 沙县小吃?
+ask_restaurant_price,How much does it cost to dine at 沙县小吃?
+ask_restaurant_price,Is 沙县小吃 affordable for a student?
+ask_restaurant_price,Can I get a menu with prices at 沙县小吃?
+ask_restaurant_price,What's the price of a bowl of 柳州传统螺蛳粉?
+ask_restaurant_price,How much does a meal cost at Monster Boba?
+ask_restaurant_price,Is 柳州传统螺蛳粉 expensive?
+ask_restaurant_price,What's the average price range for Monster Boba?
+ask_restaurant_price,What is the price range of dishes in 颔渌渌GAN'S LOK LOK?
+ask_restaurant_price,How much does it cost to eat at 颔渌渌GAN'S LOK LOK?
+ask_restaurant_price,Is the food in 颔渌渌GAN'S LOK LOK affordable?
+ask_restaurant_price,What is the price of a typical meal in 颔渌渌GAN'S LOK LOK?
+ask_restaurant_price,What is the price range of 秀海福麻辣烫 menu?
+ask_restaurant_price,How much does a meal at 秀海福麻辣烫 cost?
+ask_restaurant_price,What is the price of a bowl at 蜜雪冰城MIXUE?
+ask_restaurant_price,How much does a drink cost at 蜜雪冰城MIXUE?
+ask_restaurant_price,Can I get a menu with prices for 蜜雪冰城MIXUE?
+ask_restaurant_price,Are there any promotions or discounts available at 蜜雪冰城MIXUE?
+ask_restaurant_price,What is the price of a latte at Starbucks?
+ask_restaurant_price,How much does a meal cost at STARBUCKS restaurant?
+ask_restaurant_price,Is STARBUCKS expensive compared to other restaurants?
+ask_restaurant_price,Can you tell me the menu prices at 星巴克STARBUCKS?
+ask_restaurant_price,How much does a meal cost at 食坊EatHami?
+ask_restaurant_price,What is the average price of food at 食坊EatHami?
+ask_restaurant_price,Is the food at 食坊EatHami expensive or cheap?
+ask_restaurant_price,Can I get a menu with prices at 食坊EatHami?
+ask_restaurant_price,What is the price of a meal at 薮嘟嘟DU-DU POTATO?
+ask_restaurant_price,How much does it cost to eat at 薮嘟嘟DU-DU POTATO?
+ask_restaurant_price,Is the price at 薮嘟嘟DU-DU POTATO: expensive or affordable?
+ask_restaurant_price,What is the average cost of a dish at 薮嘟嘟DU-DU POTATO?
+ask_restaurant_price,How much does it cost to eat at 蜀都风味?
+ask_restaurant_price,What's the price range of 蜀都风味 restaurant?
+ask_restaurant_price,Can I get a menu with prices for 蜀都风味?
+ask_restaurant_price,Is 蜀都风味 expensive or affordable?
+ask_restaurant_price,What is the price range of three thousand feet high restaurant?
+ask_restaurant_price,How much does it cost to dine at three thousand feet high restaurant?
+ask_restaurant_price,Can you tell me the pricing menu for three thousand feet high the flows gourmet?
+ask_restaurant_price,Is three thousand feet high the flows gourmet restaurant expensive?
+ask_restaurant_price,How much does a meal cost at SITRUS?
+ask_restaurant_price,What's the price range of dishes at SITRUS restaurant?
+ask_restaurant_price,Is SITRUS affordable for students on budget?
+ask_restaurant_price,Do they have any discounts or promotions available at SITRUS?
+ask_restaurant_price,How much does a meal cost at 陕西面馆?
+ask_restaurant_price,What is the price range of dishes at 陕西面馆?
+ask_restaurant_price,Can I get a menu with prices for 陕西面馆?
+ask_restaurant_price,Is it expensive to eat at 陕西面馆?
+ask_restaurant_price,What is the price range of Nasi Kandar Al-Hajeera's meals?
+ask_restaurant_price,How much does it cost to eat at Nasi Kandar Al-Hajeera restaurant?
+ask_restaurant_price,Can you tell me about Nasi Kandar Al-Hajeera's affordable dishes?
+ask_restaurant_price,What's the average price per meal at Nasi Kandar Al-Hajeera?
+ask_restaurant_price,How much is the price of chicken at 鸡公煲 restaurant?
+ask_restaurant_price,What are the prices of dishes at 鸡公煲?
+ask_restaurant_price,Is the food at 鸡公煲 expensive?
+ask_restaurant_price,Can I get a menu with prices from 鸡公煲?
+ask_restaurant_price,How much does it cost to eat at 54 Thai Mookata?
+ask_restaurant_price,What is the price range of meals at 54 Thai Mookata restaurant?
+ask_restaurant_price,Is 54 Thai Mookata expensive?
+ask_restaurant_price,Can I get a bill for the food at 54 Thai Mookata?
+ask_restaurant_price,How much does it cost to eat at 茶餐室?
+ask_restaurant_price,What's the price range of dishes in 茶餐室?
+ask_restaurant_price,Is 茶餐室 expensive?
+ask_restaurant_price,How much will I pay for a meal at 茶餐室?
+ask_restaurant_price,How much does a sundae cost at Baskin-Robbins?
+ask_restaurant_price,What is the price range of ice cream cones at Baskin-Robbins?
+ask_restaurant_price,Can I get a discount on a bucket of ice cream from Baskin-Robbins?
+ask_restaurant_price,Is it true that Baskin-Robbins has affordable prices for their sundaes?
+ask_restaurant_price,How much does it cost to eat at 串串店？
+ask_restaurant_price,What is the price range of 串串店's dishes?
+ask_restaurant_price,How expensive is 串串店's food?
+ask_restaurant_price,Can you tell me the prices of 串串店's menu?
+ask_restaurant_price,What's the price range at Q Event Space?
+ask_restaurant_price,How much does it cost to dine at Q Event Space?
+ask_restaurant_price,What are the prices like at Q Event Space restaurant?
+ask_restaurant_price,Is Q Event Space affordable for a meal?
+ask_restaurant_price,How much does a plate of big bear snail noodles cost?
+ask_restaurant_price,What's the price range for Big Bear Snail Noodle at lunchtime?
+ask_restaurant_price,Is Big Bear Snail Noodles expensive?
+ask_restaurant_price,How much would I pay for 大熊熊螺蛳粉 at dinner?
+ask_restaurant_price,What is the price range at Bing Dessert Cafe?
+ask_restaurant_price,How much does it cost to eat at Bing Dessert Cafe?
+ask_restaurant_price,Is Bing Dessert Cafe expensive?
+ask_restaurant_price,Can I afford to dine at Bing Dessert Cafe?
+ask_restaurant_price,What is the price range of CHATTO meals?
+ask_restaurant_price,How much does a meal cost at CHATTO restaurant?
+ask_restaurant_price,Can you tell me the prices at CHATTO?
+ask_restaurant_price,Are the prices at CHATTO restaurant affordable?
+ask_restaurant_price,How much does it cost to eat at KOPI SAIGON?
+ask_restaurant_price,What is the price range of meals at KOPI SAIGON restaurant?
+ask_restaurant_price,Is KOPI SAIGON expensive compared to other restaurants?
+ask_restaurant_price,Can I get a budget-friendly meal at KOPI SAIGON?
+ask_restaurant_price,How much does it cost to eat at GEPREK'ING Fried Chicken?
+ask_restaurant_price,What is the price range of GEPREK'ING Fried Chicken menu?
+ask_restaurant_price,Is GEPREK'ING Fried Chicken affordable?
+ask_restaurant_price,Can I get a meal for under $10 at GEPREK'ING Fried Chicken?
+ask_restaurant_price,How much does it cost to dine at Kafe Lazatnya?
+ask_restaurant_price,What's the price range of a meal at Kafe Lazatnya restaurant?
+ask_restaurant_price,How expensive is eating at Kafe Lazatnya?
+ask_restaurant_price,Can you give me an estimate of the prices at Kafe Lazatnya?
+ask_restaurant_price,What is the price range of dishes in 拾浮百世?
+ask_restaurant_price,How much does a meal cost at 拾浮百世?
+ask_restaurant_price,Is the food price at 拾浮百世 affordable?
+ask_restaurant_price,What's the average price per dish in 拾浮百世?
+ask_facility_location,Where is the location of Klinik Sunsuria Medical?
+ask_facility_location,How do I get to Klinik Sunsuria Medical?
+ask_facility_location,What are the directions to reach Klinik Sunsuria Medical?
+ask_facility_location,Can you please show me where Klinik Sunsuria Medical is located?
+ask_facility_location,Where is Klinik Cosmomedic located?
+ask_facility_location,Can you tell me how to get to Klinik Cosmomedic?
+ask_facility_location,"I'm looking for the address of Klinik Cosmomedic, do you have it?"
+ask_facility_location,How do I reach Klinik Cosmomedic from here?
+ask_facility_location,Where is the supermarket located on campus?
+ask_facility_location,How do I get to the student supermarket from my dorm?
+ask_facility_location,What are the operating hours of the supermarket near our library?
+ask_facility_location,Can you tell me the location of the faculty supermarket?
+ask_facility_location,Where is the ATM located on campus?
+ask_facility_location,"I am looking for a machine on campus, where can I find an ATM?"
+ask_facility_location,Can you tell me the location of the nearest cash machine?
+ask_facility_location,How do I get to the automatic teller machine from the library?
+ask_facility_location,Where is the IELTS Office located?
+ask_facility_location,Can you direct me to the IELTS Office building?
+ask_facility_location,I need to find the location of the IELTS Office on campus.
+ask_facility_location,How do I get to the IELTS Office from here?
+ask_facility_location,Where is the yoga room located?
+ask_facility_location,Can you direct me to the yoga facility?
+ask_facility_location,How do I get to the yoga room on campus?
+ask_facility_location,What is the address of the yoga facility?
+ask_facility_location,Where is the Traditional Chinese Medicine Clinic located?
+ask_facility_location,How do I get to the Traditional Chinese Medicine Clinic facility from here?
+ask_facility_location,What are the directions to the Traditional Chinese Medicine Clinic location?
+ask_facility_location,Can you give me the address of the Traditional Chinese Medicine Clinic building?
+ask_facility_location,Where is the ENT clinic located?
+ask_facility_location,How can I get to the cardiology facility?
+ask_facility_location,What are the directions to the eye clinic?
+ask_facility_location,Can you tell me where the dental clinic is?
+ask_facility_location,Where is the Maintenance Office located?
+ask_facility_location,Can you show me the location of the Maintenance Office on the map?
+ask_facility_location,How do I get to the Maintenance Office from here?
+ask_facility_location,What are the directions to reach the Maintenance Office?
+ask_facility_location,Where is the Admissions Office located?
+ask_facility_location,How do I get to the Admissions Office?
+ask_facility_location,Can you tell me where the Admissions Office building is?
+ask_facility_location,What is the address of the Admissions Office facility?
+ask_facility_location,Where is the basketball court located?
+ask_facility_location,Can you direct me to the football field?
+ask_facility_location,"I am looking for the volleyball area, where is it?"
+ask_facility_location,How do I get to the tennis courts?
+ask_facility_location,Where is the stadium located on campus?
+ask_facility_location,What are the directions to get to the stadium?
+ask_facility_location,Can you show me where the stadium building is?
+ask_facility_location,How do I get to the facility from my dorm?
+ask_facility_location,Where is the swimming pool located on campus?
+ask_facility_location,Can you show me the location of the swimming pool facility?
+ask_facility_location,Where is the university gym located?
+ask_facility_location,What are the directions to get to the campus fitness center?
+ask_facility_location,How do I find the nearest gym on campus?
+ask_facility_location,Can you tell me the address of the university recreation center?
+ask_facility_location,Where is the infirmary located on campus?
+ask_facility_location,Can you tell me how to get to the infirmary building?
+ask_facility_location,"I'm looking for the location of the infirmary, can someone help?"
+ask_facility_location,How do I find the infirmary in this university?
+ask_facility_location,Where is the badminton court located?
+ask_facility_location,Can you show me where the badminton facility is?
+ask_facility_location,How do I get to the badminton court?
+ask_facility_location,What's the location of the badminton facilities on campus?
+ask_facility_location,Where is the nearest teaching building?
+ask_facility_location,How do I find the location of the teaching building on campus?
+ask_facility_location,Where is the library located on campus?
+ask_facility_location,Can you tell me how to get to the library?
+ask_facility_location,"I'm trying to find the library, can you help me with directions?"
+ask_facility_location,How do I locate the library from here?
+ask_facility_location,Where is the location of food facility?
+ask_facility_location,How can I get to the cafeteria on campus?
+ask_facility_location,What are the directions to the school cafeteria?
+ask_facility_location,Where is the dining hall located in this university?
+ask_facility_time,What is the visiting time of Klinik Sunsuria Medical?
+ask_facility_time,At what hours can I visit Klinik Sunsuria Medical?
+ask_facility_time,When does Klinik Sunsuria Medical open for patients?
+ask_facility_time,During which times can I meet a doctor at Klinik Sunsuria Medical?
+ask_facility_time,What is the opening hours of KLINIK COSMOMEDIC?
+ask_facility_time,How late is KLINIK COSMOMEDIC open tonight?
+ask_facility_time,What time does KLINIK COSMOMEDIC close on weekends?
+ask_facility_time,Can I visit KLINIK COSMOMEDIC after 5pm?
+ask_facility_time,What time does the supermarket open today?
+ask_facility_time,When does the supermarket close tonight?
+ask_facility_time,How late is the supermarket open on weekends?
+ask_facility_time,At what time does the supermarket usually stop selling?
+ask_facility_time,What are the operating hours of the dining area?
+ask_facility_time,When is the dining area open?
+ask_facility_time,How long is the dining area open each day?
+ask_facility_time,At what time does the dining area usually close?
+ask_facility_time,What are the operating hours of the ATM near me?
+ask_facility_time,When is the nearest ATM open on a Sunday?
+ask_facility_time,How late does the ATM at the corner open?
+ask_facility_time,At what time do the ATMs in the university area start operating?
+ask_facility_time,What are the operating hours of IELTS Office?
+ask_facility_time,When does IELTS Office open for students?
+ask_facility_time,How late is IELTS Office open on weekends?
+ask_facility_time,At what time does IELTS Office close during summer break?
+ask_facility_time,What are the yoga class timings at the Yoga Room?
+ask_facility_time,When do yoga classes take place in the Yoga Room?
+ask_facility_time,At what time does the Yoga Room conduct yoga sessions?
+ask_facility_time,Can you tell me the schedule for yoga classes held in the Yoga Room?
+ask_facility_time,What are the operating hours of Traditional Chinese Medicine Clinic?
+ask_facility_time,How late is Traditional Chinese Medicine Clinic open?
+ask_facility_time,When does Traditional Chinese Medicine Clinic start its working day?
+ask_facility_time,Is Traditional Chinese Medicine Clinic open on weekends?
+ask_facility_time,What are the operating hours of the clinic?
+ask_facility_time,When is the best time to visit the medical facility?
+ask_facility_time,What are the maintenance office hours?
+ask_facility_time,When is the maintenance office open today?
+ask_facility_time,What are the office hours of the Admissions Office?
+ask_facility_time,When does the Admissions Office open?
+ask_facility_time,Are the Admissions Office facilities available on weekends?
+ask_facility_time,During what time slot can I visit the Admissions Office?
+ask_facility_time,What time is the swimming pool open today?
+ask_facility_time,When does the football field close at night?
+ask_facility_time,What are the opening hours of the swimming pool?
+ask_facility_time,When does the swimming pool open to students?
+ask_facility_time,Can I use the swimming pool on weekends?
+ask_facility_time,What time is the swimming pool available for faculty members?
+ask_facility_time,What are the operating hours of the gym?
+ask_facility_time,When is the fitness center open?
+ask_facility_time,What are the visiting hours of the Infirmary?
+ask_facility_time,When is the best time to visit the Infirmary for a medical check-up?
+ask_facility_time,What is the operating hours of Badminton Court?
+ask_facility_time,When is Badminton Court open to students?
+ask_facility_time,Can I play badminton at Badminton Court on weekends?
+ask_facility_time,At what time does Badminton Court close?
+ask_facility_time,What are the opening hours of the Teaching Building?
+ask_facility_time,When does the Teaching Building open?
+ask_facility_time,Is the Teaching Building open now?
+ask_facility_time,How late is the Teaching Building open on weekdays?
+ask_facility_time,What are the library hours on Saturday?
+ask_facility_time,When does the library close on weekdays?
+ask_facility_time,How long is the library open on Sundays?
+ask_facility_time,At what time does the library open for students?
+ask_facility_time,What are the opening hours of the on-campus cafe?
+ask_facility_time,How long is the cafe open today?
+ask_facility_time,When does the cafe usually close?
+ask_facility_time,At what time does the on-campus cafe start serving?
+ask_facility_info,What facilities does Klinik Sunsuria have?
+ask_facility_info,Are there any parking facilities available at Klinik Sunsuria?
+ask_facility_info,Does Klinik Sunsuria have any waiting area for patients?
+ask_facility_info,Is there a pharmacy available in Klinik Sunsuria?
+ask_facility_info,What facilities does KLINIK COSMOMEDIC have?
+ask_facility_info,Are there any gyms at KLINIK COSMOMEDIC?
+ask_facility_info,Does KLINIK COSMOMEDIC offer any parking spaces?
+ask_facility_info,Is there a swimming pool in KLINIK COSMOMEDIC?
+ask_facility_info,What is the dining area of this hotel?
+ask_facility_info,Can you tell me more about the facilities in the dining area?
+ask_facility_info,Are there any facilities available near the dining area?
+ask_facility_info,What kind of services are provided in the hotel's dining area?
+ask_facility_info,What facilities does this ATM have?
+ask_facility_info,Is there a deposit facility in this ATM?
+ask_facility_info,What facilities are available at IELTS Office?
+ask_facility_info,Are there any accommodations nearby to IELTS Office?
+ask_facility_info,Does IELTS Office have parking spaces for students?
+ask_facility_info,Is IELTS Office wheelchair accessible?
+ask_facility_info,What are the facilities provided in the yoga room?
+ask_facility_info,Does the yoga room have air conditioning?
+ask_facility_info,Is there a yoga room with mirrors available?
+ask_facility_info,Are the yoga rooms equipped with sound systems?
+ask_facility_info,What are the opening hours of TCM clinic in school?
+ask_facility_info,How to reach Traditional Chinese Medicine Clinic in campus?
+ask_facility_info,Is Traditional Chinese Medicine Clinic open on weekends?
+ask_facility_info,Where is Traditional Chinese Medicine Clinic located in school?
+ask_facility_info,What facilities does the dental clinic have?
+ask_facility_info,Can I find a dental chair at this clinic?
+ask_facility_info,Does this clinic offer X-ray services?
+ask_facility_info,Are there any wheelchair-accessible rooms in the clinic?
+ask_facility_info,What facilities are available at the Maintenance Office?
+ask_facility_info,Can I rent a bike from the Maintenance Office?
+ask_facility_info,Where is the maintenance office located on campus?
+ask_facility_info,Are there any showers or lockers available at the Maintenance Office?
+ask_facility_info,What facilities does the Admissions Office have?
+ask_facility_info,Are there any accessibility features at the Admissions Office location?
+ask_facility_info,Can I get a list of available services from the Admissions Office?
+ask_facility_info,Does the Admissions Office provide assistance for students with disabilities?
+ask_facility_info,What are the available facilities in the University sports fields?
+ask_facility_info,Can I book the sports fields facility for an event?
+ask_facility_info,How do I access the parking area near the sports fields facility?
+ask_facility_info,Is there a canteen or cafeteria service available at the Sports Fields:facility?
+ask_facility_info,What facilities are available at Bukit Jalil Stadium?
+ask_facility_info,Are there any lockers available at Stadium Merdeka?
+ask_facility_info,Can I find a gym at Stadium Negara?
+ask_facility_info,What is the nearest ATM to Kelana Jaya Stadium?
+ask_facility_info,What facilities does the hostel have?
+ask_facility_info,Is there a swimming pool in the student dormitory?
+ask_facility_info,What facilities does the university gym provide?
+ask_facility_info,Can I use my university ID to access the gym's facilities?
+ask_facility_info,Are there any specific hours when the university gym is available for students?
+ask_facility_info,Does the university gym have a locker room and shower facilities?
+ask_facility_info,What facilities are available at the campus infirmary?
+ask_facility_info,Can I get information about the medical equipment in the infirmary?
+ask_facility_info,Are there any health services offered by the infirmary on campus?
+ask_facility_info,How do I access the Infirmary's first aid kit?
+ask_facility_info,What facilities does the university have?
+ask_facility_info,Where is the badminton court located in the campus?
+ask_facility_info,Does the university have a badminton court?
+ask_facility_info,Are there any badminton courts available for students to use?
+ask_facility_info,What facilities are available in Teaching Building?
+ask_facility_info,I need to know about the amenities of Teaching Building.
+ask_facility_info,Can you tell me more about the facilities offered by Teaching Building?
+ask_facility_info,What kind of facilities does Teaching Building have?
+ask_facility_info,What facilities are available at the University Library?
+ask_facility_info,I need to know more about the resources offered by the Main Library.
+ask_facility_info,Can you provide a list of services provided by the Central Library?
+ask_facility_info,How do I access the amenities at our campus library?
+ask_facility_info,What facilities does Cafe offer?
+ask_facility_info,Can I access Wi-Fi at Cafe?
+ask_facility_info,Are there power outlets available at Cafe?
+ask_facility_info,Does Cafe have a parking lot?
+ask_building_location,Where is the B1 Activity Building?
+ask_building_location,How to get to the B1 Activity Building?
+ask_building_location,What is the location of the B1 Activity Building?
+ask_building_location,Can you tell me where B1 Activity Building is?
+ask_building_location,where is A Zone?
+ask_building_location,how to go to A Zone teaching buildings?
+ask_building_location,what are the directions to A Zone building?
+ask_building_location,can you tell me where A Zone teaching buildings located?
+ask_building_location,Where is the location of Block LY Buildings?
+ask_building_location,How do I get to Block LY Buildings?
+ask_building_location,Can you tell me where Block LY Buildings is located?
+ask_building_location,What is the address of Block LY Buildings?
+ask_building_location,Where is the location of Block D?
+ask_building_location,How do I get to Block D Buildings?
+ask_building_location,Can you show me the map of Block D?
+ask_building_location,What is the address of Block D Buildings?
+ask_building_location,Where is the XMUM IAEC building located?
+ask_building_location,Can you tell me how to get to the XMUM IAEC building?
+ask_building_location,"I'm looking for the XMUM IAEC building, can you direct me there?"
+ask_building_location,What are the directions to the XMUM IAEC building?
+ask_building_include,What facilities are available at B1 Activity Building?
+ask_building_include,Can I find a gym in B1 Activity Building?
+ask_building_include,Does B1 Activity Building have a library?
+ask_building_include,Are there any food outlets inside B1 Activity Building?
+ask_building_include,Is Block LY Building available?
+ask_building_include,Does Block LY Building have a gym?
+ask_building_include,What facilities are available in Block D?
+ask_building_include,Which Block D buildings have a cafeteria?
+ask_building_include,Are there any recreational facilities in Block D?
+ask_building_include,Which building in Block D has a library?
+ask_building_include,Is there an incubation center in building XMUM IAEC?
+ask_building_include,Which department of UTeM is located inside building XMUM IAEC?
+ask_building_include,Where can i find the IAEC lab in building XMUM IAEC?
+ask_building_include,Does building XMUM IAEC have any research facilities?
+ask_handbook_info,What are the birthday cake recommendations in our university's handbook?
+ask_handbook_info,Can you provide me with information on birthday cakes from the university handbook?
+ask_handbook_info,I need to know the birthday cake ideas mentioned in our university's handbook.
+ask_handbook_info,What does the university handbook say about birthday cake suggestions?
+ask_handbook_info,What are the operating hours of the On-Campus Clinics?
+ask_handbook_info,Where can I find information about the services offered by On-Campus Clinics?
+ask_handbook_info,Can I get a list of the doctors available at the On-Campus Clinics?
+ask_handbook_info,How do I access the handbook for the On-Campus Clinics?
+ask_handbook_info,What is the location of Clinic A handbook?
+ask_handbook_info,Where can I find the Clinic A handbook in the TCM Center?
+ask_handbook_info,Is there a digital version of Clinic A handbook available?
+ask_handbook_info,How do I access the Clinic A (Behind the TCM Center) handbook?
+ask_handbook_info,What is mentioned about Clinic B in the handbook?
+ask_handbook_info,Can I find the location of Clinic B on the handbook map?
+ask_handbook_info,Are there any important dates for Clinic B in the handbook?
+ask_handbook_info,Is the contact information of Clinic B available in the student handbook?
+ask_handbook_info,What is included in the handbook of AskA User Guide?
+ask_handbook_info,Can you provide me with information about AskA User Guide's handbook?
+ask_handbook_info,I'd like to know what topics are covered in the handbook for AskA User Guide.
+ask_handbook_info,Where can I access the handbook for AskA User Guide?
+ask_handbook_info,What is the handbook for cashless payment in XMUM?
+ask_handbook_info,Can you provide me with information about cashless payment guide in XMUM student handbook?
+ask_handbook_info,Where can I find the guidelines on cashless payment system in XMUM's handbook?
+ask_handbook_info,I need to know more about the rules of cashless payment as stated in the XMUM student handbook
+ask_handbook_info,What are the health services available in XMUM handbook?
+ask_handbook_info,How to find information about wellness programs in XMUM's student handbook?
+ask_handbook_info,Is there a section on mental health support in XMUM handbook?
+ask_handbook_info,Where can I access details about medical facilities in XMUM's student handbook?
+ask_handbook_info,Where can I find the guide to booking a study room in the library?
+ask_handbook_info,How do I reserve a study space in the library according to their handbook?
+ask_handbook_info,What are the steps to book a library study room as per the library's handbook?
+ask_handbook_info,Can you provide information on how to schedule a study room using the library's handbook?
+ask_handbook_info,Where can I find the handbook for KTV Near XMUM in Xiamen University Malaysia?
+ask_handbook_info,"I need to access the KTV Near XMUM's handbook, where is it located?"
+ask_handbook_info,Can anyone provide me with a link or location of the KTV Near XMUM handbook?
+ask_handbook_info,How do I get hold of the KTV Near XMUM handbook for Xiamen University Malaysia?
+ask_handbook_info,Where can I find information about bicycle parking in this campus?
+ask_handbook_info,What is the location of the handbook that explains bicycle parking guidelines on campus?
+ask_handbook_info,Can anyone tell me where to find the guide for bicycle parking on our university grounds?
+ask_handbook_info,Is there a handbook or manual available for users who want to park their bicycles safely on this campus?
+ask_handbook_info,What are the operating hours of milk tea shops near Xiamen University Malaysia?
+ask_handbook_info,How to find milk tea shops around Xiamen University Malaysia in the handbook?
+ask_handbook_info,Are there any promotions offered by milk tea shops near XMUM mentioned in the handbook?
+ask_handbook_info,Can I get a list of milk tea shops located near XMUM from the university handbook?
+ask_handbook_info,What are the types of classrooms available in XMUM handbook?
+ask_handbook_info,Can you provide information about the classroom types listed in XMUM's student handbook?
+ask_handbook_info,How many different classroom types can I find in XMUM's official handbook?
+ask_handbook_info,Where in the XMUM student handbook can I find details on the different classroom types?
+ask_handbook_info,What is the table of contents of the handbook?
+ask_handbook_info,Can I get a copy of the university handbook online?
+ask_handbook_info,How to access the handbook for students?
+ask_handbook_info,Where can I find the latest edition of the university handbook?
+ask_handbook_info,Where is the library handbook with information on book locations?
+ask_handbook_info,Can you show me the handbook that contains the list of books available in the library?
+ask_handbook_info,I am looking for a handbook that provides details about locating specific books within the library.
+ask_handbook_info,What is the name of the handbook that has information on where to find certain books in the library?
+ask_handbook_info,What is the availability of handbook in the library via computer?
+ask_handbook_info,How to access handbook in Print in the Library (via Computer) online?
+ask_handbook_info,Is the handbook in Print in the Library (via Computer) available digitally?
+ask_handbook_info,Can I find the handbook for Print in the Library (via Computer) on the college website?
+ask_handbook_info,Where can I find the handbook for printing from my laptop via USB in the library?
+ask_handbook_info,How do I access the handbook for printing documents using a USB drive in the library's computer labs?
+ask_handbook_info,Can someone help me with the steps to print from my USB drive on one of the computers in the library?
+ask_handbook_info,What are the guidelines mentioned in the library's handbook for printing files from a USB device?
+ask_handbook_info,What is the content of the Scan in the Handbook?
+ask_handbook_info,How can I find the chapter on Scan in the library handbook?
+ask_handbook_info,Is the information about Scan in the library handbook up-to-date?
+ask_handbook_info,Can you provide me with a link to the handbook that includes information about Scan?
+ask_handbook_info,How do I request a refund for self-service printing from my handbook?
+ask_handbook_info,Can I get a refund for handbook printing costs?
+ask_handbook_info,What is the process to request a refund for self-service printing from my university handbook?
+ask_handbook_info,Am I eligible for a refund on self-service printing costs stated in my handbook?
+ask_handbook_info,What information can I find about using laundry machines in the handbook?
+ask_handbook_info,Can you provide me with details on how to operate drying machines from the student handbook?
+ask_handbook_info,I am looking for the section in the handbook that explains how to use the laundry facilities. Where is it located?
+ask_handbook_info,Are there any specific guidelines or recommendations for washing and drying clothes using the machines mentioned in the student handbook?
+ask_handbook_info,Where can I find information on how to use the Shoe Washing Machine in the handbook?
+ask_handbook_info,Can you show me where the instructions for using the Shoe Washing Machine are located in the handbook?
+ask_handbook_info,I need help finding the operating manual for the Shoe Washing Machine in our school's handbook.
+ask_handbook_info,How do I access the user guide for the Shoe Washing Machine from the school's digital handbook?
+ask_handbook_info,What is the use of Dry Cleaning Service in handbook?
+ask_handbook_info,Can you provide more details about Dry Cleaning Service from handbook?
+ask_handbook_info,How to use Dry Cleaning Service according to handbook guidelines?
+ask_handbook_info,Are there any specific instructions for using Dry Cleaning Service as per handbook?
+ask_handbook_info,Where can I find information about using ATMs on campus?
+ask_handbook_info,How do I withdraw money using a campus ATM?
+ask_handbook_info,What are the instructions for withdrawing cash at a university ATM?
+ask_handbook_info,"I'm having trouble finding the handbook section on accessing campus ATMs, can someone help me?"
+ask_handbook_info,Where can I find information on the locations of vending machines across campus in the student handbook?
+ask_handbook_info,How do I access a map of coffee shop locations from the student handbook?
+ask_handbook_info,What are the locations of all the coffee machines and cafes listed in the student handbook?
+ask_handbook_info,Can you tell me where to find more information about vending machine locations as per the student handbook?
+ask_handbook_info,What is the handbook policy on sharing campus id handbook?
+ask_handbook_info,How do i access my campus id handbook online using school email?
+ask_handbook_info,Can you provide more information about the contents of the campus id handbook with regards to school email usage?
+ask_handbook_info,"Is there a procedure for requesting a replacement handbook if mine is damaged, and where do i submit the request from my school email account?"
+ask_handbook_info,What are the course timings in the handbook?
+ask_handbook_info,Can you provide me with information on viewing the timetable in the university handbook?
+ask_handbook_info,How do I access the course schedule from the handbook?
+ask_handbook_info,Where can I find the academic calendar for this semester in the student handbook?
+ask_handbook_info,Where can I find the handbook for course registration?
+ask_handbook_info,What is the procedure for course registration as per the handbook?
+ask_handbook_info,"I am unable to find the course registration handbook, where can I get it from?"
+ask_handbook_info,Can you guide me through the course registration process as mentioned in the handbook?
+ask_handbook_info,What is the course retake policy for handbook?
+ask_handbook_info,How many times can I resit a course according to the handbook?
+ask_handbook_info,Can you provide information on resitting a course as per the handbook guidelines?
+ask_handbook_info,What are the rules and regulations regarding course re-takes as mentioned in the handbook?
+ask_handbook_info,What is the attendance policy as per university handbook?
+ask_handbook_info,How many leaves can I take as per leave policy in handbook?
+ask_handbook_info,Can you provide information on attendance rules from the student handbook?
+ask_handbook_info,What are the rules and regulations for leave as mentioned in the university handbook?
+ask_handbook_info,What are the changes in public holiday rescheduling according to the handbook?
+ask_handbook_info,Can you provide information about the recent updates on handbook regarding public holidays?
+ask_handbook_info,How does the new public holiday rescheduling policy affect employees as per the company handbook?
+ask_handbook_info,Are there any amendments to the public holiday rescheduling section in the employee handbook?
+ask_handbook_info,What information can be found in the exam handbook?
+ask_handbook_info,Where can I access the exam guide handbook?
+ask_handbook_info,Is there a digital version of the exam handbook available?
+ask_handbook_info,Can you provide me with some details about the exam handbook content?
+ask_handbook_info,How do I contact instructors listed in the handbook?
+ask_handbook_info,Who are the instructors that can be reached through the student handbook?
+ask_handbook_info,Is there a list of instructors and their contact information in the handbook?
+ask_handbook_info,Can you provide me with the instructor contact details mentioned in the student handbook?
+ask_handbook_info,What does the student feedback say about the course handbook?
+ask_handbook_info,Can you show me some information from the student reviews on the course handbook?
+ask_handbook_info,I want to know what students think about the course handbook. Where can I find that info?
+ask_handbook_info,How do other students rate the usefulness of the course handbook in this program?
+ask_handbook_info,What are the major transfer procedures as per the handbook?
+ask_handbook_info,Can you provide information on transferring majors based on the university's handbook guidelines?
+ask_handbook_info,How do I follow the major transfer process according to the handbook document?
+ask_handbook_info,What are the step-by-step procedures for changing majors as mentioned in the handbook?
+ask_handbook_info,Where can I find the contact details in the student handbook?
+ask_handbook_info,What is the email address mentioned in the university handbook?
+ask_handbook_info,Can you provide me with the phone number listed in the handbook?
+ask_handbook_info,How do I get in touch with the university using the information provided in the student handbook?
+ask_handbook_info,What are the clubs and societies available at XMUM?
+ask_handbook_info,Can I join any club or society at XMUM handbook?
+ask_handbook_info,How many clubs and societies are listed in the XMUM student handbook?
+ask_handbook_info,Are there any new clubs and societies introduced in this year's XMUM handbook?

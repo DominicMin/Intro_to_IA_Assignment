@@ -1,0 +1,3662 @@
+{
+"business":[
+{
+  "query": ["Where is KK便利店 located?", "Can you show me how to get to KK便利店?", "What's the address of KK便利店?", "How do I find KK便利店 on a map?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"KK便利店": "business"}
+  ]
+},
+{
+  "query": ["Where is KIMS SALON located?", "Can you give me directions to KIMS SALON?", "How far is KIMS SALON from my current location?", "What is the address of KIMS SALON?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"KIMS SALON": "business"}
+  ]
+},
+{
+  "query": ["Where is the nearest 7-11 store?", "How can I get to a 7-11 convenient store nearby?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"7-11便利店":"business"}
+  ]
+},
+{
+  "query": ["Where is Stella Vet Clinic located?", "How do I get to Stella Vet Clinic?", "What are the directions to Stella Vet Clinic?", "Can you give me the address of Stella Vet Clinic?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"Stella Vet Clinic": "business"}
+  ]
+},
+{
+  "query": [
+    "What is the business location of 迈利斯MILLIES VISION?",
+    "Where can I find 迈利斯MILLIES VISION:business?",
+    "How to get to 迈利斯MILLIES VISION:business?",
+    "What are the directions to reach 迈利斯MILLIES VISION:business?"
+  ],
+  "intent": "ask_business_location",
+  "entities": [
+    {"迈利斯MILLIES VISION:business":"business"}
+  ]
+},
+{
+  "query": ["Where is Hey Stationery located?", "What is the address of Hey Stationery?", "Can you tell me how to get to Hey Stationery?", "How do I find the location of Hey Stationery?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"Hey Stationery":"business"}
+  ]
+},
+{
+  "query": ["where is THE GRIND located?", "can i find THE GRIND at any other place?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"THE GRIND": "business"}
+  ]
+},
+{
+  "query": ["Where is Ming GUI located?", "Can I find Ming GUI on the campus map?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"闽桂中国超市MING GUI":"business"}
+  ]
+},
+{
+  "query": ["Where is DOBI SANTAI located?", "Can you direct me to DOBI SANTAI business?", "How do I find DOBI SANTAI business place?", "What are the directions to get to DOBI SANTAI?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"DOBI SANTAI":"business"}
+  ]
+},
+{
+  "query": ["Where is 人民书局 located?", "How to find 人民书局 in this area?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"人民书局":"business"}
+  ]
+},
+{
+  "query": ["Where is the Real Peak Music business located?", "Can you give me directions to the Real Peak Music office?", "How do I get to the Real Peak Music headquarters?", "What's the address of the Real Peak Music business?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"Real Peak Music":"business"}
+  ]
+},
+{
+  "query": ["Where is Ahimsa Yoga located?", "Can you give me directions to Ahimsa Yoga studio?", "What's the address of Ahimsa Yoga?", "How do I get to Ahimsa Yoga business?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"Ahimsa Yoga":"business"}
+  ]
+},
+{
+  "query": ["where is SENZE CAFF located?", "how can i find SENZE CAFF in this area?"],
+  "intent": "ask_business_location",
+  "entities": [
+    {"SENZE CAFF": "business"}
+  ]
+},
+{
+  "query": ["What are the business hours of KK便利店?", "KK便利店 is open on which days?", "How late is KK便利店 open?", "When does KK便利店 close today?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"KK便利店":"business"}
+  ]
+},
+{
+  "query": ["What are the business hours of KIMS SALON?", "When is KIMS SALON open on weekends?", "What time does KIMS SALON close today?", "Is KIMS SALON open during lunch break?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"KIMS SALON":"business"}
+  ]
+},
+{
+  "query": ["What are the business hours of 7-11 convenience store?", 
+            "How late is 7-11 store open today?", 
+            "When does 7-11 store closed tomorrow night?", 
+            "Is 7-11 store open on Sunday?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"7-11便利店":"business"}
+  ]
+},
+{
+  "query": ["What are the business hours of Stella Vet Clinic?", "When is Stella Vet Clinic open on weekends?", "What time does Stella Vet Clinic close today?", "Is Stella Vet Clinic open during lunch break?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"Stella Vet Clinic": "business"}
+  ]
+},
+{
+  "query": [
+    "What is the business time of 迈利斯MILLIES VISION?",
+    "When does 迈利斯MILLIES VISION open for business?",
+    "What time does 迈利斯MILLIES VISION start and end its business hours?",
+    "Is 迈利斯MILLIES VISION open at 10 am on Saturday?"
+  ],
+  "intent": "ask_business_time",
+  "entities": [
+    {"迈利斯MILLIES VISION":"business"}
+  ]
+},
+{
+  "query": ["What are the business hours of Hey Stationery?", "What time does Hey Stationery open?", "How late is Hey Stationery open today?", "When is Hey Stationery's closing time?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"Hey Stationery":"business"}
+  ]
+},
+{
+  "query": ["What is the business time of THE GRIND?", "When does THE GRIND open?", "Is THE GRIND open during weekends?", "At what time does THE GRIND close?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"THE GRIND":"business"}
+  ]
+},
+{
+  "query": ["What are the business hours of闽桂中国超市MING GUI?", "When does闽桂中国超市MING GUI open?", "How late is闽桂中国超市MING GUI open?", "On which days is闽桂中国超市MING GUI closed?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"闽桂中国超市MING GUI":"business"}
+  ]
+},
+{
+  "query": [
+    "What are the business hours of DOBI SANTAI?",
+    "When is DOBI SANTAI open today?",
+    "DOBI SANTAI's working hours, please?",
+    "Can I visit DOBI SANTAI during their operating hours?"
+  ],
+  "intent": "ask_business_time",
+  "entities": [
+    {"DOBI SANTAI":"business"}
+  ]
+},
+{
+  "query": ["What are the business hours of 人民书局?", "When is 人民书局 open today?", "How late does 人民书局 stay open on Friday?", "Does 人民书局 have evening hours?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"人民书局": "business"}
+  ]
+},
+{
+  "query": ["What are the business hours of Real Peak Music?", "When does Real Peak Music open?", "How late is Real Peak Music open on weekends?", "What time does Real Peak Music close tonight?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"Real Peak Music": "business"}
+  ]
+},
+{
+  "query": [
+    "What are the business hours of AHIMSA YOGA?",
+    "Is AHIMSA YOGA open on weekends?",
+    "Does AHIMSA YOGA have any evening classes?",
+    "When does AHIMSA YOGA usually close?"
+  ],
+  "intent": "ask_business_time",
+  "entities": [
+    {"AHIMSA YOGA":"business"}
+  ]
+},
+{
+  "query": ["What are the business hours of SENZE CAFF?", "When is SENZE CAFF open today?", "SENZE CAFF opening time is what?", "How late does SENZE CAFF stay open?"],
+  "intent": "ask_business_time",
+  "entities": [
+    {"SENZE CAFF":"business"}
+  ]
+},
+{
+  "query": ["What are the business hours of KK便利店?", "Can I do grocery shopping at KK便利店?", "How can I contact KK便利店 customer service?", "Is KK便利店 open on Sundays?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"KK便利店":"business"}
+  ]
+},
+{
+  "query": [
+    "What is the business phone number of KIMS SALON?",
+    "How do I contact KIMS SALON?",
+    "What are the working hours of KIMS SALON?",
+    "Is KIMS SALON open on weekends?"
+  ],
+  "intent": "ask_business_info",
+  "entities": [
+    {"KIMS SALON": "business"}
+  ]
+},
+{
+  "query": ["What are the operating hours of 7-11?", "How late is 7-11 open tonight?", "Is 7-11 open on Sundays?", "Can I find business cards at 7-11?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"7-11便利店": "business"}
+  ]
+},
+{
+  "query": ["What are the opening hours of Stella Vet Clinic?", "How to get to Stella Vet Clinic during working hours?", "Is Stella Vet Clinic open on weekends?", "Can I book an appointment at Stella Vet Clinic?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"Stella Vet Clinic": "business"}
+  ]
+},
+{
+  "query": [
+    "What are the working hours of 迈利斯MILLIES VISION?",
+    "How to contact 迈利斯MILLIES VISION for business inquiries?",
+    "Is 迈利斯MILLIES VISION open on weekends?",
+    "What services does 迈利斯MILLIES VISION provide for businesses?"
+  ],
+  "intent": "ask_business_info",
+  "entities": [
+    {"迈利斯MILLIES VISION":"business"}
+  ]
+},
+{
+  "query": ["What are the business hours of Hey Stationery?", "Can I contact Hey Stationery by phone?", "Where is Hey Stationery located in the city?", "How can I get to Hey Stationery from my place?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"Hey Stationery":"business"}
+  ]
+},
+{
+  "query": ["What is THE GRIND business about?", "Can you provide more information on THE GRIND business?" , "What kind of products or services does THE GRIND business offer?", "How can I get in touch with THE GRIND business?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"THE GRIND":"business"}
+  ]
+},
+{
+  "query": ["What is the address of MING GUI:business?", 
+            "How do I contact MING GUI:business customer service?",
+            "Is MING GUI:business open on Sunday?",
+            "What are the working hours of MING GUI:business?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"MING GUI:business":"business"}
+  ]
+},
+{
+  "query": ["What services does DOBI SANTAI offer?", "Is DOBI SANTAI open on weekends?", "How do I contact DOBI SANTAI?", "Does DOBI SANTAI have any promotions this month?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"DOBI SANTAI":"business"}
+  ]
+},
+{
+  "query": ["What business hours are for 人民书局?", "What services does 人民书局 offer?", "Is 人民书局 open on Sunday?", "How do I contact 人民书局?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"人民书局":"business"}
+  ]
+},
+{
+  "query": ["What is the contact number of Real Peak Music business?", "How do I get in touch with Real Peak Music?", "Is Real Peak Music open on weekends?", "Can you provide more details about Real Peak Music business services?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"Real Peak Music":"business"}
+  ]
+},
+{
+  "query": [
+    "What are the contact details of Ahimsa Yoga?",
+    "How to reach Ahimsa Yoga by public transport?",
+    "What is the business address of Ahimsa Yoga?",
+    "Can I schedule a meeting at the office of Ahimsa Yoga?"
+  ],
+  "intent": "ask_business_info",
+  "entities": [
+    {"AHIMSA YOGA":"business"}
+  ]
+},
+{
+  "query": ["What is the contact number of SENZE CAFF?", "How to find SENZE CAFF business address?", "What are the services offered by SENZE CAFF?", "Is SENZE CAFF open on weekends?"],
+  "intent": "ask_business_info",
+  "entities": [
+    {"SENZE CAFF":"business"}
+  ]
+}
+],
+"restaurant":[
+{
+  "query": ["where is 夏1城 located?", "how do i get to 夏1城?", "what's the address of 夏1城?", "can you tell me the location of 夏1城?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"夏1城":"restaurant"}
+  ]
+},
+{
+  "query": ["How far is Tuk Tuk Thai&Taro from my location?", "Can you give me directions to Tuk Tuk Thai&Taro?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Tuk Tuk Thai&Taro":"restaurant"}
+  ]
+},
+{
+  "query": ["where is 大树下 located?", "how do i get to 大树下 restaurant?", "what are the directions to 大树下?", "can you give me the address of 大树下?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"大树下":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the nearest location of Let's Kopitiam?",
+    "How do I get to Let's Kopitiam from here?",
+    "Can you show me the address of Let's Kopitiam on a map?",
+    "Where is Let's Kopitiam located in relation to our hostel?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Let's Kopitiam": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is mynews便利店 located?",
+    "Can you tell me how to get to mynews便利店?",
+    "What are the directions to mynews便利店?",
+    "How far is my location from mynews便利店?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"mynews便利店":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is the nearest location of Takw Mee Tarik?",
+    "How do I get to Takw Mee Tarik in one hour?",
+    "What's the address for Takw Mee Tarik restaurant?",
+    "Can you provide directions to Takw Mee Tarik?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Takw Mee Tarik":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is 大家旺 located?", "How do I get to 大家旺?", "Can you give me directions to 大家旺?", "What's the address of 大家旺?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"大家旺":"restaurant"}
+  ]
+},
+{
+  "query": ["How do I get to 蜀之味?", "Where is 蜀之味 located?", "Can you give me directions to 蜀之味?", "How far is 蜀之味 from my location?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"蜀之味":"restaurant"}
+  ]
+},
+{
+  "query": ["where is 大城小厨 located?", "how do i get to 大城小厨?", "what are the directions to 大城小厨?", "can you tell me the address of 大城小厨?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"大城小厨":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is 华联好凉茶 located?",
+    "How can I get to 华联好凉茶?",
+    "What's the address of 华联好凉茶?",
+    "Can you tell me the location of 华联好凉茶?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"华联好凉茶":"restaurant"}
+  ]
+},
+{
+  "query": ["where is 小云冰室 located?", "how do i get to 小云冰室?", "can you tell me the address of 小云冰室?", "where is 小云冰室 situated?" ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"小云冰室":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is 大拇指 located?", "How can I get to 大拇指?", "What's the address of 大拇指?", "Can you give me directions to 大拇指?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"大拇指":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is the location of 喵喵轻食?",
+    "How do I get to 喵喵轻食 restaurant?",
+    "What's the address of 喵喵轻食?",
+    "Can you tell me how to find 喵喵轻食?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"喵喵轻食":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is Big Bowl located?",
+    "Can you tell me how to get to Da Wan Mian?",
+    "What is the address of Dabiao Mian?",
+    "How do I find Da Wan Mian restaurant?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"大碗面": "restaurant"}
+  ]
+},
+{
+  "query": ["Where is U&I:restaurant located?", "Can you give me directions to U&I:restaurant?", "How do I get to U&I:restaurant from here?", "What are the nearest locations to U&I:restaurant?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"U&I:restaurant":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["Where is 小台枫 located?", "How do I get to 小台枫 restaurant?", "What's the address of 小台枫?", "Can you give me directions to 小台枫?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"小台枫":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is the nearest location of Restaurant Kabaabish?", "Can you give me directions to Restaurant Kabaabish?", "How far is Restaurant Kabaabish from my current location?", "What are the map coordinates for Restaurant Kabaabish?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Restaurant Kabaabish":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is B1 Canteen located?", "How do I get to B1 Canteen?", "Can you give me directions to B1 Canteen?", "What are the nearest MRT stations to B1 Canteen?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"B1 Canteen":"restaurant"}
+  ]
+},
+{
+  "query": ["Can you tell me where Sapid:restaurant is located?", "How do I get to Sapid:restaurant?", "What's the address of Sapid:restaurant?", "Where can I find Sapid:restaurant on campus?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Sapid:restaurant": "restaurant_name"} 
+  ]
+},
+{
+  "query": [
+    "What is the nearest location of Saffron Club?",
+    "Where can I find Saffron Club restaurant nearby?",
+    "How do I get to Saffron Club's address quickly?",
+    "Can you tell me the exact location of Saffron Club?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Saffron Club":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is Regiustea皇茶 near me?",
+    "How do I get to Regiustea皇茶 from my current location?",
+    "Can you tell me the address of Regiustea皇茶?",
+    "What are the directions to Regiustea皇茶?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Regiustea皇茶":"restaurant"}
+  ]
+},
+{
+  "query": ["where is Poke Bowl located?", "how to get to Poke Bowl restaurant?", "Poke Bowl address please!", "where can i find Poke Bowl near me?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Poke Bowl Rice":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is Zone U Bakery located?", "Can you tell me how to get to Zone U Bakery?", "I'm looking for directions to Zone U Bakery, where can I find it?", "How do I get to the location of Zone U Bakery?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Zone U Bakery": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is LY3 Canteen located?",
+    "How do I get to LY3 Canteen from my hostel?",
+    "Can you tell me the address of LY3 Canteen?",
+    "What are the directions to LY3 Canteen?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"LY3 Canteen": "restaurant"}
+  ]
+},
+{
+  "query": ["Where is 中闽美食 located?", "How to get to 中闽美食?", "Can you tell me the address of 中闽美食?", "Which direction should I head towards to reach 中闽美食?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"中闽美食":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is Bean's Express located?", "How do I get to Bean's Express restaurant?", "Can you give me directions to Bean's Express?", "What are the nearest landmarks to Bean's Express?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Bean's Express":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is Mad Plate Express located?", "Can you give me directions to Mad Plate Express?", "How far is Mad Plate Express from my current location?", "What is the address of Mad Plate Express?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Mad Plate Express": "restaurant"}
+  ]
+},
+{
+  "query": ["Where is 小九州 located?", "Can you tell me how to get to 小九州?", "What's the address of 小九州 restaurant?", "How far is 小九州 from my current location?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"小九州":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the address of 膳一城?",
+    "Where can I find 膳一城 near me?",
+    "How do I get to 膳一城 from my current location?",
+    "Can you provide directions to 膳一城?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"膳一城":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the address of 槟城风味?",
+    "How do I get to 槟城风味 restaurant?",
+    "Where is 槟城风味 located at?",
+    "Can you give me directions to 槟城风味?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"槟城风味":"restaurant"}
+  ]
+},
+{
+  "query": ["where is 佳味食轩 located?", "how to get to 佳味食轩 restaurant?", "What is the address of 佳味食轩?", "I'm looking for directions to 佳味食轩."],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"佳味食轩":"restaurant"}
+  ]
+},
+{
+  "query": ["How far is it from my location to China Muslim restaurant?", "Can you give me directions to get to Chinese Muslim cooking restaurant?", "Where can I find the nearest Muslim restaurant in China?", "What's the address of the popular Chinese Muslim food restaurant?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"中国穆斯林小炒":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is Uni Hotpot located?", "How do I get to Uni Hotpot?", "Can you tell me the address of Uni Hotpot?", "What are the directions to Uni Hotpot?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Uni Hotpot": "restaurant"}
+  ]
+},
+{
+  "query": ["where is a cafe near me?", "how do i get to Cafes:restaurant?", "can you tell me the address of Cafes:restaurant?", "what are the directions to Cafes:restaurant?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Cafes:restaurant":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is ZUS Coffee located?", "How to get to ZUS Coffee?", "I'm looking for directions to ZUS Coffee.", "What's the address of ZUS Coffee?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"ZUS Coffee": "restaurant"}
+  ]
+},
+{
+  "query": ["How far is Lakefront Cafe from my current location?", "What's the nearest route to Lakefront Cafe?", "Can you provide directions to Lakefront Cafe?", "Where exactly is Lakefront Cafe located?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Lakefront Cafe":"restaurant"}
+  ]
+},
+{
+  "query": ["How far is Cotti Coffee from here?", "Can you give me directions to Cotti Coffee?", "Where can I find Cotti Coffee on campus?", "What's the nearest location of Cotti Coffee?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Cotti Coffee":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is Bo Ya Xuan Restaurant located?", "Can you direct me to Bo Ya Xuan Restaurant?", "How do I get to Bo Ya Xuan Restaurant?", "What are the directions to Bo Ya Xuan Restaurant?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Bo Ya Xuan Restaurant": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "How do I get to Soi 55 Thai Kitchen?",
+    "Where is Soi 55 Thai Kitchen located in campus?",
+    "Can you give me directions to Soi 55 Thai Kitchen?",
+    "Where can I find Soi 55 Thai Kitchen on the map?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"SOI 55 THAI KITCHEN": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is 麻辣诱惑 located?",
+    "How do I get to 麒麟麻辣诱惑?",
+    "What is the address of 麻辣诱惑 restaurant?",
+    "Can you tell me how to find 麦当劳麻辣诱惑?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"麻辣诱惑":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is Secret Recipe located?", "How to get to Secret Recipe restaurant?", "What is the address of Secret Recipe?", "Can you direct me to Secret Recipe?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Secret Recipe":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the address of 啵啵鱼泡泡鸡?",
+    "Where can I find 啵啵鱼泡泡鸡 restaurant?",
+    "How do I get to 啵啵鱼泡泡鸡?",
+    "Can you give me directions to 啵啵鱼泡泡鸡?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"啵啵鱼泡泡鸡":"restaurant_name"} 
+  ]
+},
+{
+  "query": [
+    "Where is the 沙县小吃 located in the campus?",
+    "Can you tell me how to get to 沙县小吃 restaurant?",
+    "What is the address of 沙县小吃 in our university?",
+    "How do I go to 沙县小吃?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"沙县小吃":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is the closest location to Monster Boba?", "Can you tell me how to get to Monster Boba?", "What are the directions to Monster Boba restaurant?", "How do I find the address of Monster Boba?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"柳州传统螺蛳粉":"restaurant_name", "Monster Boba":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is 颔颔GAN'S LOK LOK located?",
+    "How do I get to 颔颔GAN'S LOK LOK?",
+    "What's the address of 颔颔GAN'S LOK LOK?",
+    "Can you direct me to 颔颔GAN'S LOK LOK?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"颔颔GAN'S LOK LOK":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How do I get to 秀海福麻辣烫?",
+    "Where is 秀海福麻辣烫 located on the map?",
+    "Can you tell me the address of 秀海福麻辣烫?",
+    "What's the nearest public transport to 秀海福麻辣烫?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"秀海福麻辣烫":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How far is 蜜雪冰城 from my location?",
+    "Where can I find 蜜雪冰城 near me?",
+    "What is the address of 蜜雪冰城?",
+    "Can you give me directions to 蜜雪冰城?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"蜜雪冰城":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is Starbucks located in this area?",
+    "How do I get to the nearest Starbucks cafe?",
+    "Can you tell me the address of Starbucks near my location?",
+    "What are the directions to reach Starbucks from here?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"星巴克STARBUCKS":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is 食坊EatHami located?",
+    "Can you give me directions to 食坊EatHami restaurant?",
+    "How far is my hostel from 食坊EatHami?",
+    "What are the nearby places to visit after eating at 食坊EatHami?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"食坊EatHami": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where is 薯嘟嘟DU-DU POTATO located?", "Can you tell me how to get to 薯嘟嘟DU-DU POTATO?", "I am looking for the address of 薯嘟嘟DU-DU POTATO.", "What are the directions to find薯嘟嘟DU-DU POTATO?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"薮嘟嘟DU-DU POTATO":"restaurant"}
+  ]
+},
+{
+  "query": ["where is 蜀都风味 located?", "how to get to 蜀都风味 restaurant?", "what's the address of 蜀都风味?", "can you give me directions to 蜀都风味?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"蜀都风味":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is 三千尺The Flows located?", "Can you give me directions to 三千尺The Flows restaurant?", "How do I get to three thousand feet the flows", "What is the address of 三千尺The Flows gourmet?" ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"三千尺The Flows":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["How to get to SITRUS restaurant?", "Where is SITRUS located?", "Can you give me directions to SITRUS restaurant?", "What is the nearest landmark to SITRUS restaurant?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"SITRUS": "restaurant"}
+  ]
+},
+{
+  "query": ["How do I get to 陕西面馆?", "Where is 陕西面馆 located?", "Can you give me directions to 陕西面馆?", "What's the address of 陕西面馆?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"陕西面馆":"restaurant"}
+  ]
+},
+{
+  "query": ["How far is Nasi Kandar Al-Hajeera from my location?", "Can you give me directions to Nasi Kandar Al-Hajeera?", "Where can I find Nasi Kandar Al-Hajeera on campus?", "What are the nearest landmarks to Nasi Kandar Al-Hajeera?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Nasi Kandar Al-Hajeera":"restaurant_name"} 
+  ]
+},
+{
+  "query": [
+    "Where is 鸡公煲 located?",
+    "How do I get to 鸡公煲 restaurant?",
+    "Can you give me directions to 鸡公煲?",
+    "What's the address of 鸰公煲?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"鸡公煲":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How do I get to 54 Thai Mookata?",
+    "Where is 54 Thai Mookata located?",
+    "Can you give me directions to 54 Thai Mookata?",
+    "What's the address of 54 Thai Mookata?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"54 thai mookata":"restaurant"}
+  ]
+},
+{
+  "query": ["where is 茶餐室 located?", "how do I get to 茶餐室?", "what's the address of 茶餐室?", "can you give me directions to 茶餐室?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"茶餐室":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is Baskin-Robbins located?",
+    "How do I get to Baskin-Robbins?",
+    "What is the address of Baskin-Robbins nearby?",
+    "Can you give me directions to Baskin-Robbins?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Baskin-Robbins": "restaurant"}
+  ]
+},
+{
+  "query": ["Where is 串串店 located?", "How do I get to 串串店?", "Can you tell me the address of 串串店?", "What's the nearest location of 串串店?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"串串店": "restaurant"}
+  ]
+},
+{
+  "query": ["Where is Q Event Space located?", "How do I get to Q Event Space?", "Can you provide me with directions to Q Event Space?", "What are the exact coordinates of Q Event Space?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Q Event SPACE": "restaurant"}
+  ]
+},
+{
+  "query": ["How do I get to 大熊熊螺蛳粉?", "Where is 大熊熊螺蛳粉 located?", "Can you give me directions to 大熊熊螺蛳粉?", "What's the address of 大熊熊螺蛳粉?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"大熊熊螺蛳粉": "restaurant"}
+  ]
+},
+{
+  "query": ["Where is Bing Dessert Cafe located?", "How can I find Bing Dessert Cafe?", "I'm looking for Bing Dessert Cafe, where is it?", "Can you give me directions to Bing Dessert Cafe?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Bing Dessert Cafe": "restaurant"}
+  ]
+},
+{
+  "query": ["Where is CHATTO located?", "Can you direct me to CHATTO restaurant?", "How do I get to CHATTO?", "What is the address of CHATTO?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"CHATTO":"restaurant"}
+  ]
+},
+{
+  "query": ["Where is KOPI SAIGON located?", "Can you tell me how to get to KOPI SAIGON?", "What are the directions to KOPI SAIGON?", "How far is KOPI SAIGON from my current location?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"KOPI SAIGON":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "Where is GEPREK'ING Fried Chicken located?",
+    "How can I get to GEPREK'ING Fried Chicken restaurant from here?",
+    "What's the nearest location of GEPREK'ING Fried Chicken?",
+    "Can you show me the route to GEPREK'ING Fried Chicken?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"GEPREK'ING Fried Chicken": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What's the location of Kafe Lazatnya?",
+    "How do I get to Kafe Lazatnya?",
+    "Where is Kafe Lazatnya situated?",
+    "Can you tell me the address of Kafe Lazatnya?"
+  ],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"Kafe Lazatnya": "restaurant"}
+  ]
+},
+{
+  "query": ["where is 拾浮百世 located?", "how do i get to 拾浮百世 restaurant?", "what are the directions to reach 拾浮百世?", "can you tell me where 拾浮百世 is?"],
+  "intent": "ask_restaurant_location",
+  "entities": [
+    {"拾浮百世": "restaurant"}
+  ]
+},
+{
+  "query": ["What is the operating time of Summer Palace restaurant?", "When does Summer Palace restaurant open?", "Can I know the closing time of Summer Palace restaurant?", "At what time does Summer Palace restaurant serve lunch?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Summer Palace":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the business hours of Tuk Tuk Thai&Taro?", "When does Tuk Tuk Thai&Taro open?", "Is Tuk Tuk Thai&Taro open on weekends?", "What time does Tuk Tuk Thai&Taro stop serving food?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Tuk Tuk Thai&Taro":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What is the operating hours of 大树下?", "At what time does 大树下 open?", "How late is 大树下 open on weekends?", "Does 大树下 have extended working hours during peak season?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"大树下": "restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of Let's Kopitiam?", 
+             "When does Let's Kopitiam open for business?", 
+             "Is Let's Kopitiam currently open for dining?",
+             "At what time do they stop serving at Let's Kopitiam?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Let's Kopitiam":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the operating hour of mynews便利店?",
+    "When does mynews便利店 open?",
+    "At what time can I visit mynews便利店?",
+    "What are the business hours of mynews便利店?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"mynews便利店":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of Takw Mee Tarik?", 
+    "When does Takw Mee Tarik usually open?", 
+    "How late is Takw Mee Tarik open on weekends?", 
+    "What time does Takw Mee Tarik close tonight?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Takw Mee Tarik":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 大家旺?",
+    "When does 大家旺 open its doors to customers?",
+    "Is 大家旺 still open during lunchtime today?",
+    "Can I dine at 大家旺 in the evening?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"大家旺": "restaurant"}
+  ]
+},
+{
+  "query": ["What is the opening hour of 蜀之味?", "When does 蜀之味 open?", "How late is 蜀之味 open?", "Is 蜀之味 still open?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"蜀之味": "restaurant"}
+  ]
+},
+{
+  "query": ["What time does 大城小厨 open?", "At what hour is big small kitchen closed?", "When can i visit the big small kitchen restaurant?", "What are the business hours of 大城小厨?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"大城小厨":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of 华联好凉茶?", "How late is 华联好凉茶 open on weekends?", "Can I go to 华联好凉茶 for dinner?", "Is 华联好凉茶 open on holidays?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"华联好凉茶":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the business hours of 小云冰室?", "When does 小云冰室 open?", "Is 小云冰室 open on Sundays?", "What time does 小云冰室 close?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"小云冰室":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the business hours of 大拇指?",
+    "When is big thumb restaurant open today?",
+    "Are there any operating hours available for 大拇指",
+    "What time does big thumb restaurant close at night?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"大拇指":"restaurant"}
+  ]
+},
+{
+  "query": ["What time does 喵喵轻食 open today?", "At what time can I have dinner at 喵喵轻食?", "When is the closing time of 喵喵轻食?", "Does 喵喵轻食 serve lunch after 2 pm?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"喵喵轻食":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the opening time of 大碗面?", "When does 大碗面 open?", "Is 大碗面 open now?", "What are the operating hours of 大碗面?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"大碗面":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the operating hour of U&I: restaurant?", "At what time does U&I: restaurant open?", "How late is U&I: restaurant open tonight?", "Does U&I: restaurant serve dinner after 10pm?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"U&I: restaurant":"restaurant_name"}
+  ]
+},
+{
+  "query": [
+    "What time does 小台枫 open?",
+    "When can I dine at 小台枫 today?",
+    "Does 小台枫 have any dinner hours available tonight?",
+    "Can I make a reservation for breakfast at 小台枫?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"小台枫":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the opening hours of Restaurant Kabaabish?",
+    "When does Restaurant Kabaabish usually serve dinner?",
+    "Is Restaurant Kabaabish open on Sundays for lunch?",
+    "At what time do they close at Restaurant Kabaabish?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Restaurant Kabaabish": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What time is breakfast served at B1 Canteen?",
+    "When does B1 Canteen usually open for meals?",
+    "At what hour can I expect lunch to be ready at B1 Canteen?",
+    "Does B1 Canteen serve dinner, and if so, what time?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"B1 Canteen":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of Sapid:restaurant?", "When is Sapid:restaurant open for dinner?", "Is Sapid:restaurant open on Sundays?", "Can I book a table at Sapid:restaurant during peak hours?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Sapid:restaurant":"restaurant_name"} 
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of Saffron Club?",
+    "When is the dinner time at Saffron Club?",
+    "Can I have lunch at Saffron Club on Saturday?",
+    "At what time does Saffron Club open for breakfast?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Saffron Club":"restaurant"}
+  ]
+},
+{
+  "query": ["What are Regiustea皇茶's operating hours?", "When does Regiustea皇茶 open?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Regiustea皇茶":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of Poke Bowl?", "When does Poke Bowl open?" , "What time is Poke Bowl open on weekends?", "Does Poke Bowl have extended hours during peak season?" ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Poke Bowl":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of Zone U Bakery?", "When does Zone U Bakery open on a Sunday?", "Can I visit Zone U Bakery during lunchtime?", "Does Zone U Bakery have late night hours?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Zone U Bakery": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of LY3 Canteen?",
+    "When does LY3 Canteen usually open?",
+    "Can I visit LY3 Canteen during lunchtime?",
+    "Is LY3 Canteen open for dinner?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"LY3 Canteen":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of 中闽美食?", "When is 中闽美食 open on weekends?", "How late does 中闽美食 stay open on Friday?", "At what time does 中闽美食 start serving dinner?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"中闽美食":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the operating hours of Bean's Express?", "At what time does Bean's Express open?", "How late is Bean's Express open on weekends?", "When does Bean's Express close?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Bean's Express": "restaurant_name"} 
+  ]
+},
+{
+  "query": ["What are the operating hours of Mad Plate Express?", "When does Mad Plate Express open on weekends?", "How late is Mad Plate Express open tonight?", "What time does Mad Plate Express serve lunch?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Mad Plate Express":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of 小九州?", "When is 小九州 open today?", "How late does 小九州 stay open?", "At what time does 小九州 usually close?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"小九州": "restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of 膳一城?", "When does 膳一城 open?", "Is 膳一城 still open at 10pm?", "At what time is the last order for 膳一城?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"膳一城": "restaurant"}
+  ]
+},
+{
+  "query": ["What are the business hours of 槟城风味?", "When is 槟城风味 open today?", "How late does 槟城风味 stay open on weekends?", "Is 槟城风味 open on Sundays?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"槟城风味": "restaurant_name"} 
+  ]
+},
+{
+  "query": ["What are the operating hours of 佳味食轩?", "When is 佳味食轩 open?", "What time does 佳味食轩 close at night?", "Does 佳味食轩 have dinner service?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"佳味食轩": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of China Muslim Restaurant?",
+    "When does China Muslim Small Fried Chopsticks start serving lunch?",
+    "Is China Muslim Restaurant open for dinner today?",
+    "At what time does China Muslim's Small Fried Chopsticks usually serve?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"中国穆斯林小炒": "restaurant"}
+  ]
+},
+{
+  "query": ["What is the operating hours of Uni Hotpot?", "When does Uni Hotpot open for dinner?", "At what time can I visit Uni Hotpot for lunch?", "Is Uni Hotpot still open at 10pm tonight?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Uni Hotpot": "restaurant"}
+  ]
+},
+{
+  "query": ["What time does Cafe open?", "When is the cafe open today?", "Can I visit cafe at night?", "At what time do cafes usually close?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Cafes":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the business hours of ZUS Coffee?", "When does ZUS Coffee open on weekends?", "Is ZUS Coffee open now?", "At what time does ZUS Coffee serve breakfast?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"ZUS Coffee": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What are the business hours of Lakefront Cafe?", "When does Lakefront Cafe open?", "How late is Lakefront Cafe open?", "Is Lakefront Cafe still open on Sundays?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Lakefront Cafe":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What are the business hours of Cotti Coffee?", "When does Cotti Coffee open?", "How late is Cotti Coffee open?", "What time does Cotti Coffee close?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Cotti Coffee": "restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of Bo Ya Xuan Restaurant?", "At what time does Bo Ya Xuan Restaurant open?", "Is Bo Ya Xuan Restaurant open now?", "When does Bo Ya Xuan Restaurant close?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Bo Ya Xuan Restaurant": "restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of SOI 55 THAI KITCHEN?", "When does SOI 55 THAI KITCHEN serve dinner?" , "What is the closing time of SOI 55 THAI KITCHEN?" , "At what time can I find SOI 55 THAI KITCHEN open?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"SOI 55 THAI KITCHEN":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of 麻辣诱惑:restaurant?", 
+            "When is 麻辣诱惑:restaurant open today?",
+            "How late does 麻辣诱惑:restaurant stay open?",
+            "At what time does 麻辣诱惑:restaurant close?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"麻辣诱惑:restaurant":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What are the business hours of Secret Recipe?", "When is Secret Recipe open on weekends?", "Does Secret Recipe have a lunch break on weekdays?", "Is Secret Recipe open during public holidays?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Secret Recipe":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the business hours of 啵啵鱼泡泡鸡 PaoPao Pot?", "At what time does 啵啵鱼泡泡鸡 PaoPao Pot open?", "When is 啵啵鱼泡泡鸡 PaoPao Pot closed?", "What are 啵啵鱼泡泡鸡 PaoPao Pot's operating hours?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"啵啵鱼泡泡鸡 PaoPao Pot":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 沙县小吃?",
+    "Is 沙县小吃 open on Sundays?",
+    "When does 沙县小吃 usually serve lunch?",
+    "Are there any evening hours at 沙县小吃?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"沙县小吃":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of 柳州传统螺蛳粉?", "When is Monster Boba open on Sundays?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"柳州传统螺蛳粉":"restaurant_name", "Monster Boba":"restaurant_name" }
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 颔渌渌GAN'S LOK LOK?",
+    "At what time does 颔渌渌GAN'S LOK LOK open for dinner?",
+    "Is 颔渌渌GAN'S LOK LOK open on weekends?",
+    "When is the best time to visit 颔渌渌GAN'S LOK LOK?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"颜渌渌GAN'S LOK LOK":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 秀海福麻辣烫?",
+    "At what time does 秀海福麻辣烫 open for business?",
+    "Is 秀海福麻辣烫 still open at night?",
+    "When is the best time to visit 秀海福麻辣烫?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"秀海福麻辣烫": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 蜜雪冰城MIXUE?",
+    "Does 蜜雪冰城MIXUE open on Sundays?",
+    "When does 蜜雪冰城MIXUE restaurant close tonight?",
+    "Is 蜜雪冰城MIXUE open for dinner?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"蜜雪冰城MIXUE": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What are the operating hours of Starbucks?", "When does Starbucks open today?", "Is Starbucks open during lunch break?", "At what time does Starbucks stop serving food?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"星巴克STARBUCKS":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the opening time of 食坊EatHami?",
+    "When does 食坊EatHami restaurant open for business?",
+    "Is food still available at 食坊EatHami after 10pm?",
+    "Does 食坊EatHami close early on weekdays?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"食坊EatHami":"restaurant_name"}
+  ]
+},
+{
+  "query": ["What are the opening hours of 薯嘟嘟DU-DU POTATO?", 
+            "When does 薮嘟嘟DU-DU POTATO open for dinner?",
+            "Is薮嘟嘟DU-DU POTATO open on weekends?",
+            "At what time is 薮嘟嘟DU-DU POTATO usually crowded?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"薯嘟嘟DU-DU POTATO":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the opening time of 蜀都风味?",
+    "At what time does 蜀都风味 open for business?",
+    "When can I visit 蜀都风味 restaurant?",
+    "What are the operating hours of 蜀都风味?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"蜀都风味":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the business hours of 三千尺The Flows gourmet?", "When does 三千尺The Flows gourmet open?", "Is 三千尺The Flows gourmet open on weekends?", "At what time does 三千尺The Flows gourmet close?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"三千尺The Flows gourmet":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What are SITRUS opening hours?", "When is SITRUS restaurant open?", "Can I dine at SITRUS during lunchtime?", "At what time does SITRUS usually stop serving?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"SITRUS":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What is the operating hour of 陕西面馆?", "When does 陕西面馆 open on weekends?", "Is 陕西面馆 available for dine-in during lunch time?", "At what time does 陕西面馆 stop serving dinner?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"陕西面馆":"restaurant"}
+  ]
+},
+{
+  "query": ["What time does Nasi Kandar Al-Hajeera open?", "When is Nasi Kandar Al-Hajeera's closing time?", "At what hour does Nasi Kandar Al-Hajeera stop serving?", "On which day and time does Nasi Kandar Al-Hajeera operate?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Nasi Kandar Al-Hajeera":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the business hours of 鸡公煲?",
+    "When does 鸡公煲 open for dinner?",
+    "Is 鸡公煲 open on weekends?",
+    "At what time does 鸡公煲 stop serving food?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"鸡公煲":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 54 Thai Mookata?",
+    "Is 54 Thai Mookata open on weekends?",
+    "When does 54 Thai Mookata close for lunch?",
+    "Are they open late nights at 54 Thai Mookata?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"54 Thai Mookata": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 茶餐室?",
+    "When does 茶餐室 open on weekends?",
+    "Is 茶餐室 open during lunch hour?",
+    "At what time does 茶餐室 serve dinner?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"茶餐室":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the opening hours of Baskin-Robbins?", "When does Baskin-Robbins open today?", "At what time does Baskin-Robbins close?", "Is Baskin-Robbins open now?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Baskin-Robbins": "restaurant_name"} 
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 串串店?",
+    "When is 串串店 open tomorrow?",
+    "Does 串串店 have lunch service on weekdays?",
+    "Are there any late night dining options available at 串串店?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"串串店":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of Q EVENT SPACE?", "At what time does Q EVENT SPACE close?", "When is Q EVENT SPACE open?", "How late is Q EVENT SPACE open?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Q EVENT SPACE":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 大熊熊螺蛳粉?",
+    "Is 大熊熊螺蛳粉 open on weekends?",
+    "When is the best time to visit 大熊熊螺蛳粉?",
+    "Does 大熊熊螺蛳粉 have evening service?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"大熊熊螺蛳粉":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of Bing Dessert Cafe?",
+    "Is Bing Dessert Cafe open on weekends?",
+    "When does Bing Dessert Cafe usually serve dessert?",
+    "Are they open for dinner at Bing Dessert Cafe?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Bing Dessert Cafe": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the opening time of CHATTO?", "When does CHATTO open?", "What are CHATTO's business hours?", "At what time does CHATTO close?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"CHATTO":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the business hours of KOPI SAIGON?",
+    "When is KOPI SAIGON open?",
+    "At what time does KOPI SAIGON start serving coffee?",
+    "Is KOPI SAIGON still operational during weekends?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"KOPI SAIGON":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of GEPREK'ING Fried Chicken?",
+    "When does GEPREK'ING Fried Chicken open and close?",
+    "Is GEPREK'ING Fried Chicken still open for business at night?",
+    "Can I visit GEPREK'ING Fried Chicken during lunchtime?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"GEPREK'ING Fried Chicken":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the operating hours of Kafe Lazatnya?", "When is Kafe Lazatnya open?", "At what time does Kafe Lazatnya usually serve lunch?", "Is Kafe Lazatnya still open at night?"],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"Kafe Lazatnya":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of 拾浮百世?",
+    "When is 拾浮百世 open on weekdays?",
+    "Does 拾浮百世 have dinner service?",
+    "Is 拾浮百世 open for lunch today?"
+  ],
+  "intent": "ask_restaurant_time",
+  "entities": [
+    {"拾浮百世":"restaurant"}
+  ]
+},
+{
+  "query": ["Can you recommend any good restaurants in Summer Palace?", "What are some popular restaurants near Summer Palace?", 
+           "I'm looking for a nice restaurant to eat in Summer Palace, what do you suggest?", "Are there any highly-rated restaurants inside Summer Palace?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Summer Palace":"restaurant"}
+  ]
+},
+{
+  "query": ["What kind of food does Tuk Tuk Thai&Taro serve?", "Is Tuk Tuk Thai&Taro open for lunch?", "Where is Tuk Tuk Thai&Taro located?", "What are the reviews like for Tuk Tuk Thai&Taro?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Tuk Tuk Thai&Taro":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What's the best food at 大树下?",
+    "Which restaurant near me is 大树下",
+    "Is 大树下 a good place to eat?",
+    "Can you recommend some dishes from 大树下?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"大树下":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What type of food does Let's Kopitiam serve?",
+    "Can you recommend any dishes at Let's Kopitiam?",
+    "How is the service quality at Let's Kopitiam?",
+    "Is Let's Kopitiam a good restaurant for a family dinner?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Let's Kopitiam":"restaurant"}
+  ]
+},
+{
+  "query": ["What's good at mynews便利店?", "Can you recommend something to eat at mynews便利店?", "I'm looking for a quick bite, do you have any suggestions at mynews便利店?", "What should I order from mynews便利店?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"mynews便利店":"restaurant"} 
+  ]
+},
+{
+  "query": [
+    "What is good about Takw Mee Tarik restaurant?",
+    "Which dish from Takw Mee Tarik restaurant should I order?",
+    "Do you recommend trying the food at Takw Mee Tarik restaurant?",
+    "Is it worth eating at Takw Mee Tarik restaurant?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Takw Mee Tarik":"restaurant"}
+  ]
+},
+{
+  "query": ["What's a good restaurant like 大家旺 to eat at?", "Where can I find a place similar to 大家旺 in terms of food quality?", "Can you recommend any restaurants like 大家旺 nearby?", "Is there a local favorite that serves similar dishes to 大家旺?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"大家旺":"restaurant"}
+  ]
+},
+{
+  "query": ["What kind of cuisine does 蜀之味 serve?", "Is 蜀之味 a good place to eat?", "Can you recommend 蜀之味 for dinner?", "What's the ambiance like at 蜀之味?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"蜀之味":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What kind of food does 大城小厨 serve?",
+    "Is 大城小厨 a good place to try Szechuan cuisine?",
+    "Which type of restaurant is 大城小厨?",
+    "Does 大城小厨 have any promotions or discounts?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"大城小厨": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What kind of tea does Hualiande good tea have?",
+    "Where is a popular place to get good tea near my location?",
+    "Is Hualiande good tea any good?",
+    "Can you recommend a good tea shop like Hualiande good tea?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"华联好凉茶": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What kind of desserts does 小云冰室 offer?",
+    "Is 小云冰室 a good place to try traditional Taiwanese desserts?",
+    "Which is better, small dessert or big dessert at 小云冰室?",
+    "Can you recommend some popular menu items from 小云冰室?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"小云冰室":"restaurant"}
+  ]
+},
+{
+  "query": ["What is good at 大拇指?", "Can you recommend dishes from 大拇指?", "Which restaurant do you prefer, 大拇指 or [other restaurant]?", "Is 大拇指 a popular restaurant?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"大拇指": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What kind of dishes does 喵喵轻食 serve?",
+    "Is 喵喵轻食 a good place to eat?",
+    "Can you recommend some restaurants like 喵喵轻食?",
+    "What's the most popular dish at 喵喵轻食?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"喵喵轻食":"restaurant"}
+  ]
+},
+{
+  "query": ["What are some popular dishes to order at 大碗面?", "I want to try big bowls of noodles, can you recommend 大碗面?" , "Where is the best place to eat 大碗面 in town?", "Can you give me a few recommendations for restaurants like 大碗面?" ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"大碗面":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is a good place to eat in KL?",
+    "Can you recommend some popular restaurants around me?",
+    "Where can I find a nice restaurant serving Italian food?",
+    "Which restaurants near my location have high ratings?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"U&I:restaurant": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What kind of food does 小台枫 serve?", 
+            "Is 小台枫 a good place to eat with family?", 
+            "Can you recommend any restaurants like 小台枫?", 
+            "What is the atmosphere like at 小台枫?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"小台枫":"restaurant"}
+  ]
+},
+{
+  "query": ["What type of cuisine does Restaurant Kabaabish serve?", "Is Restaurant Kabaabish a good place to eat?", "Can you recommend any restaurants like Restaurant Kabaabish?", "Where is the nearest restaurant similar to Restaurant Kabaabish?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Restaurant Kabaabish": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are some popular restaurants near campus?",
+    "Can you recommend any good food places on this university's premises?",
+    "Where can I find delicious and affordable meals around here?",
+    "Which canteens have the best menu options?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"B1 Canteen": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is good about Saffron Club?",
+    "Can anyone recommend me a place like Saffron Club?",
+    "What kind of food does Saffron Club serve?",
+    "Are there any other restaurants similar to Saffron Club?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Saffron Club": "restaurant_name"}
+  ]
+},
+{
+  "query": [
+    "What are the best tea shops in town?",
+    "Can you recommend a good place to try 皇茶?",
+    "Where can I find high quality tea near me?",
+    "Is Regiustea 皇茶 any good?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Regiustea皇茶":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What's a good Poke Bowl restaurant near me?",
+    "Can you recommend any nearby Poke Bowls with delivery options?",
+    "I'm craving Poke Bowl, what are some popular restaurants in the area?",
+    "Where can I get the best Poke Bowl Rice in town?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Poke Bowl Rice": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What kind of food does Zone U Bakery serve?",
+    "Is Zone U Bakery a good restaurant to try in this area?",
+    "I'm looking for a cafe near my place, can you recommend something like Zone U Bakery?",
+    "Do you have any recommendations for restaurants similar to Zone U Bakery?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Zone U Bakery":"restaurant"}
+  ]
+},
+{
+  "query": ["What are some good restaurants around LY3 Canteen?", 
+              "Can you recommend a nearby restaurant to LY3 Canteen?",
+              "Which restaurant near LY3 Canteen has the best food?",
+              "Do you have any recommendations for restaurants similar to LY3 Canteen?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"LY3 Canteen": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are some good restaurants in the 中闽 area?",
+    "Where can I find delicious food near 中闽美食?",
+    "Can you recommend a restaurant similar to 中闽美食?",
+    "I'm looking for a new place to eat, what's your recommendation near 中闽?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"中闽美食":"restaurant"}
+  ]
+},
+{
+  "query": ["What kind of food does Bean's Express serve?", "Is Bean's Express a good place to eat?", "Can you recommend any restaurants similar to Bean's Express?", "Where is the nearest location to Bean's Express?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Bean's Express":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What's a good restaurant like near my location?",
+    "Is Mad Plate Express any good?",
+    "Can you recommend some restaurants similar to Mad Plate Express?",
+    "I'm looking for a new place to eat, have you heard of Mad Plate Express?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Mad Plate Express":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What's a good restaurant like 小九州 to go in the evening?",
+    "I'm craving for Chinese food, do you have any recommendations similar to 小九州?",
+    "Where can I find a restaurant serving similar cuisine to 小九州?",
+    "Can you suggest some popular restaurants around me that are similar to 小九州?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"小九州":"restaurant"}
+  ]
+},
+{
+  "query": ["What kind of food does 膳一城 serve?", "Is 膳一城 a good place to eat?", "Can you recommend any restaurants like 膳一城?", "How is the atmosphere at 膳一城?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"膳一城":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the must-try dishes at 槟城风味?",
+    "Can you recommend any good restaurants like 槟城风味 around here?",
+    "What kind of food does 槟城风味 serve that I should try?",
+    "Are there any other recommended restaurants similar to 槟城风味 in this area?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"槟城风味": "restaurant_name"} 
+  ]
+},
+{
+  "query": [
+    "What's a good restaurant like 佳味食轩 around here?",
+    "I'm looking for some recommendations, have you been to 佳味食轩 before?",
+    "What are the most popular dishes at 佳味食轩?",
+    "Can you recommend a place similar to 佳味食轩?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"佳味食轩":"restaurant"}
+  ]
+},
+{
+  "query": ["What is a popular Muslim restaurant in Kuala Lumpur?", "Where can I find good Chinese food in Kuala Lumpur?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"中国穆斯林小炒":"restaurant"}
+  ]
+},
+{
+  "query": ["What's good at Uni Hotpot?", "Do you have any recommendations for Uni Hotpot?", 
+   "Can someone recommend me something to order from Uni Hotpot?", "What dishes does Uni Hotpot serve?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Uni Hotpot": "restaurant"}
+  ]
+},
+{
+  "query": ["What are some good cafes in the area?", "Can you recommend a nice cafe nearby?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Cafes": "restaurant"}
+  ]
+},
+{
+  "query": ["What is the best coffee shop near me?", "Can you recommend a cafe similar to ZUS Coffee?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"ZUS Coffee":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are some good restaurants around Lakefront Cafe?",
+    "Can you recommend a place to eat near Lakefront Cafe?",
+    "Is there anywhere better than Lakefront Cafe in the area?",
+    "Where can I get food that's similar to Lakefront Cafe?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Lakefront Cafe":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What type of coffee does Cotti Coffee serve?",
+    "Is Cotti Coffee a good place to grab lunch with friends?",
+    "Do you have any recommendations for coffee shops like Cotti Coffee in the area?",
+    "Can I order takeout from Cotti Coffee or do they only serve dine-in?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Cotti Coffee":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What kind of food does Bo Ya Xuan Restaurant serve?",
+    "Is Bo Ya Xuan Restaurant good for a date night?",
+    "Can you recommend any Chinese restaurants like Bo Ya Xuan Restaurant nearby?",
+    "How is the service at Bo Ya Xuan Restaurant?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Bo Ya Xuan Restaurant":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the best dish to try at SOI 55 THAI KITCHEN?", 
+           "Does SOI 55 THAI KITCHEN have any vegetarian options?",
+           "Can you recommend a restaurant like SOI 55 THAI KITCHEN near me?",
+           "Is SOI 55 THAI KITCHEN worth the price for its food quality?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"SOI 55 THAI KITCHEN": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is good about 麻辣诱惑 restaurant?",
+    "Which cuisine does 麻辣诱惑 restaurant serve?",
+    "Is the service at 麻辣诱惑 restaurant friendly?",
+    "Can you recommend something spicy from 麻辣诱惑 restaurant's menu?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"麻辣诱惑": "restaurant"}
+  ]
+},
+{
+  "query": ["What kind of food does Secret Recipe serve?", "Is Secret Recipe a good place to eat?", "Can you recommend any restaurants like Secret Recipe?", "How would you rate the food at Secret Recipe?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Secret Recipe":"restaurant"}
+  ]
+},
+{
+  "query": ["What's good to eat at 啵啵鱼泡泡鸡?", "Can you recommend some dishes from 啵啵鱼泡泡鸡 menu?", "What are the popular items in 啵啵鱼泡泡鸡 restaurant?", "Are there any must-try dishes when dining at 啵啵鱼泡泡鸡?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"啵啵鱼泡泡鸡PaoPaoPot":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What's a good restaurant like 沙县小吃 around here?",
+    "Can you recommend some restaurants similar to 沙县小吃?",
+    "Where can I find food like 沙县小吃 in the area?",
+    "Are there any other restaurants that serve similar dishes like 沙县小吃?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"沙县小吃": "restaurant"}
+  ]
+},
+{
+  "query": ["What kind of food does 颔颔GAN'S LOK LOK serve?", "Is the service at 颔颔GAN'S LOK LOK good?", "Can you recommend any other restaurants like 颔颔GAN'S LOK LOK?", "How is the atmosphere at 颔颔GAN'S LOK LOK?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"颜渌渌GAN'S LOK LOK": "restaurant"}
+  ]
+},
+{
+  "query": ["What are the popular dishes at 秀海福麻辣烫?", "Where can I get delicious mala hot pot like 秀海福麻辣烫?", "Is 秀海福麻辣烫 a highly-recommended restaurant for spicy food?", "Can you recommend some similar restaurants to 秀海福麻辣烫?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"秀海福麻辣烫":"restaurant"}
+  ]
+},
+{
+  "query": ["What are some popular restaurants near 蜜雪冰城MIXUE", 
+            "Can you recommend a good restaurant like 蜜雪冰城MIXUE around here?", 
+            "What's the best place to eat in place of 蜜雪冰城MIXUE?",
+            "Are there any other recommended places similar to 蜜雪冰城MIXUE?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"蜜雪冰城MIXUE": "restaurant_name"} 
+  ]
+},
+{
+  "query": ["What kind of food does EatHami serve?", "Is EatHami a good place to eat?", "Can you recommend a restaurant like EatHami nearby?", "Do people usually go to EatHami for dinner?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"EatHami":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What kind of food does 薮嘟嘟DU-DU POTATO serve?",
+    "Is薮嘟嘟DU-DU POTATO a good place to eat?",
+    "Can you recommend any popular restaurants like 薮嘟嘟DU-DU POTATO?",
+    "Where is the nearest restaurant to 薮嘟嘟DU-DU POTATO?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"薯嘟嘟DU-DU POTATO":"restaurant"}
+  ]
+},
+{
+  "query": ["What's a good restaurant to eat Shu Du flavor food?", 
+             "Can you recommend some restaurants that serve authentic Sichuan cuisine like 蜀都风味?",
+             "Where can I try the best Shu Du flavors in town?",
+             "Do you have any recommendations for good restaurants serving 蜀都风味 dishes?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"蜀都风味":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What's the best restaurant in Taipei?", 
+    "I'm looking for a high-end restaurant serving Chinese cuisine, can you recommend one?", 
+    "Where can I book a table at a fancy restaurant serving French-Asian fusion dishes?", 
+    "Can you suggest a gourmet restaurant with a romantic atmosphere?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"三千尺The Flows gourmet":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What are some popular dishes at SITRUS?", "Can you recommend a restaurant like SITRUS?", "I'm looking for a restaurant with similar atmosphere to SITRUS, what do you suggest?", "Where can I find the best food in town like SITRUS?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"SITRUS": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are the best restaurants like 陕西面馆 in this area?",
+    "Can you recommend a Chinese restaurant similar to 陕西面馆?",
+    "Where can I find good noodles like 陕西面馆 near my location?",
+    "Are there any restaurants nearby that serve food similar to 陕西面馆?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"陕西面馆":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What type of food is served at Nasi Kandar Al-Hajeera?",
+    "Which restaurant is similar to Nasi Kandar Al-Hajeera near me?",
+    "Can you recommend a restaurant like Nasi Kandar Al-Hajeera for dinner tonight?",
+    "What are some popular dishes at Nasi Kandar Al-Hajeera restaurant?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Nasi Kandar Al-Hajeera": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What's good at 鸡公煲?",
+    "Can you recommend some dishes from 鸡公煲?",
+    "What's popular at 鸡公煲 restaurant?",
+    "Recommend me something to try at 鸡公煲"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"鸡公煲":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is good about Thai Mookata?",
+    "Can you recommend some popular dishes at Thai Mookata?",
+    "I'm looking for a new restaurant to try, have you heard of Thai Mookata?",
+    "What kind of food does Thai Mookata serve?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Thai Mookata": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What's the popular dish at 茶餐室?","Can you recommend me a restaurant like 茶餐室?", 
+             "Where can I get a good taste of Cantonese cuisine near 茶餐室?", 
+             "Are there any other restaurants serving similar food to 茶餐室 nearby?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"茶餐室":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What are some popular dessert restaurants near me?",
+    "Can you recommend a good ice cream place in town?",
+    "Where can I get unique flavors of ice cream in my area?",
+    "What's the best ice cream shop in this city?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Baskin-Robbins": "restaurant"}
+  ]
+},
+{
+  "query": ["What kind of food does 串串店 serve?", "Is 串串店 a good restaurant to eat in?", "Which type of cuisine is 串串店 best for?", "Do you have any recommendations for restaurants like 串串店?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"串串店":"restaurant"}
+  ]
+},
+{
+  "query": ["What type of food does Q Event Space serve?", "Is Q Event Space a good restaurant to try?", "Can you recommend restaurants like Q Event Space in the area?", "What is special about Q Event Space's menu?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Q Event Space": "restaurant"}
+  ]
+},
+{
+  "query": ["What's good about 大熊熊螺蛳粉?", "Is 大熊熊螺蛳粉 a must-try?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"大熊熊螺蛳粉":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What's a good dessert cafe near me?",
+    "Can you recommend any dessert cafes like Bing Dessert Cafe?",
+    "Where can I find the best desserts in town, something like Bing Dessert Cafe?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Bing Dessert Cafe": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "What kind of food does Chatto serve?",
+    "Can you recommend any restaurants like Chatto near me?",
+    "Is Chatto a good place to try their signature dishes?",
+    "Are there any other popular restaurants similar to Chatto?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"CHATTO": "restaurant"}
+  ]
+},
+{
+  "query": ["Can you recommend a good restaurant like KOPI SAIGON?", 
+              "Where can I find the best food near KOPI SAIGON?",
+              "What kind of restaurants are there around KOPI SAIGON?",
+              "Is KOPI SAIGON a recommended place to eat?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"KOPI SAIGON":"restaurant"}
+  ]
+},
+{
+  "query": ["What are the top-rated fried chicken restaurants in the area?", "Is GEPREK'ING Fried Chicken a good place to eat?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"GEPREK'ING Fried Chicken":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is good food to order from Kafe Lazatnya?",
+    "Can you recommend some popular dishes in Kafe Lazatnya?",
+    "I'm looking for restaurants like Kafe Lazatnya, do you have any suggestions?",
+    "What's the top recommendation at Kafe Lazatnya?"
+  ],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"Kafe Lazatnya":"restaurant"}
+  ]
+},
+{
+  "query": ["What are some popular restaurants like 拾浮百世 in the area?", "Can you recommend a restaurant similar to 拾浮百世 nearby?", "Which restaurant has a similar menu and atmosphere to 拾浮百世?", "Do you have any recommendations for a place to eat that is similar to 拾浮百世?"],
+  "intent": "ask_restaurant_recommendation",
+  "entities": [
+    {"拾浮百世":"restaurant"}
+  ]
+},
+{
+  "query": ["How much does a meal cost at Xia1 city restaurant?", "What is the price range of Xia1 city restaurant's menu?", "Is Xia1 city restaurant expensive?", "Does Xia1 city restaurant have affordable food options?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"夏1城":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does it cost to eat at Tuk Tuk Thai&Taro?",
+    "What is the price range of a meal at Tuk Tuk Thai&Taro restaurant?",
+    "Is Tuk Tuk Thai&Taro affordable for students?",
+    "Can you tell me the approximate price of dishes at Tuk Tuk Thai&Taro?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Tuk Tuk Thai&Taro": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the price range of big tree below restaurant?", "How much does big tree below restaurant cost?", "Is big tree below restaurant affordable?", "What can I expect to pay at big tree below restaurant?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"大树下":"restaurant"}
+  ]
+},
+{
+  "query": ["How much does a meal cost at Let's Kopitiam?", "What is the price range of food at Let's Kopitiam?", "Can I get a rough estimate of prices at Let's Kopitiam?", "Are the dishes at Let's Kopitiam reasonably priced?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Let's Kopitiam":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price of meals at mynews便利店?", "How much does it cost to eat at mynews便利店?", "Can I get a menu with prices for mynews便利店?", "Is it expensive to dine at mynews便利店?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"mynews便利店":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of Takw Mee Tarik?", 
+             "How much does it cost to eat at Takw Mee Tarik?",
+             "Is Takw Mee Tarik affordable for a student's budget?", 
+             "Can you tell me about the pricing of Takw Mee Tarik?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Takw Mee Tarik":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price of a meal at 大家旺?", "How much does it cost to eat at 大家旺?", "Is the menu at 大家旺 affordable?", "Can I get a quote for food at 大家旺?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"大家旺":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the price of 蜀之味's lunch set?",
+    "How much does it cost to eat at 蜀之味?",
+    "Is 蜀之味 a affordable restaurant for students?",
+    "Can I get a discount on my meal at 蜀之味?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"蜀之味":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the price range of dishes at 大城小厨?",
+    "How much does it cost to eat at 大城小厨?",
+    "Is 大城小厨 affordable for a mid-range budget?",
+    "What's the average price per meal at 大城小厨?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"大城小厨":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What is the price of a drink at华联好凉茶?", "How much does it cost to order from华联好凉茶?", "Is 华联好凉茶 affordable for students?", "Can you tell me the average price of a meal at华联好凉茶?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"华联好凉茶":"restaurant"}
+  ]
+},
+{
+  "query": ["How much does a bowl of dessert cost at 小云冰室?", "What is the price range for desserts at 小云冰室?", "Is 小云冰室 expensive for ice cream?", "Do they offer any affordable options at 小云冰室?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"小云冰室":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What is the price range of 大拇指?", "How much does it cost to dine at 大拇指?", "What's the average price per meal at 大拇指 restaurant?", "Is 大拇指 affordable for a student budget?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"大拇指":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of dishes at 喵喵轻食?", "How much does it cost to eat at 喵喵轻食?", "Is the price at 喵喵轻食 affordable?", "Can I get a menu with prices for 喵喵轻食?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"喵喵轻食":"restaurant"}
+  ]
+},
+{
+  "query": ["How much is a plate of 大碗面 at this restaurant?", "What's the price of 大碗面 here?", "Is 大碗面 affordable to eat?", "Can I get a bowl of 大碗面 for under $10?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"大碗面":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of meals at U&I restaurant?", 
+            "How much does a meal cost at U&I:restaurant?",
+            "Is U&I:restaurant expensive or affordable in terms of pricing?", 
+            "Can you tell me about the average cost of food at U&I:restaurant?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"U&I restaurant":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What's the price range of dishes at 小台枫?", "How much does a meal cost at 小台枫?", "Is 小台枫 affordable for students?", "What are the prices like at 小台枫 restaurant?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"小台枫":"restaurant"}
+  ]
+},
+{
+  "query": ["How much does it cost to dine at Restaurant Kabaabish?", 
+             "What is the price range of meals at Restaurant Kabaabish?",
+             "Can you tell me the average price per dish at Restaurant Kabaabish?",
+             "Do they offer any affordable options at Restaurant Kabaabish?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Restaurant Kabaabish":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price of a meal at B1 Canteen?", 
+            "How much does it cost to eat at B1 Canteen?",
+            "Is B1 Canteen expensive?",
+            "Can I afford eating at B1 Canteen?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"B1 Canteen":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of dishes at Sapid restaurant?", "How much does it cost to eat at Sapid restaurant?", "Can you tell me the approximate prices at Sapid restaurant?", "Are the meals at Sapid restaurant reasonably priced?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Sapid restaurant":"restaurant_name"} 
+  ]
+},
+{
+  "query": [
+    "What is the price range of food at Saffron Club?",
+    "How much does it cost to dine in at Saffron Club?",
+    "Is Saffron Club expensive or affordable?",
+    "Can you tell me about the pricing menu at Saffron Club?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Saffron Club": "restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of Regiustea皇茶 at night?", "How much does it cost to dine at Regiustea皇茶 during peak hours?" , "Is the menu at Regiustea皇茶 expensive compared to others?", "Are there any budget-friendly options available at Regiustea皇茶?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Regiustea皇茶":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price of a Poke Bowl at this restaurant?", "How much does a Poke Bowl cost here?", "Can you tell me the price of Poke Bowl Rice on your menu?", "What's the average price of Poke Bowl at this place?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Poke Bowl Rice":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of food at Zone U Bakery?", "How much does a meal cost at Zone U Bakery?", "Can you tell me the prices of dishes at Zone U Bakery?", "Are the menu items at Zone U Bakery reasonably priced?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Zone U Bakery": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does it cost to eat at LY3 Canteen?",
+    "What is the price range of LY3 Canteen's food?",
+    "Is LY3 Canteen expensive or affordable?",
+    "Can I get a menu with prices for LY3 Canteen?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"LY3 Canteen": "restaurant"}
+  ]
+},
+{
+  "query": ["How much does it cost to dine at 中闽美食?", "What's the price range of dishes in 中闽美食?", 
+            "Can you give me an estimate of the expenses for a meal at 中闽美食?", 
+            "Are the prices at 中闽美食 considered affordable?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"中闽美食":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of meals at Bean's Express?", "How much does it cost to eat at Bean's Express?", "Is Bean's Express expensive compared to other restaurants?", "Can I find affordable food options at Bean's Express?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Bean's Express": "restaurant_name"} 
+  ]
+},
+{
+  "query": ["What is the price range of dishes at Mad Plate Express?", "How much does it cost to eat at Mad Plate Express?", 
+             "Can I afford a meal at Mad Plate Express on a budget of $15?", "Is Mad Plate Express expensive or affordable?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Mad Plate Express":"restaurant"}
+  ]
+},
+{
+  "query": ["How much does a meal cost at 小九州?", "What's the price range of 小九州?", "Is 小九州 expensive?", "Can I get a affordable meal at 小九州?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"小九州":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does it cost to dine at 膳一城?",
+    "What is the price range of dishes in 膳一城?",
+    "Is 膳一城 an affordable restaurant for students?",
+    "Can I find value-for-money meals at 膳一城?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"膳一城":"restaurant_name"}
+  ]
+},
+{
+  "query": ["How much does a meal cost at 槟城风味?", "What is the price range of dishes at 槟城风味?", "Is 槟城风味 expensive or affordable for a student?", "Can I get a budget-friendly option at 槟城风味?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"槟城风味": "restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of dishes at 佳味食轩?", "How much does it cost to dine in at 佳味食轩?", 
+            "Are the prices at 佳味食轩 affordable for a student budget?", "Does 佳味食轩 offer any discounts or promotions?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"佳味食轩":"restaurant"}
+  ]
+},
+{
+  "query": ["What's the price range of 中国穆斯林小炒?", "How much does it cost to eat at 中国穆斯林小炒?", "Can you tell me the average price of dishes at 中国穆斯林小炒?", "How expensive is the food at 中国穆斯林小炒?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"中国穆斯林小炒":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of a meal at Uni Hotpot?", 
+            "How much does it cost to dine in at Uni Hotpot?",
+            "What's the average price per person at Uni Hotpot restaurant?",
+            "Is Uni Hotpot affordable for students?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Uni Hotpot":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of food at Cafes?", "How much does it cost to dine at Cafes?", "Can you tell me the menu prices at Cafes?", "Is Cafes expensive or affordable?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Cafes":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of a cup at ZUS Coffee?", 
+             "How much does it cost to order a drink at ZUS Coffee?",
+             "Is ZUS Coffee expensive compared to other cafes?",
+             "Can I get a budget-friendly meal at ZUS Coffee?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"ZUS Coffee": "restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of menu items at Lakefront Cafe?", 
+            "How much does it cost to eat at Lakefront Cafe?",
+            "Is Lakefront Cafe's food affordable?",
+            "Can I get a budget-friendly meal at Lakefront Cafe?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Lakefront Cafe":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["How much does a cup of coffee cost at Cotti Coffee?", 
+             "What is the price range for meals at Cotti Coffee?",
+             "Is Cotti Coffee affordable compared to other restaurants?",
+             "Do you know how much a breakfast set costs at Cotti Coffee?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Cotti Coffee":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["What's the average price range of dishes at Bo Ya Xuan Restaurant?", 
+            "How much does it cost to eat at Bo Ya Xuan Restaurant on a daily basis?",
+            "Is Bo Ya Xuan Restaurant expensive or is the price reasonable for its quality?",
+            "Can you give me an idea about the prices of their signature dishes at Bo Ya Xuan Restaurant?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Bo Ya Xuan Restaurant":"restaurant_name"} 
+  ]
+},
+{
+  "query": [
+    "How much does it cost to eat at SOI 55 THAI KITCHEN?",
+    "What is the average price range of a meal at SOI 55 THAI KITCHEN?",
+    "Is SOI 55 THAI KITCHEN affordable for students on a budget?",
+    "Can you tell me about the pricing menu for SOI 55 THAI KITCHEN?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"SOI 55 THAI KITCHEN": "restaurant"}
+  ]
+},
+{
+  "query": ["How much does it cost to dine at 麻辣诱惑?", "What's the price range of meals at 麻辣诱惑 restaurant?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"麻辣诱惑":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of dishes at Secret Recipe?", "How much does a meal cost at Secret Recipe restaurant?", "Is Secret Recipe affordable for a budget diner?", "Can I get a quote for Secret Recipe's menu items?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Secret Recipe": "restaurant"}
+  ]
+},
+{
+  "query": ["What is the price of a plate of 啵啵鱼泡泡鸡 at PaoPao Pot?", 
+            "How much does a meal cost at 啵啵鱼泡泡鸡 restaurant?", 
+            "Is 啵啵鱼泡泡鸡 affordable?", 
+            "Can I get a budget-friendly meal at 啵啵鱼泡泡鸡?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"PaoPao Pot":"restaurant", "啵啵鱼泡泡鸡": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the price range of 沙县小吃?", "How much does it cost to dine at 沙县小吃?", "Is 沙县小吃 affordable for a student?", "Can I get a menu with prices at 沙县小吃?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"沙县小吃": "restaurant"}
+  ]
+},
+{
+  "query": ["What's the price of a bowl of 柳州传统螺蛳粉?", "How much does a meal cost at Monster Boba?", "Is 柳州传统螺蛳粉 expensive?", "What's the average price range for Monster Boba?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"柳州传统螺蛳粉":"restaurant_name", "Monster Boba":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of dishes in 颔渌渌GAN'S LOK LOK?", 
+            "How much does it cost to eat at 颔渌渌GAN'S LOK LOK?", 
+            "Is the food in 颔渌渌GAN'S LOK LOK affordable?", 
+            "What is the price of a typical meal in 颔渌渌GAN'S LOK LOK?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"颜渌渌GAN'S LOK LOK":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of 秀海福麻辣烫 menu?", "How much does a meal at 秀海福麻辣烫 cost?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"秀海福麻辣烫":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price of a bowl at 蜜雪冰城MIXUE?", "How much does a drink cost at 蜜雪冰城MIXUE?", 
+            "Can I get a menu with prices for 蜜雪冰城MIXUE?", "Are there any promotions or discounts available at 蜜雪冰城MIXUE?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"蜜雪冰城MIXUE":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the price of a latte at Starbucks?",
+    "How much does a meal cost at STARBUCKS restaurant?",
+    "Is STARBUCKS expensive compared to other restaurants?",
+    "Can you tell me the menu prices at 星巴克STARBUCKS?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"星巴克STARBUCKS":"restaurant_name"}
+  ]
+},
+{
+  "query": [
+    "How much does a meal cost at 食坊EatHami?",
+    "What is the average price of food at 食坊EatHami?",
+    "Is the food at 食坊EatHami expensive or cheap?",
+    "Can I get a menu with prices at 食坊EatHami?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"食坊EatHami": "restaurant_name"}
+  ]
+},
+{
+ "query": ["What is the price of a meal at 薮嘟嘟DU-DU POTATO?", 
+           "How much does it cost to eat at 薮嘟嘟DU-DU POTATO?", 
+           "Is the price at 薮嘟嘟DU-DU POTATO: expensive or affordable?", 
+           "What is the average cost of a dish at 薮嘟嘟DU-DU POTATO?"],
+ "intent": "ask_restaurant_price",
+ "entities": [
+   {"薮嘟嘟DU-DU POTATO:": "restaurant"}
+ ]
+},
+{
+  "query": ["How much does it cost to eat at 蜀都风味?", "What's the price range of 蜀都风味 restaurant?", "Can I get a menu with prices for 蜀都风味?", "Is 蜀都风味 expensive or affordable?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"蜀都风味":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the price range of three thousand feet high restaurant?",
+    "How much does it cost to dine at three thousand feet high restaurant?",
+    "Can you tell me the pricing menu for three thousand feet high the flows gourmet?",
+    "Is three thousand feet high the flows gourmet restaurant expensive?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"三千尺The Flows Gourmet":"restaurant_name"}
+  ]
+},
+{
+  "query": [
+    "How much does a meal cost at SITRUS?",
+    "What's the price range of dishes at SITRUS restaurant?",
+    "Is SITRUS affordable for students on budget?",
+    "Do they have any discounts or promotions available at SITRUS?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"SITRUS":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does a meal cost at 陕西面馆?",
+    "What is the price range of dishes at 陕西面馆?",
+    "Can I get a menu with prices for 陕西面馆?",
+    "Is it expensive to eat at 陕西面馆?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"陕西面馆":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "What is the price range of Nasi Kandar Al-Hajeera's meals?",
+    "How much does it cost to eat at Nasi Kandar Al-Hajeera restaurant?",
+    "Can you tell me about Nasi Kandar Al-Hajeera's affordable dishes?",
+    "What's the average price per meal at Nasi Kandar Al-Hajeera?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Nasi Kandar Al-Hajeera": "restaurant_name"}
+  ]
+},
+{
+  "query": ["How much is the price of chicken at 鸡公煲 restaurant?", "What are the prices of dishes at 鸡公煲?", "Is the food at 鸡公煲 expensive?", "Can I get a menu with prices from 鸡公煲?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"鸡公煲":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does it cost to eat at 54 Thai Mookata?",
+    "What is the price range of meals at 54 Thai Mookata restaurant?",
+    "Is 54 Thai Mookata expensive?",
+    "Can I get a bill for the food at 54 Thai Mookata?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"54 Thai Mookata": "restaurant"}
+  ]
+},
+{
+  "query": ["How much does it cost to eat at 茶餐室?", "What's the price range of dishes in 茶餐室?", "Is 茶餐室 expensive?", "How much will I pay for a meal at 茶餐室?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"茶餐室":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does a sundae cost at Baskin-Robbins?",
+    "What is the price range of ice cream cones at Baskin-Robbins?",
+    "Can I get a discount on a bucket of ice cream from Baskin-Robbins?",
+    "Is it true that Baskin-Robbins has affordable prices for their sundaes?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Baskin-Robbins":"restaurant_name"} 
+  ]
+},
+{
+  "query": ["How much does it cost to eat at 串串店？", "What is the price range of 串串店's dishes?", "How expensive is 串串店's food?", "Can you tell me the prices of 串串店's menu?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"串串店？":"restaurant"}
+  ]
+},
+{
+  "query": ["What's the price range at Q Event Space?", "How much does it cost to dine at Q Event Space?", 
+            "What are the prices like at Q Event Space restaurant?", "Is Q Event Space affordable for a meal?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Q EVENT SPACE": "restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does a plate of big bear snail noodles cost?",
+    "What's the price range for Big Bear Snail Noodle at lunchtime?",
+    "Is Big Bear Snail Noodles expensive?",
+    "How much would I pay for 大熊熊螺蛳粉 at dinner?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"大熊熊螺蛳粉":"restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range at Bing Dessert Cafe?", "How much does it cost to eat at Bing Dessert Cafe?", "Is Bing Dessert Cafe expensive?", "Can I afford to dine at Bing Dessert Cafe?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Bing Dessert Cafe": "restaurant"}
+  ]
+},
+{
+  "query": ["What is the price range of CHATTO meals?", "How much does a meal cost at CHATTO restaurant?", "Can you tell me the prices at CHATTO?", "Are the prices at CHATTO restaurant affordable?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"CHATTO":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does it cost to eat at KOPI SAIGON?",
+    "What is the price range of meals at KOPI SAIGON restaurant?",
+    "Is KOPI SAIGON expensive compared to other restaurants?",
+    "Can I get a budget-friendly meal at KOPI SAIGON?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"KOPI SAIGON":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does it cost to eat at GEPREK'ING Fried Chicken?",
+    "What is the price range of GEPREK'ING Fried Chicken menu?",
+    "Is GEPREK'ING Fried Chicken affordable?",
+    "Can I get a meal for under $10 at GEPREK'ING Fried Chicken?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"GEPREK'ING Fried Chicken":"restaurant"}
+  ]
+},
+{
+  "query": [
+    "How much does it cost to dine at Kafe Lazatnya?",
+    "What's the price range of a meal at Kafe Lazatnya restaurant?",
+    "How expensive is eating at Kafe Lazatnya?",
+    "Can you give me an estimate of the prices at Kafe Lazatnya?"
+  ],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"Kafe Lazatnya": "restaurant_name"} 
+  ]
+},
+{
+  "query": ["What is the price range of dishes in 拾浮百世?", "How much does a meal cost at 拾浮百世?", "Is the food price at 拾浮百世 affordable?", "What's the average price per dish in 拾浮百世?"],
+  "intent": "ask_restaurant_price",
+  "entities": [
+    {"拾浮百世":"restaurant"}
+  ]
+}
+],
+"facility":[
+{
+  "query": ["Where is the location of Klinik Sunsuria Medical?", "How do I get to Klinik Sunsuria Medical?", "What are the directions to reach Klinik Sunsuria Medical?", "Can you please show me where Klinik Sunsuria Medical is located?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Klinik Sunsuria Medical": "facility"}
+  ]
+},
+{
+  "query": ["Where is Klinik Cosmomedic located?", "Can you tell me how to get to Klinik Cosmomedic?", "I'm looking for the address of Klinik Cosmomedic, do you have it?", "How do I reach Klinik Cosmomedic from here?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"KLINIK COSMOMEDIC":"facility"}
+  ]
+},
+{
+  "query": ["Where is the supermarket located on campus?", "How do I get to the student supermarket from my dorm?", "What are the operating hours of the supermarket near our library?", "Can you tell me the location of the faculty supermarket?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Supermarket":"facility"}
+  ]
+},
+{
+  "query": ["Where is the ATM located on campus?", "I am looking for a machine on campus, where can I find an ATM?" , "Can you tell me the location of the nearest cash machine?", "How do I get to the automatic teller machine from the library?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"ATM": "facility"}
+  ]
+},
+{
+  "query": ["Where is the IELTS Office located?", "Can you direct me to the IELTS Office building?", "I need to find the location of the IELTS Office on campus.", "How do I get to the IELTS Office from here?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"IELTS Office":"facility"}
+  ]
+},
+{
+  "query": ["Where is the yoga room located?", "Can you direct me to the yoga facility?", "How do I get to the yoga room on campus?", "What is the address of the yoga facility?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Yoga Room":"facility"}
+  ]
+},
+{
+  "query": [
+    "Where is the Traditional Chinese Medicine Clinic located?",
+    "How do I get to the Traditional Chinese Medicine Clinic facility from here?",
+    "What are the directions to the Traditional Chinese Medicine Clinic location?",
+    "Can you give me the address of the Traditional Chinese Medicine Clinic building?"
+  ],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Traditional Chinese Medicine Clinic":"facility"}
+  ]
+},
+{
+  "query": ["Where is the ENT clinic located?", "How can I get to the cardiology facility?", "What are the directions to the eye clinic?", "Can you tell me where the dental clinic is?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Clinic":"facility"}
+  ]
+},
+{
+  "query": ["Where is the Maintenance Office located?", "Can you show me the location of the Maintenance Office on the map?", "How do I get to the Maintenance Office from here?", "What are the directions to reach the Maintenance Office?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Maintenance Office":"facility"}
+  ]
+},
+{
+  "query": ["Where is the Admissions Office located?", "How do I get to the Admissions Office?", "Can you tell me where the Admissions Office building is?", "What is the address of the Admissions Office facility?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Admissions Office":"facility"}
+  ]
+},
+{
+  "query": ["Where is the basketball court located?", "Can you direct me to the football field?", "I am looking for the volleyball area, where is it?", "How do I get to the tennis courts?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Sports Fields":"facility"}
+  ]
+},
+{
+  "query": ["Where is the stadium located on campus?", "What are the directions to get to the stadium?", "Can you show me where the stadium building is?", "How do I get to the facility from my dorm?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Stadium":"facility"}
+  ]
+},
+{
+  "query": ["Where is the swimming pool located on campus?", "Can you show me the location of the swimming pool facility?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Swimming Pool": "facility"}
+  ]
+},
+{
+  "query": ["Where is the university gym located?", "What are the directions to get to the campus fitness center?", "How do I find the nearest gym on campus?", "Can you tell me the address of the university recreation center?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Gym":"facility"}
+  ]
+},
+{
+  "query": ["Where is the infirmary located on campus?", "Can you tell me how to get to the infirmary building?", "I'm looking for the location of the infirmary, can someone help?", "How do I find the infirmary in this university?" ],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Infirmary":"facility"}
+  ]
+},
+{
+  "query": ["Where is the badminton court located?", "Can you show me where the badminton facility is?", "How do I get to the badminton court?", "What's the location of the badminton facilities on campus?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Badminton Court":"facility"}
+  ]
+},
+{
+  "query": ["Where is the nearest teaching building?", "How do I find the location of the teaching building on campus?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Teaching Building":"facility"}
+  ]
+},
+{
+  "query": ["Where is the library located on campus?", "Can you tell me how to get to the library?", "I'm trying to find the library, can you help me with directions?", "How do I locate the library from here?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Library":"facility"}
+  ]
+},
+{
+  "query": ["Where is the location of food facility?", "How can I get to the cafeteria on campus?", "What are the directions to the school cafeteria?", "Where is the dining hall located in this university?"],
+  "intent": "ask_facility_location",
+  "entities": [
+    {"Cafe": "facility"}
+  ]
+},
+{
+  "query": ["What is the visiting time of Klinik Sunsuria Medical?", 
+            "At what hours can I visit Klinik Sunsuria Medical?",
+            "When does Klinik Sunsuria Medical open for patients?",
+            "During which times can I meet a doctor at Klinik Sunsuria Medical?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Klinik Sunsuria Medical":"facility"}
+  ]
+},
+{
+  "query": ["What is the opening hours of KLINIK COSMOMEDIC?", "How late is KLINIK COSMOMEDIC open tonight?", "What time does KLINIK COSMOMEDIC close on weekends?", "Can I visit KLINIK COSMOMEDIC after 5pm?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"KLINIK COSMOMEDIC":"facility"}
+  ]
+},
+{
+  "query": ["What time does the supermarket open today?", "When does the supermarket close tonight?", 
+            "How late is the supermarket open on weekends?", "At what time does the supermarket usually stop selling?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Supermarket":"facility"}
+  ]
+},
+{
+  "query": ["What are the operating hours of the dining area?", "When is the dining area open?", "How long is the dining area open each day?", "At what time does the dining area usually close?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Dining Area":"facility"}
+  ]
+},
+{
+  "query": ["What are the operating hours of the ATM near me?", "When is the nearest ATM open on a Sunday?" , "How late does the ATM at the corner open?", "At what time do the ATMs in the university area start operating?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"ATM":"facility"}
+  ]
+},
+{
+  "query": ["What are the operating hours of IELTS Office?", "When does IELTS Office open for students?", "How late is IELTS Office open on weekends?", "At what time does IELTS Office close during summer break?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"IELTS Office": "facility"}
+  ]
+},
+{
+  "query": ["What are the yoga class timings at the Yoga Room?", "When do yoga classes take place in the Yoga Room?", "At what time does the Yoga Room conduct yoga sessions?", "Can you tell me the schedule for yoga classes held in the Yoga Room?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Yoga Room": "facility"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of Traditional Chinese Medicine Clinic?",
+    "How late is Traditional Chinese Medicine Clinic open?",
+    "When does Traditional Chinese Medicine Clinic start its working day?",
+    "Is Traditional Chinese Medicine Clinic open on weekends?"
+  ],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Traditional Chinese Medicine Clinic":"facility"}
+  ]
+},
+{
+  "query": ["What are the operating hours of the clinic?", "When is the best time to visit the medical facility?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Clinic": "facility"}
+  ]
+},
+{
+  "query": ["What are the maintenance office hours?", "When is the maintenance office open today?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Maintenance Office":"facility"}
+  ]
+},
+{
+  "query": ["What are the office hours of the Admissions Office?", "When does the Admissions Office open?", "Are the Admissions Office facilities available on weekends?", "During what time slot can I visit the Admissions Office?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Admissions Office":"facility"}
+  ]
+},
+{
+  "query": ["What time is the swimming pool open today?", "When does the football field close at night?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Sports Fields":"facility"}
+  ]
+},
+{
+  "query": ["What are the opening hours of the swimming pool?", "When does the swimming pool open to students?", "Can I use the swimming pool on weekends?", "What time is the swimming pool available for faculty members?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Swimming Pool": "facility"}
+  ]
+},
+{
+  "query": ["What are the operating hours of the gym?", "When is the fitness center open?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Gym": "facility"}
+  ]
+},
+{
+  "query": ["What are the visiting hours of the Infirmary?", "When is the best time to visit the Infirmary for a medical check-up?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Infirmary":"facility"}
+  ]
+},
+{
+  "query": [
+    "What is the operating hours of Badminton Court?",
+    "When is Badminton Court open to students?",
+    "Can I play badminton at Badminton Court on weekends?",
+    "At what time does Badminton Court close?"
+  ],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Badminton Court": "facility"}
+  ]
+},
+{
+  "query": ["What are the opening hours of the Teaching Building?", "When does the Teaching Building open?", "Is the Teaching Building open now?", "How late is the Teaching Building open on weekdays?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Teaching Building":"facility"}
+  ]
+},
+{
+  "query": ["What are the library hours on Saturday?", "When does the library close on weekdays?", "How long is the library open on Sundays?", "At what time does the library open for students?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Library":"facility"}
+  ]
+},
+{
+  "query": ["What are the opening hours of the on-campus cafe?", "How long is the cafe open today?", "When does the cafe usually close?", "At what time does the on-campus cafe start serving?"],
+  "intent": "ask_facility_time",
+  "entities": [
+    {"Cafe":"facility"}
+  ]
+},
+{
+  "query": [
+    "What facilities does Klinik Sunsuria have?",
+    "Are there any parking facilities available at Klinik Sunsuria?",
+    "Does Klinik Sunsuria have any waiting area for patients?",
+    "Is there a pharmacy available in Klinik Sunsuria?"
+  ],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Klinik Sunsuria Medical":"facility"}
+  ]
+},
+{
+  "query": ["What facilities does KLINIK COSMOMEDIC have?", "Are there any gyms at KLINIK COSMOMEDIC?", "Does KLINIK COSMOMEDIC offer any parking spaces?", "Is there a swimming pool in KLINIK COSMOMEDIC?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"KLINIK COSMOMEDIC": "facility"}
+  ]
+},
+{
+  "query": ["What is the dining area of this hotel?", "Can you tell me more about the facilities in the dining area?", "Are there any facilities available near the dining area?", "What kind of services are provided in the hotel's dining area?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Dining Area": "facility"}
+  ]
+},
+{
+  "query": ["What facilities does this ATM have?", "Is there a deposit facility in this ATM?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"ATM": "facility"}
+  ]
+},
+{
+  "query": [
+    "What facilities are available at IELTS Office?",
+    "Are there any accommodations nearby to IELTS Office?",
+    "Does IELTS Office have parking spaces for students?",
+    "Is IELTS Office wheelchair accessible?"
+  ],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"IELTS Office":"facility"}
+  ]
+},
+{
+  "query": ["What are the facilities provided in the yoga room?", "Does the yoga room have air conditioning?", "Is there a yoga room with mirrors available?", "Are the yoga rooms equipped with sound systems?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Yoga Room":"facility"}
+  ]
+},
+{
+  "query": [
+    "What are the opening hours of TCM clinic in school?",
+    "How to reach Traditional Chinese Medicine Clinic in campus?",
+    "Is Traditional Chinese Medicine Clinic open on weekends?",
+    "Where is Traditional Chinese Medicine Clinic located in school?"
+  ],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Traditional Chinese Medicine Clinic":"facility"}
+  ]
+},
+{
+  "query": ["What facilities does the dental clinic have?", "Can I find a dental chair at this clinic?", "Does this clinic offer X-ray services?", "Are there any wheelchair-accessible rooms in the clinic?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Clinic":"facility"}
+  ]
+},
+{
+  "query": ["What facilities are available at the Maintenance Office?", "Can I rent a bike from the Maintenance Office?", 
+    "Where is the maintenance office located on campus?", "Are there any showers or lockers available at the Maintenance Office?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Maintenance Office":"facility"} 
+  ]
+},
+{
+  "query": ["What facilities does the Admissions Office have?", "Are there any accessibility features at the Admissions Office location?", "Can I get a list of available services from the Admissions Office?", "Does the Admissions Office provide assistance for students with disabilities?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Admissions Office": "facility"}
+  ]
+},
+{
+  "query": ["What are the available facilities in the University sports fields?", "Can I book the sports fields facility for an event?", "How do I access the parking area near the sports fields facility?", "Is there a canteen or cafeteria service available at the Sports Fields:facility?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Sports Fields:facility":"sports_fields"}
+  ]
+},
+{
+  "query": ["What facilities are available at Bukit Jalil Stadium?", "Are there any lockers available at Stadium Merdeka?", "Can I find a gym at Stadium Negara?", "What is the nearest ATM to Kelana Jaya Stadium?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Stadium":"facility"}
+  ]
+},
+{
+  "query": ["What facilities does the hostel have?", "Is there a swimming pool in the student dormitory?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Swimming Pool":"facility"}
+  ]
+},
+{
+  "query": ["What facilities does the university gym provide?", "Can I use my university ID to access the gym's facilities?", "Are there any specific hours when the university gym is available for students?", "Does the university gym have a locker room and shower facilities?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Gym": "facility"}
+  ]
+},
+{
+  "query": ["What facilities are available at the campus infirmary?", "Can I get information about the medical equipment in the infirmary?", "Are there any health services offered by the infirmary on campus?", "How do I access the Infirmary's first aid kit?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Infirmary": "facility"}
+  ]
+},
+{
+  "query": ["What facilities does the university have?", "Where is the badminton court located in the campus?", "Does the university have a badminton court?", "Are there any badminton courts available for students to use?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Badminton Court":"facility"}
+  ]
+},
+{
+  "query": ["What facilities are available in Teaching Building?", "I need to know about the amenities of Teaching Building.", "Can you tell me more about the facilities offered by Teaching Building?", "What kind of facilities does Teaching Building have?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Teaching Building":"facility"}
+  ]
+},
+{
+  "query": ["What facilities are available at the University Library?", "I need to know more about the resources offered by the Main Library.", "Can you provide a list of services provided by the Central Library?", "How do I access the amenities at our campus library?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Library:facility":"library_name"} 
+  ]
+},
+{
+  "query": ["What facilities does Cafe offer?", "Can I access Wi-Fi at Cafe?", "Are there power outlets available at Cafe?", "Does Cafe have a parking lot?"],
+  "intent": "ask_facility_info",
+  "entities": [
+    {"Cafe": "facility"}
+  ]
+}
+],
+"building":[
+{
+  "query": ["Where is the B1 Activity Building?", "How to get to the B1 Activity Building?", "What is the location of the B1 Activity Building?", "Can you tell me where B1 Activity Building is?" ],
+  "intent": "ask_building_location",
+  "entities": [
+    {"B1 Activity Building":"building_name"} 
+  ]
+},
+{
+  "query": ["where is A Zone?", "how to go to A Zone teaching buildings?", "what are the directions to A Zone building?", "can you tell me where A Zone teaching buildings located?"],
+  "intent": "ask_building_location",
+  "entities": [
+    {"A Zone Teaching Buildings": "building"}
+  ]
+},
+{
+  "query": ["Where is the location of Block LY Buildings?", "How do I get to Block LY Buildings?", "Can you tell me where Block LY Buildings is located?", "What is the address of Block LY Buildings?"],
+  "intent": "ask_building_location",
+  "entities": [
+    {"Block LY Buildings":"building"}
+  ]
+},
+{
+  "query": ["Where is the location of Block D?", "How do I get to Block D Buildings?", "Can you show me the map of Block D?", "What is the address of Block D Buildings?"],
+  "intent": "ask_building_location",
+  "entities": [
+    {"Block D Buildings":"building"}
+  ]
+},
+{
+  "query": ["Where is the XMUM IAEC building located?", "Can you tell me how to get to the XMUM IAEC building?", "I'm looking for the XMUM IAEC building, can you direct me there?", "What are the directions to the XMUM IAEC building?"],
+  "intent": "ask_building_location",
+  "entities": [
+    {"XMUM IAEC": "building"}
+  ]
+},
+{
+  "query": ["What facilities are available at B1 Activity Building?", "Can I find a gym in B1 Activity Building?", "Does B1 Activity Building have a library?", "Are there any food outlets inside B1 Activity Building?"],
+  "intent": "ask_building_include",
+  "entities": [
+    {"B1 Activity Building": "building_name"} 
+  ]
+},
+{
+  "query": ["Is Block LY Building available?", "Does Block LY Building have a gym?"],
+  "intent": "ask_building_include",
+  "entities": [
+    {"Block LY Buildings":"building"}
+  ]
+},
+{
+  "query": ["What facilities are available in Block D?", "Which Block D buildings have a cafeteria?" , "Are there any recreational facilities in Block D?", "Which building in Block D has a library?"],
+  "intent": "ask_building_include",
+  "entities": [
+    {"Block D Buildings":"building"}
+  ]
+},
+{
+  "query": ["Is there an incubation center in building XMUM IAEC?", 
+             "Which department of UTeM is located inside building XMUM IAEC?",
+            "Where can i find the IAEC lab in building XMUM IAEC?", 
+            "Does building XMUM IAEC have any research facilities?"],
+  "intent": "ask_building_include",
+  "entities": [
+    {"XMUM IAEC":"building"} 
+  ]
+}
+],
+"handbook":[
+{
+  "query": ["What are the birthday cake recommendations in our university's handbook?", "Can you provide me with information on birthday cakes from the university handbook?", "I need to know the birthday cake ideas mentioned in our university's handbook.", "What does the university handbook say about birthday cake suggestions?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Birthday Cake Recommendations:handbook":"handbook_section"}
+  ]
+},
+{
+  "query": ["What are the operating hours of the On-Campus Clinics?", "Where can I find information about the services offered by On-Campus Clinics?", "Can I get a list of the doctors available at the On-Campus Clinics?", "How do I access the handbook for the On-Campus Clinics?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"On-Campus Clinics": "handbook"}
+  ]
+},
+{
+  "query": ["What is the location of Clinic A handbook?", 
+            "Where can I find the Clinic A handbook in the TCM Center?",
+            "Is there a digital version of Clinic A handbook available?",
+            "How do I access the Clinic A (Behind the TCM Center) handbook?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Clinic A (Behind the TCM Center)":"clinic_name"} 
+  ]
+},
+{
+  "query": ["What is mentioned about Clinic B in the handbook?", "Can I find the location of Clinic B on the handbook map?", "Are there any important dates for Clinic B in the handbook?", "Is the contact information of Clinic B available in the student handbook?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Clinic B (Top Floor of B1)": "handbook"}
+  ]
+},
+{
+  "query": [
+    "What is included in the handbook of AskA User Guide?",
+    "Can you provide me with information about AskA User Guide's handbook?",
+    "I'd like to know what topics are covered in the handbook for AskA User Guide.",
+    "Where can I access the handbook for AskA User Guide?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"AskA User Guide:handbook":"handbook_name"}
+  ]
+},
+{
+  "query": [
+    "What is the handbook for cashless payment in XMUM?",
+    "Can you provide me with information about cashless payment guide in XMUM student handbook?",
+    "Where can I find the guidelines on cashless payment system in XMUM's handbook?",
+    "I need to know more about the rules of cashless payment as stated in the XMUM student handbook"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Cashless Payment Guide (XMUM):handbook":"handbook"}
+  ]
+},
+{
+  "query": ["What are the health services available in XMUM handbook?", 
+            "How to find information about wellness programs in XMUM's student handbook?",
+            "Is there a section on mental health support in XMUM handbook?",
+            "Where can I access details about medical facilities in XMUM's student handbook?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Health & Wellness Services": "handbook_section"}
+  ]
+},
+{
+  "query": [
+    "Where can I find the guide to booking a study room in the library?",
+    "How do I reserve a study space in the library according to their handbook?",
+    "What are the steps to book a library study room as per the library's handbook?",
+    "Can you provide information on how to schedule a study room using the library's handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Library Study Room Booking Guide:handbook":"handbook"}
+  ]
+},
+{
+  "query": [
+    "Where can I find the handbook for KTV Near XMUM in Xiamen University Malaysia?",
+    "I need to access the KTV Near XMUM's handbook, where is it located?",
+    "Can anyone provide me with a link or location of the KTV Near XMUM handbook?",
+    "How do I get hold of the KTV Near XMUM handbook for Xiamen University Malaysia?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"KTV Near XMUM:handbook":"handbook_name"} 
+  ]
+},
+{
+  "query": [
+    "Where can I find information about bicycle parking in this campus?",
+    "What is the location of the handbook that explains bicycle parking guidelines on campus?",
+    "Can anyone tell me where to find the guide for bicycle parking on our university grounds?",
+    "Is there a handbook or manual available for users who want to park their bicycles safely on this campus?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Bicycle Parking Guide:handbook": "handbook"}
+  ]
+},
+{
+  "query": [
+    "What are the operating hours of milk tea shops near Xiamen University Malaysia?",
+    "How to find milk tea shops around Xiamen University Malaysia in the handbook?",
+    "Are there any promotions offered by milk tea shops near XMUM mentioned in the handbook?",
+    "Can I get a list of milk tea shops located near XMUM from the university handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Milk Tea Shops Near XMUM:handbook": "location"}
+  ]
+},
+{
+  "query": ["What are the types of classrooms available in XMUM handbook?", 
+              "Can you provide information about the classroom types listed in XMUM's student handbook?",
+              "How many different classroom types can I find in XMUM's official handbook?",
+              "Where in the XMUM student handbook can I find details on the different classroom types?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Classroom Types at XMUM:handbook":"classroom_type"}
+  ]
+},
+{
+  "query": [
+    "What is the table of contents of the handbook?",
+    "Can I get a copy of the university handbook online?",
+    "How to access the handbook for students?",
+    "Where can I find the latest edition of the university handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Search for Books in the Library:handbook":"handbook"}
+  ]
+},
+{
+  "query": ["Where is the library handbook with information on book locations?", "Can you show me the handbook that contains the list of books available in the library?", "I am looking for a handbook that provides details about locating specific books within the library.", "What is the name of the handbook that has information on where to find certain books in the library?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Library:handbook": "handbook_name"}
+  ]
+},
+{
+  "query": [
+    "What is the availability of handbook in the library via computer?",
+    "How to access handbook in Print in the Library (via Computer) online?",
+    "Is the handbook in Print in the Library (via Computer) available digitally?",
+    "Can I find the handbook for Print in the Library (via Computer) on the college website?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"handbook": "handbook", "Print in the Library (via Computer)": "library"}
+  ]
+},
+{
+  "query": [
+    "Where can I find the handbook for printing from my laptop via USB in the library?",
+    "How do I access the handbook for printing documents using a USB drive in the library's computer labs?",
+    "Can someone help me with the steps to print from my USB drive on one of the computers in the library?",
+    "What are the guidelines mentioned in the library's handbook for printing files from a USB device?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"handbook": "handbook"}
+  ]
+},
+{
+  "query": ["What is the content of the Scan in the Handbook?", 
+            "How can I find the chapter on Scan in the library handbook?",
+            "Is the information about Scan in the library handbook up-to-date?",
+            "Can you provide me with a link to the handbook that includes information about Scan?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Scan":"handbook_section"}
+  ]
+},
+{
+  "query": ["How do I request a refund for self-service printing from my handbook?", 
+    "Can I get a refund for handbook printing costs?",
+    "What is the process to request a refund for self-service printing from my university handbook?",
+    "Am I eligible for a refund on self-service printing costs stated in my handbook?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Request a Refund for Self-Service Printing:handbook":"handbook_section"}
+  ]
+},
+{
+  "query": [
+    "What information can I find about using laundry machines in the handbook?",
+    "Can you provide me with details on how to operate drying machines from the student handbook?",
+    "I am looking for the section in the handbook that explains how to use the laundry facilities. Where is it located?",
+    "Are there any specific guidelines or recommendations for washing and drying clothes using the machines mentioned in the student handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Use Laundry and Drying Machines:handbook": "handbook"}
+  ]
+},
+{
+  "query": [
+    "Where can I find information on how to use the Shoe Washing Machine in the handbook?",
+    "Can you show me where the instructions for using the Shoe Washing Machine are located in the handbook?",
+    "I need help finding the operating manual for the Shoe Washing Machine in our school's handbook.",
+    "How do I access the user guide for the Shoe Washing Machine from the school's digital handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Shoe Washing Machine": "handbook"}
+  ]
+},
+{
+  "query": [
+    "What is the use of Dry Cleaning Service in handbook?",
+    "Can you provide more details about Dry Cleaning Service from handbook?",
+    "How to use Dry Cleaning Service according to handbook guidelines?",
+    "Are there any specific instructions for using Dry Cleaning Service as per handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Use Dry Cleaning Service:handbook": "handbook_section"}
+  ]
+},
+{
+  "query": [
+    "Where can I find information about using ATMs on campus?",
+    "How do I withdraw money using a campus ATM?",
+    "What are the instructions for withdrawing cash at a university ATM?",
+    "I'm having trouble finding the handbook section on accessing campus ATMs, can someone help me?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Withdraw Money from an ATM on Campus:handbook":"campus_resource"}
+  ]
+},
+{
+  "query": [
+    "Where can I find information on the locations of vending machines across campus in the student handbook?",
+    "How do I access a map of coffee shop locations from the student handbook?",
+    "What are the locations of all the coffee machines and cafes listed in the student handbook?",
+    "Can you tell me where to find more information about vending machine locations as per the student handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Campus Coffee Shops":"handbook_section"},
+    {"Coffee Machines":"handbook_section"},
+    {"Vending Machine Locations:handbook": "handbook_section"}
+  ]
+},
+{
+  "query": [
+    "What is the handbook policy on sharing campus id handbook?",
+    "How do i access my campus id handbook online using school email?",
+    "Can you provide more information about the contents of the campus id handbook with regards to school email usage?",
+    "Is there a procedure for requesting a replacement handbook if mine is damaged, and where do i submit the request from my school email account?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"School Email": "school_email"},
+    {"Campus ID:handbook": "campus_id"}
+  ]
+},
+{
+  "query": [
+    "What are the course timings in the handbook?",
+    "Can you provide me with information on viewing the timetable in the university handbook?",
+    "How do I access the course schedule from the handbook?",
+    "Where can I find the academic calendar for this semester in the student handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"View Timetable:handbook":"view_timetable"}
+  ]
+},
+{
+  "query": ["Where can I find the handbook for course registration?", "What is the procedure for course registration as per the handbook?", "I am unable to find the course registration handbook, where can I get it from?", "Can you guide me through the course registration process as mentioned in the handbook?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Course Registration:handbook":"handbook"}
+  ]
+},
+{
+  "query": [
+    "What is the course retake policy for handbook?",
+    "How many times can I resit a course according to the handbook?",
+    "Can you provide information on resitting a course as per the handbook guidelines?",
+    "What are the rules and regulations regarding course re-takes as mentioned in the handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Course Retake (Resit):handbook": "topic"}
+  ]
+},
+{
+  "query": [
+    "What is the attendance policy as per university handbook?",
+    "How many leaves can I take as per leave policy in handbook?",
+    "Can you provide information on attendance rules from the student handbook?",
+    "What are the rules and regulations for leave as mentioned in the university handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Attendance":"handbook", "Leave:handbook":"handbook"}
+  ]
+},
+{
+  "query": [
+    "What are the changes in public holiday rescheduling according to the handbook?",
+    "Can you provide information about the recent updates on handbook regarding public holidays?",
+    "How does the new public holiday rescheduling policy affect employees as per the company handbook?",
+    "Are there any amendments to the public holiday rescheduling section in the employee handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Public Holiday Rescheduling:handbook": "handbook_section"}
+  ]
+},
+{
+  "query": ["What information can be found in the exam handbook?", "Where can I access the exam guide handbook?", "Is there a digital version of the exam handbook available?", "Can you provide me with some details about the exam handbook content?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Exam Guide:handbook":"handbook"}
+  ]
+},
+{
+  "query": ["How do I contact instructors listed in the handbook?", "Who are the instructors that can be reached through the student handbook?", "Is there a list of instructors and their contact information in the handbook?", "Can you provide me with the instructor contact details mentioned in the student handbook?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Instructors:handbook": "Contact"}
+  ]
+},
+{
+  "query": [
+    "What does the student feedback say about the course handbook?",
+    "Can you show me some information from the student reviews on the course handbook?",
+    "I want to know what students think about the course handbook. Where can I find that info?",
+    "How do other students rate the usefulness of the course handbook in this program?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Course Evaluation (Student Feedback):handbook":"course_evaluation"}
+  ]
+},
+{
+  "query": [
+    "What are the major transfer procedures as per the handbook?",
+    "Can you provide information on transferring majors based on the university's handbook guidelines?",
+    "How do I follow the major transfer process according to the handbook document?",
+    "What are the step-by-step procedures for changing majors as mentioned in the handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Major Transfer Procedures:handbook": "handbook"}
+  ]
+},
+{
+  "query": ["Where can I find the contact details in the student handbook?", "What is the email address mentioned in the university handbook?", "Can you provide me with the phone number listed in the handbook?", "How do I get in touch with the university using the information provided in the student handbook?"],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Contact Information:handbook":"contact_information"}
+  ]
+},
+{
+  "query": [
+    "What are the clubs and societies available at XMUM?",
+    "Can I join any club or society at XMUM handbook?",
+    "How many clubs and societies are listed in the XMUM student handbook?",
+    "Are there any new clubs and societies introduced in this year's XMUM handbook?"
+  ],
+  "intent": "ask_handbook_info",
+  "entities": [
+    {"Clubs and Societies at XMUM:handbook": "clubs_societies"}
+  ]
+}
+]
+}

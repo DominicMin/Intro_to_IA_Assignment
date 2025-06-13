@@ -15,9 +15,9 @@
       "AHIMSA YOGA",
       "SENZE CAFF"
     ],
-    "business_location",
-    "business_time",
-    "business_info"
+    "ask_business_location",
+    "ask_business_time",
+    "ask_business_info"
   ],
   "restaurant":[
       ["夏1城",
@@ -89,10 +89,10 @@
       "Kafe Lazatnya",
       "拾浮百世"
     ],
-    "restaurant_location",
-    "restaurant_time",
-    "restaurant_recommendation",
-    "restaurant_price"
+    "ask_restaurant_location",
+    "ask_restaurant_time",
+    "ask_restaurant_recommendation",
+    "ask_restaurant_price"
   ],
   "facility":[
     [
@@ -117,9 +117,9 @@
       "Library",
       "Cafe"
     ],
-    "facility_location",
-    "facility_time",
-    "facility_info"
+    "ask_facility_location",
+    "ask_facility_time",
+    "ask_facility_info"
   ],
   "building":[
     [
@@ -129,8 +129,8 @@
       "Block D Buildings",
       "XMUM IAEC"
     ],
-    "building_location",
-    "building_include"
+    "ask_building_location",
+    "ask_building_include"
   ],
   "handbook":[
     [
@@ -170,6 +170,6 @@
     "Contact Information",
     "Clubs and Societies at XMUM"
     ],
-    "handbook_info"
+    "ask_handbook_info"
   ]
 }
