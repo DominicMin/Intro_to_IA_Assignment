@@ -1,0 +1,708 @@
+{
+"business":[
+{
+  "query": ["Where is KK便利店 located?", "Can I buy snacks at KK便利店?", "What are the operating hours of KK便利店?"],
+  "entities": [
+    {"entity_text": "KK便利店", "entity_label": "business_name"}
+  ]
+},
+{
+  "query": ["What is the phone number of KIMS SALON?", "I am looking for a haircut at KIMS SALON.", "Does KIMS SALON offer any discounts on weekends?"],
+  "entities": [
+    {"entity_text": "KIMS SALON", "entity_label": "business_name"}
+  ]
+},
+{
+  "query": ["What is the opening time of 7-11便利店?", "I need to buy milk at 7-11便利店 tomorrow.", "Can you tell me where 7-11便利店 is located on campus?"],
+  "entities": [
+    {"entity_text": "7-11便利店", "entity_label": "business_name"}
+  ]
+},
+{
+    "query": ["Where is the nearest 迈利斯MILLIES VISION store?", "I want to try out the new frames at 迈利斯MILLIES VISION.", "What are the opening hours of 迈利斯MILLIES VISION in Shanghai?"],
+    "entities": [
+        {"entity_text": "迈利斯MILLIES VISION", "entity_label": "business_name"}
+    ]
+},
+{
+    "query": ["Can I buy notebooks at Hey Stationery?", "Where is Hey Stationery located on campus?", "What are the opening hours of Hey Stationery?", "I want to ask if Hey Stationery sells binders"],
+    "entities": [
+        {"entity_text": "Hey Stationery", "entity_label": "business_name"}
+    ]
+},
+{
+  "query": ["Where is THE GRIND located?", "Is THE GRIND open now?", "Can I reserve a table at THE GRIND?"],
+  "entities": [
+    {"entity_text": "THE GRIND", "entity_label": "business_name"}
+  ]
+},
+{
+    "query": ["I want to book a massage at DOBI SANTAI.", "What are the operating hours of DOBI SANTAI?", "Can I make a reservation at DOBI SANTAI for tonight?" ],
+    "entities": [
+        {"entity_text": "DOBI SANTAI", "entity_label": "business_name"}
+    ]
+},
+{
+  "query": ["Where is the Peoples Bookstore located?", "Is Peoples Bookstore open on weekends?", "Can I find English books at Peoples Bookstore?"],
+  "entities": [
+    {"entity_text": "人民书局", "entity_label": "business_name"}
+  ]
+},
+{
+  "query": ["I want to go to Real Peak Music store.", "What's the address of Real Peak Music?", "Do you know when Real Peak Music will have a sale?"],
+  "entities": [
+    {"entity_text": "Real Peak Music", "entity_label": "business_name"}
+  ]
+},
+{
+  "query": ["What is the schedule for AHIMSA YOGA classes?", "Can I join a session of AHIMSA YOGA today?", "Where can I find more information about AHIMSA YOGA studio?"],
+  "entities": [
+    {"entity_text": "AHIMSA YOGA", "entity_label": "business_name"}
+  ]
+}
+],
+"restaurant":[
+{
+  "query": ["What's the menu of 夏1城?", "Can I order from 夏1城 for delivery?", "Where is 夏1城 located on campus?"],
+  "entities": [
+    {"entity_text": "夏1城", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the menu like at Tuk Tuk Thai&Taro?", "Can I make a reservation at Tuk Tuk Thai&Taro for tonight?", "How much does it cost to eat at Tuk Tuk Thai&Taro?", "Is Tuk Tuk Thai&Taro open on weekends?" ],
+  "entities": [
+    {"entity_text": "Tuk Tuk Thai&Taro", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What time does 大树下 open?", "Can we have a group dinner at 大树下?", "Is 大树下 still open?"],
+  "entities": [
+    {"entity_text": "大树下", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the menu at Let's Kopitiam?", "I love their dishes at Let's Kopitiam.", "Does Let's Kopitiam have any promotions?"],
+  "entities": [
+    {"entity_text": "Let's kopitiam", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the menu of Takw Mee Tarik?", "How is the food quality at Takw Mee Tarik?"],
+  "entities": [
+    {"entity_text": "Takw Mee Tarik", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where is everyone eating at 大家旺?", "I want to eat at 大家旺 tonight.", "What are the menu prices of 大家旺?"],
+  "entities": [
+    {"entity_text": "大家旺", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What time does 蜀之味 open?", "I want to try the noodles at 蜀之味", "Is 蜀之味 open on weekends?" ],
+  "entities": [
+    {"entity_text": "蜀之味", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where is the closest location of 大城小厨?", "I want to make a reservation at 大城小厨 for tonight", "What are the reviews about the food at 大城小厶?"],
+  "entities": [
+    {"entity_text": "大城小厨", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Can I have the menu of 华联好凉茶?", "Where is 华联好凉茶 located on campus?", "Is 华联好凉茶 open tomorrow?"],
+  "entities": [
+    {"entity_text": "华联好凉茶", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What's the address of 小云冰室?", "Is 小云冰室 open on weekends?", "Can you order from 小云冰室 online?"],
+  "entities": [
+    {"entity_text": "小云冰室", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the address of 大拇指?", "I am craving for food from 大拇指", "Where can I order 大拇指 food online?"],
+  "entities": [
+    {"entity_text": "大拇指", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where is 喵喵轻食 located?", "What time does 喵喵轻食 open?", "I want to eat at 喵喵轻食 tonight", "Can I make a reservation at 喵喵轻食?"],
+  "entities": [
+    {"entity_text": "喵喵轻食", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["I want to eat at 大碗面 tonight", "What is the address of 大碗面?", "Is 大碗面 open tomorrow?"],
+  "entities": [
+    {"entity_text": "大碗面", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["Where is U&I located?", "What time does U&I serve dinner?", "Can I make a reservation at U&I?"],
+    "entities": [
+        {"entity_text": "U&I", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["I want to try 小台枫's food", "What time does 小台枫 open?", "Is 小台枫 still open for dinner?"],
+  "entities": [
+    {"entity_text": "小台枫", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["I love the food at Restaurant Kabaabish", "What's good at Restaurant Kabaabish?", "Can I get a delivery from Restaurant Kabaabish?"],
+  "entities": [
+    {"entity_text": "Restaurant Kabaabish", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["What's the menu of B1 Canteen?", "Is B1 Canteen open now?"],
+    "entities": [
+        {"entity_text": "B1 Canteen", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["What are the menu items at Sapid?", "Is Sapid open on Friday evening?", "Can I make a reservation at Sapid?"],
+  "entities": [
+    {"entity_text": "Sapid", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["I want to make a reservation at Saffron Club", "Can I get the menu of Saffron Club?", "Is Saffron Club open for dinner?" ],
+  "entities": [
+    {"entity_text": "Saffron Club", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["I want to book a table at Regiustea皇茶", "What is the price of Regiustea皇茶's coffee?", "Is Regiustea皇茶 open on Sunday?"],
+  "entities": [
+    {"entity_text": "Regiustea皇茶", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["I want to order from Poke Bowl Rice tonight", "Is Poke Bowl Rice open on weekends?", "What is the delivery time for Poke Bowl Rice orders?"],
+  "entities": [
+    {"entity_text": "Poke Bowl Rice", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the menu of Zone U Bakery?", "I love the pastries at Zone U Bakery.", "Can I order from Zone U Bakery online?"],
+  "entities": [
+    {"entity_text": "Zone U Bakery", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the menu for LY3 Canteen?", "I want to go LY3 Canteen for dinner tonight.", "Can I reserve a table at LY3 Canteen for next Wednesday?"],
+  "entities": [
+    {"entity_text": "LY3 Canteen", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the menu of 中闽美食?", "How much does a meal at 中闽美食 cost?"],
+  "entities": [
+    {"entity_text": "中闽美食", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Can I get a refund for my order from Bean's Express?", "Is Bean's Express open on Sundays?", "I ordered food from Bean's Express but it was not delivered yet", "What is the menu at Bean's Express?"],
+  "entities": [
+    {"entity_text": "Bean's Express", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["I want to order from Mad Plate Express today", "Is Mad Plate Express open now?", "Can I cancel my order from Mad Plate Express?"],
+  "entities": [
+    {"entity_text": "Mad Plate Express", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where can I dine at 小九州?", "Is 小九州 open for dinner tonight?"],
+  "entities": [
+    {"entity_text": "小九州", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the menu like at 槟城风味?", "Can I make a reservation at 槟城风味?"],
+  "entities": [
+    {"entity_text": "槟城风味", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["What is the address of Chinese Muslim Sizzling Wok?", "Can I book a table at Chinese Muslim Sizzling Wok for tonight?", "I love their food, what time does Chinese Muslim Sizzling Wok open?"],
+    "entities": [
+        {"entity_text": "\u4e2d\u56fd\u6703\u661f\u5c0a\u7ecb", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["What is the phone number of Uni Hotpot?", "Where can I find Uni Hotpot in university area?", "I love Uni Hotpot, is it open for lunch today?"],
+  "entities": [
+    {"entity_text": "Uni Hotpot", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where are the Cafes on campus?", "What time do the Cafes close?", "Is there a list of Cafes near my dorm?"],
+  "entities": [
+    {"entity_text": "Cafes", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["I'm craving ZUS Coffee right now", "Is the ZUS Coffee cafe open today?", "Where is ZUS Coffee located on campus?"],
+  "entities": [
+    {"entity_text": "ZUS Coffee", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["Where is Lakefront Cafe located on campus?", "Can I reserve a table at Lakefront Cafe for tonight?", "Is Lakefront Cafe open for dinner tomorrow?"],
+    "entities": [
+        {"entity_text": "Lakefront Cafe", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["What is the menu of Cotti Coffee?", "Where can I find Cotti Coffee near campus?", "Is Cotti Coffee open for delivery tonight?"],
+  "entities": [
+    {"entity_text": "Cotti Coffee", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["I want to make a reservation at Bo Ya Xuan Reataurant for dinner tonight", "Can I get the address of Bo Ya Xuan Reataurant?", "Is Bo Ya Xuan Reataurant open on weekends?"],
+    "entities": [
+        {"entity_text": "Bo Ya Xuan Reataurant", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["I want to eat at 麻辣诱惑", "Where is the nearest location of 麻辣诱惑", "What time does 麻辣诱惑 open today?", "Can you make a reservation for me at 麻辣诱惑"],
+  "entities": [
+    {"entity_text": "麻辣诱惑", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["What is the menu at Secret Recipe?", "Does Secret Recipe serve vegetarian food?", "How do I book a table at Secret Recipe?", "Is Secret Recipe open for lunch today?"],
+    "entities": [
+        {"entity_text": "Secret Recipe", "entity_label": "restaurant_name"}
+    ]
+},
+{
+    "query": ["What time does 啵啵鱼泡泡鸡PaoPaoPot open?", "I want to try 啵啵鱼泡泡鸡PaoPaoPot's menu", "How late is 啵啑啡魚泡泡鸡PaoPaoPot open?"],
+    "entities": [
+        {"entity_text": "啵啵鱼泡泡鸡PaoPaoPot", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["What time does '沙县小吃' open?", "I want to go eat at '沙县小吃'", "Can you tell me how to get to '沙县小吃'?"],
+  "entities": [
+    {"entity_text": "沙县小吃", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["What is the address of the restaurant ?", "Is there a discount at秀海福麻辣烫?", "How far is秀海福麻辣烫 from my dorm?"],
+    "entities": [
+        {"entity_text": "秀海福麻辣烫", "entity_label": "restaurant_name"}
+    ]
+},
+{
+    "query": ["I want to buy a voucher for Moxie, can you help me?", "Is Moxie still open on weekdays?", "What are the promotions of Moxie this month?"],
+    "entities": [
+        {"entity_text": "蜜雪冰城MIXUE", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["I want to go to STARBUCKS tomorrow morning", "Can I order food from STARBUCKS online?", "What time does STARBUCKS open?"],
+  "entities": [
+    {"entity_text": "STARBUCKS", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["What is the menu of 食坊EatHami?", "I want to reserve a table at 食坊EatHami tonight", "Is food delivery available from 食坊EatHami?"],
+    "entities": [
+        {"entity_text": "食坊EatHami", "entity_label": "restaurant_name"}
+    ]
+},
+{
+    "query": ["I want to eat at 薯嘟嘟DU-DU POTATO", "What time does 薯嘟嘟DU-DU POTATO open?", "Is the salad at 薯嘟嘟DU-DU POTATO any good?"],
+    "entities": [
+        {"entity_text": "薯嘟嘟DU-DU POTATO", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["Where is 蜀都风味?", "What is the address of 蜀都风味?", "Is 蜀都风味 open now?", "Can I make a reservation at 蜀都风味?"],
+  "entities": [
+    {"entity_text": "蜀都风味", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["I'd like to make a reservation at 三千尺The Flows gourmet", "What's the menu like at 三千尺The Flows gourmet?", "How do I get to 三千尺The Flows gourmet from campus?"],
+  "entities": [
+    {"entity_text": "三千尺The Flows gourmet", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where is SITRUS located?", "What are the business hours of SITRUS?"],
+  "entities": [
+    {"entity_text": "SITRUS", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Can I reserve a table at 陕西面馆?", "What's the phone number of 陕西面馆?", "Is 陕西面馆 open for lunch?"],
+  "entities": [
+    {"entity_text": "陕西面馆", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["What is the review of Nasi Kandar Al-Hajeera?", "Where can I find Nasi Kandar Al-Hajeera in PJ?", "Can you tell me about the menu of Nasi Kandar Al-Hajeera?"],
+    "entities": [
+        {"entity_text": "Nasi Kandar Al-Hajeera", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["What's the menu of 鸡公煲?", "Can I reserve a table at 鸡公煲 for tomorrow night?", "Is 鸡公煲 open on weekends?", "How is the food quality of 鸡公煲?"],
+  "entities": [
+    {"entity_text": "鸡公煲", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What time does 54 thai mookata open?", "I love the food at 54 thai mookata", "Can you tell me more about 54 thai mookata?"],
+  "entities": [
+    {"entity_text": "54 thai mookata", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What time does 茶餐室 open?", "I'm looking for a place to eat, is 茶餐室 good?", "Does 茶餐室 have a buffet on weekends?"],
+  "entities": [
+    {"entity_text": "茶餐室", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where is Baskin-Robbins located?", "Is Baskin-Robbins open on Sunday?", "What time does Baskin-Robbins close tonight?", "Can I buy ice cream at the Baskin-Robbins near my dorm?"],
+  "entities": [
+    {"entity_text": "Baskin-Robbins", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where is the 串串店？", "Is there a 串串店？ near my dorm?", "What are the hours of the 串串店？"],
+  "entities": [
+    {"entity_text": "串串店？", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["Where can I book a room at Q EVENT SPACE?", "What's the menu like at Q EVENT SPACE?", "Can I reserve Q EVENT SPACE for my birthday party?"],
+  "entities": [
+    {"entity_text": "Q EVENT SPACE", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["What is the address of 大熊熊螺蛳粉?", "I want to order from 大熊熊螺蛳粉 for delivery", "Can I book a table at 大熊熊螺蛳粉 tonight?"],
+    "entities": [
+        {"entity_text": "大熊熊螺蛳粉", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["What is the menu at Bing Dessert Cafe?", "I want to book a table at Bing Dessert Cafe.", "Is Bing Dessert Cafe open on weekends?"],
+  "entities": [
+    {"entity_text": "Bing Dessert Cafe", "entity_label": "restaurant_name"}
+  ]
+},
+{
+  "query": ["What is the menu at CHATTO?", "I love their dishes at CHATTO.", "Can I order from CHATTO online?"],
+  "entities": [
+    {"entity_text": "CHATTO", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["What is the address of KOPI SAIGON?", "Can I order food from KOPI SAIGON online?", "Does KOPI SAIGON have a new branch nearby?"],
+    "entities": [
+        {"entity_text": "KOPI SAIGON", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["What is the nearest branch of GEPREK'ING Fried Chicken?", "I love their crispy chicken from GEPREK'ING Fried Chicken.", "Where can I find GEPREK'ING Fried Chicken on this Friday evening?"],
+  "entities": [
+    {"entity_text": "GEPREK'ING Fried Chicken", "entity_label": "restaurant_name"}
+  ]
+},
+{
+    "query": ["I want to go to Kafe Lazatnya for dinner", "Is Kafe Lazatnya open on weekends?", "What are the opening hours of Kafe Lazatnya?"],
+    "entities": [
+        {"entity_text": "Kafe Lazatnya", "entity_label": "restaurant_name"}
+    ]
+},
+{
+  "query": ["What is the menu of 拾浮百世?", "I want to order from 拾浮百世.", "Can I make a reservation at 拾浮百世?"],
+  "entities": [
+    {"entity_text": "拾浮百世", "entity_label": "restaurant_name"}
+  ]
+}
+],
+"facility":[
+{
+    "query": ["What are the operating hours of Klinik Sunsuria Medical?", "Where is Klinik Sunsuria Medical located on campus?", "Is Klinik Sunsuria Medical open today?"],
+    "entities": [
+        {"entity_text": "Klinik Sunsuria Medical", "entity_label": "facility_name"}
+    ]
+},
+{
+  "query": ["Where is KLINIK COSMOMEDIC located?", "What are the services offered by KLINIK COSMOMEDIC?", "How to book an appointment at KLINIK COSMOMEDIC?"],
+  "entities": [
+    {"entity_text": "KLINIK COSMOMEDIC", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["Where is the nearest ATM?", "I lost my card at the ATM yesterday.", "Can I withdraw cash from an ATM after 10 PM?"],
+  "entities": [
+    {"entity_text": "ATM", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["I want to register for IELTS at the IELTS Office", "Where is the IELTS Office located on campus?", "What are the working hours of the IELTS Office?"],
+  "entities": [
+    {"entity_text": "IELTS Office", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["Where is the Yoga Room located?", "I want to go to the Yoga Room on Friday.", "Can I reserve a spot in the Yoga Room for tomorrow?"],
+  "entities": [
+    {"entity_text": "Yoga Room", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["Where is the Traditional Chinese Medicine Clinic on campus?", "I need to visit the Traditional Chinese Medicine Clinic tomorrow.", "Is the Traditional Chinese Medicine Clinic open during summer break?"],
+  "entities": [
+    {"entity_text": "Traditional Chinese Medicine Clinic", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["What is the schedule of the Clinic?", "I need to go to the Clinic today", "Is the Clinic open tomorrow morning?"],
+  "entities": [
+    {"entity_text": "Clinic", "entity_label": "facility_name"}
+  ]
+},
+{
+    "query": ["I need to contact the Maintenance Office for help.", "Where is the Maintenance Office located?", "Can I submit a maintenance request to the Maintenance Office?"],
+    "entities": [
+        {"entity_text": "Maintenance Office", "entity_label": "facility_name"}
+    ]
+},
+{
+    "query": ["How do I contact the Admissions Office?", "What are the working hours of the Admissions Office?"],
+    "entities": [
+        {"entity_text": "Admissions Office", "entity_label": "facility_name"}
+    ]
+},
+{
+  "query": ["I want to reserve the Sports Fields for our team.", "Are there any sports events happening at Sports Fields tonight?", "What is the contact information of Sports Fields facility manager?"],
+  "entities": [
+    {"entity_text": "Sports Fields", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["Where is the Stadium?", "I want to go for a run around the Stadium tomorrow morning", "What's happening at the Stadium tonight"],
+  "entities": [
+    {"entity_text": "Stadium", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["Where is the Swimming Pool?", "Can I use the Swimming Pool after 10 PM?", "I want to book a table at the Swimming Pool"],
+  "entities": [
+    {"entity_text": "Swimming Pool", "entity_label": "facility_name"}
+  ]
+},
+{
+    "query": ["What is the location of Infirmary?", "I need to visit Infirmary for a check-up tomorrow"],
+    "entities": [
+        {"entity_text": "Infirmary", "entity_label": "facility_name"}
+    ]
+},
+{
+  "query": ["What time is the Badminton Court open today?", "Where can I find the Badminton Court on campus?", "Can I book the Badminton Court for my team?", "Is the Badminton Court available tomorrow?"],
+  "entities": [
+    {"entity_text": "Badminton Court", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["Where is the Teaching Building located?", "What classes are held in the Teaching Building?", "Can I find a quiet place to study in the Teaching Building?"],
+  "entities": [
+    {"entity_text": "Teaching Building", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["Where is the library?", "I want to study at the library tomorrow", "Is the library open on weekends?"],
+  "entities": [
+    {"entity_text": "library", "entity_label": "facility_name"}
+  ]
+},
+{
+  "query": ["What is the Cafe's opening time?", "Where is the nearest Cafe on campus?", "Can I reserve a table at the Cafe for tonight?"],
+  "entities": [
+    {"entity_text": "Cafe", "entity_label": "facility_name"}
+  ]
+}
+],
+"building":[
+{
+    "query": ["Is B1 Activity Building open today?", "What is the address of B1 Activity Building?", "Can I book a room in B1 Activity Building?"],
+    "entities": [
+        {"entity_text": "B1 Activity Building", "entity_label": "building_name"}
+    ]
+},
+{
+    "query": ["Where is the location of Block D Buildings?", "I have a meeting in Block D Buildings on Wednesday", "Is there a coffee shop near Block D Buildings?"],
+    "entities": [
+        {"entity_text": "Block D Buildings", "entity_label": "building_name"}
+    ]
+}
+],
+"handbook":[
+{
+    "query": ["What are the Birthday Cake Recommendations in the student handbook?", "I need help with Birthday Cake Recommendations for my friend's birthday", "Can someone provide me with some Birthday Cake Recommendations from the university's handbook"],
+    "entities": [
+        {"entity_text": "Birthday Cake Recommendations", "entity_label": "handbook_topic"}
+    ]
+},
+{
+    "query": ["What are the consulting hours for Clinic A (Behind the TCM Center)?", "Is there a holiday schedule for Clinic A (Behind the TCM Center)?"],
+    "entities": [
+        {"entity_text": "Clinic A (Behind the TCM Center)", "entity_label": "handbook_topic"}
+    ]
+},
+{
+    "query": ["Where can I find the AskA User Guide?", "What is the purpose of the AskA User Guide?", "I lost my copy of the AskA User Guide, where can I download it?"],
+    "entities": [
+        {"entity_text": "AskA User Guide", "entity_label": "handbook_topic"}
+    ]
+},
+{
+  "query": ["Where can I find the Cashless Payment Guide (XMUM)?", "What is the Cashless Payment Guide (XMUM) for?", "I need help with the Cashless Payment Guide (XMUM)."],
+  "entities": [
+    {"entity_text": "Cashless Payment Guide (XMUM)", "entity_label": "handbook_topic"}
+  ]
+},
+{
+  "query": ["Where can I find the Library Study Room Booking Guide?", "I'm having trouble finding the Library Study Room Booking Guide.", "What's in the Library Study Room Booking Guide?"],
+  "entities": [
+    {"entity_text": "Library Study Room Booking Guide", "entity_label": "handbook_topic"}
+  ]
+},
+{
+  "query": ["I'm looking for KTV places near my dorm", "What are the popular KTVs around XMUM?", "Can someone recommend a good KTV spot near our university?", "Are there any discounts available at the KTV Near XMUM?"],
+  "entities": [
+    {"entity_text": "KTV Near XMUM", "entity_label": "handbook_topic"}
+  ]
+},
+{
+  "query": ["Where is the Bicycle Parking Guide on our campus?", "I need help with the Bicycle Parking Guide, where can I find it?", "Can someone show me how to use the Bicycle Parking Guide?", "How do I access the Bicycle Parking Guide?"],
+  "entities": [
+    {"entity_text": "Bicycle Parking Guide", "entity_label": "handbook_topic"}
+  ]
+},
+{
+    "query": ["What are the Milk Tea Shops Near XMUM?", "I want to find a place that serves great milk tea near Xiamen University Malaysia", "Can you recommend some good milk tea shops around XMUM campus"],
+    "entities": [
+        {"entity_text": "Milk Tea Shops Near XMUM", "entity_label": "handbook_topic"}
+    ]
+},
+{
+  "query": ["I have a question about Search for Books in the Library", "Can you tell me more about Search for Books in the Library?", "What is Search for Books in the Library all about?"],
+  "entities": [
+    {"entity_text": "Search for Books in the Library", "entity_label": "handbook_topic"}
+  ]
+},
+{
+    "query": ["How do I use Print in the Library (via Computer)?", "What are the instructions for using Print in the Library (via Computer)?"],
+    "entities": [
+        {"entity_text": "Print in the Library (via Computer)", "entity_label": "handbook_topic"}
+    ]
+},
+{
+    "query": ["How do I use Print in the Library (via USB) to print my document?", "What are the steps for printing via Print in the Library (via USB)?"],
+    "entities": [
+        {"entity_text": "Print in the Library (via USB)", "entity_label": "handbook_topic"}
+    ]
+},
+{
+    "query": ["How do I Request a Refund for Self-Service Printing?", "I need help with the process of Request a Refund for Self-Service Printing", "Can you tell me more about Request a Refund for Self-Service Printing?"],
+    "entities": [
+        {"entity_text": "Request a Refund for Self-Service Printing", "entity_label": "handbook_topic"}
+    ]
+},
+{
+    "query": ["How do I use the Laundry and Drying Machines?", "What is the process of using Laundry and Drying Machines?", "Can anyone help me understand how to use the Use Laundry and Drying Machines?"],
+    "entities": [
+        {"entity_text": "Use Laundry and Drying Machines", "entity_label": "handbook_topic"}
+    ]
+},
+{
+  "query": ["I want to know about using the Use Dry Cleaning Service", "How do I use the Use Dry Cleaning Service?", "What is the process for using the Use Dry Cleaning Service?"],
+  "entities": [
+    {"entity_text": "Use Dry Cleaning Service", "entity_label": "handbook_topic"}
+  ]
+},
+{
+  "query": ["How do I Withdraw Money from an ATM on Campus?", "Where can I find the Withdraw Money from an ATM on Campus guide?", "I need help with Withdraw Money from an ATM on Campus, what are the steps?"],
+  "entities": [
+    {"entity_text": "Withdraw Money from an ATM on Campus", "entity_label": "handbook_topic"}
+  ]
+},
+{
+    "query": ["Where can I find the locations of Campus Coffee Shops, Coffee Machines, and Vending Machine Locations?", "What are the hours of operation for Campus Coffee Shops, Coffee Machines, and Vending Machine Locations?", "How do I report a maintenance issue with one of the machines at Campus Coffee Shops, Coffee Machines, and Vending Machine Locations?"],
+    "entities": [
+        {"entity_text": "Campus Coffee Shops, Coffee Machines, and Vending Machine Locations", "entity_label": "handbook_topic"}
+    ]
+},
+{
+    "query": ["How do I reset my School Email and Campus ID password?", "What if I forget my School Email and Campus ID?", "Can someone else use my School Email and Campus ID?"],
+    "entities": [
+        {"entity_text": "School Email and Campus ID", "entity_label": "handbook_topic"}
+    ]
+},
+{
+    "query": ["How do I view my timetable online", "I want to check the View Timetable on the student portal"],
+    "entities": [
+        {"entity_text": "View Timetable", "entity_label": "handbook_topic"}
+    ]
+},
+{
+  "query": ["How do I register for courses?", "When is the course registration deadline?"],
+  "entities": [
+    {"entity_text": "Course Registration", "entity_label": "handbook_topic"}
+  ]
+},
+{
+    "query": ["How do I apply for Course Retake (Resit)?", "What are the eligibility criteria for Course Retake (Resit)?"],
+    "entities": [
+        {"entity_text": "Course Retake (Resit)", "entity_label": "handbook_topic"}
+    ]
+},
+{
+  "query": ["I want to know more about Attendance and Leave", "How can I manage my Attendance and Leave?", "What are the rules for Attendance and Leave?"],
+  "entities": [
+    {"entity_text": "Attendance and Leave", "entity_label": "handbook_topic"}
+  ]
+},
+{
+  "query": ["I want to know more about Public Holiday Rescheduling", "How does Public Holiday Rescheduling affect my exam schedule?", "Can you explain the details of Public Holiday Rescheduling?"],
+  "entities": [
+    {"entity_text": "Public Holiday Rescheduling", "entity_label": "handbook_topic"}
+  ]
+},
+{
+  "query": ["Where can I find the Exam Guide?", "Can someone help me with the Exam Guide?", "How do I access the Exam Guide?"],
+  "entities": [
+    {"entity_text": "Exam Guide", "entity_label": "handbook_topic"}
+  ]
+},
+{
+  "query": ["How do I find the Contact Information for university facilities?", "What is the Contact Information for student services on campus?", "Where can I get the Contact Information for academic advisors?"],
+  "entities": [
+    {"entity_text": "Contact Information", "entity_label": "handbook_topic"}
+  ]
+},
+{
+    "query": ["What are the activities offered by Clubs and Societies at XMUM?", "Can I find information about sports teams in Clubs and Societies at XMUM?"],
+    "entities": [
+        {"entity_text": "Clubs and Societies at XMUM", "entity_label": "handbook_topic"}
+    ]
+}
+]
+}

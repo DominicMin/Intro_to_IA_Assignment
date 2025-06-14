@@ -1,98 +1,67 @@
-# Proposed Ideas
+# Campus Chatbot NLU Engine
 
-## Idea 1: Template & Retrieval-Based Campus Life Assistant
+This repository contains the core Natural Language Understanding (NLU) engine for a campus chatbot. The engine is responsible for processing user queries to identify intents and extract key entities. This is achieved through a combination of custom-trained machine learning models.
 
-Create a chatbot that can get user's need and retrieve from its backup dataset to recommend place to go in/around the campus. It can also analyze user's sentiment and adjust its output accordingly.
+The project is structured around a series of Jupyter Notebooks, each handling a specific part of the NLU pipeline, from data generation to model training.
 
-- **Customized** Backup Dataset
-	- Use **structured data formats** like JSON
-	- Include features, labels, and information about places to study/relax in the campus
-	- Example:
-```json
-{
+## 🚀 Core Components
 
-    "Nasi Kandar":{
+The NLU engine is composed of three main parts:
 
-        "type":"resturant",
+1.  **Data Generation**: Utilizes Large Language Models (LLMs) like DeepSeek or Llama3 to synthetically generate training data for both intents and entities.
+2.  **Intent Classification**: A machine learning model trained to understand the user's goal (e.g., asking for location, business hours, etc.).
+3.  **Entity Recognition**: A Named Entity Recognition (NER) model built with spaCy to identify and extract important information from the query (e.g., "KK convenience store", "tomorrow morning").
 
-        "Location":"Bell",// Can switch to coordinates in the future
+## 📂 Repository Structure
 
-        "time":"24h",// May switch to Python's datetime library
-
-        "recommend":["Teh O Lemon Ais","Indomee Ayam"],
-
-        "price":"medium"
-
-    },
-
-    "Library":{
-
-        "type":"study area",
-
-        "location":"A3",
-
-        "time":{
-
-            "Monday to Friday":"9am-10pm",
-
-            "Weekend and Public Holidays":"9am-5pm"
-
-        },
-	"Bo Ya Xuan Chinese Restaurant":{
-
-		"type":"restaurant",
-
-		"location":"XMUM IAEC",
-
-		"time":"11am-2pm, 5pm-9pm",
-
-		"recommend":["Twice-cooked Pork Slices with Rice"],
-
-		"price":"high"
-		
-	}
-
-    }
-
-}
 ```
-Raw dataset will then be converted to **keyword lists**:
-Sample:
-```python
-Bo_Ya_Xuan=["restaurant","Chinese","high-level","XMUM IAEC","11am-2pm"]
-# We can then apply word embedding to facilitate retrieval afterwards
+.
+├── .gitignore
+├── py_code
+│   ├── data
+│   │   ├── IE
+│   │   │   └── IE_lib.json
+│   │   ├── extracted_json
+│   │   │   ├── location.json
+│   │   │   └── time.json
+│   │   ├── train_data
+│   │   │   ├── entity_train_data.csv
+│   │   │   ├── entity_train_data.json
+│   │   │   └── spacy_entity_train_data.csv
+│   │   └── trained_model
+│   │       ├── entity_recognizer
+│   │       └── intent_classifier.joblib
+│   ├── data_generator.ipynb
+│   ├── entity_recognition.ipynb
+│   |── intent_classification.ipynb
+|   |—— interpreter.ipynb
+└── README.md
 ```
- 
 
-- Retrieval-Based Chatbot (May also include some templates)
-	1. Take and process user's input
-		1. Use VADER to analyze user's sentiment
-		2. Conver text to vector
-		3. May use other NLP methods like tokenization, lemmatization, etc.
-	2. Retrieval Relevant Places in Our Backup Dataset
-		1. May apply algorithms like cosine-similarity, SVM, ect.
-		2. Find the place that best matches user's need.
-	3. Construct Output
-		1. Base on VADER scores of input text to decide sentiment of output (positive/negative/netural, corresponding to output templates of certain sentiment)
-		2. Construct an output based on AIML template 
-			1. Respond to user's sentiment
-			2. Include information of the place to go to
-		3. Use Python's `aiml`module as the interpreter
-- Expected Outcome
-	- Sample:
+## 📝 File Descriptions
 
-		You: I have done well in the midterm exam and want to have a good meal.
+### Python Code (`py_code/`)
 
-		Chatbot: Glad to hear that! (***sentiment analysis***) For the place to go, I recommend Bo Ya Xuan Chinese Restaurant. (***recommend place to go***)
-		It's located at XMUM IAEC (***location***). I strongly recommend Twice-cooked Pork Slices with Rice (***recommendation***) for you to try. However, please notice that the price would be high (***price information***).
+-   [`py_code/data_generator.ipynb`](./py_code/data_generator.ipynb): This notebook is responsible for generating the training data. It uses LLMs with carefully crafted prompts to create varied and realistic query examples for different intents and entities.
 
-		Supporting Data:
-		- ![[Pasted image 20250515133547.png]]
-- Concerns about this proposal
-	- Can we include both retrieval and template?
-	- ![[Pasted image 20250515134825.png]]
+-   [`py_code/intent_classification.ipynb`](./py_code/intent_classification.ipynb): This notebook covers the process of training the intent classifier. It loads the generated data, preprocesses it, and trains a classification model (e.g., Logistic Regression with TF-IDF features) to recognize the user's intent. The final model is saved for later use.
 
+-   [`py_code/entity_recognition.ipynb`](./py_code/entity_recognition.ipynb): This notebook focuses on building the Named Entity Recognition (NER) model. It uses the spaCy library to train a model that can extract custom entities like `business_name`, `restaurant_name`, `facility_name`, etc., from the user's query.
 
-# 数据收集
+### Data (`py_code/data/`)
 
--
+-   `py_code/data/IE/IE_lib.json`: Contains the library of intents and entities that form the basis for data generation.
+
+-   `py_code/data/train_data/`: This directory stores the generated training data in various formats (`.json`, `.csv`) for both intent and entity models.
+
+-   `py_code/data/trained_model/`: This directory holds the final, trained models.
+    -   `intent_classifier.joblib`: The saved intent classification pipeline.
+    -   `entity_recognizer/`: The saved spaCy model for entity recognition.
+
+## 💡 How It Works
+
+1.  **Data Generation**: The process starts with `data_generator.ipynb`. Based on a predefined set of intents and entities in `IE_lib.json`, it prompts an LLM to generate a rich dataset of sample queries.
+2.  **Model Training**:
+    -   The intent data is used in `intent_classification.ipynb` to train a pipeline that can predict the intent of a given query.
+    -   The entity data is used in `entity_recognition.ipynb` to train a spaCy NER model to extract relevant information.
+3.  **Inference**: (Previously in `interpreter.ipynb`) The trained models are loaded to process new user queries. For a given query, the engine predicts the intent and extracts all relevant entities, providing a structured output that a chatbot can act upon.

@@ -1,0 +1,346 @@
+entity_text,entity_label,query
+KK便利店,business_name,Where is KK便利店 located?
+KK便利店,business_name,Can I buy snacks at KK便利店?
+KK便利店,business_name,What are the operating hours of KK便利店?
+KIMS SALON,business_name,What is the phone number of KIMS SALON?
+KIMS SALON,business_name,I am looking for a haircut at KIMS SALON.
+KIMS SALON,business_name,Does KIMS SALON offer any discounts on weekends?
+7-11便利店,business_name,What is the opening time of 7-11便利店?
+7-11便利店,business_name,I need to buy milk at 7-11便利店 tomorrow.
+7-11便利店,business_name,Can you tell me where 7-11便利店 is located on campus?
+迈利斯MILLIES VISION,business_name,Where is the nearest 迈利斯MILLIES VISION store?
+迈利斯MILLIES VISION,business_name,I want to try out the new frames at 迈利斯MILLIES VISION.
+迈利斯MILLIES VISION,business_name,What are the opening hours of 迈利斯MILLIES VISION in Shanghai?
+Hey Stationery,business_name,Can I buy notebooks at Hey Stationery?
+Hey Stationery,business_name,Where is Hey Stationery located on campus?
+Hey Stationery,business_name,What are the opening hours of Hey Stationery?
+Hey Stationery,business_name,I want to ask if Hey Stationery sells binders
+THE GRIND,business_name,Where is THE GRIND located?
+THE GRIND,business_name,Is THE GRIND open now?
+THE GRIND,business_name,Can I reserve a table at THE GRIND?
+DOBI SANTAI,business_name,I want to book a massage at DOBI SANTAI.
+DOBI SANTAI,business_name,What are the operating hours of DOBI SANTAI?
+DOBI SANTAI,business_name,Can I make a reservation at DOBI SANTAI for tonight?
+人民书局,business_name,Where is the Peoples Bookstore located?
+人民书局,business_name,Is Peoples Bookstore open on weekends?
+人民书局,business_name,Can I find English books at Peoples Bookstore?
+Real Peak Music,business_name,I want to go to Real Peak Music store.
+Real Peak Music,business_name,What's the address of Real Peak Music?
+Real Peak Music,business_name,Do you know when Real Peak Music will have a sale?
+AHIMSA YOGA,business_name,What is the schedule for AHIMSA YOGA classes?
+AHIMSA YOGA,business_name,Can I join a session of AHIMSA YOGA today?
+AHIMSA YOGA,business_name,Where can I find more information about AHIMSA YOGA studio?
+夏1城,restaurant_name,What's the menu of 夏1城?
+夏1城,restaurant_name,Can I order from 夏1城 for delivery?
+夏1城,restaurant_name,Where is 夏1城 located on campus?
+Tuk Tuk Thai&Taro,restaurant_name,What is the menu like at Tuk Tuk Thai&Taro?
+Tuk Tuk Thai&Taro,restaurant_name,Can I make a reservation at Tuk Tuk Thai&Taro for tonight?
+Tuk Tuk Thai&Taro,restaurant_name,How much does it cost to eat at Tuk Tuk Thai&Taro?
+Tuk Tuk Thai&Taro,restaurant_name,Is Tuk Tuk Thai&Taro open on weekends?
+大树下,restaurant_name,What time does 大树下 open?
+大树下,restaurant_name,Can we have a group dinner at 大树下?
+大树下,restaurant_name,Is 大树下 still open?
+Let's kopitiam,restaurant_name,What is the menu at Let's Kopitiam?
+Let's kopitiam,restaurant_name,I love their dishes at Let's Kopitiam.
+Let's kopitiam,restaurant_name,Does Let's Kopitiam have any promotions?
+Takw Mee Tarik,restaurant_name,What is the menu of Takw Mee Tarik?
+Takw Mee Tarik,restaurant_name,How is the food quality at Takw Mee Tarik?
+大家旺,restaurant_name,Where is everyone eating at 大家旺?
+大家旺,restaurant_name,I want to eat at 大家旺 tonight.
+大家旺,restaurant_name,What are the menu prices of 大家旺?
+蜀之味,restaurant_name,What time does 蜀之味 open?
+蜀之味,restaurant_name,I want to try the noodles at 蜀之味
+蜀之味,restaurant_name,Is 蜀之味 open on weekends?
+大城小厨,restaurant_name,Where is the closest location of 大城小厨?
+大城小厨,restaurant_name,I want to make a reservation at 大城小厨 for tonight
+大城小厨,restaurant_name,What are the reviews about the food at 大城小厶?
+华联好凉茶,restaurant_name,Can I have the menu of 华联好凉茶?
+华联好凉茶,restaurant_name,Where is 华联好凉茶 located on campus?
+华联好凉茶,restaurant_name,Is 华联好凉茶 open tomorrow?
+小云冰室,restaurant_name,What's the address of 小云冰室?
+小云冰室,restaurant_name,Is 小云冰室 open on weekends?
+小云冰室,restaurant_name,Can you order from 小云冰室 online?
+大拇指,restaurant_name,What is the address of 大拇指?
+大拇指,restaurant_name,I am craving for food from 大拇指
+大拇指,restaurant_name,Where can I order 大拇指 food online?
+喵喵轻食,restaurant_name,Where is 喵喵轻食 located?
+喵喵轻食,restaurant_name,What time does 喵喵轻食 open?
+喵喵轻食,restaurant_name,I want to eat at 喵喵轻食 tonight
+喵喵轻食,restaurant_name,Can I make a reservation at 喵喵轻食?
+大碗面,restaurant_name,I want to eat at 大碗面 tonight
+大碗面,restaurant_name,What is the address of 大碗面?
+大碗面,restaurant_name,Is 大碗面 open tomorrow?
+U&I,restaurant_name,Where is U&I located?
+U&I,restaurant_name,What time does U&I serve dinner?
+U&I,restaurant_name,Can I make a reservation at U&I?
+小台枫,restaurant_name,I want to try 小台枫's food
+小台枫,restaurant_name,What time does 小台枫 open?
+小台枫,restaurant_name,Is 小台枫 still open for dinner?
+Restaurant Kabaabish,restaurant_name,I love the food at Restaurant Kabaabish
+Restaurant Kabaabish,restaurant_name,What's good at Restaurant Kabaabish?
+Restaurant Kabaabish,restaurant_name,Can I get a delivery from Restaurant Kabaabish?
+B1 Canteen,restaurant_name,What's the menu of B1 Canteen?
+B1 Canteen,restaurant_name,Is B1 Canteen open now?
+Sapid,restaurant_name,What are the menu items at Sapid?
+Sapid,restaurant_name,Is Sapid open on Friday evening?
+Sapid,restaurant_name,Can I make a reservation at Sapid?
+Saffron Club,restaurant_name,I want to make a reservation at Saffron Club
+Saffron Club,restaurant_name,Can I get the menu of Saffron Club?
+Saffron Club,restaurant_name,Is Saffron Club open for dinner?
+Regiustea皇茶,restaurant_name,I want to book a table at Regiustea皇茶
+Regiustea皇茶,restaurant_name,What is the price of Regiustea皇茶's coffee?
+Regiustea皇茶,restaurant_name,Is Regiustea皇茶 open on Sunday?
+Poke Bowl Rice,restaurant_name,I want to order from Poke Bowl Rice tonight
+Poke Bowl Rice,restaurant_name,Is Poke Bowl Rice open on weekends?
+Poke Bowl Rice,restaurant_name,What is the delivery time for Poke Bowl Rice orders?
+Zone U Bakery,restaurant_name,What is the menu of Zone U Bakery?
+Zone U Bakery,restaurant_name,I love the pastries at Zone U Bakery.
+Zone U Bakery,restaurant_name,Can I order from Zone U Bakery online?
+LY3 Canteen,restaurant_name,What is the menu for LY3 Canteen?
+LY3 Canteen,restaurant_name,I want to go LY3 Canteen for dinner tonight.
+LY3 Canteen,restaurant_name,Can I reserve a table at LY3 Canteen for next Wednesday?
+中闽美食,restaurant_name,What is the menu of 中闽美食?
+中闽美食,restaurant_name,How much does a meal at 中闽美食 cost?
+Bean's Express,restaurant_name,Can I get a refund for my order from Bean's Express?
+Bean's Express,restaurant_name,Is Bean's Express open on Sundays?
+Bean's Express,restaurant_name,I ordered food from Bean's Express but it was not delivered yet
+Bean's Express,restaurant_name,What is the menu at Bean's Express?
+Mad Plate Express,restaurant_name,I want to order from Mad Plate Express today
+Mad Plate Express,restaurant_name,Is Mad Plate Express open now?
+Mad Plate Express,restaurant_name,Can I cancel my order from Mad Plate Express?
+小九州,restaurant_name,Where can I dine at 小九州?
+小九州,restaurant_name,Is 小九州 open for dinner tonight?
+槟城风味,restaurant_name,What is the menu like at 槟城风味?
+槟城风味,restaurant_name,Can I make a reservation at 槟城风味?
+中国會星尊绋,restaurant_name,What is the address of Chinese Muslim Sizzling Wok?
+中国會星尊绋,restaurant_name,Can I book a table at Chinese Muslim Sizzling Wok for tonight?
+中国會星尊绋,restaurant_name,"I love their food, what time does Chinese Muslim Sizzling Wok open?"
+Uni Hotpot,restaurant_name,What is the phone number of Uni Hotpot?
+Uni Hotpot,restaurant_name,Where can I find Uni Hotpot in university area?
+Uni Hotpot,restaurant_name,"I love Uni Hotpot, is it open for lunch today?"
+Cafes,restaurant_name,Where are the Cafes on campus?
+Cafes,restaurant_name,What time do the Cafes close?
+Cafes,restaurant_name,Is there a list of Cafes near my dorm?
+ZUS Coffee,restaurant_name,I'm craving ZUS Coffee right now
+ZUS Coffee,restaurant_name,Is the ZUS Coffee cafe open today?
+ZUS Coffee,restaurant_name,Where is ZUS Coffee located on campus?
+Lakefront Cafe,restaurant_name,Where is Lakefront Cafe located on campus?
+Lakefront Cafe,restaurant_name,Can I reserve a table at Lakefront Cafe for tonight?
+Lakefront Cafe,restaurant_name,Is Lakefront Cafe open for dinner tomorrow?
+Cotti Coffee,restaurant_name,What is the menu of Cotti Coffee?
+Cotti Coffee,restaurant_name,Where can I find Cotti Coffee near campus?
+Cotti Coffee,restaurant_name,Is Cotti Coffee open for delivery tonight?
+Bo Ya Xuan Reataurant,restaurant_name,I want to make a reservation at Bo Ya Xuan Reataurant for dinner tonight
+Bo Ya Xuan Reataurant,restaurant_name,Can I get the address of Bo Ya Xuan Reataurant?
+Bo Ya Xuan Reataurant,restaurant_name,Is Bo Ya Xuan Reataurant open on weekends?
+麻辣诱惑,restaurant_name,I want to eat at 麻辣诱惑
+麻辣诱惑,restaurant_name,Where is the nearest location of 麻辣诱惑
+麻辣诱惑,restaurant_name,What time does 麻辣诱惑 open today?
+麻辣诱惑,restaurant_name,Can you make a reservation for me at 麻辣诱惑
+Secret Recipe,restaurant_name,What is the menu at Secret Recipe?
+Secret Recipe,restaurant_name,Does Secret Recipe serve vegetarian food?
+Secret Recipe,restaurant_name,How do I book a table at Secret Recipe?
+Secret Recipe,restaurant_name,Is Secret Recipe open for lunch today?
+啵啵鱼泡泡鸡PaoPaoPot,restaurant_name,What time does 啵啵鱼泡泡鸡PaoPaoPot open?
+啵啵鱼泡泡鸡PaoPaoPot,restaurant_name,I want to try 啵啵鱼泡泡鸡PaoPaoPot's menu
+啵啵鱼泡泡鸡PaoPaoPot,restaurant_name,How late is 啵啑啡魚泡泡鸡PaoPaoPot open?
+沙县小吃,restaurant_name,What time does '沙县小吃' open?
+沙县小吃,restaurant_name,I want to go eat at '沙县小吃'
+沙县小吃,restaurant_name,Can you tell me how to get to '沙县小吃'?
+秀海福麻辣烫,restaurant_name,What is the address of the restaurant ?
+秀海福麻辣烫,restaurant_name,Is there a discount at秀海福麻辣烫?
+秀海福麻辣烫,restaurant_name,How far is秀海福麻辣烫 from my dorm?
+蜜雪冰城MIXUE,restaurant_name,"I want to buy a voucher for Moxie, can you help me?"
+蜜雪冰城MIXUE,restaurant_name,Is Moxie still open on weekdays?
+蜜雪冰城MIXUE,restaurant_name,What are the promotions of Moxie this month?
+STARBUCKS,restaurant_name,I want to go to STARBUCKS tomorrow morning
+STARBUCKS,restaurant_name,Can I order food from STARBUCKS online?
+STARBUCKS,restaurant_name,What time does STARBUCKS open?
+食坊EatHami,restaurant_name,What is the menu of 食坊EatHami?
+食坊EatHami,restaurant_name,I want to reserve a table at 食坊EatHami tonight
+食坊EatHami,restaurant_name,Is food delivery available from 食坊EatHami?
+薯嘟嘟DU-DU POTATO,restaurant_name,I want to eat at 薯嘟嘟DU-DU POTATO
+薯嘟嘟DU-DU POTATO,restaurant_name,What time does 薯嘟嘟DU-DU POTATO open?
+薯嘟嘟DU-DU POTATO,restaurant_name,Is the salad at 薯嘟嘟DU-DU POTATO any good?
+蜀都风味,restaurant_name,Where is 蜀都风味?
+蜀都风味,restaurant_name,What is the address of 蜀都风味?
+蜀都风味,restaurant_name,Is 蜀都风味 open now?
+蜀都风味,restaurant_name,Can I make a reservation at 蜀都风味?
+三千尺The Flows gourmet,restaurant_name,I'd like to make a reservation at 三千尺The Flows gourmet
+三千尺The Flows gourmet,restaurant_name,What's the menu like at 三千尺The Flows gourmet?
+三千尺The Flows gourmet,restaurant_name,How do I get to 三千尺The Flows gourmet from campus?
+SITRUS,restaurant_name,Where is SITRUS located?
+SITRUS,restaurant_name,What are the business hours of SITRUS?
+陕西面馆,restaurant_name,Can I reserve a table at 陕西面馆?
+陕西面馆,restaurant_name,What's the phone number of 陕西面馆?
+陕西面馆,restaurant_name,Is 陕西面馆 open for lunch?
+Nasi Kandar Al-Hajeera,restaurant_name,What is the review of Nasi Kandar Al-Hajeera?
+Nasi Kandar Al-Hajeera,restaurant_name,Where can I find Nasi Kandar Al-Hajeera in PJ?
+Nasi Kandar Al-Hajeera,restaurant_name,Can you tell me about the menu of Nasi Kandar Al-Hajeera?
+鸡公煲,restaurant_name,What's the menu of 鸡公煲?
+鸡公煲,restaurant_name,Can I reserve a table at 鸡公煲 for tomorrow night?
+鸡公煲,restaurant_name,Is 鸡公煲 open on weekends?
+鸡公煲,restaurant_name,How is the food quality of 鸡公煲?
+54 thai mookata,restaurant_name,What time does 54 thai mookata open?
+54 thai mookata,restaurant_name,I love the food at 54 thai mookata
+54 thai mookata,restaurant_name,Can you tell me more about 54 thai mookata?
+茶餐室,restaurant_name,What time does 茶餐室 open?
+茶餐室,restaurant_name,"I'm looking for a place to eat, is 茶餐室 good?"
+茶餐室,restaurant_name,Does 茶餐室 have a buffet on weekends?
+Baskin-Robbins,restaurant_name,Where is Baskin-Robbins located?
+Baskin-Robbins,restaurant_name,Is Baskin-Robbins open on Sunday?
+Baskin-Robbins,restaurant_name,What time does Baskin-Robbins close tonight?
+Baskin-Robbins,restaurant_name,Can I buy ice cream at the Baskin-Robbins near my dorm?
+串串店？,restaurant_name,Where is the 串串店？
+串串店？,restaurant_name,Is there a 串串店？ near my dorm?
+串串店？,restaurant_name,What are the hours of the 串串店？
+Q EVENT SPACE,restaurant_name,Where can I book a room at Q EVENT SPACE?
+Q EVENT SPACE,restaurant_name,What's the menu like at Q EVENT SPACE?
+Q EVENT SPACE,restaurant_name,Can I reserve Q EVENT SPACE for my birthday party?
+大熊熊螺蛳粉,restaurant_name,What is the address of 大熊熊螺蛳粉?
+大熊熊螺蛳粉,restaurant_name,I want to order from 大熊熊螺蛳粉 for delivery
+大熊熊螺蛳粉,restaurant_name,Can I book a table at 大熊熊螺蛳粉 tonight?
+Bing Dessert Cafe,restaurant_name,What is the menu at Bing Dessert Cafe?
+Bing Dessert Cafe,restaurant_name,I want to book a table at Bing Dessert Cafe.
+Bing Dessert Cafe,restaurant_name,Is Bing Dessert Cafe open on weekends?
+CHATTO,restaurant_name,What is the menu at CHATTO?
+CHATTO,restaurant_name,I love their dishes at CHATTO.
+CHATTO,restaurant_name,Can I order from CHATTO online?
+KOPI SAIGON,restaurant_name,What is the address of KOPI SAIGON?
+KOPI SAIGON,restaurant_name,Can I order food from KOPI SAIGON online?
+KOPI SAIGON,restaurant_name,Does KOPI SAIGON have a new branch nearby?
+GEPREK'ING Fried Chicken,restaurant_name,What is the nearest branch of GEPREK'ING Fried Chicken?
+GEPREK'ING Fried Chicken,restaurant_name,I love their crispy chicken from GEPREK'ING Fried Chicken.
+GEPREK'ING Fried Chicken,restaurant_name,Where can I find GEPREK'ING Fried Chicken on this Friday evening?
+Kafe Lazatnya,restaurant_name,I want to go to Kafe Lazatnya for dinner
+Kafe Lazatnya,restaurant_name,Is Kafe Lazatnya open on weekends?
+Kafe Lazatnya,restaurant_name,What are the opening hours of Kafe Lazatnya?
+拾浮百世,restaurant_name,What is the menu of 拾浮百世?
+拾浮百世,restaurant_name,I want to order from 拾浮百世.
+拾浮百世,restaurant_name,Can I make a reservation at 拾浮百世?
+Klinik Sunsuria Medical,facility_name,What are the operating hours of Klinik Sunsuria Medical?
+Klinik Sunsuria Medical,facility_name,Where is Klinik Sunsuria Medical located on campus?
+Klinik Sunsuria Medical,facility_name,Is Klinik Sunsuria Medical open today?
+KLINIK COSMOMEDIC,facility_name,Where is KLINIK COSMOMEDIC located?
+KLINIK COSMOMEDIC,facility_name,What are the services offered by KLINIK COSMOMEDIC?
+KLINIK COSMOMEDIC,facility_name,How to book an appointment at KLINIK COSMOMEDIC?
+ATM,facility_name,Where is the nearest ATM?
+ATM,facility_name,I lost my card at the ATM yesterday.
+ATM,facility_name,Can I withdraw cash from an ATM after 10 PM?
+IELTS Office,facility_name,I want to register for IELTS at the IELTS Office
+IELTS Office,facility_name,Where is the IELTS Office located on campus?
+IELTS Office,facility_name,What are the working hours of the IELTS Office?
+Yoga Room,facility_name,Where is the Yoga Room located?
+Yoga Room,facility_name,I want to go to the Yoga Room on Friday.
+Yoga Room,facility_name,Can I reserve a spot in the Yoga Room for tomorrow?
+Traditional Chinese Medicine Clinic,facility_name,Where is the Traditional Chinese Medicine Clinic on campus?
+Traditional Chinese Medicine Clinic,facility_name,I need to visit the Traditional Chinese Medicine Clinic tomorrow.
+Traditional Chinese Medicine Clinic,facility_name,Is the Traditional Chinese Medicine Clinic open during summer break?
+Clinic,facility_name,What is the schedule of the Clinic?
+Clinic,facility_name,I need to go to the Clinic today
+Clinic,facility_name,Is the Clinic open tomorrow morning?
+Maintenance Office,facility_name,I need to contact the Maintenance Office for help.
+Maintenance Office,facility_name,Where is the Maintenance Office located?
+Maintenance Office,facility_name,Can I submit a maintenance request to the Maintenance Office?
+Admissions Office,facility_name,How do I contact the Admissions Office?
+Admissions Office,facility_name,What are the working hours of the Admissions Office?
+Sports Fields,facility_name,I want to reserve the Sports Fields for our team.
+Sports Fields,facility_name,Are there any sports events happening at Sports Fields tonight?
+Sports Fields,facility_name,What is the contact information of Sports Fields facility manager?
+Stadium,facility_name,Where is the Stadium?
+Stadium,facility_name,I want to go for a run around the Stadium tomorrow morning
+Stadium,facility_name,What's happening at the Stadium tonight
+Swimming Pool,facility_name,Where is the Swimming Pool?
+Swimming Pool,facility_name,Can I use the Swimming Pool after 10 PM?
+Swimming Pool,facility_name,I want to book a table at the Swimming Pool
+Infirmary,facility_name,What is the location of Infirmary?
+Infirmary,facility_name,I need to visit Infirmary for a check-up tomorrow
+Badminton Court,facility_name,What time is the Badminton Court open today?
+Badminton Court,facility_name,Where can I find the Badminton Court on campus?
+Badminton Court,facility_name,Can I book the Badminton Court for my team?
+Badminton Court,facility_name,Is the Badminton Court available tomorrow?
+Teaching Building,facility_name,Where is the Teaching Building located?
+Teaching Building,facility_name,What classes are held in the Teaching Building?
+Teaching Building,facility_name,Can I find a quiet place to study in the Teaching Building?
+library,facility_name,Where is the library?
+library,facility_name,I want to study at the library tomorrow
+library,facility_name,Is the library open on weekends?
+Cafe,facility_name,What is the Cafe's opening time?
+Cafe,facility_name,Where is the nearest Cafe on campus?
+Cafe,facility_name,Can I reserve a table at the Cafe for tonight?
+B1 Activity Building,building_name,Is B1 Activity Building open today?
+B1 Activity Building,building_name,What is the address of B1 Activity Building?
+B1 Activity Building,building_name,Can I book a room in B1 Activity Building?
+Block D Buildings,building_name,Where is the location of Block D Buildings?
+Block D Buildings,building_name,I have a meeting in Block D Buildings on Wednesday
+Block D Buildings,building_name,Is there a coffee shop near Block D Buildings?
+Birthday Cake Recommendations,handbook_topic,What are the Birthday Cake Recommendations in the student handbook?
+Birthday Cake Recommendations,handbook_topic,I need help with Birthday Cake Recommendations for my friend's birthday
+Birthday Cake Recommendations,handbook_topic,Can someone provide me with some Birthday Cake Recommendations from the university's handbook
+Clinic A (Behind the TCM Center),handbook_topic,What are the consulting hours for Clinic A (Behind the TCM Center)?
+Clinic A (Behind the TCM Center),handbook_topic,Is there a holiday schedule for Clinic A (Behind the TCM Center)?
+AskA User Guide,handbook_topic,Where can I find the AskA User Guide?
+AskA User Guide,handbook_topic,What is the purpose of the AskA User Guide?
+AskA User Guide,handbook_topic,"I lost my copy of the AskA User Guide, where can I download it?"
+Cashless Payment Guide (XMUM),handbook_topic,Where can I find the Cashless Payment Guide (XMUM)?
+Cashless Payment Guide (XMUM),handbook_topic,What is the Cashless Payment Guide (XMUM) for?
+Cashless Payment Guide (XMUM),handbook_topic,I need help with the Cashless Payment Guide (XMUM).
+Library Study Room Booking Guide,handbook_topic,Where can I find the Library Study Room Booking Guide?
+Library Study Room Booking Guide,handbook_topic,I'm having trouble finding the Library Study Room Booking Guide.
+Library Study Room Booking Guide,handbook_topic,What's in the Library Study Room Booking Guide?
+KTV Near XMUM,handbook_topic,I'm looking for KTV places near my dorm
+KTV Near XMUM,handbook_topic,What are the popular KTVs around XMUM?
+KTV Near XMUM,handbook_topic,Can someone recommend a good KTV spot near our university?
+KTV Near XMUM,handbook_topic,Are there any discounts available at the KTV Near XMUM?
+Bicycle Parking Guide,handbook_topic,Where is the Bicycle Parking Guide on our campus?
+Bicycle Parking Guide,handbook_topic,"I need help with the Bicycle Parking Guide, where can I find it?"
+Bicycle Parking Guide,handbook_topic,Can someone show me how to use the Bicycle Parking Guide?
+Bicycle Parking Guide,handbook_topic,How do I access the Bicycle Parking Guide?
+Milk Tea Shops Near XMUM,handbook_topic,What are the Milk Tea Shops Near XMUM?
+Milk Tea Shops Near XMUM,handbook_topic,I want to find a place that serves great milk tea near Xiamen University Malaysia
+Milk Tea Shops Near XMUM,handbook_topic,Can you recommend some good milk tea shops around XMUM campus
+Search for Books in the Library,handbook_topic,I have a question about Search for Books in the Library
+Search for Books in the Library,handbook_topic,Can you tell me more about Search for Books in the Library?
+Search for Books in the Library,handbook_topic,What is Search for Books in the Library all about?
+Print in the Library (via Computer),handbook_topic,How do I use Print in the Library (via Computer)?
+Print in the Library (via Computer),handbook_topic,What are the instructions for using Print in the Library (via Computer)?
+Print in the Library (via USB),handbook_topic,How do I use Print in the Library (via USB) to print my document?
+Print in the Library (via USB),handbook_topic,What are the steps for printing via Print in the Library (via USB)?
+Request a Refund for Self-Service Printing,handbook_topic,How do I Request a Refund for Self-Service Printing?
+Request a Refund for Self-Service Printing,handbook_topic,I need help with the process of Request a Refund for Self-Service Printing
+Request a Refund for Self-Service Printing,handbook_topic,Can you tell me more about Request a Refund for Self-Service Printing?
+Use Laundry and Drying Machines,handbook_topic,How do I use the Laundry and Drying Machines?
+Use Laundry and Drying Machines,handbook_topic,What is the process of using Laundry and Drying Machines?
+Use Laundry and Drying Machines,handbook_topic,Can anyone help me understand how to use the Use Laundry and Drying Machines?
+Use Dry Cleaning Service,handbook_topic,I want to know about using the Use Dry Cleaning Service
+Use Dry Cleaning Service,handbook_topic,How do I use the Use Dry Cleaning Service?
+Use Dry Cleaning Service,handbook_topic,What is the process for using the Use Dry Cleaning Service?
+Withdraw Money from an ATM on Campus,handbook_topic,How do I Withdraw Money from an ATM on Campus?
+Withdraw Money from an ATM on Campus,handbook_topic,Where can I find the Withdraw Money from an ATM on Campus guide?
+Withdraw Money from an ATM on Campus,handbook_topic,"I need help with Withdraw Money from an ATM on Campus, what are the steps?"
+"Campus Coffee Shops, Coffee Machines, and Vending Machine Locations",handbook_topic,"Where can I find the locations of Campus Coffee Shops, Coffee Machines, and Vending Machine Locations?"
+"Campus Coffee Shops, Coffee Machines, and Vending Machine Locations",handbook_topic,"What are the hours of operation for Campus Coffee Shops, Coffee Machines, and Vending Machine Locations?"
+"Campus Coffee Shops, Coffee Machines, and Vending Machine Locations",handbook_topic,"How do I report a maintenance issue with one of the machines at Campus Coffee Shops, Coffee Machines, and Vending Machine Locations?"
+School Email and Campus ID,handbook_topic,How do I reset my School Email and Campus ID password?
+School Email and Campus ID,handbook_topic,What if I forget my School Email and Campus ID?
+School Email and Campus ID,handbook_topic,Can someone else use my School Email and Campus ID?
+View Timetable,handbook_topic,How do I view my timetable online
+View Timetable,handbook_topic,I want to check the View Timetable on the student portal
+Course Registration,handbook_topic,How do I register for courses?
+Course Registration,handbook_topic,When is the course registration deadline?
+Course Retake (Resit),handbook_topic,How do I apply for Course Retake (Resit)?
+Course Retake (Resit),handbook_topic,What are the eligibility criteria for Course Retake (Resit)?
+Attendance and Leave,handbook_topic,I want to know more about Attendance and Leave
+Attendance and Leave,handbook_topic,How can I manage my Attendance and Leave?
+Attendance and Leave,handbook_topic,What are the rules for Attendance and Leave?
+Public Holiday Rescheduling,handbook_topic,I want to know more about Public Holiday Rescheduling
+Public Holiday Rescheduling,handbook_topic,How does Public Holiday Rescheduling affect my exam schedule?
+Public Holiday Rescheduling,handbook_topic,Can you explain the details of Public Holiday Rescheduling?
+Exam Guide,handbook_topic,Where can I find the Exam Guide?
+Exam Guide,handbook_topic,Can someone help me with the Exam Guide?
+Exam Guide,handbook_topic,How do I access the Exam Guide?
+Contact Information,handbook_topic,How do I find the Contact Information for university facilities?
+Contact Information,handbook_topic,What is the Contact Information for student services on campus?
+Contact Information,handbook_topic,Where can I get the Contact Information for academic advisors?
+Clubs and Societies at XMUM,handbook_topic,What are the activities offered by Clubs and Societies at XMUM?
+Clubs and Societies at XMUM,handbook_topic,Can I find information about sports teams in Clubs and Societies at XMUM?
