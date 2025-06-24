@@ -1,102 +1,114 @@
 {
   "B1 Activity Building": {
     "Location": "East side of campus",
-    "Floors": ["LG floor", "G floor", "1st floor", "2nd floor", "3rd floor"],
-    "Facilities": {
-      "Supermarket": {
-        "Location": "LG floor",
-        "Opening Hours": {
-          "Monday to Friday": "8:30am-9:30pm",
-          "Weekends": "9:00am-9:00pm"
-        },
-        "Features": "Largest supermarket on campus, provides various goods and services"
-      },
-      "Dining Area": {
-        "Location": "G floor",
-        "Features": "Has multiple dining tables and open space"
-      },
-      "ATM": {
-        "Location": "G floor atrium",
-        "Features": "Supports UnionPay/Visa/MasterCard withdrawals"
-      },
-      "IELTS Office": {
-        "Location": "G floor",
-        "Features": "Provides IELTS language information"
-      },
-      "Yoga Room": {
-        "Location": "G floor",
-        "Features": "For yoga club use"
-      },
-      "Traditional Chinese Medicine Clinic": {
-        "Location": "G floor",
-        "Features": "Provides TCM diagnosis and treatment services, free consultation"
-      },
-      "PluXHealth Clinic": {
-        "Location": "G floor",
-        "Opening Hours": {
-          "Monday to Sunday": "9:00am-1:00pm, 2:00pm-5:00pm"
-        },
-        "Features": "School clinic, provides medical services"
-      },
-      "Maintenance Office": {
-        "Location": "G floor",
-        "Features": "Dormitory maintenance requests"
-      },
-      "Admissions Office": {
-        "Location": "G floor",
-        "Features": "Local student inquiries"
-      },
-      "Sports Fields": {
-        "Location": "Outside G floor",
-        "Facilities": ["Volleyball court", "Tennis court", "Small football field", "Basketball court"]
-      },
-      "Stadium": {
-        "Location": "Outside G floor",
-        "Features": "Hosts school events"
-      },
-      "Swimming Pool": {
-        "Location": "3rd floor",
-        "Opening Hours": "Tuesday to Sunday 16:00-22:00",
-        "Features": "Water depth 1.3m-2m, swim cap required"
-      },
-      "Gym": {
-        "Location": "3rd floor",
-        "Features": "Divided into anaerobic and aerobic areas"
-      },
-      "Infirmary": {
-        "Location": "3rd floor",
-        "Opening Hours": "9:00am-10:00pm",
-        "Features": "Cash only"
-      },
-      "Badminton Court": {
-        "Location": "3rd floor",
-        "Features": "Need to bring your own racket"
-      }
-    }
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "{TEDIAN}",
+    "Floors": ["LG floor", "G floor", "1st floor", "2nd floor", "3rd floor"]
   },
   "A Zone Teaching Buildings": {
     "Location": "South side of campus",
-    "Facilities": {
-      "A1/A2/A4/A5 Teaching Buildings": {
-        "Location": "A Zone",
-        "Floor Usage": {
-          "G floor-3rd floor": "Classrooms",
-          "4th floor and above": "Faculty offices",
-          "LG floor": "Parking lot"
-        }
-      },
-      "A3 Library": {
-        "Location": "A3",
-        "Opening Hours": {
-          "Monday to Friday": "9:00am-10:00pm",
-          "Weekends and holidays": "9:00am-5:00pm"
-        },
-        "Features": "Study rooms can be reserved, movie theater on 1st floor"
-      },
-      "Cafe": {
-        "Location": "A3 G floor",
-        "Features": "ZUS coffee"
-      }
-    }
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "{TEDIAN}"
+  },
+  "Supermarket": {
+    "Location": "B1, LG floor",
+    "Opening Hours": {
+      "Monday to Friday": "8:30am-9:30pm",
+      "Weekends": "9:00am-9:00pm"
+    },
+    "Features": "Largest supermarket on campus, provides various goods and services"
+  },
+  "Dining Area": {
+    "Location": "B1, G floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "Has multiple dining tables and open space"
+  },
+  "ATM": {
+    "Location": "B1, G floor atrium",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "Supports UnionPay/Visa/MasterCard withdrawals"
+  },
+  "IELTS Office": {
+    "Location": "B1, G floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "Provides IELTS language information"
+  },
+  "Yoga Room": {
+    "Location": "B1, G floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "For yoga club use"
+  },
+  "Traditional Chinese Medicine Clinic": {
+    "Location": "B1, G floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "Provides TCM diagnosis and treatment services, free consultation"
+  },
+  "PluXHealth Clinic": {
+    "Location": "B1, G floor",
+    "Opening Hours": {
+      "Monday to Sunday": "9:00am-1:00pm, 2:00pm-5:00pm"
+    },
+    "Features": "School clinic, provides medical services"
+  },
+  "Maintenance Office": {
+    "Location": "B1, G floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "Dormitory maintenance requests"
+  },
+  "Admissions Office": {
+    "Location": "B1, G floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "Local student inquiries"
+  },
+  "Sports Fields": {
+    "Location": "B1, Outside G floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "{TEDIAN}",
+    "Facilities": ["Volleyball court", "Tennis court", "Small football field", "Basketball court"]
+  },
+  "Stadium": {
+    "Location": "B1, Outside G floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "Hosts school events"
+  },
+  "Swimming Pool": {
+    "Location": "B1, 3rd floor",
+    "Opening Hours": "Tuesday to Sunday 16:00-22:00",
+    "Features": "Water depth 1.3m-2m, swim cap required"
+  },
+  "Gym": {
+    "Location": "B1, 3rd floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "Divided into anaerobic and aerobic areas"
+  },
+  "Infirmary": {
+    "Location": "B1, 3rd floor",
+    "Opening Hours": "9:00am-10:00pm",
+    "Features": "Cash only"
+  },
+  "Badminton Court": {
+    "Location": "B1, 3rd floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "Need to bring your own racket"
+  },
+  "A1/A2/A4/A5 Teaching Buildings": {
+    "Location": "A Zone, South side of campus",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": { "Floor Usage": "G floor-3rd floor: Classrooms",
+      "4th floor and above": "Faculty offices",
+      "LG floor": "Parking lot"}
+    },
+  "A3 Library": {
+    "Location": "A Zone, A3",
+    "Opening Hours": {
+      "Monday to Friday": "9:00am-10:00pm",
+      "Weekends and holidays": "9:00am-5:00pm"
+    },
+    "Features": "Study rooms can be reserved, movie theater on 1st floor"
+  },
+  "Cafe": {
+    "Location": "A Zone, A3 G floor",
+    "Opening Hours": "{SHIJIAN}",
+    "Features": "ZUS coffee"
   }
 }
