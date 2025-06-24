@@ -1,229 +1,227 @@
 {
   "SOI 55 THAI KITCHEN": {
     "Features": ["Authentic Thai chain restaurant", "Curry dishes", "Mango sticky rice"],
-    "Status": "Open",
-    "Location": "Roadside shop 01"
+    "Location": "Roadside shop 01",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "Klinik Sunsuria Medical": {
     "Features": ["Clinic", "Health checkup", "Physical therapy", "Ultrasound", "General practitioner"],
-    "Status": "Open",
-    "Location": "Roadside shop 02"
+    "Location": "Roadside shop 02",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "麻辣诱惑": {
     "Features": ["Spicy dry pot", "Spicy hot pot", "Braised chicken rice", "Sour and spicy noodles", "Dumplings", "Cold noodles"],
-    "Status": "Open",
-    "Location": "Roadside shop 03"
+    "Location": "Roadside shop 03",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "Secret Recipe": {
     "Features": ["Malaysian local dessert chain", "Small cakes", "Cheese tarts", "Pasta", "Birthday cakes"],
-    "Recommendations": ["Blueberry cheesecake", "White chocolate hazelnut cake", "Basque cake"],
-    "Status": "Open",
-    "Location": "Roadside shop 04"
+    "Location": "Roadside shop 04",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "啵啵鱼泡泡鸡PaoPaoPot": {
     "Features": ["Claypot fish", "Claypot chicken"],
-    "Status": "Open",
-    "Location": "Roadside shop 05"
+    "Location": "Roadside shop 05",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "沙县小吃": {
     "Features": ["Shaxian snacks"],
-    "Status": "Renovating",
-    "Location": "Roadside shop 06"
+    "Location": "Roadside shop 06",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "柳州传统螺蛳粉 & Monster Boba": {
     "Features": ["Luosifen (river snail rice noodles)", "Clam rice noodles"],
-    "Status": "Open",
-    "Location": "Roadside shop 07"
+    "Location": "Roadside shop 07",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "颜渌渌GAN'S LOK LOK": {
     "Features": ["Local skewer restaurant", "Boiled skewers", "Fried skewers", "Various flavors"],
-    "Status": "Open",
-    "Location": "Roadside shop 08"
+    "Location": "Roadside shop 08",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "KLINIK COSMOMEDIC": {
     "Features": ["Clinic"],
-    "Status": "Coming soon",
-    "Location": "Roadside shop 09"
+    "Location": "Roadside shop 09",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "秀海福麻辣烫": {
     "Features": ["Spicy hot pot", "Spicy soup base"],
-    "Status": "Open",
-    "Location": "Roadside shop 10"
+    "Location": "Roadside shop 10",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "KK便利店": {
     "Features": ["Malaysian local convenience store chain", "24-hour operation"],
-    "Status": "Open",
-    "Location": "Roadside shop 11"
+    "Location": "Roadside shop 11",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "蜜雪冰城MIXUE": {
     "Features": ["Beverage shop", "Peach oolong tea"],
-    "Status": "Open",
-    "Location": "Roadside shop 12"
+    "Location": "Roadside shop 12",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "星巴克STARBUCKS": {
     "Features": ["Coffee shop", "Matcha latte", "Double coffee cheesecake", "Pandan coconut cake"],
-    "Status": "Open",
-    "Location": "Roadside shop 13"
+    "Location": "Roadside shop 13",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "KIMS SALON": {
     "Features": ["Chinese hair salon", "Hair coloring", "Perm"],
-    "Status": "Open",
-    "Location": "Roadside shop 14"
+    "Location": "Roadside shop 14",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "7-11便利店": {
     "Features": ["Convenience store", "Cold drinks", "Instant noodles"],
-    "Status": "Open",
-    "Location": "Roadside shop 15"
+    "Location": "Roadside shop 15",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "Stella Vet Clinic": {
     "Features": ["Pet clinic", "Cats", "Dogs"],
-    "Status": "Open",
-    "Location": "Roadside shop 16"
+    "Location": "Roadside shop 16",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "迈利斯MILLIES VISION": {
     "Features": ["Eyeglasses store", "Eyeglasses prescription", "Vision test"],
-    "Status": "Coming soon",
-    "Location": "Roadside shop 17"
+    "Location": "Roadside shop 17",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "你好，同学Hey Stationery": {
     "Features": ["Stationery store", "Gift bags", "Document printing", "Photo printing"],
-    "Status": "Open",
-    "Location": "Roadside shop 18"
+    "Location": "Roadside shop 18",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "食坊EatHami": {
     "Features": ["Healthy food restaurant", "Fitness meals"],
-    "Status": "Open",
-    "Location": "Roadside shop 19"
+    "Location": "Roadside shop 19",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "THE GRIND": {
     "Features": ["Western restaurant", "Steak", "Pasta"],
-    "Status": "Open",
-    "Location": "Roadside shop 20"
+    "Location": "Roadside shop 20",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "薯嘟嘟DU-DU POTATO": {
     "Features": ["Chinese supermarket", "Frozen hotpot ingredients", "Dumplings", "Chinese seasonings", "Snacks"],
-    "Status": "Open",
-    "Location": "Roadside shop 21"
+    "Location": "Roadside shop 21",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "闽桂中国超市MING GUI": {
     "Features": ["Chinese supermarket", "Master Kong instant noodles", "White Elephant instant noodles", "Milk tea"],
-    "Status": "Open",
-    "Location": "Roadside shop 22"
+    "Location": "Roadside shop 22",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "蜀都风味": {
     "Features": ["Sichuan hot pot restaurant"],
-    "Status": "Open",
-    "Location": "Roadside shop 23"
+    "Location": "Roadside shop 23",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "三千尺The Flows gourmet": {
     "Features": ["Noodles", "Beef noodles", "Claypot noodles", "Strong seasoning"],
-    "Status": "Open",
-    "Location": "Roadside shop 24"
+    "Location": "Roadside shop 24",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "SITRUS": {
     "Features": ["Fruit shop", "Fresh fruits", "Delivery"],
-    "Status": "Open",
-    "Location": "Roadside shop 25"
+    "Location": "Roadside shop 25",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "陕西面馆": {
     "Features": ["Shaanxi noodle restaurant", "Chewy noodles", "Free noodle refills"],
-    "Status": "Open",
-    "Location": "Roadside shop 26"
+    "Location": "Roadside shop 26",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "Nasi Kandar Al-Hajeera": {
     "Features": ["Mamak stall", "24-hour operation"],
-    "Recommendations": ["Bird's nest pancake", "Fried Indomie", "Fried chicken", "Teh tarik", "Cendol", "Roti canai", "Fried instant noodles", "Nasi kandar", "Naan bread", "Tandoori chicken"],
-    "Status": "Open",
-    "Location": "Inner shop 01"
+    "Location": "Inner shop 01",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "鸡公煲": {
     "Features": ["Chicken pot"],
-    "Status": "Coming soon",
-    "Location": "Inner shop 02"
+    "Location": "Inner shop 02",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "54 thai mookata": {
     "Features": ["Thai seafood hot pot buffet"],
-    "Status": "Open",
-    "Location": "Inner shop 03"
+    "Location": "Inner shop 03",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "茶餐室": {
     "Features": ["Chicken rice", "Wonton noodles"],
-    "Status": "Open",
-    "Location": "Inner shop 04"
+    "Location": "Inner shop 04",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "Baskin-Robbins": {
     "Features": ["Ice cream shop", "Ice cream cakes"],
-    "Status": "Open",
-    "Location": "Inner shop 05"
+    "Location": "Inner shop 05",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "串串店？": {
     "Features": ["Skewers"],
-    "Status": "Renovating",
-    "Location": "Inner shop 06"
+    "Location": "Inner shop 06",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "Q EVENT SPACE": {
     "Features": ["Wedding venue"],
-    "Status": "Open",
-    "Location": "Inner shop 07"
+    "Location": "Inner shop 07",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "大熊熊螺蛳粉": {
     "Features": ["Luosifen (river snail rice noodles)"],
-    "Status": "Coming soon",
-    "Location": "Inner shop 08"
+    "Location": "Inner shop 08",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "DOBI SANTAI": {
     "Features": ["Self-service laundry", "24-hour operation", "Washing machines", "Dryers"],
-    "Status": "Open",
-    "Location": "Inner shop 09"
+    "Location": "Inner shop 09",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "Bing Dessert Cafe": {
     "Features": ["Dessert shop", "Shaved ice"],
-    "Status": "Open",
-    "Location": "Inner shop 10"
+    "Location": "Inner shop 10",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "人民书局": {
     "Features": ["Bookstore"],
-    "Status": "Not open yet",
-    "Location": "Inner shop 11"
+    "Location": "Inner shop 11",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "Real Peak Music": {
     "Features": ["DJ studio", "DJ courses", "Karaoke"],
-    "Status": "Open",
-    "Location": "Second floor shop 01"
+    "Location": "Second floor shop 01",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "AHIMSA YOGA": {
     "Features": ["Yoga studio"],
-    "Status": "Open",
-    "Location": "Second floor shop 02"
+    "Location": "Second floor shop 02",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "SENZE CAFF": {
     "Features": ["Cafe", "Set meals"],
-    "Status": "Open",
-    "Location": "Second floor shop 03"
+    "Location": "Second floor shop 03",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "CHATTO": {
     "Features": ["Beverage shop", "Simple meals"],
-    "Status": "Open",
-    "Location": "Second floor shop 04"
+    "Location": "Second floor shop 04",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "KOPI SAIGON": {
     "Features": ["Malay coffee shop", "Nasi lemak", "Fried noodles"],
-    "Status": "Open",
-    "Location": "Second floor shop 05"
+    "Location": "Second floor shop 05",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "GEPREK'ING Fried Chicken": {
     "Features": ["Fried chicken shop"],
-    "Status": "Open",
-    "Location": "Second floor shop 06"
+    "Location": "Second floor shop 06",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "Kafe Lazatnya": {
     "Features": ["Malay coffee shop", "Nasi lemak"],
-    "Status": "Open",
-    "Location": "Second floor shop 07"
+    "Location": "Second floor shop 07",
+    "Opening Hours": "9:00am-10:00pm"
   },
   "拾浮百世": {
     "Features": ["Hunan cuisine restaurant"],
-    "Status": "Open",
-    "Location": "Second floor shop 08"
+    "Location": "Second floor shop 08",
+    "Opening Hours": "9:00am-10:00pm"
   }
 }
