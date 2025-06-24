@@ -1,0 +1,230 @@
+{
+  "SOI 55 THAI KITCHEN": {
+    "Features": ["Authentic Thai chain restaurant", "Curry dishes", "Mango sticky rice"],
+    "Status": "Open",
+    "Location": "Roadside shop 01"
+  },
+  "Klinik Sunsuria Medical": {
+    "Features": ["Clinic", "Health checkup", "Physical therapy", "Ultrasound", "General practitioner"],
+    "Status": "Open",
+    "Location": "Roadside shop 02"
+  },
+  "麻辣诱惑": {
+    "Features": ["Spicy dry pot", "Spicy hot pot", "Braised chicken rice", "Sour and spicy noodles", "Dumplings", "Cold noodles"],
+    "Status": "Open",
+    "Location": "Roadside shop 03"
+  },
+  "Secret Recipe": {
+    "Features": ["Malaysian local dessert chain", "Small cakes", "Cheese tarts", "Pasta", "Birthday cakes"],
+    "Recommendations": ["Blueberry cheesecake", "White chocolate hazelnut cake", "Basque cake"],
+    "Status": "Open",
+    "Location": "Roadside shop 04"
+  },
+  "啵啵鱼泡泡鸡PaoPaoPot": {
+    "Features": ["Claypot fish", "Claypot chicken"],
+    "Status": "Open",
+    "Location": "Roadside shop 05"
+  },
+  "沙县小吃": {
+    "Features": ["Shaxian snacks"],
+    "Status": "Renovating",
+    "Location": "Roadside shop 06"
+  },
+  "柳州传统螺蛳粉 & Monster Boba": {
+    "Features": ["Luosifen (river snail rice noodles)", "Clam rice noodles"],
+    "Status": "Open",
+    "Location": "Roadside shop 07"
+  },
+  "颜渌渌GAN'S LOK LOK": {
+    "Features": ["Local skewer restaurant", "Boiled skewers", "Fried skewers", "Various flavors"],
+    "Status": "Open",
+    "Location": "Roadside shop 08"
+  },
+  "KLINIK COSMOMEDIC": {
+    "Features": ["Clinic"],
+    "Status": "Coming soon",
+    "Location": "Roadside shop 09"
+  },
+  "秀海福麻辣烫": {
+    "Features": ["Spicy hot pot", "Spicy soup base"],
+    "Status": "Open",
+    "Location": "Roadside shop 10"
+  },
+  "KK便利店": {
+    "Features": ["Malaysian local convenience store chain", "24-hour operation"],
+    "Status": "Open",
+    "Location": "Roadside shop 11"
+  },
+  "蜜雪冰城MIXUE": {
+    "Features": ["Beverage shop", "Peach oolong tea"],
+    "Status": "Open",
+    "Location": "Roadside shop 12"
+  },
+  "星巴克STARBUCKS": {
+    "Features": ["Coffee shop", "Matcha latte", "Double coffee cheesecake", "Pandan coconut cake"],
+    "Status": "Open",
+    "Location": "Roadside shop 13"
+  },
+  "KIMS SALON": {
+    "Features": ["Chinese hair salon", "Hair coloring", "Perm"],
+    "Status": "Open",
+    "Location": "Roadside shop 14"
+  },
+  "7-11便利店": {
+    "Features": ["Convenience store", "Cold drinks", "Instant noodles"],
+    "Status": "Open",
+    "Location": "Roadside shop 15"
+  },
+  "Stella Vet Clinic": {
+    "Features": ["Pet clinic", "Cats", "Dogs"],
+    "Status": "Open",
+    "Location": "Roadside shop 16"
+  },
+  "迈利斯MILLIES VISION": {
+    "Features": ["Eyeglasses store", "Eyeglasses prescription", "Vision test"],
+    "Status": "Coming soon",
+    "Location": "Roadside shop 17"
+  },
+  "你好，同学Hey Stationery": {
+    "Features": ["Stationery store", "Gift bags", "Document printing", "Photo printing"],
+    "Status": "Open",
+    "Location": "Roadside shop 18"
+  },
+  "食坊EatHami": {
+    "Features": ["Healthy food restaurant", "Fitness meals"],
+    "Status": "Open",
+    "Location": "Roadside shop 19"
+  },
+  "THE GRIND": {
+    "Features": ["Western restaurant", "Steak", "Pasta"],
+    "Status": "Open",
+    "Location": "Roadside shop 20"
+  },
+  "薯嘟嘟DU-DU POTATO": {
+    "Features": ["Chinese supermarket", "Frozen hotpot ingredients", "Dumplings", "Chinese seasonings", "Snacks"],
+    "Status": "Open",
+    "Location": "Roadside shop 21"
+  },
+  "闽桂中国超市MING GUI": {
+    "Features": ["Chinese supermarket", "Master Kong instant noodles", "White Elephant instant noodles", "Milk tea"],
+    "Status": "Open",
+    "Location": "Roadside shop 22"
+  },
+  "蜀都风味": {
+    "Features": ["Sichuan hot pot restaurant"],
+    "Status": "Open",
+    "Location": "Roadside shop 23"
+  },
+  "三千尺The Flows gourmet": {
+    "Features": ["Noodles", "Beef noodles", "Claypot noodles", "Strong seasoning"],
+    "Status": "Open",
+    "Location": "Roadside shop 24"
+  },
+  "SITRUS": {
+    "Features": ["Fruit shop", "Fresh fruits", "Delivery"],
+    "Status": "Open",
+    "Location": "Roadside shop 25"
+  },
+  "陕西面馆": {
+    "Features": ["Shaanxi noodle restaurant", "Chewy noodles", "Free noodle refills"],
+    "Status": "Open",
+    "Location": "Roadside shop 26"
+  },
+  "Nasi Kandar Al-Hajeera": {
+    "Features": ["Mamak stall", "24-hour operation"],
+    "Recommendations": ["Bird's nest pancake", "Fried Indomie", "Fried chicken", "Teh tarik", "Cendol", "Roti canai", "Fried instant noodles", "Nasi kandar", "Naan bread", "Tandoori chicken"],
+    "Status": "Open",
+    "Location": "Inner shop 01"
+  },
+  "鸡公煲": {
+    "Features": ["Chicken pot"],
+    "Status": "Coming soon",
+    "Location": "Inner shop 02"
+  },
+  "54 thai mookata": {
+    "Features": ["Thai seafood hot pot buffet"],
+    "Status": "Open",
+    "Location": "Inner shop 03"
+  },
+  "茶餐室": {
+    "Features": ["Chicken rice", "Wonton noodles"],
+    "Status": "Open",
+    "Location": "Inner shop 04"
+  },
+  "Baskin-Robbins": {
+    "Features": ["Ice cream shop", "Ice cream cakes"],
+    "Status": "Open",
+    "Location": "Inner shop 05"
+  },
+  "串串店？": {
+    "Features": ["Skewers"],
+    "Status": "Renovating",
+    "Location": "Inner shop 06"
+  },
+  "Q EVENT SPACE": {
+    "Features": ["Wedding venue"],
+    "Status": "Open",
+    "Location": "Inner shop 07"
+  },
+  "大熊熊螺蛳粉": {
+    "Features": ["Luosifen (river snail rice noodles)"],
+    "Status": "Coming soon",
+    "Location": "Inner shop 08"
+  },
+  "DOBI SANTAI": {
+    "Features": ["Self-service laundry", "24-hour operation", "Washing machines", "Dryers"],
+    "Status": "Open",
+    "Location": "Inner shop 09"
+  },
+  "Bing Dessert Cafe": {
+    "Features": ["Dessert shop", "Shaved ice"],
+    "Status": "Open",
+    "Location": "Inner shop 10"
+  },
+  "人民书局": {
+    "Features": ["Bookstore"],
+    "Status": "Not open yet",
+    "Location": "Inner shop 11"
+  },
+  "Real Peak Music": {
+    "Features": ["DJ studio", "DJ courses", "Karaoke"],
+    "Status": "Open",
+    "Location": "Second floor shop 01"
+  },
+  "AHIMSA YOGA": {
+    "Features": ["Yoga studio"],
+    "Status": "Open",
+    "Location": "Second floor shop 02"
+  },
+  "SENZE CAFF": {
+    "Features": ["Cafe", "Set meals"],
+    "Status": "Open",
+    "Location": "Second floor shop 03"
+  },
+  "CHATTO": {
+    "Features": ["Beverage shop", "Simple meals"],
+    "Status": "Open",
+    "Location": "Second floor shop 04"
+  },
+  "KOPI SAIGON": {
+    "Features": ["Malay coffee shop", "Nasi lemak", "Fried noodles"],
+    "Status": "Open",
+    "Location": "Second floor shop 05"
+  },
+  "GEPREK'ING Fried Chicken": {
+    "Features": ["Fried chicken shop"],
+    "Status": "Open",
+    "Location": "Second floor shop 06"
+  },
+  "Kafe Lazatnya": {
+    "Features": ["Malay coffee shop", "Nasi lemak"],
+    "Status": "Open",
+    "Location": "Second floor shop 07"
+  },
+  "拾浮百世": {
+    "Features": ["Hunan cuisine restaurant"],
+    "Status": "Open",
+    "Location": "Second floor shop 08"
+  },
+
+}
