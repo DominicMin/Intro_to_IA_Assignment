@@ -1,0 +1,8 @@
+- [ ] 实体识别有些时候会完全没有实体检测出来
+- [ ] 生成器无法正常工作
+	- [ ] ERROR: list indices must be integers or slices, not str
+	- [ ] 要把知识库中的键和模板中的键完全统一，全部小写
+		- [ ] 目前完成的是restaurant和facility
+	- [ ] ==之后联合开发记住，一定要在最开始想好要求，不然得全部推倒重来==
+	- [ ] 事实上，从意图识别，实体检测模型开始，所有的意图，实体，required info都必须统一
+	- [ ] 

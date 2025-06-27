@@ -171,9 +171,10 @@
     "Location": "Roadside shop 12",
     "Opening Hours": "9:00am-10:00pm"
   },
-  "星巴克STARBUCKS": {
+  "Starbucks": {
+    "restaurant_name": "Starbucks",
     "Features": ["Coffee shop", "Matcha latte", "Double coffee cheesecake", "Pandan coconut cake"],
-    "Location": "Roadside shop 13",
+    "location": "Roadside shop 13",
     "Opening Hours": "9:00am-10:00pm"
   },
   "KIMS SALON": {

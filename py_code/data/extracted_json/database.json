@@ -1,0 +1,607 @@
+{
+    "business":{
+        "possible_intent":["ask_business_location","ask_business_time","ask_business_info"],
+        "business_name":{
+            "business_name": "KK convenience store",
+            "possible_name": ["kk convenience store", "KK Convenience Store"],
+            "location": "Roadside shop 01",
+            "opening_hours": "9:00am-10:00pm",
+            "business_info": "A chain of convenience stores in Malaysia"
+        }
+    },
+   "restaurant": {
+    "possible_intent": ["ask_restaurant_location", "ask_restaurant_time", "ask_restaurant_recommendation"],
+    "xiayicheng": {
+      "restaurant_name":"Xia Yi Cheng",
+      "possible_name": ["Xiayicheng", "xiayicheng", "Xia Yi Cheng"],
+      "location": "D6 Canteen G Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Waffles, shaved ice milkshakes, juices, handmade burgers and instant noodles"
+    },
+    "tuk_tuk_thai_taro": {
+      "restaurant_name": "Tuk Tuk Thai&Taro",
+      "possible_name": ["Tuk Tuk Thai&Taro", "tuk tuk thai taro", "Tuk Tuk Thai", "TukTuk Thai"],
+      "location": "D6 Canteen G Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Thai food and taro balls"
+    },
+    "dashuxia": {
+      "restaurant_name": "Dashuxia",
+      "possible_name": ["Dashuxia", "dashuxia", "Da Shu Xia", "大树下"],
+      "location": "D6 Canteen G Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Chinese cafeteria-style dishes"
+    },
+    "let's_kopitiam": {
+      "restaurant_name": "Let's kopitiam",
+      "possible_name": ["Let's kopitiam", "lets kopitiam", "Kopitiam", "Let's Kopi"],
+      "location": "D6 Canteen G Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Nanyang-style specialty foods and drinks"
+    },
+    "mynews": {
+      "restaurant_name": "Mynews",
+      "possible_name": ["Mynews", "mynews", "My News", "MyNews"],
+      "location": "D6 Canteen G Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Daily necessities and snacks"
+    },
+    "takw_mee_tarik": {
+      "restaurant_name": "Takw Mee Tarik",
+      "possible_name": ["Takw Mee Tarik", "takw mee tarik", "Tarik Mee", "Mee Tarik"],
+      "location": "D6 Canteen 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Lanzhou beef noodles and other Northwestern snacks"
+    },
+    "dajiawang": {
+      "restaurant_name": "Dajiawang",
+      "possible_name": ["Dajiawang", "dajiawang", "Da Jia Wang", "大家旺"],
+      "location": "D6 Canteen 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Roast meat rice and other local Chinese cuisine"
+    },
+    "shuzhiwei": {
+      "restaurant_name": "Shuzhiwei",
+      "possible_name": ["Shuzhiwei", "shuzhiwei", "Shu Zhi Wei", "蜀之味"],
+      "location": "D6 Canteen 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Mala xiangguo and spicy dishes"
+    },
+    "dachengxiaochu": {
+      "restaurant_name": "Dachengxiaochu",
+      "possible_name": ["Dachengxiaochu", "dachengxiaochu", "Da Cheng Xiao Chu", "大城小厨"],
+      "location": "D6 Canteen 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Mixed rice with local Chinese flavors"
+    },
+    "hualianhaoliangcha": {
+      "restaurant_name": "Hualianhaoliangcha",
+      "possible_name": ["Hualianhaoliangcha", "hualianhaoliangcha", "Hua Lian Hao Liang Cha", "华联好凉茶"],
+      "location": "D6 Canteen 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Herbal tea and Chinese medicinal snacks"
+    },
+    "xiaoyunbingshi": {
+      "restaurant_name": "Xiaoyunbingshi",
+      "possible_name": ["Xiaoyunbingshi", "xiaoyunbingshi", "Xiao Yun Bing Shi", "小云冰室"],
+      "location": "D6 Canteen 2nd Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Hong Kong-style tea restaurant"
+    },
+    "dazhizhi": {
+      "restaurant_name": "Dazhizhi",
+      "possible_name": ["Dazhizhi", "dazhizhi", "Da Zhi Zhi", "大拇指"],
+      "location": "D6 Canteen 2nd Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Fried chicken and Japanese udon"
+    },
+    "miaomiaoqingshi": {
+      "restaurant_name": "Miaomiaoqingshi",
+      "possible_name": ["Miaomiaoqingshi", "miaomiaoqingshi", "Miao Miao Qing Shi", "喵喵轻食"],
+      "location": "D6 Canteen 2nd Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Healthy light meals"
+    },
+    "dawanmian": {
+      "restaurant_name": "Dawanmian",
+      "possible_name": ["Dawanmian", "dawanmian", "Da Wan Mian", "大碗面"],
+      "location": "D6 Canteen 2nd Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Clay pot dishes and Chongqing noodles"
+    },
+    "u&i": {
+      "restaurant_name": "U&I",
+      "possible_name": ["U&I", "u and i", "U and I", "ui"],
+      "location": "D6 Canteen 2nd Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "American breakfast"
+    },
+    "xiaotaifeng": {
+      "restaurant_name": "Xiaotaifeng",
+      "possible_name": ["Xiaotaifeng", "xiaotaifeng", "Xiao Tai Feng", "小台枫"],
+      "location": "D6 Canteen 2nd Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Taiwanese snacks"
+    },
+    "restaurant_kabaabish": {
+      "restaurant_name": "Restaurant Kabaabish",
+      "possible_name": ["Restaurant Kabaabish", "restaurant kabaabish", "Kabaabish", "kabaabish"],
+      "location": "D6 Canteen 2nd Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Middle Eastern restaurant"
+    },
+    "sapid": {
+      "restaurant_name": "Sapid",
+      "possible_name": ["Sapid", "sapid", "SAPID"],
+      "location": "B1 Activity Building LG Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Middle Eastern fusion Western food"
+    },
+    "saffron_club": {
+      "restaurant_name": "Saffron Club",
+      "possible_name": ["Saffron Club", "saffron club", "Saffron", "saffron"],
+      "location": "B1 Activity Building LG Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Local Malay cuisine"
+    },
+    "poke_bowl_rice": {
+      "restaurant_name": "Poke Bowl Rice",
+      "possible_name": ["Poke Bowl Rice", "poke bowl rice", "Poke Bowl", "poke bowl"],
+      "location": "B1 Activity Building LG Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Healthy poke bowls"
+    },
+    "zone_u_bakery": {
+      "restaurant_name": "Zone U Bakery",
+      "possible_name": ["Zone U Bakery", "zone u bakery", "Zone U", "ZoneU Bakery"],
+      "location": "B1 Activity Building LG Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Freshly baked bread and cakes"
+    },
+    "zhongminmeishi": {
+      "restaurant_name": "Zhongminmeishi",
+      "possible_name": ["Zhongminmeishi", "zhongminmeishi", "Zhong Min Mei Shi", "中闽美食"],
+      "location": "LY3 Area 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Chinese cafeteria-style dishes"
+    },
+    "beans_express": {
+      "restaurant_name": "Bean's Express",
+      "possible_name": ["Bean's Express", "beans express", "Beans Express", "Bean Express"],
+      "location": "LY3 Area 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Western fast food"
+    },
+    "mad_plate_express": {
+      "restaurant_name": "Mad Plate Express",
+      "possible_name": ["Mad Plate Express", "mad plate express", "Mad Plate", "MadPlate Express"],
+      "location": "LY3 Area 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Japanese teppanyaki"
+    },
+    "xiaojiuzhou": {
+      "restaurant_name": "Xiaojiuzhou",
+      "possible_name": ["Xiaojiuzhou", "xiaojiuzhou", "Xiao Jiu Zhou", "小九州"],
+      "location": "LY3 Area 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Set meal restaurant"
+    },
+    "shanyicheng": {
+      "restaurant_name": "Shanyicheng",
+      "possible_name": ["Shanyicheng", "shanyicheng", "Shan Yi Cheng", "膳一城"],
+      "location": "LY3 Area 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Grocery store"
+    },
+    "penangfengwei": {
+      "restaurant_name": "Penangfengwei",
+      "possible_name": ["Penangfengwei", "penangfengwei", "Penang Feng Wei", "槟城风味"],
+      "location": "LY3 Area 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Penang specialty foods"
+    },
+    "jiaweishixuan": {
+      "restaurant_name": "Jiaweishixuan",
+      "possible_name": ["Jiaweishixuan", "jiaweishixuan", "Jia Wei Shi Xuan", "佳味食轩"],
+      "location": "LY3 Area 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Penang specialty foods"
+    },
+    "chinese_muslim_xiaochao": {
+      "restaurant_name": "Chinese Muslim Xiaochao",
+      "possible_name": ["Chinese Muslim Xiaochao", "chinese muslim xiaochao", "Muslim Xiaochao", "中国穆斯林小炒"],
+      "location": "LY3 Area 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Halal restaurant"
+    },
+    "uni_hotpot": {
+      "restaurant_name": "Uni Hotpot",
+      "possible_name": ["Uni Hotpot", "uni hotpot", "Uni Hot Pot", "有你香锅"],
+      "location": "LY3 Area 1st Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Mala xiangguo and spicy hot pot"
+    },
+    "zus_coffee": {
+      "restaurant_name": "ZUS Coffee",
+      "possible_name": ["ZUS Coffee", "zus coffee", "ZUS", "zus"],
+      "location": "A3 Library LG Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Chain coffee shop"
+    },
+    "lakefront_cafe": {
+      "restaurant_name": "Lakefront Cafe",
+      "possible_name": ["Lakefront Cafe", "lakefront cafe", "Lakefront", "Lake Front Cafe"],
+      "location": "Waterfront Music Hall near LY3 Canteen",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Leisure cafe"
+    },
+    "cotti_coffee": {
+      "restaurant_name": "Cotti Coffee",
+      "possible_name": ["Cotti Coffee", "cotti coffee", "Cotti", "cotti"],
+      "location": "XMUM IAEC G Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Coffee shop"
+    },
+    "bo_ya_xuan_restaurant": {
+      "restaurant_name": "Bo Ya Xuan Restaurant",
+      "possible_name": ["Bo Ya Xuan Restaurant", "bo ya xuan restaurant", "Bo Ya Xuan", "博雅轩"],
+      "location": "XMUM IAEC LG Floor",
+      "opening_hours": "unknown",
+      "recommendation_reason": "Restaurant"
+    },
+    "soi_55_thai_kitchen": {
+      "restaurant_name": "SOI 55 THAI KITCHEN",
+      "possible_name": ["SOI 55 THAI KITCHEN", "soi 55 thai kitchen", "SOI 55", "Thai Kitchen"],
+      "location": "Bell Avenue Roadside",
+      "opening_hours": "unknown",
+      "recommendation_reason": "It's an authentic Thai chain restaurant with curry dishes and mango sticky rice"
+    },
+    "starbucks": {
+      "restaurant_name": "Starbucks",
+      "possible_name": ["Starbucks", "starbucks", "STARBUCKS", "星巴克"],
+      "location": "Bell Avenue Roadside",
+      "opening_hours": "unknown",
+      "recommendation_reason": "It's a coffee shop with various drinks and snacks"
+    }
+  },
+    "facility": {
+    "possible_intent": ["ask_facility_location", "ask_facility_time", "ask_facility_info"],
+    "b1_supermarket": {
+      "facility_name": "B1 Supermarket",
+      "possible_name": ["b1 supermarket", "B1 Super Market"],
+      "location": "B1 Activity Building LG Floor",
+      "opening_hours": "Monday to Friday: 8:30am-9:30pm, Weekends: 9:00am-9:00pm",
+      "facility_info": "It's the largest supermarket on campus, provides various goods and services"
+    },
+    "b1_dining_area": {
+      "facility_name": "B1 Dining Area",
+      "possible_name": ["b1 dining area", "B1 Dining"],
+      "location": "B1 Activity Building G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It has multiple dining tables and open space"
+    },
+    "atm": {
+      "facility_name": "ATM",
+      "possible_name": ["atm", "Cash Machine"],
+      "location": "B1 Activity Building G Floor",
+      "opening_hours": "24 hours",
+      "facility_info": "It supports UnionPay/Visa/MasterCard withdrawals"
+    },
+    "ielts_office": {
+      "facility_name": "IELTS Office",
+      "possible_name": ["ielts office", "IELTS Centre"],
+      "location": "B1 Activity Building G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It provides IELTS language information"
+    },
+    "yoga_room": {
+      "facility_name": "Yoga Room",
+      "possible_name": ["yoga room", "Yoga Studio"],
+      "location": "B1 Activity Building G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It's for yoga club use"
+    },
+    "tcm_clinic": {
+      "facility_name": "Traditional Chinese Medicine Clinic",
+      "possible_name": ["tcm clinic", "TCM Clinic"],
+      "location": "B1 Activity Building G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It provides TCM diagnosis and treatment services, free consultation"
+    },
+    "pluxhealth_clinic": {
+      "facility_name": "PluXHealth Clinic",
+      "possible_name": ["pluxhealth clinic", "PluX Health"],
+      "location": "B1 Activity Building G Floor",
+      "opening_hours": "Monday to Sunday: 9:00am-1:00pm, 2:00pm-5:00pm",
+      "facility_info": "It's a school clinic, provides medical services"
+    },
+    "maintenance_office": {
+      "facility_name": "Maintenance Office",
+      "possible_name": ["maintenance office", "Repair Office"],
+      "location": "B1 Activity Building G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It's for dormitory maintenance requests"
+    },
+    "admissions_office": {
+      "facility_name": "Admissions Office",
+      "possible_name": ["admissions office", "Admission Office"],
+      "location": "B1 Activity Building G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It's for local student inquiries"
+    },
+    "volleyball_court": {
+      "facility_name": "Volleyball Court",
+      "possible_name": ["volleyball court", "Volley Ball Court"],
+      "location": "B1 Activity Building Outside G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It's a sports field for volleyball"
+    },
+    "tennis_court": {
+      "facility_name": "Tennis Court",
+      "possible_name": ["tennis court", "Tennis Field"],
+      "location": "B1 Activity Building Outside G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It's a sports field for tennis"
+    },
+    "small_football_field": {
+      "facility_name": "Small Football Field",
+      "possible_name": ["small football field", "Football Field"],
+      "location": "B1 Activity Building Outside G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It's a sports field for football"
+    },
+    "basketball_court": {
+      "facility_name": "Basketball Court",
+      "possible_name": ["basketball court", "Basketball Field"],
+      "location": "B1 Activity Building Outside G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It's a sports field for basketball"
+    },
+    "stadium": {
+      "facility_name": "Stadium",
+      "possible_name": ["stadium", "Sports Stadium"],
+      "location": "B1 Activity Building Outside G Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It hosts school sports events like X-energy"
+    },
+    "swimming_pool": {
+      "facility_name": "Swimming Pool",
+      "possible_name": ["swimming pool", "Pool"],
+      "location": "B1 Activity Building 3rd Floor",
+      "opening_hours": "Tuesday to Sunday 16:00-22:00",
+      "facility_info": "It's a swimming pool with a water depth of 1.3m-2m, swim cap required"
+    },
+    "gym": {
+      "facility_name": "Gym",
+      "possible_name": ["gym", "Gymnasium"],
+      "location": "B1 Activity Building 3rd Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It's divided into anaerobic and aerobic areas"
+    },
+    "infirmary": {
+      "facility_name": "Infirmary",
+      "possible_name": ["infirmary", "Medical Centre"],
+      "location": "B1 Activity Building 3rd Floor",
+      "opening_hours": "9:00am-10:00pm",
+      "facility_info": "It's a medical facility with cash only"
+    },
+    "badminton_court": {
+      "facility_name": "Badminton Court",
+      "possible_name": ["badminton court", "Badminton Field"],
+      "location": "B1 Activity Building 2nd Floor",
+      "opening_hours": "unknown",
+      "facility_info": "It's a badminton court with a racket required"
+    },
+    "a1_teaching_building": {
+      "facility_name": "A1 Teaching Building",
+      "possible_name": ["a1 teaching building", "A1 Building"],
+      "location": "A Zone South Side of Campus",
+      "opening_hours": "unknown",
+      "facility_info": "G floor-3rd floor: Classrooms, 4th floor and above: Faculty offices, LG floor: Parking lot"
+    },
+    "a2_teaching_building": {
+      "facility_name": "A2 Teaching Building",
+      "possible_name": ["a2 teaching building", "A2 Building"],
+      "location": "A Zone South Side of Campus",
+      "opening_hours": "unknown",
+      "facility_info": "G floor-3rd floor: Classrooms, 4th floor and above: Faculty offices, LG floor: Parking lot"
+    },
+    "a4_teaching_building": {
+      "facility_name": "A4 Teaching Building",
+      "possible_name": ["a4 teaching building", "A4 Building"],
+      "location": "A Zone South Side of Campus",
+      "opening_hours": "unknown",
+      "facility_info": "G floor-3rd floor: Classrooms, 4th floor and above: Faculty offices, LG floor: Parking lot"
+    },
+    "a5_teaching_building": {
+      "facility_name": "A5 Teaching Building",
+      "possible_name": ["a5 teaching building", "A5 Building"],
+      "location": "A Zone South Side of Campus",
+      "opening_hours": "unknown",
+      "facility_info": "G floor-3rd floor: Classrooms, 4th floor and above: Faculty offices, LG floor: Parking lot"
+    },
+    "library": {
+      "facility_name": "Library",
+      "possible_name": ["library", "A3 Library"],
+      "location": "Building A3 at the south side of campus",
+      "opening_hours": "Monday to Friday: 9:00am-10:00pm, Weekends and holidays: 9:00am-5:00pm",
+      "facility_info": "It has study rooms that can be reserved, and a movie theater on the 1st floor"
+    }
+  },
+    "building":{
+        "possible_intent":["ask_building_location","ask_building_include"],
+        "building_name":{
+            "building_name": "A3 library",
+            "location": "Roadside shop 13",
+            "building_include": "A chain of coffee shops in Malaysia"
+        }
+    },
+    "handbook": {
+  "possible_intent": ["ask_handbook_info"],
+  "birthday_cake_recommendations": {
+    "handbook_info_name": "Birthday Cake Recommendations",
+    "possible_name": ["Birthday Cake Recommendations", "birthday cake recommendations", "cake recommendations", "birthday cake", "cake shops"],
+    "handbook_info": "For birthday cakes near XMUM, you have several options: Secret Recipe is located in Bell opposite the school, offering delicious local cakes that are slightly sweet. Baskin Robbins, also in Bell, specializes in ice cream cakes with attractive designs but at higher prices. Baker's Cottage is located in Kota Warisan, about 5 minutes drive from campus, providing a wide variety of cakes. Lachér Patisserie specializes in French-style desserts and offers online ordering with delivery to campus via Lalamove (website: lacherpatisserie.com)."
+  },
+  "on_campus_clinics": {
+    "handbook_info_name": "On-Campus Clinics",
+    "possible_name": ["On-Campus Clinics", "on campus clinics", "campus clinic", "medical services", "clinic information"],
+    "handbook_info": "XMUM has two on-campus clinics. Clinic A is located behind the Traditional Chinese Medicine Center, offering general medical check-ups, pre-employment/university health screenings, and blood and urine tests. It operates Monday to Sunday from 9:00am-1:00pm and 2:00pm-5:00pm. Clinic B is located on the top floor of B1, between the two swimming pool changing rooms. It operates Monday to Sunday 9:00am-10:00pm (closed during holidays) and accepts cash only. Doctor availability is 9:00am-5:00pm daily."
+  },
+  "aska_user_guide": {
+    "handbook_info_name": "AskA User Guide",
+    "possible_name": ["AskA User Guide", "aska user guide", "aska", "feedback platform", "report issues"],
+    "handbook_info": "AskA is XMUM's integrated feedback platform for resolving IT, library, academic, logistics, and student affairs issues. To log in, use https://app.xmu.edu.my/AskA/Account/Login for general departments or https://app.xmu.edu.my/Maintenance for maintenance issues. To submit a question: select the responsible department, choose the issue category, fill in location details, describe the issue, upload files if needed, enter your contact number, and submit. You can track your questions under 'My Question' in the left panel. Make sure to select the correct department to ensure your issue is addressed properly."
+  },
+  "cashless_payment_guide": {
+    "handbook_info_name": "Cashless Payment Guide",
+    "possible_name": ["Cashless Payment Guide", "cashless payment guide", "payment methods", "how to pay", "ePayment"],
+    "handbook_info": "XMUM offers various cashless payment methods. For tuition, accommodation, and visa fees, use the ePayment portal at http://www.xmu.edu.my/14681/list.htm with China UnionPay, VISA/Master, or local Malaysian bank cards. For electricity and printing fees, use the same portal - note that electricity can only be paid after monthly email notice with RM10 late fee. For meals and daily necessities, use Campus Ecard after recharging online. For local bank cards, ICBC applications are processed monthly at Finance Office B1#216, typically on Fridays 10am-4pm."
+  },
+  "health_and_wellness_services": {
+    "handbook_info_name": "Health and Wellness Services",
+    "possible_name": ["Health and Wellness Services", "health and wellness services", "counselling center", "wellness", "mental health"],
+    "handbook_info": "XMUM provides comprehensive health and wellness services. The Counselling Center is located at B1#111, operating weekdays 10am-5pm, offering individual and group counselling both online and in-person. You can book via walk-in, email (counselling@xmu.edu.my), or online. The Campus Clinic is at B1#307 next to the swimming pool, operated by Qualitas Medical Group, with doctors available 9am-6pm and nurses 9am-10pm on weekdays. The TCM Centre at B1-G01A offers free consultation, acupuncture, and massage services by professionals from China and Malaysia."
+  },
+  "library_study_room_booking": {
+    "handbook_info_name": "Library Study Room Booking Guide",
+    "possible_name": ["Library Study Room Booking Guide", "library study room booking", "book study room", "study room", "library booking"],
+    "handbook_info": "To book a library study room: 1. Go to the university library website (must use campus network - search 'library' in your email to find the link). 2. Navigate to the study room booking section. 3. Click on 'Space Booking' to view available rooms. 4. Select a room marked as 'Available' (rooms highlighted in blue are bookable). 5. Click 'Yes' to confirm your booking."
+  },
+  "ktv_near_xmum": {
+    "handbook_info_name": "KTV Near XMUM",
+    "possible_name": ["KTV Near XMUM", "ktv near xmum", "karaoke", "ktv", "singing"],
+    "handbook_info": "Several KTV options are available near XMUM. Real Peak is located on the 2nd floor of Bell Suites, offering DJ lessons and one KTV room (booking required). Maharaja Karaoke is on the top floor of IOI City Mall with luxurious decoration and student discounts (RM10 for 2 hours Monday-Thursday). Sevenseas Karaoke, also in IOI City Mall, features over 20 themed rooms with unique atmospheres. Big Mouth KTV in Puchong is a popular Malaysian chain with affordable prices and membership discounts."
+  },
+  "bicycle_parking_guide": {
+    "handbook_info_name": "Bicycle Parking Guide",
+    "possible_name": ["Bicycle Parking Guide", "bicycle parking guide", "bike parking", "bicycle parking", "where to park bike"],
+    "handbook_info": "Bicycle parking areas are available in different zones. In D Block, each dormitory building has a dedicated bicycle parking area underneath the building. In LY Block, bicycle racks are usually placed near the main entrance of each dormitory building."
+  },
+  "milk_tea_shops_near_xmum": {
+    "handbook_info_name": "Milk Tea Shops Near XMUM",
+    "possible_name": ["Milk Tea Shops Near XMUM", "milk tea shops near xmum", "milk tea", "bubble tea", "drinks"],
+    "handbook_info": "Popular milk tea shops near XMUM include: WeDrink, located near the campus night market, offering affordable and convenient options for students. Bingxue, located inside Bell Suites opposite campus, is one of the newer shops with a menu similar to Mixue. Mixue, also in Bell Suites, is a well-known brand popular among students for its consistency and low prices, great for quick takeout or casual chats."
+  },
+  "classroom_types_at_xmum": {
+    "handbook_info_name": "Classroom Types at XMUM",
+    "possible_name": ["Classroom Types at XMUM", "classroom types at xmum", "class types", "lecture", "tutorial", "laboratory"],
+    "handbook_info": "XMUM offers various classroom types: Lectures are standard classroom teaching in full English, focusing on comprehension and interaction. Tutorials are discussion-based or practical sessions involving case studies or lab work. Laboratory classes are mainly for science and engineering students, focusing on experimental skills and report writing. Practice-based courses offer hands-on real-world skills training. Study materials are available on Moodle, and attendance is mandatory (missing over 20% may result in exam disqualification)."
+  },
+  "how_to_search_books_in_library": {
+    "handbook_info_name": "How to Search for Books in the Library",
+    "possible_name": ["How to Search for Books in the Library", "search books library", "find books", "library search", "book search"],
+    "handbook_info": "To search for books in the library: 1. Go to https://koha.xmu.edu.my/ 2. Enter the book title, author, or subject keyword in the search bar and click the magnifying-glass icon. 3. Review the results to find the book you need and note its collection location and call number. The call number acts like the book's address on the shelf."
+  },
+  "how_to_locate_books_in_library": {
+    "handbook_info_name": "How to Locate Books in the Library",
+    "possible_name": ["How to Locate Books in the Library", "locate books library", "find books shelf", "library navigation"],
+    "handbook_info": "To locate books in the library: 1. Find the library section labeled with the subject (e.g., 'Mathematics'). 2. Follow the numerical or alphabetical order of call numbers on the book spines (left to right or top to bottom). 3. Pick the book that exactly matches your call number."
+  },
+  "how_to_print_in_library_computer": {
+    "handbook_info_name": "How to Print in the Library via Computer",
+    "possible_name": ["How to Print in the Library via Computer", "print library computer", "library printing", "computer printing"],
+    "handbook_info": "To print via computer in the library: 1. At the first-floor printing area, log in with your student ID and password. 2. Insert USB and open your file. 3. Select 'Virtual Printer on 10.68.12.61' from printer list. 4. Set options in 'Printer Properties'. 5. Enter student ID and password in pop-up. 6. Check PaperCut balance and log out. 7. Go to the printer, swipe your card, select document and press 'Print'. Remember to top up your PaperCut account via ePayment before printing."
+  },
+  "how_to_print_in_library_usb": {
+    "handbook_info_name": "How to Print in the Library via USB",
+    "possible_name": ["How to Print in the Library via USB", "print library usb", "usb printing", "direct printing"],
+    "handbook_info": "To print via USB in the library: 1. Insert USB into the printer's LCD console port. 2. Tap 'Box' button on touchscreen. 3. Browse and select your file (PDF, JPG, or TIFF only). 4. Tap three-dot 'Photo Option' icon and choose print settings. 5. Tap print icon in top right to start printing. 6. After printing, drag down human icon and tap profile icon to log out."
+  },
+  "how_to_scan_in_library": {
+    "handbook_info_name": "How to Scan in the Library",
+    "possible_name": ["How to Scan in the Library", "scan library", "library scanning", "document scanning"],
+    "handbook_info": "To scan in the library: 1. On the printer touchscreen, tap 'Scan and Send'. 2. Tap three-dot icon to open scan settings. 3. Select destination computer name (e.g., LIB-15). 4. Choose black & white or color, single or double-sided, and enter file name if desired. 5. Tap blue 'Start' button. The file will appear in the 'SAMSUNG SCAN' folder on your desktop."
+  },
+  "printing_refund_request": {
+    "handbook_info_name": "How to Request a Refund for Self-Service Printing",
+    "possible_name": ["How to Request a Refund for Self-Service Printing", "printing refund", "refund printing", "printing error refund"],
+    "handbook_info": "To request a printing refund: 1. Log in to PaperCut web interface and screenshot the 'Summary' page. 2. Screenshot 'Transaction History' and 'Recent Print Jobs' showing no print records. 3. At the printer, log in and photograph 'Held Print Jobs' screen. 4. View and photograph error details from 'Errors' section. 5. Email all screenshots to refundxmu@thecopier.com.my. Refunds are processed within about 14 working days."
+  },
+  "how_to_use_laundry_machines": {
+    "handbook_info_name": "How to Use Laundry and Drying Machines",
+    "possible_name": ["How to Use Laundry and Drying Machines", "laundry machines", "washing machines", "dryer", "laundry"],
+    "handbook_info": "To use laundry machines: 1. Place clothes inside washer or dryer and close door. 2. Scan QR code on machine and choose payment method (TNG, Alipay, etc.). 3. Press 'START' button to begin. 4. Remove clothes when cycle finishes. 5. After drying, clean the lint filter for the next user."
+  },
+  "how_to_use_shoe_washing_machine": {
+    "handbook_info_name": "How to Use the Shoe Washing Machine",
+    "possible_name": ["How to Use the Shoe Washing Machine", "shoe washing machine", "wash shoes", "shoe cleaner"],
+    "handbook_info": "To use the shoe washing machine: 1. Put shoes into the shoe washer and add detergent. 2. Pay by card or scan QR code. 3. Press 'Start' and wait for completion. 4. Remove shoes and air-dry when done."
+  },
+  "how_to_use_dry_cleaning": {
+    "handbook_info_name": "How to Use Dry Cleaning Service",
+    "possible_name": ["How to Use Dry Cleaning Service", "dry cleaning", "laundry service", "professional cleaning"],
+    "handbook_info": "To use dry cleaning service: 1. Register or log in at www.laundrybox24.com. 2. Select 'Dropoff' and scan QR code. 3. Enter number of items and select cleaning options. 4. Tap 'Open a Locker', place items inside, and close door. 5. Receive pickup code via SMS/email and pay online. 6. For pickup, select 'Pickup', enter code, and collect items."
+  },
+  "how_to_withdraw_money_atm": {
+    "handbook_info_name": "How to Withdraw Money from Campus ATM",
+    "possible_name": ["How to Withdraw Money from Campus ATM", "atm withdrawal", "withdraw money", "campus atm", "cash withdrawal"],
+    "handbook_info": "To withdraw money from campus ATMs: Locate the ATM - ICBC at D6 Level G (UnionPay only), Maybank and Public Bank at B1 Level G. Insert your card and follow on-screen instructions, always remove card before taking cash. At Maybank/Public Bank, you can use other supported cards and access cardless withdrawal services. Campus ATMs only dispense Malaysian Ringgit and don't accept deposits. Transaction fees depend on your bank."
+  },
+  "campus_coffee_and_vending_locations": {
+    "handbook_info_name": "Campus Coffee Shops and Vending Machine Locations",
+    "possible_name": ["Campus Coffee Shops and Vending Machine Locations", "coffee shops campus", "vending machines", "coffee locations"],
+    "handbook_info": "Coffee shops on campus include: ZUS at A3 Level G (8:00 AM - 9:40 PM), COTTI at Academic Exchange Center Level G (8:00 AM - 9:30 PM), and Aquatic Coffee House at Mini Arena (9:00 AM - 12:00 AM). Self-service coffee machines (24/7) are located at B1.1, A3.1, A2 Level G, D3, D4, D5 Level G (supports bank card & e-wallet). Vending machines are at A5 GF, B1 GF, D1, D2, D3, D4, D5, LY2, LY5 GF (supports TnG, WeChat, Alipay)."
+  },
+  "school_email_and_campus_id": {
+    "handbook_info_name": "School Email and Campus ID Setup",
+    "possible_name": ["School Email and Campus ID Setup", "email setup", "campus id", "login credentials", "password reset"],
+    "handbook_info": "To set up school email and Campus ID: 1. Log in to campus email at www.office.com using IT Office-provided address and initial password. 2. Follow prompts to change email password. 3. Reset Campus ID password at http://id.xmu.edu.my by clicking 'Reset Password' and using the link sent to campus email. 4. Log in to Academic System at http://ac.xmu.edu.my/ as 'student' using student number and new Campus ID password."
+  },
+  "view_timetable": {
+    "handbook_info_name": "How to View Timetable",
+    "possible_name": ["How to View Timetable", "view timetable", "class schedule", "course timetable", "academic schedule"],
+    "handbook_info": "To view your timetable: After logging into the Academic System, click 'Basic Info' → 'Timetable' to view your schedule. Undergraduate courses are categorized as MPU (public compulsory), General Electives, Common Core & Major Core, Major Electives, and Industrial Training. If your timetable isn't uploaded yet, wait for Academic Office notification email and check again later. For full curriculum plan, refer to your Programme Handbook."
+  },
+  "course_registration": {
+    "handbook_info_name": "Course Registration Guide",
+    "possible_name": ["Course Registration Guide", "course registration", "register courses", "add drop courses", "electives"],
+    "handbook_info": "For course registration: Mandatory courses (MPU & Core) are pre-assigned unless you need add/drop or retake. Submit Add/Drop or Course Retake forms between September 19-30 via provided links. For elective courses, log in to Academic System during registration period, click 'Online Registration', select General or Major Elective under 'Classification', and click 'entry' for desired courses. Credit limits: max 21 credits for long semester, max 7 for short semester. Prerequisites apply and course capacity is limited."
+  },
+  "course_retake": {
+    "handbook_info_name": "Course Retake Information",
+    "possible_name": ["Course Retake Information", "course retake", "retake courses", "failed courses", "resit"],
+    "handbook_info": "For course retakes: Failing compulsory courses requires retaking the same course. Failing electives allows retaking the same course or taking similar electives. Retaking passed courses to improve grades replaces CGPA calculation with highest attempt. Submit Course Retake Form between September 19-30. First retake after failing is free. Subsequent retakes, misconduct-related retakes, or grade improvements are charged: Public courses RM 500/credit, Arts & Business RM 500/credit, Science & Engineering RM 550/credit."
+  },
+  "attendance_and_leave": {
+    "handbook_info_name": "Attendance and Leave Policy",
+    "possible_name": ["Attendance and Leave Policy", "attendance policy", "leave application", "class attendance", "absence"],
+    "handbook_info": "Students must attend every class with instructor-recorded attendance. If absent due to illness or emergency, notify instructor and submit leave form with proof to Academic Office within 3 working days of return. Attendance below 80% disqualifies you from final exam for that course. International students with <80% attendance or CGPA <2.0 may face visa renewal issues. To cancel exam ban, submit cancellation form with instructor approval."
+  },
+  "public_holiday_rescheduling": {
+    "handbook_info_name": "Public Holiday Class Rescheduling",
+    "possible_name": ["Public Holiday Class Rescheduling", "holiday rescheduling", "class rescheduling", "public holidays"],
+    "handbook_info": "When public holidays fall on weekdays (Mon-Fri), that day's classes are rescheduled. If a holiday falls on Sunday, Monday becomes a holiday and Monday's classes are rescheduled accordingly."
+  },
+  "exam_guide": {
+    "handbook_info_name": "Exam Guide and Policies",
+    "possible_name": ["Exam Guide and Policies", "exam guide", "examination", "exam policies", "deferred exam"],
+    "handbook_info": "For exams: After notification, confirm exam time, location, and format in Academic System. To apply for deferred exam due to illness/emergency, submit deferred-exam form with proof before the exam. Academic misconduct (cheating, fabrication, plagiarism) is strictly prohibited. Midterm cheating results in zero for that exam; final-exam cheating results in zero for final and course failure; serious cases may lead to expulsion."
+  },
+  "contact_with_instructors": {
+    "handbook_info_name": "How to Contact Instructors",
+    "possible_name": ["How to Contact Instructors", "contact instructors", "instructor email", "office hours", "teacher contact"],
+    "handbook_info": "To contact instructors: Find instructor's email/Teams ID by typing their name in campus email recipient field and selecting auto-complete address. Full-time instructors hold weekly office hours for Q&A - contact TAs for scheduling. Reply promptly to instructor emails to avoid being unreachable."
+  },
+  "course_evaluation": {
+    "handbook_info_name": "Course Evaluation Process",
+    "possible_name": ["Course Evaluation Process", "course evaluation", "student feedback", "teaching evaluation"],
+    "handbook_info": "Complete online teaching evaluations at midterm and end-of-term via Academic System. Participation is required to release your course grades."
+  },
+  "major_transfer_procedures": {
+    "handbook_info_name": "Major Transfer Procedures",
+    "possible_name": ["Major Transfer Procedures", "major transfer", "change major", "transfer programs"],
+    "handbook_info": "For major transfers: After one semester, if you meet English requirement and GPA criteria, apply for intra-faculty transfer per Academic Office guidelines. After one academic year and meeting requirements, you may apply for inter-faculty transfer. Transfers are not allowed before starting your degree program."
+  },
+  "academic_office_contact": {
+    "handbook_info_name": "Academic Office Contact Information",
+    "possible_name": ["Academic Office Contact Information", "academic office", "contact academic office", "academic support"],
+    "handbook_info": "Academic Office operates weekdays 8:30 AM-12:30 PM & 1:30 PM-5:30 PM at Office B1#217. Email: xmumac@xmu.edu.my. For specific course or instructor queries, contact your department's academic officer (details in registration email)."
+  },
+  "clubs_and_societies": {
+    "handbook_info_name": "Clubs and Societies at XMUM",
+    "possible_name": ["Clubs and Societies at XMUM", "student clubs", "societies", "extracurricular activities", "student organizations"],
+    "handbook_info": "XMUM offers various clubs across different categories: Performing Arts (contact Ms. Ming Luan) includes Philharmonic Orchestra, Music Club, Dance Club, Drama Society. Culture & Art (contact Ms. Ming Luan) includes Visual Art Club, Chinese Society, ACG Research Society, Tea Club. General clubs (contact Ms. Laila) include Board Games Society, Debate Society, Photography Society, Tech Club. Service & Volunteerism (contact Mr. Potter) includes First Aid Society, AIESEC, Leo Club. Sports clubs (contact Mr. Ku) include Badminton, Swimming, Basketball, Football, and many others."
+  }
+}
+}

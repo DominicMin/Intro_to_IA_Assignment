@@ -1,0 +1,142 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Alfrink%
+}{%
+Alfrink%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+0b014ee667a84c5985984bfd771595a3}
+\APACinsertmetastar {%
+0b014ee667a84c5985984bfd771595a3}%
+\begin{APACrefauthors}%
+Alfrink, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2024}.
+\unskip\
+\newblock
+\APACrefbtitle {Contestable Artificial Intelligence: Constructive design research for public artificial intelligence systems that are open and responsive to dispute} {Contestable artificial intelligence: Constructive design research for public artificial intelligence systems that are open and responsive to dispute}\ \APACtypeAddressSchool {Dissertation (TU Delft)}{}{Delft University of Technology}.
+\unskip\
+\newblock
+\begin{APACrefDOI} \doi{10.4233/uuid:0b014ee6-67a8-4c59-8598-4bfd771595a3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Li%
+, Bonatti%
+, Abdali%
+, Wagle%
+\BCBL {}\ \BBA {} Koishida%
+}{%
+Li%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+li2024datagenerationusinglarge}
+\APACinsertmetastar {%
+li2024datagenerationusinglarge}%
+\begin{APACrefauthors}%
+Li, Y.%
+, Bonatti, R.%
+, Abdali, S.%
+, Wagle, J.%
+\BCBL {}\ \BBA {} Koishida, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Data Generation Using Large Language Models for Text Classification: An Empirical Case Study.} {Data generation using large language models for text classification: An empirical case study.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2407.12813} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mohammed%
+\ \BBA {} Aref%
+}{%
+Mohammed%
+\ \BBA {} Aref%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+mohammed2022chatbotarchitecture}
+\APACinsertmetastar {%
+mohammed2022chatbotarchitecture}%
+\begin{APACrefauthors}%
+Mohammed, M.%
+\BCBT {}\ \BBA {} Aref, M\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {Chatbot System Architecture.} {Chatbot system architecture.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2201.06348} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Smutek%
+, Golec%
+, Rymarczyk%
+, Jarmuł%
+\BCBL {}\ \BBA {} Hernas%
+}{%
+Smutek%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+article}
+\APACinsertmetastar {%
+article}%
+\begin{APACrefauthors}%
+Smutek, T.%
+, Golec, E.%
+, Rymarczyk, P.%
+, Jarmuł, M.%
+\BCBL {}\ \BBA {} Hernas, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{08}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Enhancing conversational ai with the Rasa framework: intent understanding and NLU pipeline optimization} {Enhancing conversational ai with the rasa framework: intent understanding and nlu pipeline optimization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Modern Science}{57}{}{531-548}.
+\newblock
+\begin{APACrefDOI} \doi{10.13166/jms/191223} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yang%
+\ \protect \BOthers {.}}{%
+Yang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+yang2019hybridretrievalgenerationneuralconversation}
+\APACinsertmetastar {%
+yang2019hybridretrievalgenerationneuralconversation}%
+\begin{APACrefauthors}%
+Yang, L.%
+, Hu, J.%
+, Qiu, M.%
+, Qu, C.%
+, Gao, J.%
+, Croft, W\BPBI B.%
+\BDBL {}Liu, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {A Hybrid Retrieval-Generation Neural Conversation Model.} {A hybrid retrieval-generation neural conversation model.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/1904.09068} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

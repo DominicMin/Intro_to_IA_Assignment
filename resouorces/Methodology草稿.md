@@ -100,3 +100,19 @@
 - **3.4.1 Quantitative Evaluation (定量评估)**: 主要针对NLU模型的性能。我们使用独立的测试集，并通过`scikit-learn`的`classification_report`工具自动计算一系列**模型评估指标(Model Evaluation Metrics)**，包括基于**混淆矩阵(Confusion Matrix)**计算出的**精确率(Precision)**、**召回率(Recall)**和**F1分数(F1-Score)**，以评估模型在每个类别上的性能。
     
 - **3.4.2 Qualitative Evaluation (定性评估)**: 主要针对整个聊天机器人的用户体验和实用性。我们通过与机器人进行多轮、开放式的对话来执行评估，尤其关注其处理训练数据之外的边缘问题(edge cases)的能力，以检验对话的流畅性、答案的准确性和情感交互的有效性。
+
+
+后端
+
+总体引入介绍（a）
+1. 数据生成器+带过数据收集（b）
+2. NLU解释器（vader）（c）
+	- 意图识别模型
+	- 实体识别模型
+3. 检索知识库+回复生成器（d）
+4. 前端（wsr）
+整个项目总结（a）
+
+
+
+
