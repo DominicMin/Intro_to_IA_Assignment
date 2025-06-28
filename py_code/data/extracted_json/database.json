@@ -1,16 +1,13 @@
 {
-    "business":{
-        "possible_intent":["ask_business_location","ask_business_time","ask_business_info"],
-        "business_name":{
-            "business_name": "KK convenience store",
-            "possible_name": ["kk convenience store", "KK Convenience Store"],
-            "location": "Roadside shop 01",
-            "opening_hours": "9:00am-10:00pm",
-            "business_info": "A chain of convenience stores in Malaysia"
-        }
-    },
    "restaurant": {
     "possible_intent": ["ask_restaurant_location", "ask_restaurant_time", "ask_restaurant_recommendation"],
+    "starbucks": {
+      "restaurant_name": "Starbucks",
+      "possible_name": ["Starbucks", "starbucks", "STARBUCKS"],
+      "location": "Bell Avenue Roadside",
+      "opening_hours": "9:00-21:00",
+      "recommendation_reason": "It's a coffee shop with various drinks and snacks"
+    },
     "xiayicheng": {
       "restaurant_name":"Xia Yi Cheng",
       "possible_name": ["Xiayicheng", "xiayicheng", "Xia Yi Cheng"],
@@ -27,7 +24,7 @@
     },
     "dashuxia": {
       "restaurant_name": "Dashuxia",
-      "possible_name": ["Dashuxia", "dashuxia", "Da Shu Xia", "大树下"],
+      "possible_name": ["Dashuxia", "dashuxia", "Da Shu Xia"],
       "location": "D6 Canteen G Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Chinese cafeteria-style dishes"
@@ -55,56 +52,56 @@
     },
     "dajiawang": {
       "restaurant_name": "Dajiawang",
-      "possible_name": ["Dajiawang", "dajiawang", "Da Jia Wang", "大家旺"],
+      "possible_name": ["Dajiawang", "dajiawang", "Da Jia Wang"],
       "location": "D6 Canteen 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Roast meat rice and other local Chinese cuisine"
     },
     "shuzhiwei": {
       "restaurant_name": "Shuzhiwei",
-      "possible_name": ["Shuzhiwei", "shuzhiwei", "Shu Zhi Wei", "蜀之味"],
+      "possible_name": ["Shuzhiwei", "shuzhiwei", "Shu Zhi Wei"],
       "location": "D6 Canteen 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Mala xiangguo and spicy dishes"
     },
     "dachengxiaochu": {
       "restaurant_name": "Dachengxiaochu",
-      "possible_name": ["Dachengxiaochu", "dachengxiaochu", "Da Cheng Xiao Chu", "大城小厨"],
+      "possible_name": ["Dachengxiaochu", "dachengxiaochu", "Da Cheng Xiao Chu"],
       "location": "D6 Canteen 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Mixed rice with local Chinese flavors"
     },
     "hualianhaoliangcha": {
       "restaurant_name": "Hualianhaoliangcha",
-      "possible_name": ["Hualianhaoliangcha", "hualianhaoliangcha", "Hua Lian Hao Liang Cha", "华联好凉茶"],
+      "possible_name": ["Hualianhaoliangcha", "hualianhaoliangcha", "Hua Lian Hao Liang Cha"],
       "location": "D6 Canteen 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Herbal tea and Chinese medicinal snacks"
     },
     "xiaoyunbingshi": {
       "restaurant_name": "Xiaoyunbingshi",
-      "possible_name": ["Xiaoyunbingshi", "xiaoyunbingshi", "Xiao Yun Bing Shi", "小云冰室"],
+      "possible_name": ["Xiaoyunbingshi", "xiaoyunbingshi", "Xiao Yun Bing Shi"],
       "location": "D6 Canteen 2nd Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Hong Kong-style tea restaurant"
     },
     "dazhizhi": {
       "restaurant_name": "Dazhizhi",
-      "possible_name": ["Dazhizhi", "dazhizhi", "Da Zhi Zhi", "大拇指"],
+      "possible_name": ["Dazhizhi", "dazhizhi", "Da Zhi Zhi"],
       "location": "D6 Canteen 2nd Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Fried chicken and Japanese udon"
     },
     "miaomiaoqingshi": {
       "restaurant_name": "Miaomiaoqingshi",
-      "possible_name": ["Miaomiaoqingshi", "miaomiaoqingshi", "Miao Miao Qing Shi", "喵喵轻食"],
+      "possible_name": ["Miaomiaoqingshi", "miaomiaoqingshi", "Miao Miao Qing Shi"],
       "location": "D6 Canteen 2nd Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Healthy light meals"
     },
     "dawanmian": {
       "restaurant_name": "Dawanmian",
-      "possible_name": ["Dawanmian", "dawanmian", "Da Wan Mian", "大碗面"],
+      "possible_name": ["Dawanmian", "dawanmian", "Da Wan Mian"],
       "location": "D6 Canteen 2nd Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Clay pot dishes and Chongqing noodles"
@@ -118,7 +115,7 @@
     },
     "xiaotaifeng": {
       "restaurant_name": "Xiaotaifeng",
-      "possible_name": ["Xiaotaifeng", "xiaotaifeng", "Xiao Tai Feng", "小台枫"],
+      "possible_name": ["Xiaotaifeng", "xiaotaifeng", "Xiao Tai Feng"],
       "location": "D6 Canteen 2nd Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Taiwanese snacks"
@@ -160,7 +157,7 @@
     },
     "zhongminmeishi": {
       "restaurant_name": "Zhongminmeishi",
-      "possible_name": ["Zhongminmeishi", "zhongminmeishi", "Zhong Min Mei Shi", "中闽美食"],
+      "possible_name": ["Zhongminmeishi", "zhongminmeishi", "Zhong Min Mei Shi"],
       "location": "LY3 Area 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Chinese cafeteria-style dishes"
@@ -181,42 +178,42 @@
     },
     "xiaojiuzhou": {
       "restaurant_name": "Xiaojiuzhou",
-      "possible_name": ["Xiaojiuzhou", "xiaojiuzhou", "Xiao Jiu Zhou", "小九州"],
+      "possible_name": ["Xiaojiuzhou", "xiaojiuzhou", "Xiao Jiu Zhou"],
       "location": "LY3 Area 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Set meal restaurant"
     },
     "shanyicheng": {
       "restaurant_name": "Shanyicheng",
-      "possible_name": ["Shanyicheng", "shanyicheng", "Shan Yi Cheng", "膳一城"],
+      "possible_name": ["Shanyicheng", "shanyicheng", "Shan Yi Cheng"],
       "location": "LY3 Area 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Grocery store"
     },
     "penangfengwei": {
       "restaurant_name": "Penangfengwei",
-      "possible_name": ["Penangfengwei", "penangfengwei", "Penang Feng Wei", "槟城风味"],
+      "possible_name": ["Penangfengwei", "penangfengwei", "Penang Feng Wei"],
       "location": "LY3 Area 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Penang specialty foods"
     },
     "jiaweishixuan": {
       "restaurant_name": "Jiaweishixuan",
-      "possible_name": ["Jiaweishixuan", "jiaweishixuan", "Jia Wei Shi Xuan", "佳味食轩"],
+      "possible_name": ["Jiaweishixuan", "jiaweishixuan", "Jia Wei Shi Xuan"],
       "location": "LY3 Area 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Penang specialty foods"
     },
     "chinese_muslim_xiaochao": {
       "restaurant_name": "Chinese Muslim Xiaochao",
-      "possible_name": ["Chinese Muslim Xiaochao", "chinese muslim xiaochao", "Muslim Xiaochao", "中国穆斯林小炒"],
+      "possible_name": ["Chinese Muslim Xiaochao", "chinese muslim xiaochao", "Muslim Xiaochao"],
       "location": "LY3 Area 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Halal restaurant"
     },
     "uni_hotpot": {
       "restaurant_name": "Uni Hotpot",
-      "possible_name": ["Uni Hotpot", "uni hotpot", "Uni Hot Pot", "有你香锅"],
+      "possible_name": ["Uni Hotpot", "uni hotpot", "Uni Hot Pot"],
       "location": "LY3 Area 1st Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Mala xiangguo and spicy hot pot"
@@ -244,7 +241,7 @@
     },
     "bo_ya_xuan_restaurant": {
       "restaurant_name": "Bo Ya Xuan Restaurant",
-      "possible_name": ["Bo Ya Xuan Restaurant", "bo ya xuan restaurant", "Bo Ya Xuan", "博雅轩"],
+      "possible_name": ["Bo Ya Xuan Restaurant", "bo ya xuan restaurant", "Bo Ya Xuan", "bo ya xuan"],
       "location": "XMUM IAEC LG Floor",
       "opening_hours": "unknown",
       "recommendation_reason": "Restaurant"
@@ -255,13 +252,6 @@
       "location": "Bell Avenue Roadside",
       "opening_hours": "unknown",
       "recommendation_reason": "It's an authentic Thai chain restaurant with curry dishes and mango sticky rice"
-    },
-    "starbucks": {
-      "restaurant_name": "Starbucks",
-      "possible_name": ["Starbucks", "starbucks", "STARBUCKS", "星巴克"],
-      "location": "Bell Avenue Roadside",
-      "opening_hours": "unknown",
-      "recommendation_reason": "It's a coffee shop with various drinks and snacks"
     }
   },
     "facility": {
@@ -428,14 +418,39 @@
       "facility_info": "It has study rooms that can be reserved, and a movie theater on the 1st floor"
     }
   },
-    "building":{
+    "building": {
         "possible_intent":["ask_building_location","ask_building_include"],
-        "building_name":{
-            "building_name": "A3 library",
-            "location": "Roadside shop 13",
-            "building_include": "A chain of coffee shops in Malaysia"
+        "B1 Activity Building":{
+            "building_name": "B1 Activity Building",
+            "possible_name":["B1", "b1"],
+            "location": "east side of the campus",
+            "building_include": "several offices, restaurants and sports facilities"
+        },
+        "A3":{
+          "building_name":"A3",
+          "possible_name":["a3","A3"],
+          "location":"south side of the campus",
+          "building_include":"ZUS coffee shop, main library and management offices"
+        },
+        "Block LY Buildings":{
+          "building_name":"Block LY Buildings",
+          "possible_name":["Block LY Buildings", "block ly", "block LY", "LY zone", "ly zone"],
+          "location":"north side of the campus",
+          "building_include":"Octobox minimart, LY3 dining hall and student dormitories"
+        },
+        "Block D Buildings":{
+          "building_name":"Block D Buildings",
+          "possible_name":["block d","Block D","D Block","D Zone","d zone","d block"],
+          "location":"northeast side of the campus",
+          "building_include":"D6 dining hall and student dormitories"
+        },
+        "XMUM IAEC":{
+          "building_name":"XMUM IAEC",
+          "possible_name":["XMUM IAEC","IAEC","IAEC Building","iaec building","iaec","school hotel","hotel"],
+          "location":"west side of the campus",
+          "building_include":"school hotel, Cotti coffee shop and Bo Ya Xuan Chineserestaurant"
         }
-    },
+  },
     "handbook": {
   "possible_intent": ["ask_handbook_info"],
   "birthday_cake_recommendations": {
@@ -603,5 +618,33 @@
     "possible_name": ["Clubs and Societies at XMUM", "student clubs", "societies", "extracurricular activities", "student organizations"],
     "handbook_info": "XMUM offers various clubs across different categories: Performing Arts (contact Ms. Ming Luan) includes Philharmonic Orchestra, Music Club, Dance Club, Drama Society. Culture & Art (contact Ms. Ming Luan) includes Visual Art Club, Chinese Society, ACG Research Society, Tea Club. General clubs (contact Ms. Laila) include Board Games Society, Debate Society, Photography Society, Tech Club. Service & Volunteerism (contact Mr. Potter) includes First Aid Society, AIESEC, Leo Club. Sports clubs (contact Mr. Ku) include Badminton, Swimming, Basketball, Football, and many others."
   }
-}
+  },
+    "greeting": {
+    "possible_intent":["greet_hello","greet_goodbye","greet_thanks","greet_sorry","greet_welcome"],
+    "hello":{
+      "greeting_name":"Hello",
+      "possible_name":["hello","hi","hey","greetings","greet"],
+      "greeting_response":"Hello! How can I assist you today?"
+    },
+    "goodbye":{
+      "greeting_name":"Goodbye",
+      "possible_name":["goodbye","bye","see you","goodbye","farewell"],
+      "greeting_response":"Goodbye! Have a great day!"
+    },
+    "thanks":{
+      "greeting_name":"Thanks",
+      "possible_name":["thanks","thank you","thank","appreciate","grateful"],
+      "greeting_response":"You're welcome! If you have any other questions, feel free to ask."
+    },
+    "sorry":{ 
+      "greeting_name":"Sorry",
+      "possible_name":["sorry","apologize","apology","excuse me","sorry"],
+      "greeting_response":"It's okay! I'm here to help you."
+    },
+    "welcome":{
+      "greeting_name":"Welcome",
+      "possible_name":["welcome","welcome to xmum","welcome to xmu","welcome to xmum","welcome to xmu"],
+      "greeting_response":"Welcome to XMUM! How can I assist you today?"
+    }
+  }
 }

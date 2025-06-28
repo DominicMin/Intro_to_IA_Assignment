@@ -110,4 +110,13 @@
     margin=10pt
 }
 
+% 设置图片编号为章节.序号格式
+\renewcommand{\thefigure}{\thesection.\arabic{figure}}
+% 设置表格编号为章节.序号格式
+\renewcommand{\thetable}{\thesection.\arabic{table}}
+
+% 确保每个section开始时重置图表计数器
+\@addtoreset{figure}{section}
+\@addtoreset{table}{section}
+
 \endinput 

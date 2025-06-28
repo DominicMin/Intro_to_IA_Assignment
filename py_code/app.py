@@ -25,6 +25,8 @@ def chat():
         
         # Use interpreter to process user input
         nlu_output = interpreter.interpret(user_input)
+
+        print(nlu_output)
         
         # Generate response
         #e debug

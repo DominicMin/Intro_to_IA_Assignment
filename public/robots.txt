@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Optional: 指出 sitemap 路径
-Sitemap: https://campus-assistant.xmu.edu.my/sitemap.xml

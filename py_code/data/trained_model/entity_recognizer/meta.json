@@ -18,11 +18,11 @@
   },
   "labels":{
     "ner":[
-      "building_name",
-      "business_name",
-      "facility_name",
-      "handbook_topic",
-      "restaurant_name"
+      "building",
+      "facility",
+      "greeting",
+      "handbook",
+      "restaurant"
     ]
   },
   "pipeline":[

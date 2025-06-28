@@ -101,6 +101,41 @@ Templates={
         "negative": "I understand you need guidance. The handbook states: {handbook_info}",
         "info_not_found": "I'm sorry, I couldn't find that information in the handbook at the moment."
     },
+    "greet_hello":{
+        "info":["greeting_name","greeting_response"],
+        "positive": "{greeting_response}",
+        "neutral": "{greeting_response}",
+        "negative": "{greeting_response}",
+        "info_not_found": "I'm sorry, I couldn't find the greeting information you need."
+    },
+    "greet_goodbye":{
+        "info":["greeting_name","greeting_response"],
+        "positive": "{greeting_response}",
+        "neutral": "{greeting_response}",
+        "negative": "{greeting_response}",
+        "info_not_found": "I'm sorry, I couldn't find the greeting information you need."
+    }, 
+    "greet_thanks":{
+        "info":["greeting_name","greeting_response"],
+        "positive": "{greeting_response}",
+        "neutral": "{greeting_response}",
+        "negative": "{greeting_response}",
+        "info_not_found": "I'm sorry, I couldn't find the greeting information you need."
+    }, 
+    "greet_sorry":{
+        "info":["greeting_name","greeting_response"],
+        "positive": "{greeting_response}",
+        "neutral": "{greeting_response}",
+        "negative": "{greeting_response}",
+        "info_not_found": "I'm sorry, I couldn't find the greeting information you need."
+    },  
+    "greet_welcome":{
+        "info":["greeting_name","greeting_response"],
+        "positive": "{greeting_response}",
+        "neutral": "{greeting_response}",
+        "negative": "{greeting_response}",
+        "info_not_found": "I'm sorry, I couldn't find the greeting information you need."
+    },
     "entity_not_found":{
         "info":["query_topic"],
         "positive": "I'd love to help! Could you please provide more details about {query_topic}?",

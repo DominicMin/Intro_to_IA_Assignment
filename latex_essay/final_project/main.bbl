@@ -25,6 +25,57 @@ Alfrink, K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Batra%
+}{%
+Batra%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+batra-2023}
+\APACinsertmetastar {%
+batra-2023}%
+\begin{APACrefauthors}%
+Batra, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{1}{}.
+\newblock
+\APACrefbtitle {{Multi-Class Text Classification with Scikit-Learn using TF-IDF model}.} {{Multi-Class Text Classification with Scikit-Learn using TF-IDF model}.}
+\newblock
+\begin{APACrefURL} \url{https://medium.com/%40rohit_batra/multi-class-text-classification-with-scikit-learn-using-tf-idf-model-161d395ce374} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hutto%
+\ \BBA {} Gilbert%
+}{%
+Hutto%
+\ \BBA {} Gilbert%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Hutto_Gilbert_2014}
+\APACinsertmetastar {%
+Hutto_Gilbert_2014}%
+\begin{APACrefauthors}%
+Hutto, C.%
+\BCBT {}\ \BBA {} Gilbert, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{May}{}.
+\newblock
+{\BBOQ}\APACrefatitle {VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text} {Vader: A parsimonious rule-based model for sentiment analysis of social media text}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the International AAAI Conference on Web and Social Media}{8}{1}{216-225}.
+\newblock
+\begin{APACrefURL} \url{https://ojs.aaai.org/index.php/ICWSM/article/view/14550} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1609/icwsm.v8i1.14550} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Li%
 , Bonatti%
 , Abdali%
@@ -77,6 +128,52 @@ Mohammed, M.%
 \APACrefbtitle {Chatbot System Architecture.} {Chatbot system architecture.}
 \newblock
 \begin{APACrefURL} \url{https://arxiv.org/abs/2201.06348} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{scikit-learn}%
+}{%
+{scikit-learn}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+scikit-learn_classification_report_nd}
+\APACinsertmetastar {%
+scikit-learn_classification_report_nd}%
+\begin{APACrefauthors}%
+{scikit-learn}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {{classification\_report}.} {{classification\_report}.}
+\newblock
+\begin{APACrefURL} \url{https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed June 26, 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Singh%
+}{%
+Singh%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+singh-2024}
+\APACinsertmetastar {%
+singh-2024}%
+\begin{APACrefauthors}%
+Singh, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{5}{}.
+\newblock
+\APACrefbtitle {{How to train Custom Named Entity Recognition [NER] model with SPACY}.} {{How to train Custom Named Entity Recognition [NER] model with SPACY}.}
+\newblock
+\begin{APACrefURL} \url{https://www.newscatcherapi.com/blog/train-custom-named-entity-recognition-ner-model-with-spacy-v3} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
